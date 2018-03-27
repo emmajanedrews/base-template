@@ -1,5 +1,5 @@
 audit_header: false
-title: Raleigh Real Estate Video Blog with rare Properties
+title: Raleigh Real Estate Video Blog with NextHome RARE Properties
 description: >-
   If you are looking to buy or sell a home, get all the information and the
   latest updates, tips, and tricks from rare Properties your professional Real
@@ -9,34 +9,32 @@ custom_links:
   - title:
     url:
 client:
-  name: rare Properties
+  name: NextHome RARE Properties
   license_number:
   about_markdown: >-
-    rare Properties is a full-service boutique Real Estate Brokerage
+    NextHome RARE Properties is a full-service boutique Real Estate Brokerage
     specializing in the marketing of exceptional properties in the Triangle
     Area. Located in Raleigh, North Carolina, rare was founded to be a real
     estate firm with an aggressive, innovative, team-based approach to advising
     clients in the purchase and sale of residential real estate. We believe real
     estate is local and today's clients desire superior service delivered in a
-    personalized manner.
-
-    Driven by a desire to provide expert advice and innovative solutions, rare
-    agents are positive thinkers with caring hearts who go above and beyond what
-    is required in order to exceed the expectations of our clients. We listen
-    and respond, earning the trust of our clients and creating loyalty which has
-    allowed us to build a successful referral-based business. Focused on
-    developing lifelong relationships, our agents are optimistic, enthusiastic,
-    and possess a rare type of energy!
+    personalized manner. Driven by a desire to provide expert advice and
+    innovative solutions, rare agents are positive thinkers with caring hearts
+    who go above and beyond what is required in order to exceed the expectations
+    of our clients. We listen and respond, earning the trust of our clients and
+    creating loyalty which has allowed us to build a successful referral-based
+    business. Focused on developing lifelong relationships, our agents are
+    optimistic, enthusiastic, and possess a rare type of energy!
   market: Raleigh
-  brand: rare Properties
+  brand: NextHome RARE Properties
   brokerage:
-  address: '8480 Honeycutt Rd. Suite 200 Raleigh, NC 27615'
+  address: '8480 Honeycutt Rd. Suite 108-B  Raleigh, NC 27615'
   phone: 919-576-0345
   phone_type:
   phone2:
   phone2_type:
   email: Luke@NextHomeRARE.com
-  url: 'http://www.rareproperties.biz'
+  url: 'http://nexthomerare.com/'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://nexthomerare.com/home-valuations/'
