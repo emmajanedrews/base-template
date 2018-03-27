@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips For a Show-Ready Home
-date: 2018-03-23 17:28:20
+date: 2018-03-23 17:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/shawn-c--is-your-home-ready-to-show-youtube.jpg
-youtube_code: QHgfsm3hUu0
+youtube_code: Ir5BtH2Mkp4
 ---
 
 {% include youtube.html %}
