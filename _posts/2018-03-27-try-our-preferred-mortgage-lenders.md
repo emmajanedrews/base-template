@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Try Our Preferred Mortgage Lenders
-date: 2018-03-27 20:49:53
+date: 2018-03-27 20:49:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -12,8 +12,8 @@ pullquote: 'If you use one of our local preferred lenders, you tend to get bette
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/lance--preferred-lenders-youtube.jpg
+youtube_code: pdex1yJ91B4
 ---
 
 {% include youtube.html %}
