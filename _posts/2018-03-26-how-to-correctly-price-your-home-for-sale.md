@@ -19,7 +19,7 @@ youtube_code: 8WtvzGkf6rs
 
 Today we’re going to answer the question, “How do you price a home?” Each agent has different methods, but here’s what we do.
 
-Online evaluation sites like Zillow and Trulia are a good place to start, but we won’t really get into it until we can see your home in person. At that point, we need to come over and see the home in person. **We’ll walk through the home, assess its condition, location, and overall value.**
+Online evaluation sites like Zillow and Trulia are a good place to start, but we won’t really get into it until we can see your home in person.&nbsp;**We’ll walk through the home and assess its condition, location, and overall value.**
 
 {% include pullquote.html %}
 
