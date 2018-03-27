@@ -34,19 +34,19 @@ client:
   phone2:
   phone2_type:
   email: Luke@NextHomeRARE.com
-  url: 'http://nexthomerare.com/'
+  url: 'http://nexthomerare.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://nexthomerare.com/home-valuations/'
+  first_CTA_URL: 'http://nexthomerare.com/home-valuations'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://nexthomerare.com/homes-for-sale/'
+  second_CTA_URL: 'http://nexthomerare.com/homes-for-sale'
   VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: 'http://nexthomerare.com/homes-for-sale/'
+    CTA_url: 'http://nexthomerare.com/homes-for-sale'
 lender:
   show_section: false
   header_text: Preferred Lender
