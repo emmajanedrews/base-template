@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Just because a certain bank is large and has brand recognition, it doesn’t
   mean that it is the best way to get a mortgage.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Lance+Woodley/Columbia+Real+Estate+Agent-+Preferred+Mortgage+Lenders.mp4
 pullquote: 'If you use one of our local preferred lenders, you tend to get better results.'
 enclosure_type: video/mp4
 enclosure_time:
