@@ -1,6 +1,8 @@
 ---
 youtube_code: 5zMHRSxfwlQ
-excerpt:
+excerpt: >-
+  Now that we’re an independent brokerage with a new name, we’re looking to add
+  some more great agents to our team.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Lee+Tessier/Baltimore+Real+Estate+Agent-+Whats+Next+for+the+Lee+Tessier+Team%253F.mp4
 pullquote: We’d love to sit down with you and go through everything we can offer you.
