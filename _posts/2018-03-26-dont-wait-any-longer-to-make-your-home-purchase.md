@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Wait Any Longer to Make Your Home Purchase
-date: 2018-03-26 22:00:48
+date: 2018-03-26 22:00:00
 tags:
   - Market Update
 excerpt: >-
@@ -11,13 +11,13 @@ excerpt: >-
   purchase, now is the time to do so. To find out why it’s so important to make
   your move now, watch this short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Tara+Limbird/Videos/2018/Limbird+Real+Estate+Group-+Your+Benton+County+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Tara+Limbird/Videos/2018/Limbird+Real+Estate+Group-+Don%2527t+Wait+Any+Longer+to+Make+Your+Home+Purchase.mp4
 pullquote: Now is the time to make your home purchase in Benton County.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: hXC5VeD6YbY
+youtube_code: RIyRspkAmKU
 ---
 
 {% include youtube.html %}
