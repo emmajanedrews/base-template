@@ -26,11 +26,11 @@ I’m here with your market update to let you know whats happening all over Buck
 
 As a whole, there are 15.3% fewer homes on the market in Bucks County than there were at the same time last year. At the end of February, there were only 2,495 houses on the market, which really reflects the shortage of inventory we are experiencing.
 
-The average asking price is up 5.6% from the same time last year, and we almost had 5% appreciation year over year. That is the single largest increase in price for all of 2017, and it’s the highest we’ve seen since 2004 and 2005, so prices are going up. &nbsp;
+The average asking price is up 5.6% from the same time last year, and we almost had 5% appreciation year over year. That is the single largest increase in price for all of 2017, and it’s the highest we’ve seen since 2004 and 2005, so prices are going up.
 
 As of the end of February, the number of homes closed is down 9% and **the average sold price is up 1.2% from the same time last year.**
 
-If we look at the housing inventory as an indicator of market dynamics, do those dynamics favor buyers or sellers? If a market has less than six months of inventory, it typically favors sellers. A market with six months of inventory is considered a balanced market. During the market decline, we saw 10, 12, and even 14 months of inventory because homes just weren’t selling. &nbsp;
+If we look at the housing inventory as an indicator of market dynamics, do those dynamics favor buyers or sellers? If a market has less than six months of inventory, it typically favors sellers. A market with six months of inventory is considered a balanced market. During the market decline, we saw 10, 12, and even 14 months of inventory because homes just weren’t selling.
 
 In Lower Makefield, there are only 3.8 months of inventory. In Newtown, there are 2.4 months of inventory. Those markets definitely favor sellers.
 
