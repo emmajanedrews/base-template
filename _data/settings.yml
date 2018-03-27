@@ -34,7 +34,7 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Property Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: /propertyvalue/
   second_CTA_text: Property Search
   second_CTA_URL: 'http://www.rellisgroup.com/search/criteria/xms_392,393,394/gp_1/ipt_1,8/pm_200000/s_2'
 sidebar_CTA:
