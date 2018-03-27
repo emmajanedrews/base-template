@@ -34,6 +34,6 @@ Third, housing supply continues to be increasingly tight, with 10% fewer homes o
 
 The growth in mortgage rates shouldn't affect the number of eager homebuyers very much because there is so much more demand than supply right now. However, this rise in mortgage rates might actually reduce the number of homes for sale even further.
 
-**Homebuyers should be looking to lock in the current, still fairly low mortgage rates.**When mortgage rates increase further, homeowners will have less of an incentive to sell their current home and buy a new home, which will require a mortgage at a new, higher rate.
+**Homebuyers should be looking to lock in the current, still fairly low mortgage rates.&nbsp;**When mortgage rates increase further, homeowners will have less of an incentive to sell their current home and buy a new home, which will require a mortgage at a new, higher rate.
 
 If you have any questions about where the current rates are at or you have any real estate needs we can assist with, please don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
