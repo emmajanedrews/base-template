@@ -7,10 +7,10 @@ pullquote: We’d love to sit down with you and go through everything we can off
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+youtube_alternate_image: /uploads/gresger-1.jpg
 layout: post
 title: Whats Next for the Lee Tessier Team?
-date: 2018-03-06 21:14:00
+date: 2018-03-27 21:14:00
 author: Vyral Admin
 tags:
 modified_time:
