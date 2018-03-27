@@ -39,14 +39,14 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://nexthomerare.com/home-valuations/'
   second_CTA_text: Home Search
-  second_CTA_URL: NextHomeRARE.com
+  second_CTA_URL: 'http://nexthomerare.com/homes-for-sale/'
   VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: 'http://nexthomerare.com/'
+    CTA_url: 'http://nexthomerare.com/homes-for-sale/'
 lender:
   show_section: false
   header_text: Preferred Lender
