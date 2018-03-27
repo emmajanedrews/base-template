@@ -32,8 +32,15 @@ As we approach the spring market, a lot of sellers are asking what they need to 
 
 **2. Paint.** To get the biggest bang for your buck, repaint your home in neutral colors such as tan and gray tones. Stay away from bright, unconventional colors. These will detract from important features like the floor plan and the functionality of the home.
 
-**3. Kitchen.** Oak cabinets are no longer in; white cabinets are all the rage. You can reface your oak cabinets, or else have them repainted. 
-**4. Open all of the blinds.** You want as much natural light in your home as possible. You want people to be able to walk in and see what the home has to offer. **5. Declutter.** Take everything off the countertops in the kitchen and bathrooms especially. **6. Play soft music.&nbsp;**It might sound a little ridiculous, but it definitely sets the mood when people are walking through your home.&nbsp; **7. Clean.** Make sure all areas, including your floors, walls, windows, and outside walkways are spic-and-span.
+**3. Kitchen.** Oak cabinets are no longer in; white cabinets are all the rage. You can reface your oak cabinets, or else have them repainted.
+
+**4. Open all of the blinds.** You want as much natural light in your home as possible. You want people to be able to walk in and see what the home has to offer.
+
+**5. Declutter.** Take everything off the countertops in the kitchen and bathrooms especially.
+
+**6. Play soft music.&nbsp;**It might sound a little ridiculous, but it definitely sets the mood when people are walking through your home.&nbsp;
+
+**7. Clean.** Make sure all areas, including your floors, walls, windows, and outside walkways are spic-and-span.
 
 These are some small items that can make or break getting a buyer’s contract on your property&nbsp;
 
