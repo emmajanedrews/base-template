@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Value of Having a Commercial Lender On Your Team
-date: 2018-03-26 15:52:08
+title: The Value of Having a Commercial Lender on Your Team
+date: 2018-03-26 15:52:00
 tags:
   - Real Estate
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: 8xGyn_S2I_Y
 
 Why is having a commercial lender on your team so important? How can they help make a transaction so much easier?<br><br>As an industry professional, I know that having the right lender on your team is really important. One of the main reasons for this is that they can help you run the numbers up front.
 
-As agents in commercial real estate, we have certain criteria that we look for, such as cap rates, &nbsp;gross rent multipliers, occupancy rates, year built, if it’s a triple net property, and so on. Many agents aren’t the strongest at dealing with the numbers themselves, **which is where commercial lenders come in.**
+As agents in commercial real estate, we have certain criteria that we look for, such as cap rates,  gross rent multipliers, occupancy rates, year built, if it’s a triple net property, and so on. Many agents aren’t the strongest at dealing with the numbers themselves, **which is where commercial lenders come in.**
 
 Make sure that you’ve talked to several commercial lenders. We work with out-of-state investors, in-state investors, first-time investors, and many other kinds of investors, **so having multiple perspectives is important.** Some won’t work with certain types of assets and borrowers, where others will.
 
@@ -36,5 +36,3 @@ Some investors want non-recourse debt, which means that it’s not a personal gu
 A commercial lender can help you navigate complex deals and avoid making bad purchasing decisions by analyzing the expenses for you. We always encourage you guys to do your own due diligence when it comes to the relationships you form in your business, but **I can definitely recommend that you have a number of commercial lenders as contacts.**
 
 If you have any questions about commercial lending or real estate in general, feel free to reach out to me.
-
-&nbsp;
