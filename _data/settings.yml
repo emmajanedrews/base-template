@@ -39,7 +39,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://nexthomerare.com/home-valuations/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.findmyraleighhome.com/'
+  second_CTA_URL: NextHomeRARE.com
   VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
