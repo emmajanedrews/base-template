@@ -12,7 +12,8 @@ excerpt: >-
   first quarter, though, we’ve seen them rise, and they’re expected to reach 5%
   by the end of the year. If you’re a buyer in our market, this means waiting to
   buy could cost you more. To find out why, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Steve+Judkins/Videos/2018/Interest+Rates.mp4
 pullquote: Now is the time to buy in our market.
 enclosure_type: video/mp4
 enclosure_time:
