@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agent Interviews
-permalink: /agent-interviews/
+permalink: /interviews-with-agents/
 ---
 
 <div class="vid">
