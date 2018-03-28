@@ -18,7 +18,9 @@ youtube_code: wy0S9bMfAWE
 
 {% include youtube.html %}
 
-<center>*There’s a new-build community with a handful of brand-new D.R. Horton homes available that you might be interested in if you’re a buyer.*</center>
+<center><em>There&rsquo;s a new-build community with a handful of brand-new D.R. Horton homes available that you might be interested in if you&rsquo;re a buyer.</em></center>
+
+<center>&nbsp;</center>
 
 If you’re thinking of buying a home, there’s a new-build community in southwest Las Vegas with a limited number of great D.R. Horton homes available that I’d like to tell you about.
 
