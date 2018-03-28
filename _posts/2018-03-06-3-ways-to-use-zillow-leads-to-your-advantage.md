@@ -1,23 +1,25 @@
 ---
 layout: post
 title: 3 Ways to Use Zillow Leads to Your Advantage
-date: 2018-03-06 19:52:51
+date: 2018-03-06 19:52:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt: >-
   We recently had a great mastermind with new agents in the Des Moines area. I
   was surprised by the number of agents who told me that their broker had
   discouraged them from buying internet leads from Zillow. I actually think that
   Zillow can be a great resource, but there are three important things you need
   to do to use it correctly. To learn more, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate-+How+to+Win+At+Zillow+in+Central+Iowa.mp4
 pullquote: >-
   If you’ve paid to find out that a lead is a serious buyer, don’t give up on
   the first try.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/maxresdefault.jpg
 youtube_code: QhkyhaohPp4
 ---
 
