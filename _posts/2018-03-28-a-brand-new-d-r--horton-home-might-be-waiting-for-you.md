@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brand-New D.R. Horton Home Might Be Waiting for You
-date:
+date: 2018-03-28 20:13:31
 tags:
   - Real Estate
 excerpt: >-
