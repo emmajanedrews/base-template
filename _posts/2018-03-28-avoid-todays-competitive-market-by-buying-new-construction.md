@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid Today's Competitive Market by Buying New Construction
-date:
+date: 2018-03-28 16:58:24
 tags:
   - Home Buyer Tips
 excerpt: >-
