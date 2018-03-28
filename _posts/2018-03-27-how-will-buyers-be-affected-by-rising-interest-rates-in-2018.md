@@ -26,7 +26,7 @@ youtube_code: V6bIf7Ny-p4
 
 How will interest rates affect our market for the rest of 2018?
 
-Historically, rates have hovered right around 8%, and right now they’re at a 4.5%, which is fantastic. During the first quarter of 2018, though, we’ve seen them rise a little bit. Just before December, they were at the 4% mark, and they’re projected to rise to 5% by the end of the year.
+Historically, rates have hovered right around 8%. Right now they’re at a 4.5%, which is fantastic. During the first quarter of 2018, though, we’ve seen them rise a little bit. Just before December, they were at the 4% mark, and they’re projected to rise to 5% by the end of the year.
 
 What does this mean for buyers? Right now, the median price for a single-family home in Salt Lake County is about $325,000. At a 4.5% interest rate, that equates to roughly a $1,647 monthly mortgage payment. If and when rates rise to 5%, that same payment will increase to $1,744. That’s paying almost $100 more a month if you wait until the end of the year to buy.
 
