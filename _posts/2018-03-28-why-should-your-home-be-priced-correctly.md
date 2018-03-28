@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should Your Home Be Priced Correctly?
-date:
+date: 2018-03-28 18:04:10
 tags:
   - Home Seller Tips
 excerpt: >-
