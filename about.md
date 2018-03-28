@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+
+
+
 Allen Johnson has been a dynamic and proven expert in the Northern Virginia Real Estate community for more than 15 years.  He leads a top-producing real estate team, AJ Team Realty of Keller Williams Lake Ridge, and has sold more than 1,000 homes in his career. Allen is ranked as one of the top agents in the region for total sales volume and has been rated as the #1 team in Prince William County since 2016.
  
 Allen is an avid real estate investor and has acquired more than 40 units as either rental investments or flip opportunities in just a few short years.  Recently, he had the opportunity to shoot a pilot for HGTV to showcase his flippin' skills and his team was featured on HGTV's House Hunters in May 2017.  Allen has a true spirit of generosity and sharing as he prides himself on educating his peers, clients, and the greater community through innovative techniques – video, social media, and seminars - on wealth building through real estate.  Allen is also a community leader who volunteers with local schools through mentoring and fundraising.  At the end of 2017, he officially launched his first non-profit, the Be a Blessing Foundation, to service families in need in Prince William County, VA.
