@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Qw5QgkhVWuE
+youtube_code: YPETtZfV6NM
 ---
 
 {% include youtube.html %}
@@ -32,7 +32,7 @@ If you are in a situation where the company faces challenges moving forward, the
 
 As a hiring authority, it’s important to keep in mind that businesses are run by people. The reputations of those businesses depend on the reputation of those people. This is a great opportunity for you to bring in some of the top talents out there. Bring in the players who can change that reputation, and make sure that potential candidates meet standards to help turn the reputation around.
 
-**As a candidate, remember to take everything with a grain of salt.&nbsp;**There are so many different channels of information, and you have to be able to decipher all of that on your own. There are a lot of different avenues you can pursue to learn more about a company, such as looking at social media. There is a lot of information that you can secure on your own, so make sure that you do your homework and make your own assessment of that company.
+**As a candidate, remember to take everything with a grain of salt.**There are so many different channels of information, and you have to be able to decipher all of that on your own. There are a lot of different avenues you can pursue to learn more about a company, such as looking at social media. There is a lot of information that you can secure on your own, so make sure that you do your homework and make your own assessment of that company.
 
 Finally, as an organization, you have to be proactive. Make sure potential candidates are able to review your organization by having a company Facebook page, LinkedIn profile, and GlassDoor page. Have testimonials from clients, customers, and employees. Your employee testimonials should describe what a day in the life looks like for this organization.
 
