@@ -18,7 +18,9 @@ youtube_code: fZmkvKpZeQk
 
 {% include youtube.html %}
 
-<center>It is essential to price your home correctly when it comes time to sell, but why is that, and how do we come up with the correct price?</center>
+<center><em>It is essential to price your home correctly when it comes time to sell, but why is that, and how do we come up with the correct price?</em></center>
+
+<center>&nbsp;</center>
 
 Why is pricing your home correctly so vital when you’re listing it for sale?
 
