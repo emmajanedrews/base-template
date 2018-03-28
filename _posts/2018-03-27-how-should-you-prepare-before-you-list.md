@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Can You Do to Help Prepare Your Home for Sale?
+title: How Should You Prepare Before You List?
 tags:
   - Real Estate
   - Home Seller Tips
