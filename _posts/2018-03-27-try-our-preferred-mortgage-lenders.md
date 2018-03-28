@@ -29,4 +29,4 @@ Sometimes, this can push a closing past the agreed-upon closing time, which can 
 
 We have some preferred lenders right here in town. When problems come up, which they rarely do, we have someone we can go to directly. Usually, **it’s within minutes or even a few short hours that we have answers to the issues** so that we can get to the closing table on time.
 
-If you have any questions about preferred lenders, please feel free to reach out to us.
+If you have any questions about preferred lenders, please feel free to reach out to us. We'd be glad to help you.
