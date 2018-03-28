@@ -27,7 +27,7 @@ Basically, the Zestimate pulls from two data sources: **The first is user-submit
 
 Now you know how to manipulate the Zestimate a bit, but does that make it any more accurate? Listen to this. In 2016, the CEO of Zillow went and sold his house for more than 40% less than his Zestimate. That’s a pretty clear indicator that the Zestimate is not very accurate. It’s definitely not an appraisal. It would be called a “Zappraisal” in that case.
 
-**Nevertheless, we do use Zestimates to give us an idea of a property’s value.** They have a lot of valuable data, but it’s not the end-all-be-all of pricing. Zestimates are more accurate in certain areas than others, you can check the accuracy chart for your area here. Make sure you claim your home if you haven’t yet as well.
+**Nevertheless, we do use Zestimates to give us an idea of a property’s value.** They have a lot of valuable data, but it’s not the end-all-be-all of pricing. Zestimates are more accurate in certain areas than others, [you can check the accuracy chart for your area here.](https://www.zillow.com/zestimate/) Make sure you claim your home if you haven’t yet as well.
 
 In the meantime, if you have any questions about the market value of your home, we would love to help. We are local experts that can help you understand the value of your home, your neighborhood, and the current market conditions.
 
