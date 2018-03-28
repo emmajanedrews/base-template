@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# About
+# **About**
+
+&nbsp;
 
 Allen Johnson has been a dynamic and proven expert in the Northern Virginia Real Estate community for more than 15 years. He leads a top-producing real estate team, AJ Team Realty of Keller Williams Lake Ridge, and has sold more than 1,000 homes in his career. Allen is ranked as one of the top agents in the region for total sales volume and has been rated as the #1 team in Prince William County since 2016.
 
