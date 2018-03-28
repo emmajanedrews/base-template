@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Core Values
 permalink: /core-values/
 ---
 
