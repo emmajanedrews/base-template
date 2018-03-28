@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Investment Properties and LLCs
-date:
+date: 2018-03-28 17:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,14 +17,13 @@ youtube_alternate_image: /uploads/no-11.jpg
 youtube_code: hVMgKAw7NhY
 ---
 
-
 {% include youtube.html %}
 
 One of the things most real estate investors ask when they come to us about financing is, “Can I put the property in some kind of entity, like an LLC, before or after closing?”
 
 Unfortunately, most residential lenders follow Fannie Mae or Freddie Mac underwriting and servicing guidelines. One of the things Fannie Mae has clarified as recently as November of 2014 is that **no borrower can transfer part or all of the ownership interest of a property into an entity post-closing without violating the dual sales clause**.
 
-So the answer to this question is, unfortunately, no. &nbsp;
+So the answer to this question is, unfortunately, no.
 
 If you want to purchase a property in the name of an LLC or in an individual’s name and transfer it into an LLC, that is actually a commercial loan. That is not something that a traditional residential lender can assist with.
 
