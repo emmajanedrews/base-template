@@ -60,16 +60,3 @@ We have a questionnaire we would like you fill out so that when we meet so we're
 <h5 class="join-us-subtitle">Enter your contact information to schedule your time.</h5>
 
 <iframe src="//app.bullsai.com/j1.pl?1b6751adb5704f9559fc76253b016276456f76d237888aefffd11ba9a0d85697" style="height: 500px; width: 100%; max-width: 800px;" frameBorder="0"></iframe>
-
-<form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
-					<fieldset>
-						<p id="thanks">&nbsp;</p><label for="name">Name*</label> <input type="text" required="" name="name" />
-						<label for="phone">Phone Number </label> <input type="tel" name="phone" />
-						 <label for="email">Email*</label> <input type="text" name="email" required="" />
-						 <label for="company">Company </label> <input type="text" name="company" />
-						<label for="city">City </label> <input type="text" name="city" />
-						<label for="state">State </label> <input type="text" name="state" />
-						<label for="message">How May I Help You?* </label><textarea name="message" required=""></textarea>
-						<input class="submit light-light" type="submit" value="Book a Call" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
-					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
-				</form>
