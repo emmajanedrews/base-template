@@ -20,7 +20,9 @@ youtube_code: vmuBUjJrljg
 
 {% include youtube.html %}
 
-<center>Why might buyers in today’s market choose to purchase a new construction home? There are actually a number of good reasons to do so.</center>
+<center><em>Why might buyers in today&rsquo;s market choose to purchase a new construction home? There are actually a number of good reasons to do so.</em></center>
+
+<center>&nbsp;</center>
 
 There are a few reasons why you should consider purchasing a new construction home in 2018.&nbsp;
 
