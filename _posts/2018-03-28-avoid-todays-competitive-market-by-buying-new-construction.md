@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid Today's Competitive Market by Buying New Construction
-date: 2018-03-28 16:58:24
+date: 2018-03-28 16:58:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -9,8 +9,8 @@ excerpt: >-
   There are actually a number of good reasons to do so.
 enclosure:
 pullquote: >-
-  The advantages of a new construction purchase are truly worth considering
-  about in today’s hot market.
+  The advantages of a new construction purchase are truly worth considering in
+  today’s hot market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -40,6 +40,6 @@ Another amazing benefit of purchasing new construction is the peace of mind you 
 
 Also, **in today’s low inventory market, new construction purchases provide buyers with an opportunity** to avoid competition. Homes in today’s market are being sold within just a few days and are receiving multiple offers. As a homebuyer, searching for a home in such a competitive environment can be stressful.
 
-With new construction, buyers don’t have to overbid. If you have a home to sell, new construction also presents the chance to time your sale perfectly and move into your new home when it’s most convenient for you. The advantages of a new construction purchase are truly worth considering about in today’s hot market.&nbsp;
+With new construction, buyers don’t have to overbid. If you have a home to sell, new construction also presents the chance to time your sale perfectly and move into your new home when it’s most convenient for you. The advantages of a new construction purchase are truly worth considering in today’s hot market.&nbsp;
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I would be happy to help you!
