@@ -3,6 +3,8 @@ layout: post
 title: How Buyers and Sellers Can Win a Multiple Offer Situation
 date:
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: >-
   I have tips for both buyers and sellers on how to get the best deal possible
   out of a multiple offer situation.
@@ -19,7 +21,9 @@ youtube_code: GDrFssrR71w
 
 {% include youtube.html %}
 
-<center>I have tips for both buyers and sellers on how to get the best deal possible out of a multiple offer situation.</center>
+<center><em>I have tips for both buyers and sellers on how to get the best deal possible out of a multiple offer situation.</em></center>
+
+<center>&nbsp;</center>
 
 The end of the first quarter is almost here, so today’s topic is a scenario that many buyers and sellers are facing in our current market: a multiple offer situation. I have some tips and advice for both sides of the transaction so no matter which side you’re on, you can get the best deal possible.
 
