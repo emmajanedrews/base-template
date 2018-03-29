@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's Time to Lock in a Lower Rate While You Still Can
-date:
+date: 2018-03-29 16:29:04
 tags:
   - Real Estate
 excerpt: >-
