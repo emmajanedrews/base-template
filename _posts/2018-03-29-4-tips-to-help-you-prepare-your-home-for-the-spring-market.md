@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips to Help You Prepare Your Home for the Spring Market
-date:
+date: 2018-03-29 21:16:53
 tags:
   - Home Seller Tips
   - Real Estate
