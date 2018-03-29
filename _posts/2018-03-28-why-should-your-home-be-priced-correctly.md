@@ -28,7 +28,7 @@ We try to market your property to buyers who are ready, willing, and able to pur
 
 **So why is overpricing your property so risky?**
 
-Overpriced properties tend to help other properties sell. Buyer’s who can’t your price will not even be able to see it on the MLS. The buyer or their agent might like your property, but the bank may not. If it’s outside their market range, the bank won’t pre-approve them for a mortgage. Then your home will sit on the market as a stale listing.
+Overpriced properties tend to help other properties sell. Buyers who can’t your price will not even be able to see it on the MLS. The buyer or their agent might like your property, but the bank may not. If it’s outside their market range, the bank won’t pre-approve them for a mortgage. Then your home will sit on the market as a stale listing.
 
 **How about the opposite: Is it ever wise to list your property below market value?**
 
