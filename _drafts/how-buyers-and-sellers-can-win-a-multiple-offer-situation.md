@@ -19,7 +19,7 @@ youtube_code: GDrFssrR71w
 
 {% include youtube.html %}
 
-I have tips for both buyers and sellers on how to get the best deal possible out of a multiple offer situation.
+<center>I have tips for both buyers and sellers on how to get the best deal possible out of a multiple offer situation.</center>
 
 The end of the first quarter is almost here, so today’s topic is a scenario that many buyers and sellers are facing in our current market: a multiple offer situation. I have some tips and advice for both sides of the transaction so no matter which side you’re on, you can get the best deal possible.
 
