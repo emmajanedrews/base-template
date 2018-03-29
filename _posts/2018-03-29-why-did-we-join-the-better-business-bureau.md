@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Did We Join the Better Business Bureau?
-date:
+date: 2018-03-29 17:01:05
 tags:
   - Real Estate
 excerpt: >-
@@ -24,11 +24,11 @@ youtube_code: 7PQByCxYRjY
 
 <center>&nbsp;</center>
 
-Today, I’m excited to let you know that we have joined the Better Business Bureau.&nbsp;
+Today, I’m excited to let you know that we have joined the Better Business Bureau.
 
-Part of the reason for this change is that whenever the market gets hot, as it is right now, we have a huge influx of people in the industry. These people don’t stick around long. **Our team, on the other hand, has a commitment to the industry, and we want people to know that.** &nbsp;
+Part of the reason for this change is that whenever the market gets hot, as it is right now, we have a huge influx of people in the industry. These people don’t stick around long. **Our team, on the other hand, has a commitment to the industry, and we want people to know that.**
 
-We feel strongly about honesty and integrity, both of which are things the Better Business Bureau stands for. &nbsp;
+We feel strongly about honesty and integrity, both of which are things the Better Business Bureau stands for.
 
 To join, we had to go through a specific accreditation process. This process reviewed our business history back to 1975. **According to the representative from the Better Business Bureau, we were found to have an absolutely stellar history.** In fact, this representative said our business history was some of the best he’s ever seen.
 
@@ -38,4 +38,4 @@ We’ve run our business by the “Warren Buffett rule” for many years. It tak
 
 If you have a question you can check out our site on the Better Business Bureau, but you should also know that we’re always here to take your questions directly.
 
-So, if you’d like any more information or want to ask us anything else, feel free to give my team and me a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+So, if you’d like any more information or want to ask us anything else, feel free to give my team and me a call or send us an email. We look forward to hearing from you soon.<br>
