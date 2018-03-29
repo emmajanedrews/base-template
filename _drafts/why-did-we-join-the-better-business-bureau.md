@@ -3,6 +3,7 @@ layout: post
 title: Why Did We Join the Better Business Bureau?
 date:
 tags:
+  - Real Estate
 excerpt: >-
   We’ve joined the Better Business Bureau. If you’re curious as to what this
   change represents, let me explain.
@@ -19,7 +20,9 @@ youtube_code: 7PQByCxYRjY
 
 {% include youtube.html %}
 
-<center>We’ve joined the Better Business Bureau. If you’re curious as to what this change represents, let me explain.</center>
+<center><em>We&rsquo;ve joined the Better Business Bureau. If you&rsquo;re curious as to what this change represents, let me explain.</em></center>
+
+<center>&nbsp;</center>
 
 Today, I’m excited to let you know that we have joined the Better Business Bureau.&nbsp;
 
