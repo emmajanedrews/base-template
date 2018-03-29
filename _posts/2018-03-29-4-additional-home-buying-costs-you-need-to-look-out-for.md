@@ -21,7 +21,7 @@ youtube_code: 11Ll0f6k-Sc
 
 When buying a home, there are a few costs you need to look for besides PITI (principal, interest, taxes, insurance) to get an idea of what you can really afford.
 
-**1. Utility bills.** You can get an estimate of this cost from [www.mlgw.com](http://www.mlgw.com), and you also have to take into consideration who will be living in the home to get a better idea.
+**1. Utility bills.** You can get an estimate of this cost from [www.mlgw.com](http://www.mlgw.com){: target="_blank"}, and you also have to take into consideration who will be living in the home to get a better idea.
 
 **2. Commuting costs.** What’s the difference location-wise between where you want to live and where you work?
 
@@ -31,6 +31,6 @@ When buying a home, there are a few costs you need to look for besides PITI (pri
 
 **4. Different credit cards.** When you move in, you’ll receive a lot of different credit cards in the mail from Home Depot, Lowe’s, Sears, and other places, so be careful about signing up for them.
 
-If you’re saving for a home, here’s a list of [ways you can conserve your money](https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Blog+Attachments/Screen+Shot+2018-03-02+at+12.35.38+PM.png).
+If you’re saving for a home, here’s a list of [ways you can conserve your money](https://s3.amazonaws.com/vyralmarketing/Melissa+Thompson/Blog+Attachments/Screen+Shot+2018-03-02+at+12.35.38+PM.png){: target="_blank"}.
 
 If you have any more questions about additional costs to look out for when buying a home or you have any other real estate needs I can assist you with, don’t hesitate to reach out to me. I’d love to help you.
