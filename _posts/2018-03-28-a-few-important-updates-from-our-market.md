@@ -41,9 +41,9 @@ A 0.5% rise may not sound significant, but it truly is. A 0.5% mortgage rate inc
 
 Not only that, but a 0.5% mortgage rate increase also translates to a 4.5% decrease in buying power.&nbsp;
 
-A buyer who could afford a $700,000 home today would only be able to afford a $670,000 home after this .5% rise in rates.
+A buyer who could afford a $700,000 home today would only be able to afford a $670,000 home after this 0.5% rise in rates.
 
-Fortunately, though, we can expect more inventory coming to the market during the spring and summer months. You can see all of these home listings on our website: [www.imaginerealty.com](www.imaginerealty.com) or on our mobile app.
+Fortunately, though, we can expect more inventory coming to the market during the spring and summer months. You can see all of these home listings on our website,&nbsp;[www.imaginerealty.com](www.imaginerealty.com), or on our mobile app.
 
 As a final note, now is a great time to sell. If you have been thinking of listing, the current conditions make it very easy for you to earn top dollar.&nbsp;
 
