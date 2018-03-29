@@ -19,7 +19,7 @@ youtube_code: 7PQByCxYRjY
 
 {% include youtube.html %}
 
-We’ve joined the Better Business Bureau. If you’re curious as to what this change represents, let me explain.
+<center>We’ve joined the Better Business Bureau. If you’re curious as to what this change represents, let me explain.</center>
 
 Today, I’m excited to let you know that we have joined the Better Business Bureau.&nbsp;
 
