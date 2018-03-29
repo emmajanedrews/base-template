@@ -33,6 +33,6 @@ Anya has been in real estate for 18 years. During that time, she’s worked in a
 
 **3. Be prepared.** Anything can happen. During any real estate transaction, you need to consider the possibility of the unexpected. The real estate professionals you work with may help you through whatever unforeseen circumstances arise, but you must be timely in communicating any developments with them.
 
-**4. Work with a professional.**There’s a reason there are Realtors in this world. Working with a team of professionals during your real estate process will be a big help in getting you to the closing table as seamlessly as possible.
+**4. Work with a professional.&nbsp;**There’s a reason there are Realtors in this world. Working with a team of professionals during your real estate process will be a big help in getting you to the closing table as seamlessly as possible.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
