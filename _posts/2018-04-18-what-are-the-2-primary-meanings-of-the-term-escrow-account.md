@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the 2 Primary Meanings of the Term "Escrow Account?"
-date: 2018-03-23 17:12:00
+date: 2018-04-18 17:12:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -31,7 +31,7 @@ The term actually refers to a couple of different things.
 
 {% include pullquote.html %}
 
-Second of all, there is the matter of escrow accounts as they pertain to home loans. **When you make a monthly mortgage payment, the mortgage company collects a certain amount of money to put into an escrow account.&nbsp;**This money that is collected each month is set aside for your homeowners insurance and property taxes.
+Second of all, there is the matter of escrow accounts as they pertain to home loans. **When you make a monthly mortgage payment, the mortgage company collects a certain amount of money to put into an escrow account.**This money that is collected each month is set aside for your homeowners insurance and property taxes.
 
 The amount taken by the mortgage company will vary from year to year, so they evaluate it annually. Some years you may receive a check back and other times, the company may ask for additional funds.
 
