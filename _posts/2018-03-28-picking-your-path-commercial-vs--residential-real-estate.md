@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Picking Your Path: Commercial vs Residential Real Estate'
-date: 2018-03-28 18:24:03
+title: 'Picking Your Path: Commercial vs. Residential Real Estate'
+date: 2018-03-28 18:24:00
 tags:
   - Real Estate
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: 7TxirYK4Bus
 
 Today I’ll be continuing my discussion about where your career path is headed with the topic of residential versus commercial real estate.
 
-Many brand-new agents, even those in my firm, come to me saying that they want to do commercial real estate. They see the big deals going down and they want the great big commission check that come with them. What they don’t realize is that **those commission checks are few and far between.**
+Many brand-new agents, even those in my firm, come to me saying that they want to do commercial real estate. They see the big deals going down and they want the great big commission checks that come with them. What they don’t realize is that **those commission checks are few and far between.**
 
 My last commercial transaction took 13 months from the start until they signed, but since I wouldn’t get paid until they took possession, the actual number was around 20 months.
 
