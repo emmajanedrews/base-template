@@ -1,11 +1,12 @@
 ---
 layout: post
 title: When Is the Best Time to List Your Home in 2018?
-date: 2018-03-16 15:46:25
+date: 2018-03-16 15:46:00
 tags:
   - Home Seller Tips
 excerpt: When is the best time of year to list your home? We’re going over that today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+The+best+time+to+list.mp4
 pullquote: Pay special attention to any anomalies in the market.
 enclosure_type: video/mp4
 enclosure_time:
@@ -30,4 +31,4 @@ Next, take a look at timing. The peak time to list is March, April, and May. The
 
 Pay special attention to any anomalies in the market. In the last three or four years, we’ve been seeing that in Portland. If it’s a low inventory situation, you can list your home anytime.
 
-It’s going to be an incredible 2018. We’ve already doubled our business from March&nbsp; of last year so I predict a steaming spring market. If you have any questions for me or need help buying or selling a home, give me a call or send me an email today. I look forward to hearing from you.
+It’s going to be an incredible 2018. We’ve already doubled our business from March  of last year so I predict a steaming spring market. If you have any questions for me or need help buying or selling a home, give me a call or send me an email today. I look forward to hearing from you.
