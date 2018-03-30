@@ -41,7 +41,9 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 To see more information please click on the icons below to read more!&nbsp;
 
-[![](/uploads/download-27.jpg)](file:///C:/Users/eliza_000/Downloads/Dee_pdf_1.pdf)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/download-28-1.jpg)](file:///C:/Users/eliza_000/Downloads/Dee_pdf_2.pdf)
+&nbsp;
+
+&nbsp; &nbsp;&nbsp;[![](/uploads/download-27.jpg)](file:///C:/Users/eliza_000/Downloads/Dee_pdf_1.pdf)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/download-28-1.jpg)](file:///C:/Users/eliza_000/Downloads/Dee_pdf_2.pdf)
 
 {% include pullquote.html %}
 
