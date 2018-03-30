@@ -4,14 +4,16 @@ title: Sell Your Home Fast and for Top Dollar With These 3 Tips
 date: 2018-03-30 00:00:00
 tags:
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  If you’re preparing to sell your home, there are three top tips I recommend
+  for maximizing your sale.
 enclosure:
 pullquote: A little bit of money will go a long way in improving your home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/eric-burch-mar-1.jpg
-youtube_code: 'https://youtu.be/0db7LGVJPlw'
+youtube_code: 0db7LGVJPlw
 ---
 
 {% include youtube.html %}
