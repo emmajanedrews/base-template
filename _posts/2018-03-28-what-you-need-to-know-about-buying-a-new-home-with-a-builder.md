@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There’s a new-build community with a handful of brand-new D.R. Horton homes
   available that you might be interested in if you’re a buyer.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate+New+homes+available+from+D.R.+Horton.mp4
 pullquote: 'If you’re a buyer, don’t miss out on one of these great new homes.'
 enclosure_type: video/mp4
 enclosure_time:
