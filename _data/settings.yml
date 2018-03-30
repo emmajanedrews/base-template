@@ -42,6 +42,17 @@ client:
 
         Dianna has a bachelor’s of science in Microbiology, magna cum laude, and
         has done masters work in the field of nutrition.
+    - name: Erin Dombey
+      title: Vice President/Division Manager BioPharma
+      specialty: BioPharma
+      client_headshot_path: /img/erin.jpg
+      phone: 480-718-6127
+      email: Erin.dombey@govig.com
+      VR_form: 'http://oi.vresp.com?fid=edc00c84dc'
+      about_markdown: >-
+        Erin is the Vice President, Division Manager of the BioPharma team at Govig & Associates. With over 20 years of experience, Erin’s team successfully places professionals within the Biopharmaceutical industry across the nation. Her team has relationships with small, emerging and large BioTech and Pharma companies.
+
+        Erin has over 15 years of experience in developing and coaching teams that have been recognized for record-setting results. Her team of seasoned recruiters can meet and often exceed client expectations in a very competitive industry. Her team works on both a retained and project basis on behalf of her clients.      
     - name: Jennifer Meyer
       title: Sr. Vice President/ General Manager
       specialty: Building Products
