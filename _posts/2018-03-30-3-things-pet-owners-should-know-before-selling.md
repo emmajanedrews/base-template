@@ -27,6 +27,6 @@ Today we’re going to talk about how to sell your home if you own a pet. A lot 
 
 {% include pullquote.html %}
 
-**3. Take the pet somewhere during showings.** Remove your pet and all signs of them from the premises while your home is being shown. A lot of people are allergic, or get nervous around them. If they’re out of sight and out of mind, things will be a lot easier for you.
+**3. Take the pet somewhere during showings.** Remove your pet and all signs of them from the premises while your home is being shown. A lot of people are allergic or get nervous around them. If they’re out of sight and out of mind, things will be a lot easier for you.
 
 There are my top tips. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
