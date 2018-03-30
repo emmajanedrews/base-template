@@ -37,7 +37,7 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **4. Buy an as-is property.** This means buying the property in its current condition as you saw it. As-is properties are subject to inspection, so you have seven to 10 days to do that inspection. If you don’t like anything about the home, you can always go back to the negotiating table. As I always tell my clients, get your foot in the door. Be the person who gets their offer accepted on an as-is property so the seller takes that property off the market. That way, if the next seller wants to offer more money for it, that won’t matter unless you decide to walk away from the deal.
 
-**5. Have your agent call the seller’s agent.** This will fill you in on more details about the home and its seller, including why they’re selling. On our team, we call the seller’s agent once when we submit an offer and once while the offer is under consideration just to see how we can help our client. More often than not, this helps us win the home for them.
+**5. Have your agent call the seller’s agent.** This will fill you in on more details about the home and its seller, including why they’re selling. On our team, we call the seller’s agent once when we submit an offer and once while the offer is under consideration just to see how we can help our client. More often than not, this helps us win the home for them.&nbsp;
 
 **To see more information please click on the icons below to read more!&nbsp;**
 
