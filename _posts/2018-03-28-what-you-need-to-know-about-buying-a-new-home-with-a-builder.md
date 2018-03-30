@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Brand-New D.R. Horton Home Might Be Waiting for You
+title: What you need to know about Buying a New Home with a Builder
 date: 2018-03-28 20:13:00
 tags:
   - Real Estate
