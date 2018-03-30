@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your March 2018 Housing Market Update
-date:
+date: 2018-03-30 15:20:36
 tags:
   - Market Update
 excerpt: >-
@@ -43,8 +43,8 @@ When it comes to listing and getting the right price for your house, **it’s de
 
 Once you get into the higher market, do you think it stays the same?
 
-Actually, it’s on fire as well. The market between $300,000 and $1 million had the most improvement, with 12% of homes selling over list price compared to only 7% this time last year. We couldn’t find anything over $1 million that closed over list price, but that just goes to show you that **we’re in a very robust market.**&nbsp;
+Actually, it’s on fire as well. The market between $300,000 and $1 million had the most improvement, with 12% of homes selling over list price compared to only 7% this time last year. We couldn’t find anything over $1 million that closed over list price, but that just goes to show you that **we’re in a very robust market.**
 
 You need to make sure that you’re pricing your house properly. If you’re writing an offer as a buyer, you’ve got to make sure come in with your strongest offer, because there’s competition right around the corner.
 
-I hope this information is useful to you. If you have any questions you’d like answered on my next video, please send them to me. If I pick yours, I’ll send you a $50 gift card to the restaurant of your choice. For any other questions, feel free to reach out to me.<br>&nbsp;
+I hope this information is useful to you. If you have any questions you’d like answered on my next video, please send them to me. If I pick yours, I’ll send you a $50 gift card to the restaurant of your choice. For any other questions, feel free to reach out to me.<br>
