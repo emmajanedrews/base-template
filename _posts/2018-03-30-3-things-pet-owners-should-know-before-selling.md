@@ -19,14 +19,14 @@ youtube_code: 'https://youtu.be/H84tjh1POhk'
 
 {% include youtube.html %}
 
-Today we’re going to talk about how to sell your home if you own a pet. A lot of folks really don’t think that it’s possible because of all the odor, dandruff, and damage. However, you can overcome this in three easy steps:
+Today we’re going to talk about how to sell your home if you own a pet. A lot of folks really don’t think that it’s possible because of all the odor, dandruff, and damage. **However, you can overcome this in three easy steps:**
 
-1. Have the interior of your home professionally cleaned. Get a professional crew in to clean all of the carpets, drapes, and furniture to help get rid of the pet odor.
+**1. Have the interior of your home professionally cleaned.** Get a professional crew in to clean all of the carpets, drapes, and furniture to help get rid of the pet odor.
 
-2. Make sure any pet damage is repaired. Whether the damage is to walls, carpets, or outdoor areas, get those things fixed. It will pay big dividends when it comes to the final sale price.
+**2. Make sure any pet damage is repaired.** Whether the damage is to walls, carpets, or outdoor areas, get those things fixed. It will pay big dividends when it comes to the final sale price.
 
 {% include pullquote.html %}
 
-3. Take the pet somewhere during showings. Remove your pet and all signs of them from the premises while your home is being shown. A lot of people are allergic, or get nervous around them. If they’re out of sight and out of mind, things will be a lot easier for you.
+**3. Take the pet somewhere during showings.** Remove your pet and all signs of them from the premises while your home is being shown. A lot of people are allergic, or get nervous around them. If they’re out of sight and out of mind, things will be a lot easier for you.
 
 There are my top tips. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
