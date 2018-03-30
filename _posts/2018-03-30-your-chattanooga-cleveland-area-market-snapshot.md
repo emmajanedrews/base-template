@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Chattanooga-Cleveland Area Market Snapshot
-date:
+date: 2018-03-30 16:52:37
 tags:
   - Market Update
   - Real Estate
