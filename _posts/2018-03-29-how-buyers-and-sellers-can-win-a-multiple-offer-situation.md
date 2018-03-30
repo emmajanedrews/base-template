@@ -27,7 +27,7 @@ youtube_code: GDrFssrR71w
 
 The end of the first quarter is almost here, so today’s topic is a scenario that many buyers and sellers are facing in our current market: a multiple offer situation. I have some tips and advice for both sides of the transaction so no matter which side you’re on, you can get the best deal possible.
 
-**If you’re a buyer, here are five tips you can follow that will help you beat out other offers and close on your dream home:**
+**If you’re a buyer, here are five tips you can follow that will help you beat out other offers and close on your dream home:&nbsp;**
 
 **1. Offer more money.** It's that simple—money talks. If you’re pre-approved for $250,000, I suggest looking at homes in the $200,000 to $245,000 range so you have the capacity to raise your offer. At end of the day, nothing works better than gree.
 
