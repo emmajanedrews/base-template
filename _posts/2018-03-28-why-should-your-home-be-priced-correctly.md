@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Why Should Your Home Be Priced Correctly?
-date: 2018-03-28 18:04:10
+date: 2018-03-28 18:04:00
 tags:
   - Home Seller Tips
 excerpt: >-
   It is essential to price your home correctly when it comes time to sell, but
   why is that, and how do we come up with the correct price?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/Surrey+Real+Estate++2+Percent+Realty+Solution+Why+Your+Home+Should+Be+Priced+Correctly.mp4
 pullquote: Overpriced properties tend to help other properties sell.
 enclosure_type: video/mp4
 enclosure_time:
@@ -46,4 +47,4 @@ Additionally, we offer home staging so that when your home appears on the MLS, i
 
 It’s simple: my phone will ring.
 
-If you have any questions about pricing your home for sale, don’t hesitate to reach out to us. We’d be glad to help.<br>&nbsp;
+If you have any questions about pricing your home for sale, don’t hesitate to reach out to us. We’d be glad to help.<br>
