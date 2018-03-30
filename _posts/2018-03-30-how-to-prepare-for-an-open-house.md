@@ -29,6 +29,6 @@ What can you do to prepare your home for a great open house? Today, I have four 
 
 **3. Make a good first impression.** Clean up your yard and make it look ready for spring.
 
-**4. Be careful of what you leave out in your home.**Err on the side of caution and put away your valuables and anything that has your personal information on it.
+**4. Be careful of what you leave out in your home.&nbsp;**Err on the side of caution and put away your valuables and anything that has your personal information on it.
 
 If you have any questions about open houses or need any kind of consultation with a Realtor, reach out to us today. We’d be happy to be of assistance.
