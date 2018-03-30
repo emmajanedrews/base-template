@@ -28,9 +28,9 @@ Almost 4,000 new listings have come on the market in the last 30 days. Obviously
 
 Right now, we’ve got a hair under 8,000 homes on the market in Baltimore, which is roughly two-thirds of the 10-year average. It’s very hard to find a good home, and this level of inventory has put us in a seller’s market. **There’s snow on the ground around this time of year and it’s traditionally a difficult time to sell.**
 
-However, this year is different. The spring market has come early. Quite frankly, it’s been here since the first of the year. The average days on market are down, the list-to-sale ratio is up, and there are fewer and fewer homes on the market each day. Prices are almost 20% above the February 2011 market low.
+However, this year is different. The spring market has come early. Quite frankly, it’s been here since the first of the year. The average days on market is down, the list-to-sale ratio is up, and there are fewer and fewer homes on the market each day. Prices are almost 20% above the February 2011 market low.
 
-For the year, prices are up 3.5% in the Baltimore metro area and we’re only halfway through March. **Look for prices continue to rise as we continue to see a stable market for the time being.**
+For the year, prices are up 3.5% in the Baltimore metro area and we’re only halfway through March. **Look for prices to continue to rise as we continue to see a stable market for the time being.**
 
 A lot of buyers right now are having a tough time finding a home. Working with a good agent who has access to properties before they hit the market is crucial. We have a lot of clients who are open to selling their home if we have a buyer looking for one like theirs. By partnering with us, we can put together a plan to find off-market properties that you will be interested in.
 
