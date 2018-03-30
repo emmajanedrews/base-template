@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Phoenix Real Estate Market Is Hot
-date:
+date: 2018-03-30 15:45:11
 tags:
   - Market Update
 excerpt: >-
@@ -36,4 +36,4 @@ When you’re representing the seller in today’s market, make sure that you’
 
 Houses aren’t staying on the market very long. In fact, we have less than three months of inventory available, which is **almost 18% lower than this time last year.**
 
-If you have any questions, please feel free to reach out to me. If there is a topic you’d like me to discuss in a future video, send them my way; if I select yours, I’ll send you a $50 gift card to a restaurant of your choice.<br>&nbsp;
+If you have any questions, please feel free to reach out to me. If there is a topic you’d like me to discuss in a future video, send them my way; if I select yours, I’ll send you a $50 gift card to a restaurant of your choice.<br>
