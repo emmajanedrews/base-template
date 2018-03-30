@@ -7,9 +7,7 @@ tags:
 excerpt: >-
   Have you been thinking lately about getting started in the world of real
   estate investing? If you have, I’ve got three tips to share with you. These
-  tips will be your key to getting the highest return on your investment. First
-  of all, finding the right location is key. To learn more, watch this short
-  video.
+  tips will be your key to getting the highest return on your investment.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Tips+For+Investing+In+Real+Estate.mp4
 pullquote: >-
