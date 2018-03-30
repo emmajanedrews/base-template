@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: >-
-  Buyers are out there are aggressively looking for homes in our spring market.
-  If you’re a seller, your home could sell quickly and for top dollar, but you
-  have to prepare it first in order to get buyers interested in it. Today I want
-  to share four important preparation tips that will ensure your home gets
-  chosen above all other homes. First, make sure it’s nice and tidy. To find out
-  the rest of my tips that will have your home selling quickly and for top
-  dollar, watch my latest video.
+  Buyers out there in our spring market are aggressively looking for homes. If
+  you’re a seller, your home could sell quickly and for top dollar, but you have
+  to prepare it first in order to get buyers interested in it. Today I want to
+  share four important preparation tips that will ensure your home gets chosen
+  above all other homes. First, make sure it’s nice and tidy. To find out the
+  rest of my tips that will have your home selling quickly and for top dollar,
+  watch my latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Ramonica+Caldwell/Videos/2018/How+to+Get+Your+Home+Ready+to+Put+on+the+Market.mp4
 pullquote: 'Today’s buyers are very price-conscious, so price your home right.'
