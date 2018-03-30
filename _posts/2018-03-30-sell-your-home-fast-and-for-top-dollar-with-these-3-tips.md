@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re preparing to sell your home, there are three top tips I recommend
   for maximizing your sale.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+How+to+Maximize+Your+Listing+Price.mp4
 pullquote: A little bit of money will go a long way in improving your home.
 enclosure_type: video/mp4
 enclosure_time:
