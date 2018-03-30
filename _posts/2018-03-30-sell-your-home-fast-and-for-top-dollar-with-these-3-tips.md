@@ -13,8 +13,8 @@ pullquote: A little bit of money will go a long way in improving your home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/eric-burch-mar-1.jpg
-youtube_code: 0db7LGVJPlw
+youtube_alternate_image: /uploads/jeff-cook-apr2018-1.jpg
+youtube_code: 'https://youtu.be/0db7LGVJPlw'
 ---
 
 {% include youtube.html %}
