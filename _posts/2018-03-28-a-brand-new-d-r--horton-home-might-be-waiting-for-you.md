@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brand-New D.R. Horton Home Might Be Waiting for You
-date: 2018-03-28 20:13:31
+date: 2018-03-28 20:13:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wy0S9bMfAWE
+youtube_code: UgpKkHNQRjI
 ---
 
 {% include youtube.html %}
@@ -28,8 +28,8 @@ You can get a glimpse of what these homes offer in the video above, as I’m sta
 
 {% include pullquote.html %}
 
-**There are both two-story and single-story homes available, and they all come with highly rated upgrades.** The single-story homes measure out at 3,700 square feet and come on large lots that are roughly one-third of an acre. They also come with three-car garages attached. There are only three two-story homes left, and they measure out at roughly 2,700 square feet and are listed at just under $400,000.&nbsp;
+**There are both two-story and single-story homes available, and they all come with highly rated upgrades.** The single-story homes measure out at 3,700 square feet and come on large lots that are roughly one-third of an acre. They also come with three-car garages attached. There are only three two-story homes left, and they measure out at roughly 2,700 square feet and are listed at just under $400,000.
 
-We at Vegas Capital Realty have a lot of incentives we can offer you that you can use as a credit toward your closing costs or any upgrades you’d like to make yourself to these homes if you let us help you buy one of them, so don’t hesitate to reach out to us if you’re interested.&nbsp;
+We at Vegas Capital Realty have a lot of incentives we can offer you that you can use as a credit toward your closing costs or any upgrades you’d like to make yourself to these homes if you let us help you buy one of them, so don’t hesitate to reach out to us if you’re interested.
 
 If you have any other real estate questions or you’re thinking about selling a home in our market, feel free to call us directly for a free consultation. We’d love to speak with you.
