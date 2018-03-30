@@ -39,9 +39,7 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **5. Have your agent call the seller’s agent.** This will fill you in on more details about the home and its seller, including why they’re selling. On our team, we call the seller’s agent once when we submit an offer and once while the offer is under consideration just to see how we can help our client. More often than not, this helps us win the home for them.
 
-To see more information please click on the icons below to read more!&nbsp;
-
-&nbsp;
+**To see more information please click on the icons below to read more!&nbsp;**
 
 &nbsp; &nbsp;&nbsp;[![](/uploads/download-27.jpg)](file:///C:/Users/eliza_000/Downloads/Dee_pdf_1.pdf)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/download-28-1.jpg)](file:///C:/Users/eliza_000/Downloads/Dee_pdf_2.pdf)
 
