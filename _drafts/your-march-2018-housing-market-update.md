@@ -19,7 +19,7 @@ youtube_code: uTcBJRD62aM
 
 {% include youtube.html %}
 
-The Phoenix metro housing market is red hot at the moment. Here are some important statistics for buyers and sellers to note.
+<center>The Phoenix metro housing market is red hot at the moment. Here are some important statistics for buyers and sellers to note.</center>
 
 The Phoenix metro housing market is absolutely on fire.
 
