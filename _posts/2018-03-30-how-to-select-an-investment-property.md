@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Select an Investment Property
-date: 2018-03-30 00:00:00
+date: 2018-03-30 13:25:00
 tags:
   - Real Estate
 excerpt: >-
