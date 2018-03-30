@@ -3,6 +3,7 @@ layout: post
 title: Your March 2018 Housing Market Update
 date:
 tags:
+  - Market Update
 excerpt: >-
   The Phoenix metro housing market is red hot at the moment. Here are some
   important statistics for buyers and sellers to note.
@@ -19,7 +20,9 @@ youtube_code: uTcBJRD62aM
 
 {% include youtube.html %}
 
-<center>The Phoenix metro housing market is red hot at the moment. Here are some important statistics for buyers and sellers to note.</center>
+<center><em>The Phoenix metro housing market is red hot at the moment. Here are some important statistics for buyers and sellers to note.</em></center>
+
+<center>&nbsp;</center>
 
 The Phoenix metro housing market is absolutely on fire.
 
