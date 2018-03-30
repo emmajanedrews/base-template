@@ -17,7 +17,7 @@ youtube_code: IKJxLip_xks
 
 {% include youtube.html %}
 
-What’s going on in the Phoenix real estate market? Here’s what you need to know.
+<center>What’s going on in the Phoenix real estate market? Here’s what you need to know.</center>
 
 Let’s talk about the hot, robust real estate market in Phoenix.
 
