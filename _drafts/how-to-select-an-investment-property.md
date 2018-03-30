@@ -10,7 +10,8 @@ excerpt: >-
   tips will be your key to getting the highest return on your investment. First
   of all, finding the right location is key. To learn more, watch this short
   video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Tips+For+Investing+In+Real+Estate.mp4
 pullquote: Investors should seek out properties that will bring you the most appreciation
 enclosure_type: video/mp4
 enclosure_time:
