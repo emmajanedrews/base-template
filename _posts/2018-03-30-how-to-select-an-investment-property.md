@@ -12,7 +12,9 @@ excerpt: >-
   video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Tips+For+Investing+In+Real+Estate.mp4
-pullquote: Investors should seek out properties that will bring you the most appreciation
+pullquote: >-
+  Investors should seek out properties that will bring you the most
+  appreciation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
