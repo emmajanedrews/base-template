@@ -30,7 +30,7 @@ There are three tips I’d like to cover, today.
 
 {% include pullquote.html %}
 
-**2. Find the right type of home.** It’s important to seek out properties that will bring you the most appreciation. Single-family homes with a minimum of three bedrooms and two bathrooms will be ideal for this. Avoid homes across from schools or on busy streets. Also, make sure there’s no pool. Pools bring extra expense and extra liability.
+**2. Find the right type of home.** It’s important to seek out properties that will bring you the most appreciation. Single-family homes with a minimum of three bedrooms and two bathrooms will be ideal for this. Avoid homes across from schools or on busy streets. Also, make sure there’s no pool. Pools bring extra expenses and extra liability.
 
 **3. Find the right price.** Look at entry-level price points. In Phoenix, this means looking at properties that are less than $300,000. Entry-level properties are easier to rent and easier to sell.
 
