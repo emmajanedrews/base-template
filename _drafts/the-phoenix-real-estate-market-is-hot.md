@@ -3,6 +3,7 @@ layout: post
 title: The Phoenix Real Estate Market Is Hot
 date:
 tags:
+  - Market Update
 excerpt: >-
   What’s going on in the Phoenix real estate market? Here’s what you need to
   know.
@@ -17,7 +18,9 @@ youtube_code: IKJxLip_xks
 
 {% include youtube.html %}
 
-<center>What’s going on in the Phoenix real estate market? Here’s what you need to know.</center>
+<center><em>What&rsquo;s going on in the Phoenix real estate market? Here&rsquo;s what you need to know.</em></center>
+
+<center>&nbsp;</center>
 
 Let’s talk about the hot, robust real estate market in Phoenix.
 
