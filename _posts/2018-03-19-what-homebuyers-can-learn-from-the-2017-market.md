@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Homebuyers Can Learn From the 2017 Market
-date: 2018-03-19 16:33:50
+date: 2018-03-19 16:33:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: OCPRpB8Gjgk
+youtube_code: JDFmCHdhdHk
 ---
 
 {% include youtube.html %}
@@ -37,10 +37,8 @@ You need an agent who is going to pay attention so that you can react quickly wh
 
 On the bright side, interest rates are still good. There are rumors that the Fed will raise rates a few more times this year, but that may or may not affect mortgage rates.
 
-Ultimately, if you want to buy a home, **the 2017 market has taught us that you need to be prepared.&nbsp;**Have your pre-qualification letter ready. If you are paying cash, make sure you have proof of funds. Get that personalized letter written and put together a great offer.
+Ultimately, if you want to buy a home, **the 2017 market has taught us that you need to be prepared.**Have your pre-qualification letter ready. If you are paying cash, make sure you have proof of funds. Get that personalized letter written and put together a great offer.
 
 When you work with our team, we’ll send the offer and follow up with the seller’s agent to put you in the best position in a market that’s increasingly competitive.
 
 If you have any questions for us, just give me a call or send me an email. I would be happy to help you!
-
-&nbsp;
