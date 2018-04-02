@@ -9,7 +9,7 @@ excerpt: >-
   estate investing? If you have, I’ve got three tips to share with you. These
   tips will be your key to getting the highest return on your investment.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Tips+For+Investing+In+Real+Estate.mp4
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+How+to+Select+an+Investment+Property.mp4
 pullquote: >-
   Investors should seek out properties that will bring you the most
   appreciation.
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ruwXyHpPxeI
+youtube_code: r0yyBet9qaY
 ---
 
 {% include youtube.html %}
