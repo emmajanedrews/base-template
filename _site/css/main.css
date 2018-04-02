@@ -1461,11 +1461,15 @@ html[xmlns] .flexslider .slides {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
 
+.navbar-left {
+  margin-top: 2rem; }
+
 .navbar-left > li > a {
   background: transparent;
   color: black;
   text-transform: capitalize;
   font-size: 2rem;
+  margin-left: 1rem;
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
@@ -1484,7 +1488,8 @@ html[xmlns] .flexslider .slides {
   color: #123456;
   text-transform: capitalize;
   font-size: 2rem;
-  font-weight: 300; }
+  font-weight: 300;
+  margin-top: 2rem; }
   .cta:hover {
     background: #eeeeee;
     color: #00353e; }
@@ -1505,6 +1510,14 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.nav-logo {
+  float: left !important;
+  max-width: 350px;
+  margin-top: 5px; }
+
+@media (max-width: 760px) {
+  .nav-logo {
+    display: none; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -2184,7 +2197,8 @@ table tr, table td {
 
 .socials {
   padding: 0.7rem;
-  margin-bottom: 0.7rem; }
+  margin-bottom: 0.7rem;
+  padding-top: 10rem; }
   .socials ul {
     margin-bottom: 0.1rem;
     max-height: 5rem;
@@ -2786,17 +2800,6 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
-.nav-logo {
-  float: left !important;
-  max-width: 200px;
-  margin-top: 5px; }
-
-.nav-space {
-  margin-top: 6rem; }
-
-@media (max-width: 760px) {
-  .nav-logo {
-    display: none; } }
 .recruiting {
   text-align: center; }
 

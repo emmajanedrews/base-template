@@ -19,12 +19,16 @@
 	margin-bottom: 0px
 	@include transition
 
+.navbar-left
+	margin-top: 2rem
+
 .navbar-left>li>a
 	background: transparent
 	color: black
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 2rem
+	margin-left: 1rem
 	font-weight: 300
 	// border: 2px solid $button-border
 	// @include transition(0.3s)
@@ -50,6 +54,7 @@
 	text-transform: capitalize
 	font-size: 2rem
 	font-weight: 300
+	margin-top: 2rem
 	&:hover
 		background: #eeeeee
 		color: $brand-dark
@@ -73,6 +78,15 @@
 	padding-right: 15px
 	padding-left: 15px
 	// height: 52px
+
+.nav-logo
+	float: left !important
+	max-width: 350px
+	margin-top: 5px
+
+@media (max-width: 760px)
+	.nav-logo
+		display: none
 
 
 @media(max-width: 347px)
