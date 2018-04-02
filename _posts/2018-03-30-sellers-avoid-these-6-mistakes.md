@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are six mistakes that homeowners need to avoid when it comes time to
   sell their home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rosie+Hayer/Dont+Make+These+6+Home+Selling+Mistakes.mp4
 pullquote: >-
   Even a well-priced home with bad marketing can sell, though it may take a bit
   longer.
@@ -34,8 +35,8 @@ Preparing a homefor the market can be a stressful process, however, avoiding the
 
 **4. Neglecting to declutter your home.** This is a big point; buyers start their home searches online, and if the pictures of your home are showing off all the stuff inside instead of the areas that buyers are attracted to, there is a great chance the buyers will move past your listing. Pack up your personal stuff and store it away so that it doesn’t get in the way of your showing.
 
-**5. Not allowing adequate access to your home.&nbsp;**I have found that for every 10 times a seller says they can’t show a home on a certain date, eight of those 10 buyers won’t even come back. Some Realtors won’t even call to reschedule the appointment. It’s very important that your home is show-ready at all times and that you can get agents and buyers in and out of the house when they want.
+**5. Not allowing adequate access to your home.**I have found that for every 10 times a seller says they can’t show a home on a certain date, eight of those 10 buyers won’t even come back. Some Realtors won’t even call to reschedule the appointment. It’s very important that your home is show-ready at all times and that you can get agents and buyers in and out of the house when they want.
 
 Getting emotional about your house. Sellers can sometimes be very attached to their homes. However, when you sell your property, you need to think of your house as a property, not your home. Now, if someone gives you a lowball offer or wants to remodel, you should be okay with it, as long as the buyers are paying you a fair market price.
 
-If you have any questions or have a topic you’d like me to cover, feel free to reach out to us.<br>&nbsp;
+If you have any questions or have a topic you’d like me to cover, feel free to reach out to us.<br>
