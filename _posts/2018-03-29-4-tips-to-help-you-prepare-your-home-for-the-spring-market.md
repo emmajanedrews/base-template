@@ -14,7 +14,7 @@ excerpt: >-
   rest of my tips that will have your home selling quickly and for top dollar,
   watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Ramonica+Caldwell/Videos/2018/How+to+Get+Your+Home+Ready+to+Put+on+the+Market.mp4
+  https://s3.amazonaws.com/vyralmarketing/Ramonica+Caldwell/Videos/2018/Ramonica+Caldwell+Real+Estate+Group-+4+Tips+to+Help+You+Prepare+Your+Home+for+the+Spring+Market.mp4
 pullquote: 'Today’s buyers are very price-conscious, so price your home right.'
 enclosure_type: video/mp4
 enclosure_time:
