@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your March 2018 Housing Market Update
-date: 2018-03-30 15:20:36
+date: 2018-03-30 15:20:00
 tags:
   - Market Update
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uTcBJRD62aM
+youtube_code: giMV5VTnC9c
 ---
 
 {% include youtube.html %}
