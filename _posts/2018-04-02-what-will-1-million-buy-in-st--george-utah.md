@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What will $1 Million Buy in St. George, Utah?'
-date:
+date: 2018-04-02 20:23:33
 tags:
   - Real Estate
 excerpt: >-
