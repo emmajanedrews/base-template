@@ -19,14 +19,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1IW0t6ElwZw
+youtube_code: pzA71AlkuUs
 ---
 
 {% include youtube.html %}
 
-What’s going on in the Chattanooga-Cleveland area real estate market?<br><br>**Currently, we are definitely in a seller’s market.&nbsp;**That means if you’ve been thinking of selling your home, right now is the time to sell. The inventory of homes for sale is low, but a huge number of buyers are still looking to buy.
+What’s going on in the Chattanooga-Cleveland area real estate market?<br><br>**Currently, we are definitely in a seller’s market.**That means if you’ve been thinking of selling your home, right now is the time to sell. The inventory of homes for sale is low, but a huge number of buyers are still looking to buy.
 
-Here at Sherlin Realty, **we offer our sellers a 90-step guide to help you get your home ready to go on the market.&nbsp;**We’ll also do a free walkthrough and give you tips on how to get top dollar for your home.<br><br>What does being in a seller’s market mean for buyers?
+Here at Sherlin Realty, **we offer our sellers a 90-step guide to help you get your home ready to go on the market.**We’ll also do a free walkthrough and give you tips on how to get top dollar for your home.<br><br>What does being in a seller’s market mean for buyers?
 
 {% include pullquote.html %}
 
