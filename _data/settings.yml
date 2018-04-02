@@ -1,5 +1,5 @@
 audit_header: false
-title: The Inspired Realtor
+title: Real Estate Grit
 description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
@@ -14,7 +14,7 @@ client:
   about_markdown: |
     The Spaniak Team has an understanding of Northbrook unlike any other real estate agent or team. Team Leader, Kati Spaniak grew up in Northbrook and is still residing in town. Her team sells more real estate than anyone in District 28. Her children have attended both public and private schools in Northbrook, and Kati was a village trustee. No one understands the ins and outs of Northbrook, the schools and the village like Kati and her team.
   market: Chicago
-  brand: The Spaniak Team
+  brand: Real Estate Grit
   brokerage: Keller Williams Chicago O'Hare
   address: '2111 Chestnut #210<br>Glenview, IL 60025'
   phone: 847-379-8813

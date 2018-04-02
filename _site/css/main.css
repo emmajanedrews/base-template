@@ -2920,3 +2920,9 @@ form select {
 
 .author {
   color: #006071; }
+
+.indent {
+  margin-left: 4rem; }
+
+.whitespace {
+  margin-top: 10rem; }
