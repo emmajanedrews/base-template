@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Your Chattanooga-Cleveland Area Market Snapshot
-date: 2018-03-30 16:52:37
+date: 2018-03-30 16:52:00
 tags:
   - Market Update
   - Real Estate
 excerpt: >-
-  With today’s market snapshot, I’ll fill you on the current market conditions
-  and what they mean for buyers and sellers. I often get questions about what
-  type of real estate market we’re currently in. At the moment, we’re in a
-  strong seller’s market. Sellers should act quickly to get the most for their
-  homes, and buyers need to be prepared early. To hear more about the market,
-  watch my latest video.
+  With today’s market snapshot, I’ll fill you in on the current market
+  conditions and what they mean for buyers and sellers. I often get questions
+  about what type of real estate market we’re currently in. At the moment, we’re
+  in a strong seller’s market. Sellers should act quickly to get the most for
+  their homes, and buyers need to be prepared early. To hear more about the
+  market, watch my latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dustin+Sherlin/Videos/2018/Sherlin+Realty+%257C+Your+Chattanooga-Cleveland+Area+Market+Snapshot.mp4
 pullquote: 'If you’ve been thinking of selling your home, right now is the time to sell.'
