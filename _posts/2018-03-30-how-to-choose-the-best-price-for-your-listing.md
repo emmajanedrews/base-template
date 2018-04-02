@@ -22,7 +22,7 @@ youtube_code: Klu9G-gGhFM
 
 Today, I’d like to share two tips on how to correctly price your listing. These tips will help you maximize your earnings while also making sure your property doesn’t sit on the market too long.
 
-**1. Look at your home from the eyes of a buyer.**The buyer is the one writing the offer on your home, so you need to consider how they are going to think about value. They will consider the features and benefits of your home compared to the features and benefits of other similar homes on the market. Everything, from the neighborhood to your home’s amenities, will be taken into mind when they look at your price. If other, similar homes have a more competitive price, buyers might not find as much value in your listing. This is why when my team and I work with sellers, we look at all competing listings to help you determine the right price for your own listing.
+**1. Look at your home from the eyes of a buyer.&nbsp;**The buyer is the one writing the offer on your home, so you need to consider how they are going to think about value. They will consider the features and benefits of your home compared to the features and benefits of other similar homes on the market. Everything, from the neighborhood to your home’s amenities, will be taken into mind when they look at your price. If other, similar homes have a more competitive price, buyers might not find as much value in your listing. This is why when my team and I work with sellers, we look at all competing listings to help you determine the right price for your own listing.
 
 {% include pullquote.html %}
 
