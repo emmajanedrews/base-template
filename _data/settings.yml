@@ -11,20 +11,20 @@ emma:
   form:
 
 client:
-  name:
+  name: Ken Ravago
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Ken has been licensed with real estate and property management since 2001. Prior to this he worked in telecommunications sales while pursuing a bachelor's degree in Business Management. He also holds an MBA in business management.
+  market: Henderson
+  brand: Re/Max Advantage
   brokerage:
-  address:
-  phone:
+  address: 10075 S. Eastern, 103 Henderson, NV 89052
+  phone: 702-714-1536
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: ken@kenravago.com
   url:
 
 CTAs:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#E22130'
+  theme_color: '#0A509C'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
