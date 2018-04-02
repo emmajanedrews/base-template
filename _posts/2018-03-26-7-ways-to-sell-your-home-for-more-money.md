@@ -20,11 +20,11 @@ youtube_code: 43lycB3JCIU
 
 {% include youtube.html %}
 
-<center><em>The spring market is coming. What can you do to get your home ready to sell quickly and for the most money?</em></center>
+<center><em>The spring market is coming. What can you do to get your home ready, to sell quickly and for the most money?</em></center>
 
 <center>&nbsp;</center>
 
-As we approach the spring market, a lot of sellers are asking what they need to do in order to get their houses ready for the market. Today, I have some tips about how you can maximize the number of showings that you’ll get for your home, as well as how to maximize the amount of money you’ll get from the sale.
+As we approach the spring market, a lot of sellers are asking what they need to do in order to get their houses ready for the market. Today, I have some tips about how you can maximize the number of showings that you’ll get on your home, as well as to maximize the amount of money receive from the sale.
 
 {% include pullquote.html %}
 
