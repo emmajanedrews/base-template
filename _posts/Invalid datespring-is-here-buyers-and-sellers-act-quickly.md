@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spring Is Here! Buyers and Sellers: Act Quickly'
-date: Invalid date
+date: 2019-09-01 03:19:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
