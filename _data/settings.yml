@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: testimonials
     url: /testimonials/
+  - title: Meet and Greet with Misty
+    url: https://www.eventbrite.com/e/meet-greet-with-misty-soldwisch-better-homes-gardens-real-estate-tickets-44692218629
 
 client:
   name: Misty SOLDwisch
