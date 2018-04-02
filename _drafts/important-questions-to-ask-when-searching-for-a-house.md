@@ -11,7 +11,8 @@ excerpt: >-
   first home. Today, I’ll go over three important questions every homebuyer
   should ask. For example, what is the neighborhood like? To learn which other
   questions you should ask and why, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sherif+Nathoo/Videos/2018/Sherif+Nathoo+Team-+Important+Questions+to+Ask+When+Searching+for+a+House.mp4
 pullquote: >-
   Your agent can find out what the previous owners paid in utility bills so you
   know what to expect.
