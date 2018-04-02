@@ -1,20 +1,21 @@
 ---
 layout: post
 title: 'Spring Is Here! Buyers and Sellers: Act Quickly'
-date:
+date: 2018-04-02 15:17:26
 tags:
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: >-
   The spring market has sprung. Here’s what buyers and sellers alike should
   know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Lance+Woodley/Columbia+Real+Estate+Agent-+Preferred+Mortgage+Lenders.mp4
 pullquote: The spring market is usually our most robust time of the year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/download-9.jpg
-youtube_code:
+youtube_code: pdex1yJ91B4
 ---
 
 {% include youtube.html %}
@@ -27,4 +28,4 @@ For buyers, if you wait until the end of the year and interest rates have gone u
 
 For sellers, this means that if you put your house on the market now, **there could be a larger pool of buyers** because there could be more who will qualify for your house.
 
-Either way, if you’re thinking about buying or selling your home, give us a call so that we can talk about your specific situation and set you up for success.<br>&nbsp;
+Either way, if you’re thinking about buying or selling your home, give us a call so that we can talk about your specific situation and set you up for success.<br>
