@@ -6,6 +6,10 @@ permalink: /morning-huddles/
 
 ## Morning Huddles
 
+**Mojo Dialer Quick Tips**
+
+<div class="morning-huddles"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/KtTEp54IvdQ" width="560"></iframe></div>
+
 # **I am BOLD**
 {: .morning-huddles}
 
