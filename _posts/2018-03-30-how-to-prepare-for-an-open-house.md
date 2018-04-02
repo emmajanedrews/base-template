@@ -25,7 +25,7 @@ What can you do to prepare your home for a great open house? Today, I have four 
 
 {% include pullquote.html %}
 
-**2. Declutter.**Put away your excess collectibles, artwork, decorations, and personal effects. You don’t want people to associate you with any kind of clutter; it might send the message that you haven’t been taking care of the home.
+**2. Declutter.&nbsp;**Put away your excess collectibles, artwork, decorations, and personal effects. You don’t want people to associate you with any kind of clutter; it might send the message that you haven’t been taking care of the home.
 
 **3. Make a good first impression.** Clean up your yard and make it look ready for spring.
 
