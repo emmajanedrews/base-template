@@ -27,13 +27,11 @@ The Larkin Group just happens to be marketing two unique properties right around
 &nbsp;
 
 **1930 View Point Dr. – Stone Cliff&nbsp; &nbsp;**
-
 4 Beds, 6 baths, 5,834 SF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pZxjz-i62os?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 **2825 S. Jolley Circle – Bloomington Country Club&nbsp;**&nbsp;
-
 6 Geds, 6.5 Baths, 7,534 SF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lSLzqUhU3I0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
