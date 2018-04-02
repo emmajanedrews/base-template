@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 5 Things to Do When Your Home Isn’t Selling
-date: 2018-02-07 11:20:31
+date: 2018-02-07 11:20:00
 tags:
   - Home Seller Tips
 excerpt: >-
   What should you do if your home isn’t selling? I’ll go over five options for
   you today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/St.+George+Real+Estate+Agent+5+options+when+your+home+won%E2%80%99t+sell.mp4
 pullquote: Be very honest with yourself about the market value of your home.
 enclosure_type: video/mp4
 enclosure_time:
