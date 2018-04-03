@@ -5,7 +5,7 @@ description: >-
   working in it. Whether you're just starting out, aspiring to begin, or been
   working in the field for a few years, tune in to get updates, tips, tricks and
   more!
-show_custom_links: true
+show_custom_links: false
 custom_links:
   - title: Events
     url: https://www.eventbrite.com/o/misty-soldwisch-for-be-better-dsm-real-estate-coaching-17105672355

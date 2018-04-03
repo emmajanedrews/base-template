@@ -1444,8 +1444,7 @@ html[xmlns] .flexslider .slides {
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
-  width: 100%;
-  overflow: hidden; }
+  width: 100%; }
 
 .navbar-andross .navbar-brand {
   color: #439639;
@@ -1490,7 +1489,7 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .navbar-left {
-  padding-top: 2rem; }
+  padding-top: 1.5rem; }
 
 @media(max-width: 347px) {
   .navbar {
@@ -1510,8 +1509,8 @@ html[xmlns] .flexslider .slides {
 
 .nav-logo {
   float: left !important;
-  max-width: 350px;
-  margin-top: 5px; }
+  max-width: 75px;
+  margin: 5px; }
 
 @media (max-width: 760px) {
   .nav-logo {
@@ -2496,6 +2495,10 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
+.footer-logo {
+  width: 350px;
+  padding: 16px; }
+
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -3013,3 +3016,36 @@ form select {
 
 .author {
   color: #439639; }
+
+.dropbtn {
+  color: black;
+  background-color: #ffffff;
+  font-weight: 300;
+  font-size: 20px;
+  border: none;
+  text-transform: capitalize; }
+
+.dropdown {
+  position: relative;
+  display: inline-block; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px; }
+
+.dropdown-content a {
+  color: black;
+  background-color: #eee;
+  padding: 12px;
+  text-decoration: none;
+  display: block;
+  font-size: 20px; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+  border: 0px solid #439639; }
