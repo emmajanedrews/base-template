@@ -35,12 +35,12 @@ In the last few days and weeks, interest rates have started to climb. With the t
 
 {% include pullquote.html %}
 
-Attached condos and townhomes are selling between $400,000 and $490,000, and the average and median for detached homes are $603,000 and $775,630. Those are some really healthy numbers, but what’s next for affordability?
+Attached condos and townhomes are selling between $400,000 and $490,000, and the average and median sales prices for detached homes are $603,000 and $775,630. Those are some really healthy numbers, but what’s next for affordability?
 
 Even though interest rates have gone up, prices have gone up as well, so we are still holding strong in the low 20% range. Historically, affordability shifts happen when affordability is in the high teens. The current range tells us that we have some room to grow.
 
 If you are a buyer, the time to buy was really six months ago because rates were still lower. However, you should buy a home now. **They are still historically low, and you should lock in that rate before they go up to 5%.**
 
-If you are a seller, be careful. Don’t try to time the market. We don’t know how much longer these market conditions will last,  so it’s a great time to get your home listed in San Diego.
+If you are a seller, be careful. Don’t try to time the market. We don’t know how much longer these market conditions will last, &nbsp;so it’s a great time to get your home listed in San Diego.
 
 If you have any questions about buying or selling in this current market, just give me a call or send me an email. I would be happy to help you!
