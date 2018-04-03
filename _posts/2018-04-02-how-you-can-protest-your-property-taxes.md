@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Protest Your Property Taxes
-date: 2018-04-02 20:51:53
+date: 2018-04-02 20:51:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/download-6.jpg
-youtube_code: I_98avsdDcA
+youtube_code: tlem34DlPFU
 ---
 
 {% include youtube.html %}
