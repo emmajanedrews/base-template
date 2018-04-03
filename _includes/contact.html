@@ -1,4 +1,4 @@
-<address class="contact">
+<!-- <address class="contact">
   <strong>{{site.data.settings.client.name}}</strong>
   {% if site.data.settings.client.brand and site.data.settings.client.brokerage == null %}
     <br>
@@ -28,16 +28,27 @@
   <a href="tel:1-{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a>
   <br>
   <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
-</address>
+</address> -->
+<div class="mindset-form">
+<h2>Millionaire Agent Mindset</h2>
+<p>Are you ready to take it to the next level?<br>
+  Review class details here: <a href="https://www.facebook.com/millionaireagentmindset" target="_blank">fb.me/millionaireagentmindset</a><br>
+  Register below to attend FREE:<br>
+  <span class="required">* required</span></p>
+</div>
+
 
 <form class="contact-form" method="post" action="http://formspree.io/{{site.data.settings.client.email}}">
-  <input type="text" name="name" placeholder="Name" required>
-  <input type="email" name="_replyto" placeholder="Email" required>
-  <textarea name="Message" placeholder="Message"></textarea>
+  <input type="email" name="_replyto" placeholder="Email*" required>
+  <input type="text" name="name" placeholder="Full Name*" required>
+  <input type="text" name="phone" placeholder="Cell Phone*" required>
+  <input type="text" name="referral" placeholder="Who Can We Thank For Referring You?*" required>
+  <input type="text" name="licensed" placeholder="# Years Licensed*" required>
+  <input type="text" name="transactions" placeholder="# Transactions Last 12 Months*" required>
   <!-- Cloud cannon settings field -->
   <div class="hidden">
     <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
-    <input type="hidden" name="_subject" value="Contact Message From Your Vyral Recruiting Video Blog">
+    <input type="hidden" name="_subject" value="New Submission from your Millionaire Agent Mindset Form">
     <input type="text" name="_gotcha">
   </div>
 

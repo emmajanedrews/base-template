@@ -1472,7 +1472,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 28rem;
+  max-width: 20rem;
   -webkit-filter: drop-shadow(0 2px 7px black);
   filter: drop-shadow(0 2px 7px black); }
 
@@ -2448,8 +2448,7 @@ form select {
       border: 3px solid #ff1212; }
 
 .contact-form {
-  width: 75%;
-  margin-left: 13%; }
+  width: 75%; }
   .contact-form input, .contact-form textarea {
     width: 100%;
     border: 1px solid gray; }
@@ -2550,7 +2549,7 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .site-logo {
-  max-width: 50rem; }
+  max-width: 30rem; }
 
 .hero-img {
   padding-top: 5rem; }
@@ -2621,3 +2620,19 @@ form select {
   background: #ab0000;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
+
+.mindset-form {
+  display: block;
+  margin-top: 2rem; }
+  .mindset-form p {
+    font-size: 20px; }
+  .mindset-form h2 {
+    font-size: 36px;
+    font-weight: bold; }
+
+.required {
+  font-weight: bold;
+  color: #ab0000; }
+
+#about {
+  font-weight: bold; }

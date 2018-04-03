@@ -3,8 +3,8 @@ title: Millionaire Agent Mindset
 description: Salt Lake City Utah best Realtors are on The Stern Team, led by Joshua Stern. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
 show_custom_links: true
 custom_links:
-  - title: Millionaire Agent Mindset
-    url: http://millionaireagentmindset.com/
+  # - title: Millionaire Agent Mindset
+  #   url: http://millionaireagentmindset.com/
   - title: About
     url: http://www.viewsaltlakecityareahomes.com/about/
   - title: Testimonials
@@ -13,9 +13,7 @@ client:
   name: Joshua Stern
   license_number:
   about_markdown: |
-    The Stern Team is a full service real estate team that has helped sell and purchase thousands of homes since 2002 - currently about a property a day! Commitment to servicing their clients and the “client experience” has lead to over 83% of their business coming by referral.
-
-    The Stern Team motto is “clients don’t care how much we know, until they know how much we care”. Their philosophy is that when you take care of others needs, your needs are automatically taken care of. The Stern Team is one of the top real estate groups in North America and the #1 resale team in Utah.
+    As a Millionaire Agent who coaches some of the top teams in the country, I feel compelled to bring the specific Millionaire Agent systems and techniques we use to help my local friends build their own Mega Agent Business. - Joshua Stern
   market: Salt Lake City
   brand: The Stern Team
   brokerage: KW Salt Lake City Keller Williams Real Estate
@@ -36,7 +34,7 @@ welcome_text_markdown: |
   Our mission at The Stern Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/SaltLakeLiving
+  facebook_url: https://www.facebook.com/millionaireagentmindset/
   linkedin_url: https://www.linkedin.com/in/joshuasternteam
   gplus_url: https://plus.google.com/117823830236940632705
   youtube_url: https://www.youtube.com/user/JoshuaSternTeam/featured?view_as=public
