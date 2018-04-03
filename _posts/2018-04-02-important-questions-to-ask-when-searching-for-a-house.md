@@ -31,11 +31,11 @@ If you are looking for your next home, there are a few questions you should ask 
 
 If you are buying a condo, it’s also important to check out the area. They’ll be able to give you an idea of who lives in the building and what the area is like. In the city, you’ll find all kinds, and in downtown condos, there are a lot of rentals. Walk into the condo building to talk to the concierge and get an idea of what living in the building will be like.
 
-**2. What are the schools like?**You can go to [TDSB](http://www.tdsb.on.ca/), the school district’s website, and find which school district the property you’re looking at is in. You can then go to [FraserInstitute.org](https://www.fraserinstitute.org/)to check the rating of that school.
+**2. What are the schools like?&nbsp;**You can go to [TDSB](http://www.tdsb.on.ca/), the school district’s website, and find which school district the property you’re looking at is in. You can then go to [FraserInstitute.org](https://www.fraserinstitute.org/)&nbsp;to check the rating of that school.
 
 {% include pullquote.html %}
 
-**3. How much will the utility bills be?** Usage will always be different for different people, but you should find out what the average cost is. Since taxes are higher and hydro has been increasing prices, expect hydro to be about 20% more expensive than they used to be. For the average single-family 2,500 square foot home, utilities will cost about $450 a month. If you are looking at a townhouse, you can expect to pay about $300 a month. A 1- or 2-bedroom condo would cost about $100 to $200 a month in utility bills. Ask your agent to ask the previous owners about what they paid in utility bills.
+**3. How much will the utility bills be?** Usage will always be different for different people, but you should find out what the average cost is. Since taxes are higher and Hydro has been increasing prices, expect Hydro to be about 20% more expensive than they used to be. For the average single-family 2,500 square foot home, utilities will cost about $450 a month. If you are looking at a townhouse, you can expect to pay about $300 a month. A 1- or 2-bedroom condo would cost about $100 to $200 a month in utility bills. Ask your agent to ask the previous owners about what they paid in utility bills.
 
 These are important questions to ask that are often overlooked, especially by first-time homebuyers.
 
