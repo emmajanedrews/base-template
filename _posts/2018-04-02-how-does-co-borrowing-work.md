@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Co-Borrowing Work?
-date: 2018-04-02 18:39:09
+date: 2018-04-02 18:39:00
 tags:
   - Home Buyer Tips
 excerpt: Co-borrowing is on the rise in L.A. Here’s how it works.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: AIhYoUiKKoE
+youtube_code: lpobVYcSP5Q
 ---
 
 {% include youtube.html %}
