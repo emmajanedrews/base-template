@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Reconnect Yourself to the Fundamentals of Your Business
-date: 2018-04-03 15:25:06
+date: 2018-04-03 15:25:00
 tags:
   - Agent Advice
 excerpt: >-
   In today’s competitive market, agents need to revisit the fundamentals of the
   business and hone their skills. Here’s how I learned that lesson.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Marcus+Green/VIdeos/2018/April/Northern+Utah+Real+Estate+Coaching-+Reconnect+Yourself+to+the+Fundamentals+of+Your+Business.mp4
 pullquote: Commit yourself to the monotony of success.
 enclosure_type: video/mp4
 enclosure_time:
