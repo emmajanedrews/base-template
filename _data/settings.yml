@@ -24,8 +24,8 @@ client:
   phone2_type:
   email: josh@servingsaltlake.com
   url: http://sternteam.org
-  first_CTA_text: Request a Consultation
-  first_CTA_URL: /contact/
+  first_CTA_text: Register
+  first_CTA_URL: /register/
 
   phone_CTA: true
 emma_form:
