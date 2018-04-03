@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Brandon Real Estate Video Blog with Lee Garland
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,41 +11,43 @@ emma:
   form:
 
 client:
-  name:
+  name: Lee Garland
   title:
   license_number:
   about_markdown: |
+    We are excited about the fact that you are considering the Jackson Metro area of Mississippi. Lee Garland & The Moving On Team of RE/MAX Alliance are sure you will fall in love with one of our local communities where recreation and level 5 schools are abundant. Neighborhoods like Reunion, Buckingham and Bruenberg are just a sampling of what's out there. So if it's walking trails, water sports, golf or even an equestrian center you're looking for rest assured there is a place for you.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    If you are searching for an agent you will not have to look any further than Lee's team at RE/MAX Alliance. Just ask any of their clients and you will see there are no false promises, just years of experience backed by unbelievable guarantees. Such as the "Easy Exit Listing" allowing you to cancel your listing at anytime OR the "Love It Or Leave It" Home Buyers Advantage where they will resale your home for free during the first 3 years. There is also the "Guaranteed Sale" for sellers where Lee & Rita will buy your home if it does not sale.
+  market: Brandon
+  brand: The Moving On Team
+  brokerage: RE/MAX Alliance
+  address: 505 Avalon Way<br>Brandon, MS 39047
+  phone: 601-983-1130
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Lee@LeeGarland.com
+  url: http://GuaranteedSoldMS.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://leegarland.freehousevalues.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.buy601.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://leegarland.freehousevalues.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.buy601.com/
 
 lender:
   show_section: false
@@ -61,16 +63,16 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/LeeGarlandMovingOn/
+  linkedin_url: http://www.linkedin.com/in/theleegarland
+  gplus_url: https://plus.google.com/u/0/114554364486440411847
+  youtube_url: https://www.youtube.com/channel/UC8HYrc4nwuEBpwTf0WuZJlg
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/LeeGarland1/
   trulia_url:
-  yelp_url:
+  yelp_url: https://www.yelp.com/biz/lee-garland-re-max-alliance-brandon?osq=lee+garland
   podcast_url:
 
 podcast:
@@ -91,8 +93,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#e11f26'
+  theme_color: '#0a54a3'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
