@@ -3,6 +3,7 @@ layout: post
 title: 5 Ways to Prepare Your Home for the Spring Market
 date:
 tags:
+  - Home Seller Tips
 excerpt: >-
   Is your home ready for the spring selling season? There are five things you
   need to do to position yourself for a successful sale.
@@ -18,8 +19,9 @@ youtube_code: Bk2TxqsCe10
 {% include youtube.html %}
 {: .present-before-paste}
 
-<center>Is your home ready for the spring selling season? There are five things you need to do to position yourself for a successful sale.</center>
-{: .present-before-paste}
+<center class="present-before-paste"><em>Is your home ready for the spring selling season? There are five things you need to do to position yourself for a successful sale.</em></center>
+
+<center class="present-before-paste">&nbsp;</center>
 
 What can you do to prepare your home for sale this spring selling season? I have five tips to share with you today.&nbsp;
 {: .present-before-paste}
