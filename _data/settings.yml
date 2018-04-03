@@ -10,7 +10,7 @@ client:
   name: Abel Tejeda
   license_number:
   about_markdown: |
-      'Our “About Us” web page would be more appropriately called “About You”, as our focus is on closing your loans faster and more efficiently. Our winning strategy consists of a carefully crafted blend of excellent Interest Rates, Flexible Loan Products and Exceptional Customer Service . This concept combines the winning combination: paperless loan process with instant automated loan approvals.'
+    Our “About Us” web page would be more appropriately called “About You”, as our focus is on closing your loans faster and more efficiently. Our winning strategy consists of a carefully crafted blend of excellent Interest Rates, Flexible Loan Products and Exceptional Customer Service . This concept combines the winning combination: paperless loan process with instant automated loan approvals.
   market: San Diego
   brand: American Mortgage Group
   brokerage:
@@ -28,7 +28,7 @@ CTAs:
   second_CTA_text: Apply Online
   second_CTA_URL: https://abeltejeda-com.mysecureloan.com/applications/page1.php?lng=en
   third_CTA_text: Get Prequalified
-  third_CTA_URL: https://calendly.com/abeltejeda/prequalification/03-29-2018 
+  third_CTA_URL: https://calendly.com/abeltejeda/prequalification/03-29-2018
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808804';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
