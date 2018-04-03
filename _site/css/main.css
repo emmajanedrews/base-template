@@ -2776,9 +2776,10 @@ form select {
   margin-top: 10px; }
 
 .testimonial-text {
-  color: #00509f; }
+  color: #000000; }
 
 .testimonial-author {
+  color: #00509f;
   font-style: italic; }
 
 .recruiting {
@@ -2927,3 +2928,7 @@ form select {
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 89, 166, 0.6));
   filter: drop-shadow(0px 2px 7px rgba(0, 89, 166, 0.6)); }
+
+.indent {
+  Margin-left: 4rem;
+  Margin-right: 4rem; }
