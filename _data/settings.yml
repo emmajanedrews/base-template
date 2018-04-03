@@ -38,7 +38,7 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Request a Free Strategy Session
-  first_CTA_URL: 'http://www.viewcentralpahouses.com/join-the-team'
+  first_CTA_URL: '/contact/'
   second_CTA_text:
   second_CTA_URL:
 
@@ -47,7 +47,7 @@ sidebar_CTA:
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: "Let's talk about how The Dave Hooke Team can take your business to new heights."
     CTA_link_text: Request a Free Strategy Session
-    CTA_url: 'http://www.viewcentralpahouses.com/join-the-team'
+    CTA_url: '/contact/'
 lender:
   show_section: false
   header_text: Preferred Lender
