@@ -29,7 +29,7 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **If you’re a buyer, here are five tips you can follow that will help you beat out other offers and close on your dream home:&nbsp;**
 
-**1. Offer more money.** It's that simple—money talks. If you’re pre-approved for $250,000, I suggest looking at homes in the $200,000 to $245,000 range so you have the capacity to raise your offer. At end of the day, nothing works better than gree.
+**1. Offer more money.** It's that simple—money talks. If you’re pre-approved for $250,000, I suggest looking at homes in the $200,000 to $245,000 range so you have the capacity to raise your offer. At the end of the day, nothing works better than gree.
 
 **2. Write a letter to the seller.** Money talks, but it’s not always about the money. Buying and selling a home can be an emotional process, and sellers are often emotionally attached to their homes, so they want to make sure whoever buys it will be good to it. Writing them a letter that compliments them, gives a little bit of your background, and shares what you like about the property and what you plan to do with it can help you tremendously.
 
@@ -39,7 +39,7 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **5. Have your agent call the seller’s agent.** This will fill you in on more details about the home and its seller, including why they’re selling. On our team, we call the seller’s agent once when we submit an offer and once while the offer is under consideration just to see how we can help our client. More often than not, this helps us win the home for them.&nbsp;
 
-**To see more information please click on the icons below to read more!&nbsp;**
+**To see more information, please click on the icons below to read more!&nbsp;**
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Buyers click here! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sellers click here!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/9XmoPo/dee_pdf_1-1?dt=R6qfasfW-JyZrV11T9gq)&nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/download-28-1.jpg)](https://dochub.com/elizabethvandeveer/2e37lr/dee_pdf_2-1?dt=AYFVbCXs4yEAp9n5CVF3)
 
