@@ -8,7 +8,7 @@ excerpt: >-
   Why might buyers in today’s market choose to purchase a new construction home?
   There are actually a number of good reasons to do so.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Aaron+Wittenstein/Peak+Properties+Group+Why+purchase+new+construction.mp4
+  https://s3.amazonaws.com/vyralmarketing/Alex+Tooke/Peak+Properties+Group+Why+purchase+new+construction.mp4
 pullquote: >-
   The advantages of a new construction purchase are truly worth considering in
   today’s hot market.
