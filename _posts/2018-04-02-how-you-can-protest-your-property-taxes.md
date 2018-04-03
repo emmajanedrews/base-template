@@ -28,13 +28,13 @@ A lot of my clients have been fortunate to have their properties appreciate over
 
 One of the only ways you can lower your property tax bill is by protesting the assessed value your property taxes, and there are a few ways you can do this.
 
-The first way is by compiling any comparable data you have, taking that data down to the appraisal district, and protesting your case.
+The first way is by **compiling any comparable data you have, taking that data down to the appraisal district, and protesting your case.**
 
 {% include pullquote.html %}
 
-However, not everyone is equipped with the knowledge to do this, so you can also try hiring a property tax consulting firm. They’ll do all the work, and you don’t pay them anything unless they save you money. The downside of doing this, though, is they’ll take anywhere from 30% to 50% of what they save you.
+However, not everyone is equipped with the knowledge to do this, so you can also try **hiring a property tax consulting firm.** They’ll do all the work, and you don’t pay them anything unless they save you money. The downside of doing this, though, is they’ll take anywhere from 30% to 50% of what they save you.
 
-Also, a lot of these firms have assessed value cutoffs where they’ll only accept cases for properties over a certain threshold because of the time it takes to protest these taxes. If using one of these firms isn’t an option for you, there are some do-it-yourself vendors out there who can provide you with all of the data you need for a small nominal fee in exchange for you doing all of the work with the courthouse.
+Also, a lot of these firms have assessed value cutoffs where they’ll only accept cases for properties over a certain threshold because of the time it takes to protest these taxes. If using one of these firms isn’t an option for you, **there are some do-it-yourself vendors out there who can provide you with all of the data you need** for a small nominal fee in exchange for you doing all of the work with the courthouse.
 
 I have contacts in all of these fields, so if you’re interested in working with one of these professionals, I’d be glad to refer you or anyone you know to one of them.
 
