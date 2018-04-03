@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contact
-permalink: /contact/
+title: Register
+permalink: /register/
 ---
 
 {% include contact.html %}

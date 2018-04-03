@@ -2632,7 +2632,8 @@ form select {
 
 .required {
   font-weight: bold;
-  color: #ab0000; }
+  color: #ab0000;
+  font-size: 14px; }
 
 #about {
   font-weight: bold; }
