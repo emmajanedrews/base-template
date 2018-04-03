@@ -11,7 +11,7 @@ permalink: /subscribe/
 <hr>
 <p>Dear Real Estate Agent:</p>
 
-<p>Are you looking for training that teaches you exactly what you need to do to sell homes specifically right here in Jacksonville?</p>
+<p>Are you looking for training that teaches you exactly what you need to do to sell homes specifically right here in Chicago?</p>
 
 <p>I invite you to subscribe to our free real estate agent training newsletter.</p>
 
@@ -65,7 +65,7 @@ permalink: /subscribe/
 
 <p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 
-<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in our Jacksonville.</p>
+<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in our Chicago.</p>
 
 <p>I invite you to subscribe now below:</p>
 {% include subscribe.html %}
