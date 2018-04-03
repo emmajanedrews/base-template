@@ -51,11 +51,11 @@ permalink: /subscribe/
 <div class="testimonial-inline">
 <p><strong>Here’s what a few agents say about our free training:</strong></p>
 
-<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
+<p class="testimonial-text indent">“Working with Kati and her amazing team has given me the tools and coaching to reach my personal goals of success. Her experience in the industry as a top producer keeps me steps ahead of the game. Having Kati as a mentor allows me to appropriately advise my clients in every situation, with excellent customer service and care. It's refreshing to work with a team on this elite level, and I look forward to the years ahead!” <span class="testimonial-author">- Ashton Zobens, Agent</span></p>
 
-<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
+<p class="testimonial-text indent">“Since joining The Spaniak Team almost a year ago, Kati has shared knowledge of the industry that has helped me grow and change my mindset.” <span class="testimonial-author">- Stephanie Orsi, Agent</span></p>
 
-<p class="testimonial-text indent">“This training is great!” <span class="testimonial-author">- Bob</span></p>
+<p class="testimonial-text indent">“Kati is a direct communicator and always knows how to ask the tough questions to get you thinking outside the box.” <span class="testimonial-author">- Jamie Wagener, Agent</span></p>
 </div>
 <hr>
 
