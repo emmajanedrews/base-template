@@ -18,7 +18,7 @@ youtube_code: KalfKdDzV1M
 
 {% include youtube.html %}
 
-**Since I last spoke to you, there have been a lot of exciting changes for our team.**Before I get to those, I want to say thank you to all of our friends, families, and clients. Because of you, we were able to help more people accomplish their real estate goals than any other agent in central Mississippi. The long hours of work were worth every second to be able to help you.
+**Since I last spoke to you, there have been a lot of exciting changes for our team.&nbsp;**Before I get to those, I want to say thank you to all of our friends, families, and clients. Because of you, we were able to help more people accomplish their real estate goals than any other agent in central Mississippi. The long hours of work were worth every second to be able to help you.
 
 Now, onto the changes. I founded this company in 2004 and shortly after, I brought on two business partners. They helped the business grow and now, 14 years later, we have been blessed again. **I am now the sole owner of this company once again. I’m so excited about the opportunities and I give all the credit to God.**
 
