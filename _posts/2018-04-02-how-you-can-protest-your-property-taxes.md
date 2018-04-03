@@ -9,7 +9,7 @@ excerpt: >-
   If you think your property taxes are too high, you can get them lowered by
   protesting them, and there are a few different ways you can do this.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Wade+Betz/DFW+Mortgage+Lender-+What+Do+Recent+Changes+to+the+FHA+Loan+Limits+Mean+for+Buyers%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Wade+Betz/DFW+Mortgage+Lender-+Protesting+Your+Taxes.mp4
 pullquote: >-
   I’d be glad to refer you to a professional who can help you protest your
   property taxes.
