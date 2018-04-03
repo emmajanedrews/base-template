@@ -3,7 +3,7 @@ layout: recruiting
 title: Free Strategy Call
 permalink: /strategy-call/
 ---
-
+<div class="whitespace"></div>
 <div class="recruiting-page">
 <h1 class="join-us">Free Real Estate Business Planning Call</h1>
 <h5 class="join-us-subtitle">Are you a hungry real estate agent looking for more?</h5>

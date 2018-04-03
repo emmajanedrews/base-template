@@ -3,6 +3,7 @@ layout: default
 title: Training
 permalink: /training/
 ---
+<div class="whitespace"></div>
 <div id="player-container1" class="player-container">
   <!-- THE YOUTUBE PLAYER -->
   <div class="mlvp-container">
