@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jaytay4-2-18youtube.jpg
-youtube_code: lQG5A7te97Q
+youtube_code: kDkJh0OyE_Q
 ---
 
 {% include youtube.html %}
@@ -41,6 +41,6 @@ Even though interest rates have gone up, prices have gone up as well, so we are 
 
 If you are a buyer, the time to buy was really six months ago because rates were still lower. However, you should buy a home now. **They are still historically low, and you should lock in that rate before they go up to 5%.**
 
-If you are a seller, be careful. Don’t try to time the market. We don’t know how much longer these market conditions will last, &nbsp;so it’s a great time to get your home listed in San Diego.
+If you are a seller, be careful. Don’t try to time the market. We don’t know how much longer these market conditions will last,  so it’s a great time to get your home listed in San Diego.
 
 If you have any questions about buying or selling in this current market, just give me a call or send me an email. I would be happy to help you!
