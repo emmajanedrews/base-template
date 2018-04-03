@@ -18,7 +18,7 @@ youtube_code: Bk2TxqsCe10
 {% include youtube.html %}
 {: .present-before-paste}
 
-Is your home ready for the spring selling season? There are five things you need to do to position yourself for a successful sale.
+<center>Is your home ready for the spring selling season? There are five things you need to do to position yourself for a successful sale.</center>
 {: .present-before-paste}
 
 What can you do to prepare your home for sale this spring selling season? I have five tips to share with you today.&nbsp;
