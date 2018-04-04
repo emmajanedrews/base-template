@@ -23,7 +23,7 @@ youtube_code: PssSOGEICVo
 
 Many of you know that photography is one of my favorite hobbies. I love taking pictures. Photography is just one way that technology has changed the real estate industry, and virtual tours have made a huge difference.&nbsp;
 
-We take professional photos and do virtual tours of our listings for all of our sellers. We also use Matterport 3D cameras to create dollhouse tours so that buyers can sit in their pajamas at three in the morning anywhere in the world and get a good idea of what the house looks like.
+We take professional photos and do virtual tours of our listings for all of our sellers. We also use Matterport 3-D cameras to create dollhouse tours so that buyers can sit in their pajamas at three in the morning anywhere in the world and get a good idea of what the house looks like.
 
 We used to have broker tours and open houses, but **the technology has gotten so good that you have a really good idea of what these homes look like before you ever see the home in person.&nbsp;**
 
