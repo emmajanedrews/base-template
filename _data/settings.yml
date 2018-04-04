@@ -1,5 +1,5 @@
 audit_header: false
-title: 'The VA Loan Guy'
+title: The VA Loan Guy
 description: >-
   Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a
   true “One Stop Lender”. We originate, underwrite, and close all types of
@@ -33,7 +33,6 @@ client:
 CTAs:
   first_CTA_text: Apply Now
   first_CTA_URL: 'https://preapp1003.com/id/Patrick-Fitzgerald/'
-
 emma_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -48,7 +47,7 @@ lender:
   show_section: false
   header_text: Preferred Lender
   headshot_path: 'http://fillmurray.com/200/200'
-  logo_path: /img/logo.png
+  logo_path: /uploads/header-logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
