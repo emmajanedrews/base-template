@@ -1584,7 +1584,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 50rem;
   -webkit-filter: drop-shadow(0px 2px 7px black);
   filter: drop-shadow(0px 2px 7px black); }
 
@@ -1593,7 +1593,7 @@ label.tree-toggle {
   text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
   font-weight: 350;
-  font-size: 6.5rem;
+  font-size: 5rem;
   padding-bottom: 4rem;
   margin-bottom: 0; }
 
@@ -2493,6 +2493,9 @@ table tr, table td {
 
 .footer-pad {
   padding-top: 20px; }
+
+.disclosure {
+  font-size: 12px; }
 
 .item-container {
   margin: 3rem 5rem;
