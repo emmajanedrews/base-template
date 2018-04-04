@@ -20,7 +20,7 @@ youtube_code: 7gjhoFG8Wr4
 
 {% include youtube.html %}
 
-New homeowners may be excited about finally having a place to themselves, but there are seven things they often forget to keep in mind when it comes to maintaining the home.
+<center>New homeowners may be excited about finally having a place to themselves, but there are seven things they often forget to keep in mind when it comes to maintaining the home.</center>
 
 Today, I’m going to discuss seven things that new homeowners don’t know that they need to be doing.
 
