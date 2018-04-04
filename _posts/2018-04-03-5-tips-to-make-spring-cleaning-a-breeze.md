@@ -30,10 +30,10 @@ Spring cleaning can be a pain, but don’t worry. Here are five spring cleaning 
 
 {% include pullquote.html %}
 
-**3****. Keep your glass shower door clean.** Spray some Rain-x on it. Many of your might have used Rain-x when cleaning your car windshield or windows, but it works perfect for a glass shower door as well. Just make sure you ventilate your bathroom after you use it.
+**3****. Keep your glass shower door clean.** Spray some Rain-X on it. Many of you might have used Rain-x when cleaning your car windshield or windows, but it works perfectly for a glass shower door as well. Just make sure you ventilate your bathroom after you use it.
 
 **4. Clean your oven.** Mix equal parts baking soda and water until you have a paste, then coat the bottom of your oven with it and let it sit overnight. Wipe it out in the morning and your oven will look brand new.
 
 **5. Clean your baseboards.** Wipe them down with water and a rag and use a magic eraser for any dark scuff marks.
 
-If you have any tips we can add to this list or if you have any real estate questions, don’t hesitate to give us a call or send us an email. We look forward to hearing from you! <br>
+If you have any tips we can add to this list or if you have any real estate questions, don’t hesitate to give us a call or send us an email. We look forward to hearing from you!&nbsp;
