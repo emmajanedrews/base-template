@@ -3,6 +3,7 @@ layout: post
 title: 'New Homeowners: Don’t Forget These 7 Tips'
 date:
 tags:
+  - Real Estate
 excerpt: >-
   New homeowners may be excited about finally having a place to themselves, but
   there are seven things they often forget to keep in mind when it comes to
@@ -20,7 +21,9 @@ youtube_code: 7gjhoFG8Wr4
 
 {% include youtube.html %}
 
-<center>New homeowners may be excited about finally having a place to themselves, but there are seven things they often forget to keep in mind when it comes to maintaining the home.</center>
+<center><em>New homeowners may be excited about finally having a place to themselves, but there are seven things they often forget to keep in mind when it comes to maintaining the home.</em></center>
+
+<center>&nbsp;</center>
 
 Today, I’m going to discuss seven things that new homeowners don’t know that they need to be doing.
 
