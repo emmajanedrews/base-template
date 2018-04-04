@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1.   Sell Your Home Fast and for Top Dollar With These 3 Tips
+title: Sell Your Home Fast and for Top Dollar With These 3 Tips
 date: 2018-04-04 00:00:00
 tags:
 excerpt:
@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: 'https://youtu.be/nNxgMy-Ad0w'
+youtube_alternate_image: /uploads/jeff-cook-screenshot.jpg
+youtube_code: nNxgMy-Ad0w
 ---
 
 {% include youtube.html %}
