@@ -36,7 +36,7 @@ The second program is **a mortgage credit certificate program.** This is a dolla
 
 The average homeowner gets a tax refund of about $2,000 with this tax credit. You can receive all of that in your tax refund or adjust your W4 to receive more money on your paycheck. Of course, the second option would reduce your tax refund at the end of the year.&nbsp;
 
-**The difference between a tax credit and a tax deduction is that the credit is dollar for dollar,**while the deduction is 15 to 28 cents per dollar you spend. &nbsp;
+**The difference between a tax credit and a tax deduction is that the credit is dollar for dollar,&nbsp;**while the deduction is 15 to 28 cents per dollar you spend. &nbsp;
 
 You can use this program to purchase a new or existing home, a condo, a townhouse, manufactured housing, a duplex, or a fourplex.&nbsp;
 
