@@ -35,7 +35,7 @@ We all know someone who is buying or selling a home, right? What if you could re
 
 Thomas Edison did not invent the light bulb—he just made it better. How are we going to make the lightbulb better? With coaching and organizing your database, just to name a few methods.
 
-**You could earn $10,000 to $30,000 a year part time.** Again, if you’re interested and want to learn more about this program, just **[click here](https://www.teamlally.com/real-estate-referrals.php)** and we’ll look forward to seeing you there.&nbsp;
+**You could earn $10,000 to $30,000 a year part-time.** Again, if you’re interested and want to learn more about this program, just **[click here](https://www.teamlally.com/real-estate-referrals.php)** and we’ll look forward to seeing you there.&nbsp;
 
 If you have any other questions, don’t hesitate to reach out to us. We’d be glad to help you.&nbsp;
 
