@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-cook-maximize.jpg
-youtube_code: 'https://youtu.be/nNxgMy-Ad0w'
+youtube_code: nNxgMy-Ad0w
 ---
 
 {% include youtube.html %}
