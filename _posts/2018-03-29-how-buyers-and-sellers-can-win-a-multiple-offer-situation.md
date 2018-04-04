@@ -41,7 +41,7 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **To see more information, please click on the icons below to read more!&nbsp;**
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Buyers click here! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sellers click here!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/9XmoPo/dee_pdf_1-1?dt=R6qfasfW-JyZrV11T9gq)&nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/download-28-1.jpg)](https://dochub.com/elizabethvandeveer/2e37lr/dee_pdf_2-1?dt=AYFVbCXs4yEAp9n5CVF3)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;** &nbsp; &nbsp; Buyers click here! &nbsp; &nbsp; &nbsp;**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;** &nbsp; &nbsp; Sellers click here!&nbsp;**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/aJ6qaP/smart-buyer-info-at-dee-team?dt=aXLrzGcjCkJYBwKksFxz)&nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/download-28-1.jpg)](https://dochub.com/elizabethvandeveer/rwv6KD/seller-information-at-dee-team?dt=TNsie7-MGsEqTpHxBobM)
 
 {% include pullquote.html %}
 
