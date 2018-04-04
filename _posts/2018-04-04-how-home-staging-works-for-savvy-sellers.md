@@ -4,7 +4,8 @@ title: How Home Staging Works For Savvy Sellers?
 date: 2018-04-04 14:36:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2018/Cleveland+Park+Real+Estate-+How+Home+Staging+Works+For+Savvy+Sellers.mp4
 pullquote: Make sure you pack away personal items Before listing your home for sale.
 enclosure_type: video/mp4
 enclosure_time:
