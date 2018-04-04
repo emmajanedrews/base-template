@@ -23,7 +23,7 @@ youtube_code: e8tMuTJ01_s
 
 What is an HOA resale disclosure packet?
 
-Under Virginia law, **buyers who sign a purchase contract to purchase a home that’s either in a condo or an HOA neighborhood must be provided the resale package from the seller.**The resale package must be given to the buyer in a timely manner after the contract is ratified. The buyer can cancel the contract within three days of receiving the package, and no reason needs to be given for that cancellation. If the buyer makes no objection during that three-day window, the purchase proceeds.&nbsp;
+Under Virginia law, **buyers who sign a purchase contract to purchase a home that’s either in a condo or an HOA neighborhood must be provided the resale package from the seller.&nbsp;**The resale package must be given to the buyer in a timely manner after the contract is ratified. The buyer can cancel the contract within three days of receiving the package, and no reason needs to be given for that cancellation. If the buyer makes no objection during that three-day window, the purchase proceeds.&nbsp;
 
 What does a disclosure packet contain? **Any covenants, bylaws, financial disclosures, insurance information, special assessments, etc.** The HOA will also conduct its own special inspection and evaluation to make sure it’s not in violation of any architectural guidelines and is in good shape. The HOA will also do a financial evaluation to make sure the current owners or sellers are up to date on all the dues and fees. &nbsp;
 
