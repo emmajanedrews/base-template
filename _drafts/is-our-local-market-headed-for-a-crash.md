@@ -18,7 +18,9 @@ youtube_code: '-1V-lgR05ZQ'
 
 {% include youtube.html %}
 
-<center>Lately, people have been asking me the same question every day: Is our market crumbling? Today, I want to bring you the truth about this common concern.</center>
+<center><em>Lately, people have been asking me the same question every day: Is our market crumbling? Today, I want to bring you the truth about this common concern.</em></center>
+
+<center>&nbsp;</center>
 
 You may have heard rumors lately that Portland home values are crumbling. The National Association of Mortgage Brokers just came out with a list of the top 10 most overvalued markets in the country, and two Oregon markets made the list. These markets were Medford and Portland Southwest Washington.&nbsp;
 
