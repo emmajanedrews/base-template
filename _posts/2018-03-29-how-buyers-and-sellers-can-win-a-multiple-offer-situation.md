@@ -43,11 +43,11 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **Buyers click here! &nbsp; &nbsp; &nbsp;**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-![](/uploads/download-27.jpg)&nbsp; &nbsp; &nbsp;&nbsp;
+[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/NjK1B9/smart-buyer-information-at-dee-team?dt=YwZpm8oyZwq6smMSNxgL)&nbsp; &nbsp; &nbsp;&nbsp;
 
 **S****ellers click here!&nbsp;**
 
-![](/uploads/download-28-1.jpg)
+[![](/uploads/download-28-1.jpg)](https://dochub.com/elizabethvandeveer/OD5xBR/smart-seller-info-at-dee-team?dt=xzH337_GUqYroyo1-nHn)
 
 {% include pullquote.html %}
 
