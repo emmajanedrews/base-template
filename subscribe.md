@@ -32,10 +32,6 @@ permalink: /subscribe/
 
 <p>That’s plenty of business to go around for all of us.</p>
 
-<p>We’ve been fortunate to sell 179 homes last year and our average agent earns six figures a year with us.</p>
-
-<p>The same training they get will help you do it as well.</p>
-
 <p>So, if you’re interested in knowing what we’re up to here, and you’d like to stay current on the latest strategies to:
 <ol class="indent">
 <li>Generate qualified seller leads</li>
