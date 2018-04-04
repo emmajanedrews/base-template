@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jaytay4-2-18youtube.jpg
-youtube_code: kDkJh0OyE_Q
+youtube_code: ffwanbvSwcc
 ---
 
 {% include youtube.html %}
