@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Buyers and Sellers Can Win a Multiple Offer Situation
-date: 2018-03-29 20:00:17
+date: 2018-03-29 20:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GDrFssrR71w
+youtube_code: 64F2AayPDRY
 ---
 
 {% include youtube.html %}
@@ -43,15 +43,15 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **Buyers click here! &nbsp; &nbsp; &nbsp;**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/NjK1B9/smart-buyer-information-at-dee-team?dt=YwZpm8oyZwq6smMSNxgL)&nbsp; &nbsp; &nbsp;&nbsp;
+[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/aJ6qaP/smart-buyer-info-at-dee-team?dt=aXLrzGcjCkJYBwKksFxz)&nbsp; &nbsp; &nbsp;&nbsp;
 
 **S****ellers click here!&nbsp;**
 
-[![](/uploads/download-28-1.jpg)](https://dochub.com/elizabethvandeveer/OD5xBR/smart-seller-info-at-dee-team?dt=xzH337_GUqYroyo1-nHn)
+[![](/uploads/download-28-1.jpg)](https://dochub.com/elizabethvandeveer/rwv6KD/seller-information-at-dee-team?dt=TNsie7-MGsEqTpHxBobM)
 
 {% include pullquote.html %}
 
-What about sellers? First of all, if you are a seller, congratulations. There are a lot of buyers in our market and not a lot of inventory, so you’re in a unique situation.&nbsp; &nbsp;
+What about sellers? First of all, if you are a seller, congratulations. There are a lot of buyers in our market and not a lot of inventory, so you’re in a unique situation.&nbsp;&nbsp;
 
 My first tip for you is to just make sure you’re being a smart seller. Just because everything else is selling doesn’t mean your home will if it isn’t priced right. That’s why **the most important thing you can do to create a multiple offer situation for your home is to price it right.** If your property is worth $250,000, I’d suggest putting it on the market at $245,000. Listing it for less than it’s worth will attract more offers and you’ll end up selling the home for more than what it’s worth. You also want to price your home in a way that prevents any appraisal issues.
 
