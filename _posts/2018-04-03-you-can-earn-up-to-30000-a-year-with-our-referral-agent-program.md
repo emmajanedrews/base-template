@@ -23,7 +23,7 @@ youtube_code: enDW_QO47LA
 
 Today we want to talk to you about a part-time business in real estate.
 
-First, we want to mention that we have a career night coming up at our office, so **click on <u>this link</u> to RSVP if you’re interested in attending.**&nbsp;
+First, we want to mention that we have a career night coming up at our office, so **click on [<u>this link</u>](https://www.teamlally.com/career-night.php) to RSVP if you’re interested in attending.**&nbsp;
 
 Career night is where our idea for a part-time real estate career originated. Most attendees have day jobs and couldn’t commit full time, so we came up with a part-time solution—a referral agent program.&nbsp;
 
@@ -31,11 +31,11 @@ If you have an active or inactive license or are thinking about getting your lic
 
 {% include pullquote.html %}
 
-We all know someone who is buying or selling a home, right? What if you could refer that person to a full-time real estate team and collect a commision simply by providing that person’s information? Part-time referral agent’s also have greatly reduced licensing costs.
+We all know someone who is buying or selling a home, right? What if you could refer that person to a full-time real estate team and collect a commission simply by providing that person’s information? Part-time referral agents also have greatly reduced licensing costs.
 
 Thomas Edison did not invent the light bulb—he just made it better. How are we going to make the lightbulb better? With coaching and organizing your database, just to name a few methods.
 
-**You could earn $10,000 to $30,000 a year part time.** Again, if you’re interested and want to learn more about this program, just click on the link above and we’ll look forward to seeing you there.&nbsp;
+**You could earn $10,000 to $30,000 a year part time.** Again, if you’re interested and want to learn more about this program, just **[click here](https://www.teamlally.com/real-estate-referrals.php)** and we’ll look forward to seeing you there.&nbsp;
 
 If you have any other questions, don’t hesitate to reach out to us. We’d be glad to help you.&nbsp;
 
