@@ -1,27 +1,30 @@
 ---
-youtube_code: MjuTP-GIbcs
+youtube_code: QeloPwQzk0w
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+3+Winter+Energy+Saving+Tips+(1).mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+3+Winter+Energy+Saving+Tips+(1).mp4
 pullquote: DRAFT SNAKES COME IN MANY DIFFERENT COLORS AND DESIGNS.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: 3 Energy-Saving Tips This Winter
-date: '2018-02-09T13:54:00.001-08:00'
+title: Don’t Miss Your Chance to Win – April 1st Deadline!
+date: 2018-03-26 12:00:00
 author: Vyral Admin
 tags:
-modified_time: '2018-02-15T11:36:35.831-08:00'
-thumbnail: https://i.ytimg.com/vi/MjuTP-GIbcs/default.jpg
-blogger_id: tag:blogger.com,1999:blog-7685520009179009924.post-4254217541785754577
-blogger_orig_url: http://blog.kellycookhomes.com/2018/02/3-energy-saving-tips-this-winter.html
+  - Real Estate
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/MjuTP-GIbcs/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-7685520009179009924.post-4254217541785754577'
+blogger_orig_url: >-
+  http://blog.kellycookhomes.com/2018/03/dont-miss-your-chance-to-win-new-yeti.html
 ---
-{% include youtube.html %}
-Even the desert gets cold sometimes. Here’s how to keep your energy costs low when it does.
+
+{% include youtube.html %}Even the desert gets cold sometimes. Here’s how to keep your energy costs low when it does.
 
 <div class="post-cta">
-<strong>Looking to buy a home? <a href="http://www.arizonarealestatesource.com/" target="_blank">Search all homes for sale</a></strong><br>
+<strong>Looking to buy a home? <a href="http://www.arizonarealestatesource.com/" target="_blank">Search all homes for sale</a></strong><br />
 <strong>Selling your home? <a href="http://www.scottsdalerealestatestore.com/" target="_blank">Get a FREE home value report</a></strong>
 </div>
 
