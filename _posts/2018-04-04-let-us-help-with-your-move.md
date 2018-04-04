@@ -23,4 +23,4 @@ youtube_code: vSArQnJ2oXc
 
 <center>&nbsp;</center>
 
-One of the services we provide here at Miranda Real Estate Group is the use of a free moving truck. This is just one of the things we do differently for our clients. We truly care about making things as easy as possible during your transition between homes. If you’re interested in buying or selling a home here in the capitol district, we would love to assist you in doing so.
+One of the services we provide here at the Miranda Real Estate Group is the use of a free moving truck. This is just one of the things we do differently for our clients. We truly care about making things as easy as possible during your transition between homes. If you’re interested in buying or selling a home here in the Capitol District, we would love to assist you in doing so.
