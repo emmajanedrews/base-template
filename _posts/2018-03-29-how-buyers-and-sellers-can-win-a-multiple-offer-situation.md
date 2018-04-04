@@ -51,7 +51,7 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 {% include pullquote.html %}
 
-What about sellers? First of all, if you are a seller, congratulations. There are a lot of buyers in our market and not a lot of inventory, so you’re in a unique situation.&nbsp;
+What about sellers? First of all, if you are a seller, congratulations. There are a lot of buyers in our market and not a lot of inventory, so you’re in a unique situation.&nbsp;&nbsp;
 
 My first tip for you is to just make sure you’re being a smart seller. Just because everything else is selling doesn’t mean your home will if it isn’t priced right. That’s why **the most important thing you can do to create a multiple offer situation for your home is to price it right.** If your property is worth $250,000, I’d suggest putting it on the market at $245,000. Listing it for less than it’s worth will attract more offers and you’ll end up selling the home for more than what it’s worth. You also want to price your home in a way that prevents any appraisal issues.
 
