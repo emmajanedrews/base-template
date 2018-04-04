@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I have tips for both buyers and sellers on how to get the best deal possible
   out of a multiple offer situation.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/The+Dee+Team+How+to+win+a+multiple+offer+situation.mp4
 pullquote: >-
   Our market is red-hot, so take advantage of these tips and get the best deal
   possible for yourself.
@@ -27,7 +28,7 @@ youtube_code: 64F2AayPDRY
 
 The end of the first quarter is almost here, so today’s topic is a scenario that many buyers and sellers are facing in our current market: a multiple offer situation. I have some tips and advice for both sides of the transaction so no matter which side you’re on, you can get the best deal possible.
 
-**If you’re a buyer, here are five tips you can follow that will help you beat out other offers and close on your dream home:&nbsp;**
+**If you’re a buyer, here are five tips you can follow that will help you beat out other offers and close on your dream home:**
 
 **1. Offer more money.** It's that simple—money talks. If you’re pre-approved for $250,000, I suggest looking at homes in the $200,000 to $245,000 range so you have the capacity to raise your offer. At the end of the day, nothing works better than gree.
 
@@ -37,21 +38,21 @@ The end of the first quarter is almost here, so today’s topic is a scenario th
 
 **4. Buy as-is property.** This means buying the property in its current condition as you saw it. As-is properties are subject to inspection, so you have seven to 10 days to do that inspection. If you don’t like anything about the home, you can always go back to the negotiating table. As I always tell my clients, get your foot in the door. Be the person who gets their offer accepted on an as-is property so the seller takes that property off the market. That way, if the next seller wants to offer more money for it, that won’t matter unless you decide to walk away from the deal.
 
-**5. Have your agent call the seller’s agent.** This will fill you in on more details about the home and its seller, including why they’re selling. On our team, we call the seller’s agent once when we submit an offer and once while the offer is under consideration just to see how we can help our client. More often than not, this helps us win the home for them.&nbsp;
+**5. Have your agent call the seller’s agent.** This will fill you in on more details about the home and its seller, including why they’re selling. On our team, we call the seller’s agent once when we submit an offer and once while the offer is under consideration just to see how we can help our client. More often than not, this helps us win the home for them.
 
 <u><strong>To see more information, please click on the icons below to read more!</strong></u>
 
-**Buyers click here! &nbsp; &nbsp; &nbsp;**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+**Buyers click here!**
 
-[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/aJ6qaP/smart-buyer-info-at-dee-team?dt=aXLrzGcjCkJYBwKksFxz)&nbsp; &nbsp; &nbsp;&nbsp;
+[![](/uploads/download-27.jpg)](https://dochub.com/elizabethvandeveer/aJ6qaP/smart-buyer-info-at-dee-team?dt=aXLrzGcjCkJYBwKksFxz)
 
-**S****ellers click here!&nbsp;**
+**S****ellers click here!**
 
 [![](/uploads/download-28-1.jpg)](https://dochub.com/elizabethvandeveer/rwv6KD/seller-information-at-dee-team?dt=TNsie7-MGsEqTpHxBobM)
 
 {% include pullquote.html %}
 
-What about sellers? First of all, if you are a seller, congratulations. There are a lot of buyers in our market and not a lot of inventory, so you’re in a unique situation.&nbsp;&nbsp;
+What about sellers? First of all, if you are a seller, congratulations. There are a lot of buyers in our market and not a lot of inventory, so you’re in a unique situation.
 
 My first tip for you is to just make sure you’re being a smart seller. Just because everything else is selling doesn’t mean your home will if it isn’t priced right. That’s why **the most important thing you can do to create a multiple offer situation for your home is to price it right.** If your property is worth $250,000, I’d suggest putting it on the market at $245,000. Listing it for less than it’s worth will attract more offers and you’ll end up selling the home for more than what it’s worth. You also want to price your home in a way that prevents any appraisal issues.
 
