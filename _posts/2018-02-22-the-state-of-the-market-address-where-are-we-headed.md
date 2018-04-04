@@ -1,28 +1,31 @@
 ---
-youtube_code: erp6UWuTc6c
+youtube_code: Z6S734NnM
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+3+Winter+Energy+Saving+Tips+(1).mp4
-pullquote: ACCORDING TO FREDDIE MAC’S CHIEF ECONOMIST, THE DAYS OF THE SUB-4% INTEREST RATE ARE NOW OVER.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+3+Winter+Energy+Saving+Tips+(1).mp4
+pullquote: >-
+  ACCORDING TO FREDDIE MAC’S CHIEF ECONOMIST, THE DAYS OF THE SUB-4% INTEREST
+  RATE ARE NOW OVER.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: 'The State of the Market Address: Where Are We Headed?'
-date: '2018-02-22T10:54:00.001-08:00'
+date: 2018-02-22 18:54:00
 author: Vyral Admin
 tags:
-- Kelly Cook Real Estate
-modified_time: '2018-02-22T10:54:26.805-08:00'
-thumbnail: https://i.ytimg.com/vi/erp6UWuTc6c/default.jpg
-blogger_id: tag:blogger.com,1999:blog-7685520009179009924.post-37842269173612604
-blogger_orig_url: http://blog.kellycookhomes.com/2018/02/the-state-of-market-address-where-are.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/erp6UWuTc6c/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-7685520009179009924.post-37842269173612604'
+blogger_orig_url: >-
+  http://blog.kellycookhomes.com/2018/02/the-state-of-market-address-where-are.html
 ---
-{% include youtube.html %}
-What does the trajectory of the state of our market look like this year? I have three key points to discuss.
+
+{% include youtube.html %}What does the trajectory of the state of our market look like this year? I have three key points to discuss.
 
 <div class="post-cta">
-<strong>Looking to buy a home? <a href="http://www.arizonarealestatesource.com/" target="_blank">Search all homes for sale</a></strong><br>
+<strong>Looking to buy a home? <a href="http://www.arizonarealestatesource.com/" target="_blank">Search all homes for sale</a></strong><br />
 <strong>Selling your home? <a href="http://www.scottsdalerealestatestore.com/" target="_blank">Get a FREE home value report</a></strong>
 </div>
 
