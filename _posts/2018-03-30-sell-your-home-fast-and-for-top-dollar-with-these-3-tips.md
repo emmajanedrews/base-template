@@ -12,9 +12,9 @@ enclosure: >-
 pullquote: A little bit of money will go a long way in improving your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: nNxgMy-Ad0w
+use_youtube_image: false
+youtube_alternate_image: /uploads/jeff-cook-maximize-2.jpg
+youtube_code:
 ---
 
 {% include youtube.html %}
