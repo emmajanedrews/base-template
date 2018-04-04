@@ -1,9 +1,8 @@
 ---
 layout: post
-title: How Jnos Public Relations Helps Doctors Brand Themselves
-date: 2018-04-03 21:32:45
+title: How JNoS Public Relations Helps Doctors Brand Themselves
+date: 2018-04-03 21:32:00
 tags:
-  - Marketing
 excerpt: >-
   Today, Jennifer Simpson, owner of Jnos Public Relations, is here today to talk
   about how she helps doctors brand themselves and create a social media
@@ -25,7 +24,7 @@ Today, I’m casting the business spotlight on the owner of Jnos Public Relation
 
 **How do you help doctors build their business through branding?**
 
-Doctors spend a lot of time in the office, but before that, they spend a lot time in their educational pursuit. We like to help them find stories within that journey. Most doctors were never taught how to build their business outside of medical school.
+Doctors spend a lot of time in the office, but before that, they spend a lot of time in their educational pursuit. We like to help them find stories within that journey. Most doctors were never taught how to build their business outside of medical school.
 
 Social media is so new to our generation. Prior to attending medical school, they never dreamed of having to know about using such a platform. Using branding and my experience in public relations, I help them identify a message or a tone that they want to convey on their social media platforms, combined with nice, crisp imagery.
 
@@ -47,4 +46,4 @@ I would take some time to get to know you and help you uncover potential that yo
 
 I’m reachable through social media with the name @JNOSPR, and my website can be found at [**www.jnospr.com**](https://www.jnospr.com/).&nbsp;
 
-If you have any questions about real estate, feel free to reach out to Buying Selling Houston. We’d be glad to answer any of your questions or offer help as we can.
+I would like to thank Jennifer for joining us today. If you have any questions about real estate, feel free to reach out to Buying Selling Houston. We’d be glad to answer any of your questions or offer help as we can.
