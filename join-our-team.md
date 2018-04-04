@@ -3,7 +3,7 @@ layout: recruiting
 title: Join Our Team
 permalink: /join-our-team/
 ---
-
+<div class="whitespace">/div>
 <div class="recruiting-page">
 <h1 class="join-us">Chicagoland Real Estate Career: Apply Now</h1>
 <h5 class="join-us-subtitle">Looking for a rewarding real estate career in Chicago, IL? We’re hiring in the Northern Chicagoland which includes the North Shore, Northwest suburbs, and Lake County! Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days guaranteed. <strong>Apply now.</strong></h5>
