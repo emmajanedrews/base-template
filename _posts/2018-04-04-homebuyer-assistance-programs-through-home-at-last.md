@@ -26,11 +26,11 @@ The first is their **down payment assistance program.** This is a grant-funded p
 
 There are several options with this grant program, depending on how much assistance you need, that will determine your interest rate.&nbsp;
 
-You can use this grant in rural Washoe County. That includes: Sparks, Spanish Springs, Cold Springs, Lemon Valley, Sun Valley, Hidden Valley, Washoe Valley, the Red Rock area, and any rural Washoe County area.&nbsp;
+You can use this grant in rural Washoe County, which includes areas like Sparks, Spanish Springs, Cold Springs, Lemon Valley, Sun Valley, Hidden Valley, Washoe Valley, the Red Rock area, and any rural Washoe County area.&nbsp;
 
 You can also use this program in Storey County and Lyon County.&nbsp;
 
-The second program is **a mortgage credit certificate program.** This is a dollar for dollar program, which means that for every dollar you spend on your mortgage interest, you get a federal income tax credit of 1 dollar.
+The second program is **a mortgage credit certificate program.** This is a dollar-for-dollar program, which means that for every dollar you spend on your mortgage interest, you get a federal income tax credit of $1.00.
 
 {% include pullquote.html %}
 
