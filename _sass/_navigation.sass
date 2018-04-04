@@ -64,10 +64,14 @@
 	max-width: 300px
 	margin: 15px
 
-@media(max-width: 760px)
+@media(max-width: 1008px)
 	.nav-logo-small
+		float: left !important
 		max-width: 200px
-		margin-top: -15px
+		margin: -15px
+
+	.nav-logo
+		display: none
 
 @media(max-width: 347px)
 	.navbar
@@ -97,7 +101,3 @@
 // 		transform: translateY(0)
 // 		+shadow
 // 		// background: $theme
-.brand-color
-	+shadow
-	background: $theme
-	animation: .3s fadein ease-in-out
