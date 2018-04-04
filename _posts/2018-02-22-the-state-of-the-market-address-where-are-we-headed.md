@@ -16,7 +16,7 @@ date: 2018-02-22 18:54:00
 author: Vyral Admin
 tags:
 modified_time:
-thumbnail: 'https://i.ytimg.com/vi/erp6UWuTc6c/default.jpg'
+thumbnail:
 blogger_id: 'tag:blogger.com,1999:blog-7685520009179009924.post-37842269173612604'
 blogger_orig_url: >-
   http://blog.kellycookhomes.com/2018/02/the-state-of-market-address-where-are.html
