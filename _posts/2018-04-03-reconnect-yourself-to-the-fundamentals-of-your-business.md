@@ -21,7 +21,7 @@ youtube_code: r30n4oKGkXg
 
 Several years ago, I walked into a CrossFit gym for the first time.
 
-I had a background in competitive bodybuilding, and I had heard all about CrossFit, so I wanted to go check it out. My first day, **I saw a guy who was about 40 pounds lighter than I was snatching a significant amount of weight more than what I could possibly do at the time.** Snatching, in the Olympics, is when you pull the weight from the ground all the way overhead and catch it in a full overhead squat. It really bothered me that this kid was so much smaller than me and made it look so effortless.
+I had a background in competitive bodybuilding, and I had heard all about CrossFit, so I wanted to go check it out. My first day, **I saw a guy who was about 40 pounds lighter than me snatching a significant amount of weight more than what I could possibly do at the time.** Snatching, in the Olympics, is when you pull the weight from the ground all the way overhead and catch it in a full overhead squat. It really bothered me that this kid was so much smaller than me and made it look so effortless.
 
 After watching several times, I finally put my finger on what it was that made him able to do this—it was his shoes. The pair he wore were the exact same pair as they wore in the Olympics. I later went on to Amazon and found and bought the same pair of shoes. I returned to the gym with a new level of confidence; I was going to show this kid up, since I was so much bigger than he was.
 
@@ -49,7 +49,7 @@ There are a couple things that are important to think about:
 
 The goal in today’s market, the most competitive market we’ve ever seen in the real estate industry, is for agents to recommit to the fundamentals. Take a step back and ask yourselves what you’re doing well and which areas you need to increase your skill set in.
 
-**Commit yourself to the monotony of success** while knowing what the flow of your day looks like, and the better you will get at the monotonous part of your business. You’ll have more time and energy to put into the things that you love doing in your career.
+**Commit yourself to the monotony of success** while knowing what the flow of your day looks like, and you will get better at the monotonous part of your business. You’ll have more time and energy to put into the things that you love doing in your career.
 
 If you’d like the opportunity to connect with the fundamentals, **I currently have a webinar series called “Real Estate: The Fundamentals.”** It’s free and is held every Monday morning from 8 a.m. to 8:30 a.m. You can join in at any time, and if you’d like to go back and visit topics we’ve discussed previously, visit us at [**www.savvyagent.biz/fundamental**](http://www.savvyagent.biz/fundamental).
 
