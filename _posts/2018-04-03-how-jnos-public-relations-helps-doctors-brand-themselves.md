@@ -4,7 +4,7 @@ title: How JNoS Public Relations Helps Doctors Brand Themselves
 date: 2018-04-03 21:32:00
 tags:
 excerpt: >-
-  Today, Jennifer Simpson, owner of Jnos Public Relations, is here today to talk
+  Today, Jennifer Simpson, owner of JNoS Public Relations, is here today to talk
   about how she helps doctors brand themselves and create a social media
   presence.
 enclosure:
@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/hsVD1kK4n2s'
 
 {% include youtube.html %}
 
-Today, I’m casting the business spotlight on the owner of Jnos Public Relations, Jennifer Simpson, who is going to tell us about how she helps doctors build their business through branding.
+Today, I’m casting the business spotlight on the owner of JNoS Public Relations, Jennifer Simpson, who is going to tell us about how she helps doctors build their business through branding.
 
 **Tell us, Jennifer, what is branding?**<br><br>Branding is a personal message that is tied to your personal attributes; it’s the authentic message that you give to the world.
 
@@ -34,9 +34,9 @@ Oftentimes, as consumers and as patients, we don’t get to talk to our doctors 
 
 {% include pullquote.html %}
 
-**You’re working with Dr. Kanish Hall, an anesthesiologist; what have you been working on together?**
+**You’re working with Dr. KaNisha Hall, an anesthesiologist; what have you been working on together?**
 
-Dr. Kanisha Hall is not only an anesthesiologist, but an author, sexual health expert, and entrepreneur. Her alma mater, Howard University, recently had a homecoming event, and I was able to help her manage the full schedule of a book tour, a few honorary award ceremonies, and a few class sessions where she went back to speak to students. When you have these types of occasions, it’s good to be able to convey this to the media so that they know what’s going on with you. This way, when people Google her, they can find more stories about her personal life, rather than just medical news.
+Dr. KaNisha Hall is not only an anesthesiologist, but an author, sexual health expert, and entrepreneur. Her alma mater, Howard University, recently had a homecoming event, and I was able to help her manage the full schedule of a book tour, a few honorary award ceremonies, and a few class sessions where she went back to speak to students. When you have these types of occasions, it’s good to be able to convey this to the media so that they know what’s going on with you. This way, when people Google her, they can find more stories about her personal life, rather than just medical news.
 
 **How would you advise me to brand myself if I were a doctor?**
 
