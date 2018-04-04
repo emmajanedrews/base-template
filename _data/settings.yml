@@ -22,13 +22,13 @@ client:
     you are told the “straight facts”.
   market:
   brand: The VA Loan Guy
-  brokerage: Peoples Home Equity
-  address: '1000 Central Parkway North, Ste 265<br>San Antonio, TX 78232'
-  phone: 210-780-3001
-  phone_type: Office
-  phone2: 210-215-4400
-  phone2_type: Mobile
-  email: pfitzgerald@peopleshomeequity.com
+  brokerage: Guild Mortgage
+  address: '401 E. Sonterra Blvd, Ste 175<br>San Antonio, TX 78258'
+  phone: 210-215-4400
+  phone_type: Mobile
+  phone2: 210-625-3478
+  phone2_type: Fax
+  email: pfitzgerald@guildmortgage.net
   url: 'http://Texas-Vet-Loans.com'
 CTAs:
   first_CTA_text: Apply Now
