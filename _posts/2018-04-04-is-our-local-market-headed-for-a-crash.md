@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Our Local Market Headed for a Crash?
-date:
+date: 2018-04-04 19:32:38
 tags:
   - Market Update
 excerpt: >-
