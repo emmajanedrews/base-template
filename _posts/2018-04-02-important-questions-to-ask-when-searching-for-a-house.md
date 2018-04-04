@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zAjv4On0bOY
+youtube_code: YDAm1m8zPPw
 ---
 
 {% include youtube.html %}
@@ -31,7 +31,7 @@ If you are looking for your next home, there are a few questions you should ask 
 
 If you are buying a condo, it’s also important to check out the area. They’ll be able to give you an idea of who lives in the building and what the area is like. In the city, you’ll find all kinds, and in downtown condos, there are a lot of rentals. Walk into the condo building to talk to the concierge and get an idea of what living in the building will be like.
 
-**2. What are the schools like?&nbsp;**You can go to [TDSB](http://www.tdsb.on.ca/), the school district’s website, and find which school district the property you’re looking at is in. You can then go to [FraserInstitute.org](https://www.fraserinstitute.org/)&nbsp;to check the rating of that school.
+**2. What are the schools like?**You can go to [TDSB](http://www.tdsb.on.ca/), the school district’s website, and find which school district the property you’re looking at is in. You can then go to [FraserInstitute.org](https://www.fraserinstitute.org/) to check the rating of that school.
 
 {% include pullquote.html %}
 
