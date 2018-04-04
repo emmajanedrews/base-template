@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Combat Indecision in Today's Fast-Paced Market
-date: 2018-03-30 15:14:40
+date: 2018-03-30 15:14:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote: I truly think this is a great strategy for undecided buyers to utiliz
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/fast-moving-market-email.jpg
-youtube_code: GHwCDKNENQE
+youtube_alternate_image:
+youtube_code: nTJwc_NX4OQ
 ---
 
 {% include youtube.html %}
