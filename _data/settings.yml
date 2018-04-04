@@ -39,7 +39,7 @@ client:
   url: 'http://www.GlobalRealtyServices.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: 'https://www.globalrealtyservices.com/cma/property-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.globalrealtyservices.com/search/advanced_search/'
 sidebar_CTA:
