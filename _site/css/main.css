@@ -1499,13 +1499,11 @@ html[xmlns] .flexslider .slides {
   .navbar-header a.navbar-brand {
     width: 0;
     display: none;
-    opacity: 0; } }
-.brand-color {
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #333333;
-  -webkit-animation: 0.3s fadein ease-in-out;
-          animation: 0.3s fadein ease-in-out; }
+    opacity: 0; }
 
+  .dropbtn {
+    padding: 6px 16px;
+    width: 100%; } }
 .nav-logo {
   float: left !important;
   max-width: 75px;
