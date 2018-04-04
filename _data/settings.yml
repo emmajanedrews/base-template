@@ -49,7 +49,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: /homevalue/
+    CTA_url: 'https://www.globalrealtyservices.com/cma/property-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
@@ -89,7 +89,8 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/south-florida-real-estate-podcast-traci-cope-tam-julie/id1365154345?mt=2
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/south-florida-real-estate-podcast-traci-cope-tam-julie/id1365154345?mt=2
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories:
