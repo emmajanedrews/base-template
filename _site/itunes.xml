@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Phoenix Real Estate Podcast with Oggie Penev</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://oggiepenevrealtyblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://oggiepenevrealtyblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Penev Realty Advisors - your professional Phoenix Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Oggie Penev</managingEditor>
-    <lastBuildDate>2018-01-31 14:45:24 -0600</lastBuildDate>
+    <lastBuildDate>2018-04-05 09:55:10 -0500</lastBuildDate>
     <media:copyright>Oggie Penev</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://oggiepenevrealtyblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,48 +18,77 @@
     </itunes:owner>
     <itunes:author>Oggie Penev</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://oggiepenevrealtyblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Phoenix Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Penev Realty Advisors - your professional Phoenix Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
+        <title>How to Select an Investment Property</title>
+        <link>http://oggiepenevrealtyblog.com/how-to-select-an-investment-property.html</link>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>Oggie Penev</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-03-30 08:25:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+How+to+Select+an+Investment+Property.mp4</guid>
         <description>
 
-}
+There are a few simple tips to follow if you’re planning on investing in real estate. These tips will ensure that you get the highest return on your investment.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+There are three tips I’d like to cover, today.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+1. Find the right location. In any area, the best locations are near the center of the city. This is where the good schools and the most jobs are. However, be careful not to pay for premium lots. Views don’t appreciate. Paying extra for things like this won’t bring you high returns.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“Investors should seek out properties that will bring you the most appreciation.”
 
-“This is an example of a pull quote”
+2. Find the right type of home. It’s important to seek out properties that will bring you the most appreciation. Single-family homes with a minimum of three bedrooms and two bathrooms will be ideal for this. Avoid homes across from schools or on busy streets. Also, make sure there’s no pool. Pools bring extra expenses and extra liability.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+3. Find the right price. Look at entry-level price points. In Phoenix, this means looking at properties that are less than $300,000. Entry-level properties are easier to rent and easier to sell.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+How+to+Select+an+Investment+Property.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://oggiepenevrealtyblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+How+to+Select+an+Investment+Property.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Have you been thinking lately about getting started in the world of real estate investing? If you have, I’ve got three tips to share with you. These tips will be your key to getting the highest return on your investment.</itunes:subtitle>
         <itunes:author>Oggie Penev</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Have you been thinking lately about getting started in the world of real estate investing? If you have, I’ve got three tips to share with you. These tips will be your key to getting the highest return on your investment.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Find Your Dream Home With These 3 Creative Methods</title>
+        <link>http://oggiepenevrealtyblog.com/find-your-dream-home-with-these-3-creative-methods.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Oggie Penev</author>
+        <pubDate>2018-03-13 16:39:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Find+Your+Dream+Home+With+These+3+Creative+Methods+(1).mp4</guid>
+        <description>
+
+Today, I’ll be giving you three creative suggestions of how to find distressed and off-market homes.
+
+“A foreclosure auction is open for everybody, and they can buy the property at a pretty decent discount.”
+
+1. Foreclosure auctions. In Arizona, when a homeowner stops making payments, the bank will try to work out a deal with them, but if they’re not successful, they’ll file for foreclosure. They’ll give the homeowner 90 days to pay whatever they owe, and if they haven’t paid that, then the home will be put up on a foreclosure auction. This auction is open for everybody, and they can buy the property at a pretty decent discount. You do need to be careful because you’re buying the property in as-is condition and you have to buy it with cash. You have to bring the cash within 24 hours of winning the bid.
+
+2. Tax and court records. Through searching the tax and court records, you can find motivated sellers such as those going through a divorce, those who have tax defaults, probate estates, or anyone who might need to sell. However, a lot of these people might not want to sell, or don’t want to be bothered. Additionally, searching these records could be time-consuming.
+
+3. Use direct marketing.This could mean using direct mail or phone calls. You can write to the homeowners and offer to buy the property, or if you like a specific subdivision, ZIP code, or city, you can pull phone numbers and call them directly. This approach can be successful for specific situations. However, it could also be very expensive, so be careful not to go over budget.
+
+If you have any questions or need any help, feel free to reach out to me. I’d be happy to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Find+Your+Dream+Home+With+These+3+Creative+Methods+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://oggiepenevrealtyblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Find+Your+Dream+Home+With+These+3+Creative+Methods+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When it comes to seeking out a home, you have a lot of different options. Many choose the traditional MLS home search. However, there are some creative routes you can try if your situation calls for them. Today, I have three unconventional ways you can find the home of your dreams. One such method is to scope for foreclosure auctions. To learn more about this and the other two approaches, watch my latest video.</itunes:subtitle>
+        <itunes:author>Oggie Penev</itunes:author>
+        <itunes:summary>When it comes to seeking out a home, you have a lot of different options. Many choose the traditional MLS home search. However, there are some creative routes you can try if your situation calls for them. Today, I have three unconventional ways you can find the home of your dreams. One such method is to scope for foreclosure auctions. To learn more about this and the other two approaches, watch my latest video.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
