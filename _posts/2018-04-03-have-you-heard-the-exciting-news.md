@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Heard the Exciting News?
-date: 2018-04-03 18:42:32
+date: 2018-04-03 18:42:00
 tags:
 excerpt: >-
   There are some exciting changes coming to our team. Here’s what you need to
@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KalfKdDzV1M
+youtube_code: 35F1SHjieow
 ---
 
 {% include youtube.html %}
 
-**Since I last spoke to you, there have been a lot of exciting changes for our team.&nbsp;**Before I get to those, I want to say thank you to all of our friends, families, and clients. Because of you, we were able to help more people accomplish their real estate goals than any other agent in central Mississippi. The long hours of work were worth every second to be able to help you.
+**Since I last spoke to you, there have been a lot of exciting changes for our team.**Before I get to those, I want to say thank you to all of our friends, families, and clients. Because of you, we were able to help more people accomplish their real estate goals than any other agent in central Mississippi. The long hours of work were worth every second to be able to help you.
 
 Now, onto the changes. I founded this company in 2004 and shortly after, I brought on two business partners. They helped the business grow and now, 14 years later, we have been blessed again. **I am now the sole owner of this company once again. I’m so excited about the opportunities and I give all the credit to God.**
 
@@ -33,5 +33,3 @@ Here’s a final surprise. I have been able to remove myself from being the brok
 Our guaranteed sale and homebuyer advantage programs are still here to stay. Barbara Corcoran still endorses our team as well.
 
 If you’re looking to buy or sell a home or you just have any questions about real estate, give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
