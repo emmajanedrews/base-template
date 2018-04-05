@@ -1,0 +1,96 @@
+.browse-container
+  width: 85%
+  display: block
+  margin: 0 auto
+  padding-bottom: 3rem
+
+.browse-item
+  display: block
+  margin: 0 auto
+  font-size: 20px
+  text-align: center
+  width: 75%
+  text-transform: uppercase
+  background: #fff
+  color: $brand
+  // border: 3px solid $brand
+  // border-radius: 2px
+  padding: 1rem
+  &:hover
+    background: rgba(238,238,238,.9)
+    svg
+      @include transform(scale(1.05))
+      @include transform(translateY(-0.2rem))
+
+.browse-svg
+  width: 50px
+
+.hero-home
+  background-position: center
+  background-size: cover
+#hero
+  background-position: center
+  background-size: cover
+  background-attachment: fixed
+  background-repeat: no-repeat
+  text-align: center
+
+.home-logo
+  padding-top: 3rem
+  width: 90%
+  max-width: 60rem
+  @include filter(drop-shadow($header-shadow))
+
+.site-title
+  color: $header-font-color
+  text-shadow: $header-shadow
+  text-transform: uppercase
+  font-size: 6.5rem
+  padding-bottom: 4rem
+  margin-bottom: 0
+
+.home-broker-logo
+  float: right
+  width: 75px
+  padding: 20px 20px 0 0
+
+.apply-button
+  margin: 3rem 0
+
+#apply
+  text-transform: capitalize
+  font-size: 20px
+
+@media (max-width: 1100px)
+  .site-title
+    font-size: 5rem
+
+@media (max-width: 1000px)
+  .home-logo
+    max-width: 20rem
+  .home-broker-logo
+    width: 50px
+    padding-top: 2rem
+
+@media (max-width: 760px)
+  #hero
+    // height: 33rem
+  .home-logo
+    max-width: 20rem
+    margin-top: 4rem
+  .site-title
+    font-size: 5rem
+  .home-broker-logo
+    display: none
+
+@media (max-width: 600px)
+  .home-logo
+    max-width: 15rem
+    margin-top: 2rem
+  .site-title
+    font-size: 3.5rem
+  .cta
+    padding: 1rem
+@media (max-width: 400px)
+  .cta
+    padding: 0.5rem
