@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Draft
+title: 3 Questions to Ask a Listing Agent Before Hiring Them
+date:
 tags:
 excerpt:
 enclosure:
