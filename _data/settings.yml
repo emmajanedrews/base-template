@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Real Estate  Training Video Blog with Matt Bohanon
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,41 +11,41 @@ emma:
   form:
 
 client:
-  name:
+  name: Matt Bohanon
   title:
   license_number:
   about_markdown: |
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  market: Sarasota/Manatee
+  brand: House Match
+  brokerage: Keller Williams Select
+  address: 8210 Lakewood Ranch Blvd City, Lakewood Ranch, FL 34202
+  phone: 941-726-8750
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: mattbohanon@kw.com
+  url: http://www.liveinlakewoodranch.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Join Our Team
+  first_CTA_URL: http://kwsarasota.com/page/why-work-here
+  second_CTA_text: Schedule a Private Meeting
+  second_CTA_URL: http://kwsarasota.com/schedule
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Why Work Here?"
+    CTA_text: "We offer technology, culture and a brokerage with a clear vision for the future."
+    CTA_link_text: "Join Our Team"
+    CTA_url: http://kwsarasota.com/page/why-work-here
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title2: "Schedule a Private Meeting"
+    CTA_text2: "Have Questions? Request A Call."
+    CTA_link_text2: "Contact Us"
+    CTA_url2: http://kwsarasota.com/schedule
 
 lender:
   show_section: false
@@ -85,14 +85,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 45
+  hero_text:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#5A4099'
+  theme_color: '#404040'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
