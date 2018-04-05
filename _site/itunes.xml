@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional Omaha Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Client</managingEditor>
-    <lastBuildDate>2017-12-18 14:20:50 -0600</lastBuildDate>
+    <lastBuildDate>2018-04-05 12:30:08 -0500</lastBuildDate>
     <media:copyright>Client</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Omaha, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,64 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional Omaha Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>123 test test test</title>
+        <link>localhost:4000/123-test-test-test.html</link>
+        
+        <author>Client</author>
+        <pubDate>2017-12-28 05:20:47 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+If I didn’t ride blade on curb, would you still (love me)If I made up my mind at work would you still (love me)Keep it a hundred, I’d rather you trust me than to (love me)Keep it a whole one hund’, don’t got you I got nothing
+
+“Give me a run for my money”
+
+
+Ay, I got something (I got something)Hol’ up, we gon’ function, no assumptionsFeeling like Tyson wit’ it, knock it out twiceI’m with it, only for the night, I’m kiddingOnly for life, you’re a homie for lifeYou’re a homie for life, let’s get it
+
+Hit that shoulder lean, I know what comin’ over meanBackstroke oversea, I know what you needAlready on ten, our money come inAll feeling go out, this feeling don’t droughtThis party won’t end
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Client</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Omaha, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>test post</title>
+        <link>localhost:4000/test-post.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Client</author>
+        <pubDate>2017-12-21 09:56:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+blah blah blah
+
+
+blah blah blah
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>test post test post test post</itunes:subtitle>
+        <itunes:author>Client</itunes:author>
+        <itunes:summary>test post test post test post</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Omaha, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>this is a test post</title>
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>

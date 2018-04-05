@@ -5,9 +5,47 @@
     <description>Our mission at Vyral Marketing is to be your best resource for Omaha real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Vyral Marketing, your professional Omaha Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Dec 2017 14:20:50 -0600</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 14:20:50 -0600</lastBuildDate>
+    <pubDate>Thu, 05 Apr 2018 12:30:08 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Apr 2018 12:30:08 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>123 test test test</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ox7RsX1Ee34?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If I didn’t &lt;strong&gt;ride blade on curb&lt;/strong&gt;, would you still (love me)&lt;br /&gt;If I made up my mind at work would you still (love me)&lt;br /&gt;Keep it a hundred, &lt;em&gt;I’d rather you trust me than to&lt;/em&gt; (love me)&lt;br /&gt;Keep it a whole one hund’, don’t got you I got nothing&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=localhost:4000/123-test-test-test.html&quot; onclick=&quot;window.open(this.href, 'facebook-share','width=580,height=296');return false;&quot; data-toggle=&quot;tooltip&quot; title=&quot;Share on Facebook&quot; itemprop=&quot;Facebook&quot; class=&quot;pullquote&quot;&gt;“Give me a run for my money”
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ay, I got something (I got something)&lt;br /&gt;Hol’ up, we gon’ function, no assumptions&lt;br /&gt;Feeling like Tyson wit’ it, knock it out twice&lt;br /&gt;I’m with it, only for the night, I’m kidding&lt;br /&gt;Only for life, you’re a homie for life&lt;br /&gt;You’re a homie for life, let’s get it&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;em&gt;Hit that shoulder lean&lt;/em&gt;, &lt;strong&gt;I know what comin’ over mean&lt;/strong&gt;&lt;br /&gt;Backstroke oversea, I know what you need&lt;br /&gt;Already on ten, our money come in&lt;br /&gt;All feeling go out, this feeling don’t drought&lt;br /&gt;This party won’t end&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Dec 2017 05:20:47 -0600</pubDate>
+        <link>localhost:4000/123-test-test-test.html</link>
+        <guid isPermaLink="true">localhost:4000/123-test-test-test.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>test post</title>
+        <description>&lt;!--base32-c9gq6t9k68ppctvad9gqmc9n6tw32ck1cdm6wd3degtk0xb2cnhp8w1qc5u36d9mdnu36c3tc9k6avkn6xgq4utn6nu6udtreth66d3degtk0e9td8v6uukbcnm36xtmdnn72whdc9gq6t9k68-base32--&gt;
+
+&lt;p&gt;blah blah blah
+&lt;!--base32-c9gq6t9k68ppctvad9gqmc9n6tw32ck1cdm6wd3degtk0xb2cnhp8w1qc5u36d9mdnu36c3q6dq68u3g6wt7grk6cnm6mukqemtput3ee0t62rv8cwu6ux1kc4wkjw9rd1wk4r9tc9vjurk1edjk6cg-base32--&gt;&lt;/p&gt;
+
+&lt;p&gt;blah blah blah&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Dec 2017 09:56:00 -0600</pubDate>
+        <link>localhost:4000/test-post.html</link>
+        <guid isPermaLink="true">localhost:4000/test-post.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
     
       <item>
         <title>this is a test post</title>
