@@ -18,7 +18,7 @@ youtube_code: bFxxpEEp3go
 
 {% include youtube.html %}
 
-When it comes to marketing your home, we’ve got no-hassle systems in place to help maximize your experience.
+<center>When it comes to marketing your home, we’ve got no-hassle systems in place to help maximize your experience.</center>
 
 Today, I’d like to share you seven highlights from our no-hassle home marketing system. The document these highlights come from is simply an overview of how we sell properties differently than our competition.
 
