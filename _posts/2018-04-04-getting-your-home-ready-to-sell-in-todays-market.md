@@ -26,7 +26,7 @@ We’ve talked before about how there is very little inventory here in the Louis
 
 **1. Turn or add mulch to your plant and flower beds.** You can spruce up your landscaping by simply turning it over with a rake. You can also add some color plants and shrubs, but be sure to clear out or replace any that have died. Don’t forget to address your deck and backyard; if your deck needs any maintenance, be sure to do that. Replace rotting boards and restain or paint if necessary.
 
-**2.****Declutter.** Sorting through your possessions in terms of what to keep, sell, or throw away is one of the toughest things to do. The best way to do this is to form separate piles in the garage, basement, or a separate room. However, if these things aren’t taken care of before buyers come to visit, keep your piles away from the walls so that buyers can see the layout of the room and inspect the walls for damage.
+**2.&nbsp;****Declutter.** Sorting through your possessions in terms of what to keep, sell, or throw away is one of the toughest things to do. The best way to do this is to form separate piles in the garage, basement, or a separate room. However, if these things aren’t taken care of before buyers come to visit, keep your piles away from the walls so that buyers can see the layout of the room and inspect the walls for damage.
 
 {% include pullquote.html %}
 
@@ -40,6 +40,6 @@ We’ve talked before about how there is very little inventory here in the Louis
 
 **7. Deep cleaning.** Make sure that everything is spotless, even your lightbulbs. More light gives the perspective of more space, which equals more money.
 
-These are some tips that I personally used in my own home I’m selling. If you’re a buyer, know that homes coming onto the market  are receiving offers and going under contract in a matter of hours. You’ll need a team of agents who can get you into the home immediately when it comes on the market. My team has 19 agents who are standing by to help get you into those homes.
+These are some tips that I personally used in my own home I’m selling. If you’re a buyer, know that homes coming onto the market &nbsp;are receiving offers and going under contract in a matter of hours. You’ll need a team of agents who can get you into the home immediately when it comes on the market. My team has 19 agents who are standing by to help get you into those homes.
 
-If you’re looking to buy or sell, please don’t hesitate to reach out to use. My team can help you by providing you with resources to prepare your home for sale, as well as represent you as a buyer to find your dream home.
+If you’re looking to buy or sell, please don’t hesitate to reach out to us. My team can help you by providing you with resources to prepare your home for sale, as well as represent you as a buyer to find your dream home.
