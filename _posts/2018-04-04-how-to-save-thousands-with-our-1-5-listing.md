@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Save Thousands With Our 1.5% Listing
-date: 2018-04-04 17:27:49
+date: 2018-04-04 17:27:00
 tags:
 excerpt: >-
   How do our 1.5% listings save you money and help you sell your home for top
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GshMRYSynD0
+youtube_code: rhTszgkf8YU
 ---
 
 {% include youtube.html %}
@@ -26,7 +26,7 @@ When listing a home for sale, most agencies will charge you between 5% and 6% fo
 
 **When listing with us, you will only pay 3.5% to 4% total—you decide.**We keep 1.5% and the buyer gets the remaining 2% to 2.5%, which saves you thousands of dollars no matter the price of your home.
 
-Let’s face it—when you hire an agency that charges 5% or 6%, you’re lucky if you get professional photography. You’re even luckier if your agent does a few open houses. &nbsp;
+Let’s face it—when you hire an agency that charges 5% or 6%, you’re lucky if you get professional photography. You’re even luckier if your agent does a few open houses.
 
 {% include pullquote.html %}
 
@@ -37,5 +37,3 @@ We offer pre-listing marketing, professional photos, aerial drone videos, a prop
 If you would like to learn more about how we can help you sell quickly and for top dollar while saving you thousands, just give us a call. We’ll go over a comparable market analysis, a marketing plan tailored for your home, and a net sheet to show you how much you’ll profit and save with our services.
 
 They say that you get what you pay for, but in this case, they were wrong. We look forward to hearing from you and selling your home for top dollar!
-
-&nbsp;
