@@ -23,11 +23,11 @@ youtube_code: ZG3yxJ1k8Ac
 
 {% include youtube.html %}
 
-Today, I’m joined by a special guest, Kim Lindquist from Edina Realty Home Warranties. Kim has been in real estate for over 25 years. She started in the warranty side about four years ago. We’re going to discuss what a warranty is and a few of the benefits of home warranties.
+Today, I’m joined by a special guest, Kim Lindquist from Edina Realty Home Warranties. Kim has been in real estate for over 25 years. She started on the warranty side about four years ago. We’re going to discuss what a warranty is and a few of the benefits of home warranties.
 
 **What is a home warranty?**
 
-A home warranty is a one-year service agreement that covers repairs and replacement of items due to normal wear and tear. One benefit for a buyer would be budgent protection after you’ve purchased a home and maybe spent a lot of your savings to do so.
+A home warranty is a one-year service agreement that covers repairs and replacement of items due to normal wear and tear. One benefit for a buyer would be budget protection after you’ve purchased a home and maybe spent a lot of your savings to do so.
 
 **How does a home warranty benefit a seller?**
 
@@ -45,4 +45,4 @@ Absolutely. For sellers, we have an option for single-family properties at $485 
 
 When a buyer closes on the home and moves in, there are other options we can add as well. We offer a 7-star buyer upgrade and many other options to add on. If you have an extra freezer or refrigerator, you can add that coverage. You have 30 to 60 days after you close to add coverage.
 
-If you have any other questions about home warranties, you can contact Kim Lindquist at 952-210-9809 or [KimLindquist@EdinaRealty.com.](javascript:void(location.href='mailto:'+String.fromCharCode(75,105,109,76,105,110,100,113,117,105,115,116,64,69,100,105,110,97,82,101,97,108,116,121,46,99,111,109))) As always, you can contact Sara and I with any real estate questions. We would be happy to help you!
+If you have any other questions about home warranties, you can contact Kim Lindquist at 952-210-9809 or [KimLindquist@EdinaRealty.com.](javascript:void(location.href='mailto:'+String.fromCharCode(75,105,109,76,105,110,100,113,117,105,115,116,64,69,100,105,110,97,82,101,97,108,116,121,46,99,111,109))) As always, you can contact Sara and me with any real estate questions. We would be happy to help you!
