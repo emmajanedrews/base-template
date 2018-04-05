@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Protest Your Property Taxes
-date: 2018-04-02 20:51:00
+date: Invalid date
 tags:
   - Home Buyer Tips
   - Home Seller Tips
