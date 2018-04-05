@@ -22,7 +22,7 @@ youtube_code: '-1V-lgR05ZQ'
 
 <center>&nbsp;</center>
 
-You may have heard rumors lately that Portland home values are crumbling. The National Association of Mortgage Brokers just came out with a list of the top 10 most overvalued markets in the country, and two Oregon markets made the list. These markets were Medford and Portland Southwest Washington.&nbsp;
+You may have heard rumors lately that Portland home values are crumbling. The National Association of Mortgage Brokers just came out with a list of the top 10 most overvalued markets in the country, and two Oregon markets made the list. These markets were Medford and Portland/Southwest Washington.&nbsp;
 
 So, is our local market about to crash?&nbsp;
 
