@@ -24,7 +24,7 @@ We take pride in offering the 1.5% listing. How does that work?
 
 When listing a home for sale, most agencies will charge you between 5% and 6% for commission. That 5% to 6% is then divided between the agency that represents the seller, the listing agency, and the agency that represents the buyer. Each agency will receive between 2.5% to 3%.
 
-**When listing with us, you will only pay 3.5% to 4% total—you decide.**We keep 1.5% and the buyer gets the remaining 2% to 2.5%, which saves you thousands of dollars no matter the price of your home.
+**When listing with us, you will only pay 3.5% to 4% total—you decide.&nbsp;**We keep 1.5% and the buyer gets the remaining 2% to 2.5%, which saves you thousands of dollars no matter the price of your home.
 
 Let’s face it—when you hire an agency that charges 5% or 6%, you’re lucky if you get professional photography. You’re even luckier if your agent does a few open houses.
 
