@@ -14,7 +14,7 @@ pullquote: >-
   to market and sell your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/kevin-langan-march-1-ss-no-play.jpg
 youtube_code: icTzsTEYles
 ---
