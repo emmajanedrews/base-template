@@ -14,8 +14,8 @@ pullquote: >-
   to market and sell your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/kevin-langan-march-1-ss-no-play.jpg
 youtube_code: icTzsTEYles
 ---
 
@@ -27,7 +27,7 @@ youtube_code: icTzsTEYles
 
 What three questions do you need to ask a listing agent before hiring them?
 
-**1. What sets them apart from other agents?&nbsp;**For example, here at BTG Real Estate, what sets us apart is our team approach. We compartmentalize each section of our business so each person is the absolute best at what they do.
+**1. What sets them apart from other agents?**For example, here at BTG Real Estate, what sets us apart is our team approach. We compartmentalize each section of our business so each person is the absolute best at what they do.
 
 **2. What type of marketing plan will they be using?** Most agents use a three-point plan: they put a sign in the home’s yard, put the home on the MLS, and pray that some other agent sells it. You need an agent who’s proactive and has a system behind what they’re doing to market and sell your home.
 
