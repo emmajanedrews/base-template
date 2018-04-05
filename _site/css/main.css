@@ -2780,8 +2780,7 @@ form select {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  display: block;
-  margin: 0 auto;
+  display: -webkit-box;
   background: #EE7108;
   border: 1px solid #EE7108;
   border-radius: 0px;
@@ -2793,8 +2792,5 @@ form select {
   transition: all 0.15s ease-out 0s; }
   .topics:hover {
     background: #fff;
-    border: 1px solid #EE7108; }
-  .topics a {
-    color: white; }
-    .topics a:hover {
-      color: #EE7108; }
+    border: 1px solid #EE7108;
+    color: #EE7108; }
