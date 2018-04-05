@@ -21,7 +21,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /Graham_MacKenzie_-_March_2018_-_2_-_Youtube.jpg
 youtube_code: 3Na-A22tbVs
 ---
 
