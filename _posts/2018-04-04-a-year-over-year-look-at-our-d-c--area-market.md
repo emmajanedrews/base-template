@@ -22,15 +22,15 @@ youtube_code: 'https://youtu.be/_bcqP14fBik'
 
 Today, I’d like to share a few recent statistics from our local MLS regarding the current real estate market. Let’s get started.
 
-For the month of February, the median sales price in Washington D.C. and surrounding Maryland areas was around $410,000. This constitutes a 2.6% increase year over year.
+For the month of February, the median sales price in Washington D.C. and the surrounding Maryland areas was around $410,000. This constitutes a 2.6% increase year over year.
 
-The number of closed sales, however, has gone down since last February, decreasing 1.8% to 3,044 homes.
+**The number of closed sales, however, has gone down since last February, decreasing 1.8% to 3,044 homes.**
 
 Year over year, the number of homes that went under contract has also gone down. This February, 4,449 homes went under contract. This is a 4.4% decrease from this time last year.
 
 The number of active listings also decreased year-over-year, dropping 13.4% for a total of 6,494 active listings this February.
 
-So, what do all of these figures mean to today’s buyers and sellers? Well, with inventory at a shortage, homes that are available on the market are moving fast. Multiple offer situations have become more common, so buyers must be ready to put forward their best and highest offer from the start.
+**So, what do all of these figures mean to today’s buyers and sellers?** Well, with inventory at a shortage, homes that are available on the market are moving fast. Multiple offer situations have become more common, so buyers must be ready to put forward their best and highest offer from the start.
 
 Everyone wants a nice home in a good area, so buyers tend to compete over the same few properties. For sellers, this presents a great opportunity. Homes that are priced correctly and are in good condition are selling quickly and for top dollar. However, make sure not to overprice your listing. Homes that are overpriced tend to sit on the market longer and earn less money than those that were priced correctly from the start.
 
