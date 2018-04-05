@@ -23,4 +23,4 @@ It’s tax season, so as you’re doing your taxes, remember this invitation:<br
 
 {% include pullquote.html %}
 
-Additionally, if you’re filing your taxes and beginning to think that you need more tax breaks, possibly through** investment properties or pulling cash out of your home**, contact us as well. As you know, rates are on the upswing. Now may be the time to access some of that hard-earned equity that you have gained since values have gone up.<br><br>Feel free to contact me so we can discuss some options for you. I look forward to hearing from you soon.
+Additionally, if you’re filing your taxes and beginning to think that you need more tax breaks, **possibly through investment properties or pulling cash out of your home,**contact us as well. As you know, rates are on the upswing. Now may be the time to access some of that hard-earned equity that you have gained since values have gone up.<br><br>Feel free to contact me so we can discuss some options for you. I look forward to hearing from you soon.
