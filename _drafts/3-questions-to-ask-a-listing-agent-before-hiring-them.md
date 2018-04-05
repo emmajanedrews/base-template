@@ -21,6 +21,8 @@ youtube_code: icTzsTEYles
 
 {% include youtube.html %}
 
+When interviewing a potential listing agent, there are three specific questions you must ask them to determine if they’re the right fit.
+
 What three questions do you need to ask a listing agent before hiring them?
 
 1. **What sets them apart from other agents?**For example, here at BTG Real Estate, what sets us apart is our team approach. We compartmentalize each section of our business so each person is the absolute best at what they do.
