@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Tour of Mickey’s Retreat in Anaheim
-date: 2018-04-03 14:49:12
+title: Rare Investment Opportunity Near Disneyland!
+date: 2018-04-03 14:49:00
 tags:
   - Real Estate
 excerpt: >-
@@ -24,7 +24,7 @@ Today I’m excited to give you a video tour of Mickey’s Retreat, our newest l
 
 **You’ll love the custom built-in entertainment center, as well as the beautiful, open kitchen.** Any home chef would love to cook here day in and day out.
 
-The master bedroom features a king-size bed, great color scheme, and walk-in closet. The master bathroom has custom tiles, shower, and granite countertops.&nbsp;
+The master bedroom features a king-size bed, great color scheme, and walk-in closet. The master bathroom has custom tiles, shower, and granite countertops.
 
 The hall bathroom is Finding Nemo-themed, there is a princess-themed room, and there is a Cars-themed room for the boys.
 
@@ -34,4 +34,4 @@ In true Orange County style, what could be better than a heated pool? **If the p
 
 The asking price for this home is $675,000. Give me a call today and we can arrange your private showing appointment. **This home can be purchased as a primary residence or as a short-term rental.** No new permits are being offered for short-term rentals in Anaheim, but this home is grandfathered in. The home comes with all the furnishings and even retains the reservations that have already been made. **From the moment you close escrow, you'll start generating cash flow.**
 
-If you have any questions in the meantime, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any questions in the meantime, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.<br>
