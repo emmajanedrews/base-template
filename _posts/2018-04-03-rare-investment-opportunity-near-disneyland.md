@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Mickey’s Retreat is our latest Anaheim listing. Come inside to see what this
   magic home has to offer.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Valerie+Van+de+Zilver/Videos/Orange+County+Real+Estate-+A+Great+Opportunity+for+Real+Estate+Investors.mp4
 pullquote: >-
   You can buy this home as a primary residence or as a short-term rental
   property to create cash flow.
