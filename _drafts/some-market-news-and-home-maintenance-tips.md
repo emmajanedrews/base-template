@@ -13,7 +13,8 @@ excerpt: >-
   in Canyon County, it’s only 29 days. To learn more about our current market
   and which home maintenance tips you shouldn’t skip now that spring has sprung,
   watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Graham+MacKenzie/Videos/2018/Ridge+to+River+Real+Estate+%257C+Market+Update+and+Maintenance+Tips.mp4
 pullquote: >-
   The average purchase price has risen in both Ada and Canyon County since last
   year.
