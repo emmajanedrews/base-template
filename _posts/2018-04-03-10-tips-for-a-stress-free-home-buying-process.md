@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Tips For a Stress-Free Home Buying Process
-date: 2018-04-03 17:35:09
+date: 2018-04-03 17:35:00
 tags:
 excerpt: >-
   First-time homebuyer or not, these 10 tips will make the home buying process
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: '-Ae4dlQH8RI'
+youtube_code: 0ehn2dZqrsE
 ---
 
 {% include youtube.html %}
