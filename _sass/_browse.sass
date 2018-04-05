@@ -13,11 +13,13 @@
   text-transform: uppercase
   background: #fff
   color: $brand
-  // border: 3px solid $brand
-  // border-radius: 2px
+  border: 2px solid $brand
+  // border-radius: 5px
   padding: 1rem
   &:hover
     background: rgba(238,238,238,.9)
+    color: $brand
+    font-weight: bold
     svg
       @include transform(scale(1.05))
       @include transform(translateY(-0.2rem))
@@ -71,6 +73,9 @@
   .home-broker-logo
     width: 50px
     padding-top: 2rem
+  .browse-item
+    width: 90%
+    padding: .5rem
 
 @media (max-width: 760px)
   #hero
