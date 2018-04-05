@@ -18,7 +18,7 @@ youtube_code: hcFzZpTQHeE
 
 {% include youtube.html %}
 
-Your deck might need some maintenance after the crazy snowfall we’ve seen this year. Here are some tips for getting it done.
+<center>Your deck might need some maintenance after the crazy snowfall we’ve seen this year. Here are some tips for getting it done.</center>
 
 Today I want to talk about decks. Whether it’s a seller getting ready to sell or a homeowner who realizes their deck needs a bit of work, I’ve got some tips that can help you out.&nbsp;
 
