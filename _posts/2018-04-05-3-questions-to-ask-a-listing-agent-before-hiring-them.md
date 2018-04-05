@@ -21,7 +21,9 @@ youtube_code: icTzsTEYles
 
 <center>{% include youtube.html %}</center>
 
-<center>When interviewing a potential listing agent, there are three specific questions you must ask them to determine if they’re the right fit.</center>
+<center><em>When interviewing a potential listing agent, there are three specific questions you must ask them to determine if they&rsquo;re the right fit.</em></center>
+
+<center>&nbsp;</center>
 
 What three questions do you need to ask a listing agent before hiring them?
 
