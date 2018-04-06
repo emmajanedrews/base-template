@@ -21,7 +21,7 @@ youtube_code: gVWG25Gvqlw
 
 {% include youtube.html %}
 
-<br>A question we get asked almost every day in our business is, “**When is the best time for me to sell my house?**”
+A question we get asked almost every day in our business is, “**When is the best time for me to sell my house?**”
 
 With our area being so dense, buying or selling a home can be done at basically any time of year. However, this doesn’t mean there aren’t seasonal factors at play. We live in a cold-weather market, which means our market cycle is different from those located in warmer climates.
 
@@ -29,10 +29,10 @@ With our area being so dense, buying or selling a home can be done at basically 
 
 {% include pullquote.html %}
 
-So far this year, we’ve seen a decrease in the number of contracts being written compared what we saw this same time last year. Still, there has been a slight increase in inventory after a very long period of decreasing supply.
+So far this year, we’ve seen a decrease in the number of contracts being written compared to what we saw this same time last year. Still, there has been a slight increase in inventory after a very long period of decreasing supply.
 
 The market is set up statistically for a shift. With that information in mind, think about anyone you know who is thinking of selling in the next three to 18 months. Conditions are now slowly shifting toward a buyer’s market, so if you or anyone you know is thinking of selling, now is a good time to make your move.
 
 **My team and I watch market statistics on a weekly basis, so we have clear evidence that this shift is on its way.**
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
