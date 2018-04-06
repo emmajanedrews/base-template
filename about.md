@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <br>
-<div class="about-video" <iframe width="560" height="315" src="https://www.youtube.com/embed/VSFrt5TgYxE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="about-video"> <iframe width="560" height="315" src="https://www.youtube.com/embed/VSFrt5TgYxE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 <strong>About the Rellis Group</strong>
 
