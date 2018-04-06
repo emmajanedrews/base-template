@@ -25,7 +25,7 @@ As far as finding out what your home is worth, it’s very easy to go online and
 
 To get top dollar for your home sale, we have a couple pointers for you.
 
-First, **let us come into your home and give it a room-by-room evaluation free of charge.**In doing this, we give you a fresh look at your home through buyers’ eyes and tell you what upgrades and repairs you can make that will give you the best return possible. If you spend a dollar, you don’t want to only get a dollar back—you want to get $3, $5, or even $10 back.
+First, **let us come into your home and give it a room-by-room evaluation free of charge.&nbsp;**In doing this, we give you a fresh look at your home through buyers’ eyes and tell you what upgrades and repairs you can make that will give you the best return possible. If you spend a dollar, you don’t want to only get a dollar back—you want to get $3, $5, or even $10 back.
 
 {% include pullquote.html %}
 
