@@ -20,7 +20,7 @@ youtube_code: s6btld6rEgg
 
 {% include youtube.html %}
 
-Changes are coming to our market. Today, I’d like to review a few expert predictions on what we can expect.
+<center>Changes are coming to our market. Today, I’d like to review a few expert predictions on what we can expect.</center>
 
 It’s time for the April edition of our hot-off-the-press market report.&nbsp;
 
