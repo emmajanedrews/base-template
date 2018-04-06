@@ -36,8 +36,9 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.zilverrealtygroup.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.zilverrealtygroup.com/buy/'
-  VR_form: 'http://oi.vresp.com?fid=773dab1052'
+  second_CTA_URL: >-
+    https://www.zilverrealtygroup.com/results-gallery/?photo=1&sort=importdate&status=A
+  VR_form:
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
