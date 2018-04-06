@@ -43,7 +43,8 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: 'https://www.zilverrealtygroup.com/buy/'
+  CTA_url: >-
+    https://www.zilverrealtygroup.com/results-gallery/?photo=1&sort=importdate&status=A
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
