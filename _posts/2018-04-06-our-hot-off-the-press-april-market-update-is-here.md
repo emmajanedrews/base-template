@@ -46,6 +46,6 @@ So, what about cumulative house appreciation by 2022. The Bulls are at 27.4% and
 
 With all of that being said, is it a good time to sell? Well, according to Daren Blomquist, senior VP at ATTOM Data Solutions, “It is the most profitable time to sell a home in more than 10 years.” However, he also said that homeowners are staying put much longer than we’ve ever seen.&nbsp;
 
-So, **if you are thinking of putting your home on the market, I’d like to invite you to join us for our next Home Selling Sharks Seminar on April 7.** The event will be at Hilton Garden Inn in Fort Washington, beginning with a breakfast at 8:15 a.m. with the seminar starting at 9:15 a.m. To sign up, visit [www.homesharkseminar.com](www.homesharkseminar.com).&nbsp;
+So, **if you are thinking of putting your home on the market, I’d like to invite you to join us for our next Home Selling Sharks Seminar on April 7.** The event will be at Hilton Garden Inn in Fort Washington, beginning with a breakfast at 8:15 a.m. with the seminar starting at 9:15 a.m. To sign up, visit [http://www.homesharkseminar.com](http://www.homesharkseminar.com).&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
