@@ -20,11 +20,13 @@ youtube_code: s6btld6rEgg
 
 {% include youtube.html %}
 
-<center>Changes are coming to our market. Today, I’d like to review a few expert predictions on what we can expect.</center>
+<center><em>Changes are coming to our market. Today, I&rsquo;d like to review a few expert predictions on what we can expect.</em></center>
+
+<center>&nbsp;</center>
 
 It’s time for the April edition of our hot-off-the-press market report.&nbsp;
 
-Spring is here and the market is on fire! If you’ve been thinking recently about the value of your home, I’ve got some great news to report. CoreLogic’s chief economist Dr. Frank Nothaft recently said that **“[...] the net result of rising demand and limited for-sale inventory is a continued appreciation in home prices.”**&nbsp;
+Spring is here and the market is on fire! If you’ve been thinking recently about the value of your home, I’ve got some great news to report. CoreLogic’s chief economist Dr. Frank Nothaft recently said that **“[…] the net result of rising demand and limited for-sale inventory is a continued appreciation in home prices.”**&nbsp;
 
 Also, according to the most recent Case Shiller report, appreciation was steady between June and November of last year. While there was a small slowdown in December, this doesn’t mean prices went down. All it means is that we went from an appreciation rate of 6.4% in November to 6.3% in December.&nbsp;
 
