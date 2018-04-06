@@ -23,7 +23,7 @@ youtube_code: DCJJCio0-nE
 
 Today, we’re talking with Steve Becht, who is the sales manager at CreekStone Homes, about some things people should think about when building a new home.
 
-According to Steve, **the process of building a new home is very slow in the beginning.**There’s a lot that goes on behind the scenes, such as working on permits. However, things slowly begin to ramp up as time goes on. What most people imagine when they think about building a home only really makes up the last couple months of a six- or seven-month process.
+According to Steve, **the process of building a new home is very slow in the beginning.&nbsp;**There’s a lot that goes on behind the scenes, such as working on permits. However, things slowly begin to ramp up as time goes on. What most people imagine when they think about building a home only really makes up the last couple months of a six- or seven-month process.
 
 Often when people walk into a model, or “prop”, home, they ask themselves, **“Is this when I get when I want to build a home?”**
 
