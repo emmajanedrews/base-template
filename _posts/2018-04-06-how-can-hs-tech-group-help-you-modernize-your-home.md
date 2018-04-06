@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: There are many long-term benefits to automating your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/nick-kellar-march-1-screen-shot-no-play.jpg
 youtube_code: ISj_NaOjBm0
 ---
