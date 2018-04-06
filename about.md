@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VSFrt5TgYxE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/VSFrt5TgYxE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<strong>Get to Know Rob Ellis / About Rob Ellis / Meet Rob Ellis </strong>
+<strong>About the Rellis Group</strong>
 
 I’m Rob Ellis, and welcome to my site. I’ve been in real estate for three years. I went to Ohio State University, where I studied finance. I got to know a lot about real estate during my senior year and decided to get licensed right away. 
 
