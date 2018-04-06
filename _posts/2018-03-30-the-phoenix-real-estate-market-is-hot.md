@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What’s going on in the Phoenix real estate market? Here’s what you need to
   know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Valley+of+the+Sun+Real+Estate+Agent+Phoenix%E2%80%99s+red-hot+market.mp4
 pullquote: 'In this market, you need to come forward with your highest and best offer.'
 enclosure_type: video/mp4
 enclosure_time:
