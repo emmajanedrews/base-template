@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Phoenix Real Estate Market Is Hot
-date: 2018-03-30 15:45:11
+date: 2018-03-30 15:45:00
 tags:
   - Market Update
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: IKJxLip_xks
+youtube_code: EdB-SAGINJo
 ---
 
 {% include youtube.html %}
