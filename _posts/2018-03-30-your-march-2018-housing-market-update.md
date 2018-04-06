@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The Phoenix metro housing market is red hot at the moment. Here are some
   important statistics for buyers and sellers to note.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Valley+of+the+Sun+Real+Estate+Agent+Phoenix+metro+market+update.mp4
 pullquote: >-
   There is definitely an inventory shortage, which is causing housing prices to
   rise.
