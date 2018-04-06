@@ -27,7 +27,7 @@ In Riverside, the VA lending limit is $453,100 for a single-family residence, $5
 
 So, what happens if you want to purchase a home above the VA lending limit? You actually do still have options in this scenario.
 
-**You can still purchase a home using a VA loan, even if that home is above the lending limit, so long as you pay 25% of the difference.** So if you want to purchase a $700,00 single-family home in San Diego, the $649,750 covered by the VA loan leaves a total difference of $50,250. Of that $50,250, you would only have to come up with $12,562.
+**You can still purchase a home using a VA loan, even if that home is above the lending limit, so long as you pay 25% of the difference.** So if you want to purchase a $700,000 single-family home in San Diego, the $649,750 covered by the VA loan leaves a total difference of $50,250. Of that $50,250, you would only have to come up with $12,562.
 
 Moving on, people also often ask me what kind of incomes qualify for VA loans. Well, if you’re active military, we can use every income source on your LES.
 
