@@ -3,9 +3,10 @@ title: >-
   Valley of the Sun Real Estate Careers and Training Video Blog with Nate
   Martinez
 description: >-
-  A Video Blog about Valley of the Sun Real Estate; It's industry, and the people working
-  in it. Whether you're just starting out, aspiring to begin, or been working in
-  the field for a few years, tune in to get updates, tips, tricks and more!
+  A Video Blog about Valley of the Sun Real Estate; It's industry, and the
+  people working in it. Whether you're just starting out, aspiring to begin, or
+  been working in the field for a few years, tune in to get updates, tips,
+  tricks and more!
 show_custom_links: true
 custom_links:
   - title: RE/MAX Advantage
@@ -38,7 +39,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: info@NatesHomes.com
+  email: NateM@Remax.net
   url: 'http://NatesHomes.com'
 CTAs:
   first_CTA_text: Request a Consultation
@@ -84,18 +85,21 @@ socials:
   podcast_url: >-
     https://itunes.apple.com/us/podcast/glendale-real-estate-careers/id1194698644?mt=2
 podcast:
-  title: Valley of the Sun Real Estate Careers and Training Podcast with Nate Martinez
+  title: >-
+    Valley of the Sun Real Estate Careers and Training Podcast with Nate
+    Martinez
   categories:
     - Education
   image: /img/podcast.jpg
   subtitle: Boost your Career with Veteran Real Estate Agent Nate Martinez
   description: >-
-    A Podcast about The Valley of the Sun Real Estate; It's industry, and the people working
-    in it. Whether you're just starting out, aspiring to begin, or been working
-    in the field for a few years, tune in to get updates, tips, tricks and more!
+    A Podcast about The Valley of the Sun Real Estate; It's industry, and the
+    people working in it. Whether you're just starting out, aspiring to begin,
+    or been working in the field for a few years, tune in to get updates, tips,
+    tricks and more!
   keywords: >-
-    Valley of the Sun Real Estate, Real Estate Careers, Real Estate Professionals,
-    Realtors, Real estate industry, how much do realtors make
+    Valley of the Sun Real Estate, Real Estate Careers, Real Estate
+    Professionals, Realtors, Real estate industry, how much do realtors make
   author: Nate Martinez
 images:
   client_headshot_path: /img/headshot.png
