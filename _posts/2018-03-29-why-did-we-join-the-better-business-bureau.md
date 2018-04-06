@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Why Did We Join the Better Business Bureau?
-date: 2018-03-29 17:01:05
+date: 2018-03-29 17:01:00
 tags:
   - Real Estate
 excerpt: >-
   We’ve joined the Better Business Bureau. If you’re curious as to what this
   change represents, let me explain.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.+Cloud+Real+Estate+We%E2%80%99re+now+part+of+the+BBB.mp4
 pullquote: >-
   It takes 40 years to build a good reputation and only about five minutes to
   undo it.
