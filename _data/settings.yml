@@ -11,7 +11,7 @@ custom_links:
     url: /careers
   # - title: Futurity
   #   url: /futurity
-  - title: Healthcare
+  - title: Healthcareb
     url: /health-care
 client:
   clients:
@@ -52,7 +52,16 @@ client:
       about_markdown: >-
         Erin is the Vice President, Division Manager of the BioPharma team at Govig & Associates. With over 20 years of experience, Erin’s team successfully places professionals within the Biopharmaceutical industry across the nation. Her team has relationships with small, emerging and large BioTech and Pharma companies.
 
-        Erin has over 15 years of experience in developing and coaching teams that have been recognized for record-setting results. Her team of seasoned recruiters can meet and often exceed client expectations in a very competitive industry. Her team works on both a retained and project basis on behalf of her clients.      
+        Erin has over 15 years of experience in developing and coaching teams that have been recognized for record-setting results. Her team of seasoned recruiters can meet and often exceed client expectations in a very competitive industry. Her team works on both a retained and project basis on behalf of her clients.
+    - name: Heather Rittenhouse
+      title: Executive Recruiter
+      specialty: BioPharma
+      client_headshot_path: /img/heather.jpg
+      phone: 480-718-6125
+      email: heather.rittenhouse@govig.com
+      VR_form: 
+      about_markdown: >-
+        Heather is an executive recruiter with Govig BioPharma and specializes in marketing and commercial opportunities within the Biotech and Pharmaceutical industries. She graduated with dual degrees in management and marketing from The W.A. Franke College of Business at Northern Arizona University. Heather is an avid sports fan and will always be willing to talk about her husky. She is committed to seeking and qualifying top talent and helping professionals with their next career moves.
     - name: Jennifer Meyer
       title: Sr. Vice President/ General Manager
       specialty: Building Products
