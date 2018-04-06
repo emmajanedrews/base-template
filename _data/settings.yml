@@ -1,6 +1,9 @@
 audit_header: false
 title: '-- CLIENT BRAND --'
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,8 +14,8 @@ client:
   about_markdown: >-
     Currently the owner of The Zilver Realty Group as well as Valerie’s Vacation
     Homes, Valerie dedicates her time to both helping buyers and sellers, and
-    managing forty-plus vacation homes in Orange County, CA. Maintaining
-    a sincere devotion and respect for her clients, Valerie’s network of lenders,
+    managing forty-plus vacation homes in Orange County, CA. Maintaining a
+    sincere devotion and respect for her clients, Valerie’s network of lenders,
     buyers and sellers is predominantly by referral and a client-base whom have
     been with her since she began.<br><br>
 
@@ -31,9 +34,9 @@ client:
   url: 'http://www.zilverrealtygroup.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.zilverrealtygroup.com/what-is-my-home-worth/'
+  first_CTA_URL: 'https://www.zilverrealtygroup.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.zilverrealtygroup.com/property-search/'
+  second_CTA_URL: 'https://www.zilverrealtygroup.com/buy/'
   VR_form: 'http://oi.vresp.com?fid=773dab1052'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
@@ -44,8 +47,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -59,16 +62,30 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'https://www.zillow.com/profile/Valerie4Homes/'
-  trulia_url: 'https://www.trulia.com/profile/valerie-van-de-zilver-agent-tustin-ca-zgywvss2/reviews'
+  trulia_url: >-
+    https://www.trulia.com/profile/valerie-van-de-zilver-agent-tustin-ca-zgywvss2/reviews
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/orange-county-real-estate-podcast-valerie-van-zilver/id1254489145?mt=2
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/orange-county-real-estate-podcast-valerie-van-zilver/id1254489145?mt=2
 podcast:
   title: Orange County Real Estate Podcast with Valerie Van de Zilver
-  categories: Education
+  categories:
+    - Education
   image: 'http://i.imgur.com/zYnv3zR.jpg'
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /uploads/valerie-headshot.jpg
