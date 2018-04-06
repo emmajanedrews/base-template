@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Home Decor Trends to Avoid When Selling
-date: 2018-03-30 19:06:19
+date: 2018-03-30 19:06:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/download-8.jpg
-youtube_code: Lq-G34eOdt4
+youtube_code: E3Zc-DM6rGQ
 ---
 
 {% include youtube.html %}
@@ -23,7 +23,7 @@ There’s a big difference between decorating your home for pleasure and prepari
 
 **1. Wallpaper.** Bold wallpaper has been a big trend, especially in tiny bathroom spaces. I’ve seen trippy tropicals, astounding animal prints, crazy cacti, giant geometrics, and just about every other kind of pattern in bright colors and metallics. Whether or not this trend has peaked, it’s a big “no” for anyone selling their home.
 
-**2. Intricate tile.&nbsp;**Bold-pattern cement tiles are popping up everywhere, which is exactly why you should avoid them. The pattern may be trendy now, but it could become outdated soon and turn buyers off. You want buyers to see potential in your space—not be distracted by potentially divisive tile choices. Minimize patterns, even in non-permanent items like duvets and furniture.
+**2. Intricate tile.**Bold-pattern cement tiles are popping up everywhere, which is exactly why you should avoid them. The pattern may be trendy now, but it could become outdated soon and turn buyers off. You want buyers to see potential in your space—not be distracted by potentially divisive tile choices. Minimize patterns, even in non-permanent items like duvets and furniture.
 
 **3. Too much purple or yellow.** Purple is the Pantone color of 2018 and Gen Z yellow is trendy, but use these color with caution. Purple walls will only appeal to a small population of buyers. Color is key for resale value, so your home’s colors should be a neutral paint in an eggshell finish.
 
