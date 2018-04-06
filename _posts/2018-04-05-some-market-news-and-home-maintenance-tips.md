@@ -6,13 +6,13 @@ tags:
   - Market Update
   - Real Estate
 excerpt: >-
-  Today I have a quick market update for you and I want to share some important
-  home maintenance tips you should be mindful of now that spring is here. The
-  average purchase price in both Ada and Canyon County has increased since this
-  time last year. In Ada County, the average days on market is 39 days, whereas
-  in Canyon County, it’s only 29 days. To learn more about our current market
-  and which home maintenance tips you shouldn’t skip now that spring has sprung,
-  watch my latest video.
+  Today I have a quick market update for you, and I also want to share some
+  important home maintenance tips you should be mindful of now that spring is
+  here. The average purchase price in both Ada and Canyon County has increased
+  since this time last year. In Ada County, the average days on market is 39
+  days, whereas in Canyon County, it’s only 29 days. To learn more about our
+  current market and hear some important spring maintenance tips, watch my
+  latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Graham+MacKenzie/Videos/2018/Ridge+to+River+Real+Estate+%257C+Market+Update+and+Maintenance+Tips.mp4
 pullquote: >-
