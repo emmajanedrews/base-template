@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Hot-Off-The-Press April Market Update Is Here
-date:
+date: 2018-04-06 14:37:54
 tags:
   - Market Update
 excerpt: >-
