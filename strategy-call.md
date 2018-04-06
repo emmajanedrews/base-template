@@ -26,7 +26,7 @@ permalink: /strategy-call/
 
 <p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes.</p>
 
-<p>I also share with you what we’re doing that works to generate and sales.</p>
+<p>I also share with you what we’re doing that works to generate sales.</p>
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
 
@@ -41,7 +41,7 @@ permalink: /strategy-call/
 <p><span class="quote">Excellent team of realtors, all fun, professional, knowledgeable, and a family environment. All show the desire to help and encourage one another.</span><br>
 <span class="author">- Trina Hoffland</span></p>
 
-<p><span class="quote">Our team joined Abby Realty so we could grow within huge fees. I love the training, camaraderie and diversity.</span><br>
+<p><span class="quote">Our team joined Abby Realty so we could grow without huge fees. I love the training, camaraderie and diversity.</span><br>
 <span class="author">- Denise Tilley</span></p>
 
 <p><span class="quote">I’ve been with three different real estate companies in my career so I can say with confidence that no other broker goes so far above and beyond, and truly cares for you and your success, like Frank Gray.</span><br>
