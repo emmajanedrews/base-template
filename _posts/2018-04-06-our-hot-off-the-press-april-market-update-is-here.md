@@ -38,7 +38,7 @@ During the bubble, the appreciation rate was at more than 7% per year. Then duri
 
 {% include pullquote.html %}
 
-Now that we know what has led us to where we are today, let’s look at what is being projected as we move forward into the next five years. A survey conducted by a panel of over 100 &nbsp;economists, real estate experts, and market strategists found that **most experts believe we will finish 2018 with an appreciation rate around 5%.**In 2019, the rate is projected to slow down to around 4%. Then, appreciation is expected to level off at 3% per year from 2020 until 2022.&nbsp;
+Now that we know what has led us to where we are today, let’s look at what is being projected as we move forward into the next five years. A survey conducted by a panel of over 100 &nbsp;economists, real estate experts, and market strategists found that **most experts believe we will finish 2018 with an appreciation rate around 5%.&nbsp;**In 2019, the rate is projected to slow down to around 4%. Then, appreciation is expected to level off at 3% per year from 2020 until 2022.&nbsp;
 
 Personally, I believe that anything past 2019 is too far off to accurately predict. However, if these predictions are true, we will soon be back to normal appreciation rates.
 
