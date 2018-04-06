@@ -6,8 +6,8 @@ description: >-
   -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links: 
-  - title: about
-    url: /about
+  - title: About
+    url: /About
 client:
   name: Rob Ellis
   license_number: 2014002724
