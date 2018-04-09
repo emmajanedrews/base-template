@@ -22,7 +22,7 @@ I’m Andrew Kronenberg at Hooke, Hooke, and Eckman Realtors here in South Centr
 
 If you’re thinking about buying a new home or selling your current home, we can help.&nbsp;
 
-**Our market is moving quickly.**We have tools that are exclusively available to Realtors to give you the advantage in today’s marketplace.
+**Our market is moving quickly.&nbsp;**We have tools that are exclusively available to Realtors to give you the advantage in today’s marketplace.
 
 {% include pullquote.html %}
 
