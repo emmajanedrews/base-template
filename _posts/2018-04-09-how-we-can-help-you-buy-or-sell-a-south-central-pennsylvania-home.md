@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/-3vSbiDsDQM'
 
 {% include youtube.html %}
 
-I’m Andrew Kronenberg at Hooke, Hooke, and Eckman Realtors here in South Central Pennsylvania. **We serve clients up and down the I-81 corridor from Hershey to Chambersburg.&nbsp;**
+I’m Andrew Kronenberg at Hooke, Hooke & Eckman Realtors here in South Central Pennsylvania. **We serve clients up and down the I-81 corridor from Hershey to Chambersburg.&nbsp;**
 
 If you’re thinking about buying a new home or selling your current home, we can help.&nbsp;
 
