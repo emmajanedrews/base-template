@@ -3,6 +3,7 @@ layout: post
 title: How to Get Started With GeoFarming
 date:
 tags:
+  - Real Estate
 excerpt: >-
   There are three things to keep in mind when choosing a location for your
   GeoFarm.
@@ -17,7 +18,9 @@ youtube_code: 4pCpTqujwQs
 
 {% include youtube.html %}
 
-<center>There are three things to keep in mind when choosing a location for your GeoFarm.</center>
+<center><em>There are three things to keep in mind when choosing a location for your GeoFarm.</em></center>
+
+<center>&nbsp;</center>
 
 People are always telling me, “I want to have a GeoFarm, but how do I choose an area?”
 
