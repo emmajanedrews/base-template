@@ -12,13 +12,13 @@ excerpt: >-
   number of benefits that come with the home warranty. To learn more, watch this
   short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Home+Warranties.mp4
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+What+Are+the+Benefits+of+a+Home+Warranty%253F.mp4
 pullquote: Filing a home warranty claim is very simple and easy.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZG3yxJ1k8Ac
+youtube_code: _q6DwnWAdzk
 ---
 
 {% include youtube.html %}
