@@ -17,7 +17,7 @@ youtube_code: 4pCpTqujwQs
 
 {% include youtube.html %}
 
-There are three things to keep in mind when choosing a location for your GeoFarm.
+<center>There are three things to keep in mind when choosing a location for your GeoFarm.</center>
 
 People are always telling me, “I want to have a GeoFarm, but how do I choose an area?”
 
