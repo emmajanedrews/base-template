@@ -13,6 +13,8 @@ custom_links:
     url: /hiring-process/
   - title: FAQ's
     url: /faq/
+  - title: Apply Now
+    url: https://dave-friedman-team.breezy.hr/#positions
 
 client:
   name: Dave Friedman
