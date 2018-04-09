@@ -3,7 +3,9 @@ layout: post
 title: Combating the Employee Shortage
 tags:
   - Building Products
-excerpt:
+excerpt: >-
+  Thousands of people retire every day, and millennials are entering the
+  workforce in droves. However, there is an imbalance there.
 enclosure:
 pullquote: >-
   Finding a good cultural fit is quite possibly the most difficult part of
@@ -36,5 +38,3 @@ Cultural match is extremely important, so **I encourage hiring managers to spend
 If you are engaged with recruiting firms to help you find talent, make sure that they are looking for cultural fits. The same goes for internal hiring; your HR team should know exactly what your culture is and what works for you, your team, and your organization.
 
 While finding top talent isn’t easy, I hope these talking points offer a little bit of insight to you about your hiring process.
-
-&nbsp;
