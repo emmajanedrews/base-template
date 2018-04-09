@@ -1,9 +1,12 @@
 ---
 layout: default
+title: Meet your Local Dallas Mortgage Lender Team - Dallas Mortgage Lender – The Betz Team
+description: Meet The Betz Team, your Local Dallas Mortgage Lender Team
+permalink: /meet-the-team/
 ---
-<h3>Meet the Team</h3>
+<h1>Meet your Local Dallas Mortgage Lender Team</h1>
 
-![](/img/team.jpg){: .image-size}
+<img src="/img/team.jpg" alt="Team picture of local mortgage lenders in Dallas" class="team-pic">
 
 <h5>VP of Sales/Branch Manager – Wade Betz “The Chief”</h5>
 With more than $400 million in his servicing portfolio, Wade Betz is a leading mortgage originator in the Dallas-Fort Worth area. Wade understands that there is more to a mortgage than the close and has the legacy of Guardian’s 50+ years in business behind him. Like Wade’s Guardian Mortgage counterparts, he understands that a job well done is a job that lasts the duration of the home loan. Counsel, support and personal service are paramount to becoming a trusted mortgage advisor for Guardian’s clients.
@@ -18,7 +21,7 @@ Natasha joined Guardian Mortgage in the 2014 and supports the Betz Team as a loa
 
 <h5>Director of First Impressions – Patrice Jackson-Henley “The Communicator”</h5>
  As the newest member of the team and the first point of contact for borrowers, Patrice’s goal is to give clients that “wow” first impression. With more than 14 years in the real estate industry, she is a professional and has a passion for helping others. Patrice will go out of her way to make sure clients have all of the information they need to make their mortgage process smooth and predictable.  
- 
+
  <div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third 1_3" style="-webkit-text-stroke-width: 0px; background-color: white; box-sizing: border-box; color: #606060; float: left; font-family: &quot;PT Sans&quot;, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 20px; margin-right: 44px; margin-top: 0px; orphans: 2; position: relative; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; width: 337.328px; word-spacing: 0px;">
 <div class="fusion-column-wrapper" data-bg-url="" style="background-position: left top; background-repeat: no-repeat; background-size: cover; box-sizing: border-box; min-height: 1px;">
 <div class="fusion-text" style="box-sizing: border-box;">
@@ -31,4 +34,14 @@ Natasha joined Guardian Mortgage in the 2014 and supports the Betz Team as a loa
 <span style="box-sizing: border-box; color: #333333;"><a href="https://www.guardianmortgageonline.com/wp-content/uploads/2016/03/fax.png" rel="attachment wp-att-26721" style="box-sizing: border-box; color: #333333; text-decoration: none; transition-duration: 0.2s; transition-property: color, background-color, border-color; transition-timing-function: linear;"><img alt="fax" class="alignnone wp-image-26721" height="17" src="https://www.guardianmortgageonline.com/wp-content/uploads/2016/03/fax.png" style="border-style: none; box-sizing: border-box; height: auto; max-width: 100%; vertical-align: top;" width="23" /></a>&nbsp;(972) 767-4667</span></div>
 <div style="box-sizing: border-box; margin: 0px 0px 20px;">
 <span style="box-sizing: border-box; color: #333333;"><a href="https://www.guardianmortgageonline.com/wp-content/uploads/2016/03/email.png" rel="attachment wp-att-26731" style="box-sizing: border-box; color: #333333; text-decoration: none; transition-duration: 0.2s; transition-property: color, background-color, border-color; transition-timing-function: linear;"><img alt="email" class="alignnone wp-image-26731" height="18" src="https://www.guardianmortgageonline.com/wp-content/uploads/2016/03/email.png" style="border-style: none; box-sizing: border-box; height: auto; max-width: 100%; vertical-align: top;" width="24" /></a><a href="mailto:TheBetzTeam@gmc-inc.com" style="box-sizing: border-box; color: #333333; text-decoration: none; transition-duration: 0.2s; transition-property: color, background-color, border-color; transition-timing-function: linear;">TheBetzTeam@gmc-inc.com</a></span></div>
+</div>
+</div>
+</div>
+
+<div class="row">
+  <div class="col-sm-12">
+    <div class="post-cta">
+      Have a home loan question? Contact your local Dallas mortgage lender team at <a href="tel:214-361-5626">214-361-5626</a> today!
+    </div>
+  </div>
 </div>

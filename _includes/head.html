@@ -16,7 +16,7 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <!-- All that meta crap -->
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.description }}
 	{% endif %}">
   <meta name="content-language" content="en_US">
   <meta name="author" content="{{site.data.settings.client.name}}">
@@ -37,7 +37,7 @@
 
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="{{site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}">
-  <meta name="keywords" content="{{site.keywords}}">
+  <meta name="keywords" content="Dallas mortgage lender, home loans Dallas, Dallas mortgage, mortgage broker Dallas, mortgage lender Dallas>
   <meta name="copyright" content="Copyright © {{ site.time | date: '%Y' }}">
   <meta name="author" content="{{site.data.settings.client.name}}">
   <meta name="designer" content="Bryce Stradling">

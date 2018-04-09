@@ -1638,10 +1638,10 @@ label.tree-toggle {
   .cta {
     padding: 0.5rem; } }
 :root {
-  font-size: 10px; }
+  font-size: 12px; }
 
 html {
-  font-size: 10px; }
+  font-size: 12px; }
 
 * {
   box-sizing: border-box;
@@ -2943,3 +2943,20 @@ form select {
 .navbar-andross .navbar-brand {
   color: #fff;
   margin-top: 10px; }
+
+.testimonial-text {
+  font-style: italic; }
+
+.testimonial-author {
+  color: #b40101;
+  margin-top: -20px; }
+
+.team-pic {
+  display: block;
+  margin: 0 auto; }
+
+.post-cta {
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: bold; }

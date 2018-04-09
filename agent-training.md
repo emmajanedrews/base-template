@@ -1,8 +1,11 @@
 ---
 layout: default
+description: The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country.
+permalink: /agent-training/
+title: Dallas Real Estate Training - Dallas Mortgage Lender – The Betz Team
 ---
 
-### Real Estate Agent Webinars
+# Dallas Real Estate Agent Webinars
 
 The CORE Training is a mortgage and real estate coaching company that provides mentoring and coaching to mortgage lenders and real estate agents from all over the country. The CORE helps real estate agents and mortgage lenders accumulate wealth, net more income, and run more efficient teams and business. If you are serious about building a great real estate business, then check out the training videos and resource folders below.
 
