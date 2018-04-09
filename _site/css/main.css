@@ -1595,7 +1595,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   -webkit-filter: drop-shadow(0px 2px 7px transparent);
   filter: drop-shadow(0px 2px 7px transparent); }
 
@@ -2825,7 +2825,7 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px transparent);
