@@ -3,9 +3,11 @@ layout: post
 title: 'The Phoenix and Scottsdale Real Estate Show: Episode 1'
 date:
 tags:
-excerpt:
+excerpt: >-
+  In the first episode of The Phoenix and Scottsdale Real Estate Show, we’re
+  covering three important things that homebuyers should pay attention to.
 enclosure:
-pullquote:
+pullquote: School districts will impact the resale value of your home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
