@@ -10,7 +10,7 @@ enclosure: 'https://youtu.be/Do2znUWoepc'
 pullquote: School districts will impact the resale value of your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/kelly-cook-ep1.jpg
 youtube_code: Do2znUWoepc
 ---
