@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Homeowners: Don’t Forget These 7 Tips'
-date: 2018-04-04 16:22:19
+date: 2018-04-04 16:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7gjhoFG8Wr4
+youtube_code: wBubK-bXpcs
 ---
 
 {% include youtube.html %}
