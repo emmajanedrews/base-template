@@ -17,7 +17,7 @@ youtube_code: OqZFPWHSwYQ
 
 {% include youtube.html %}
 
-I have a few tips to share with you that will help you upgrade the outside of your home.
+<center>I have a few tips to share with you that will help you upgrade the outside of your home.</center>
 
 Whether you’re selling your home or making sure it’s well-maintained heading into spring, here are a few tips that will help you upgrade its exterior.&nbsp;
 
