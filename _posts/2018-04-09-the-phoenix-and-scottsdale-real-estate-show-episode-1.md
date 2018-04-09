@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Phoenix and Scottsdale Real Estate Show: Episode 1'
-date:
+date: 2018-04-09 00:00:00
 tags:
 excerpt: >-
   In the first episode of The Phoenix and Scottsdale Real Estate Show, we’re
