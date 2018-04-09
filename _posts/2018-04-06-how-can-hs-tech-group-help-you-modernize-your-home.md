@@ -20,7 +20,7 @@ youtube_code: ISj_NaOjBm0
 
 We’re back again with another community spotlight for you today. We recently sat down with Stu and Mark of HS Tech Group. They’re going to pull back the curtain and give us a little rundown of what they do here. **Here’s a breakdown of what they talked about in timestamps so you can skip ahead to the part that most interests you**:
 
-:40- What exactly does HS Tech Group do?
+0:40- What exactly does HS Tech Group do?
 
 1:30- How a career in security led Stu and Mark to pursue something more.
 
@@ -36,6 +36,6 @@ We’re back again with another community spotlight for you today. We recently s
 
 {% include pullquote.html %}
 
-**If you have any questions for Stu or Mark or want to learn more about what they do, head on over to www.hstechgroup.com or give them a call at (410) 427-7233**.
+**If you have any questions for Stu or Mark or want to learn more about what they do, head on over to [www.hstechgroup.com](https://hstechgroup.com/) or give them a call at (410) 427-7233**.
 
 If you have any other real estate-related questions, don’t hesitate to give us a ring anytime. We look forward to hearing from you soon!
