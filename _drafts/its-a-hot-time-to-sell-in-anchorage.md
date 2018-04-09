@@ -15,7 +15,7 @@ youtube_code: 0wDwJD1GyZM
 
 {% include youtube.html %}
 
-Today, I’ve got a key market update to share with you.
+<center>Today, I’ve got a key market update to share with you.</center>
 
 Especially for those who are thinking of buying or selling, keeping a pulse on the market is always important, so I’m here with another market update.
 
