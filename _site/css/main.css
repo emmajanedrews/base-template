@@ -1467,17 +1467,15 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 5px solid #B40101;
   border-radius: 0;
-  min-height: 50px;
-  background: #ffffff;
+  height: 30px;
+  background: #B40101;
+  color: #fff;
   width: 100%;
   overflow: hidden; }
 
 .navbar-andross .navbar-brand {
-  color: #B40101;
-  padding-top: 20px;
-  padding-bottom: 33px;
+  color: #fff;
   font-size: 20px;
   text-transform: uppercase;
   max-width: 65%; }
@@ -1499,23 +1497,24 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
-.navbar-left > li > a {
+.navbar-right > li > a {
   background: transparent;
-  color: black;
-  text-transform: capitalize;
-  font-size: 2rem;
+  color: white;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: 18px;
   font-weight: 300; }
-  .navbar-left > li > a:hover {
-    background: #eeeeee;
-    color: #810101; }
-  .navbar-left > li > a:active {
+  .navbar-right > li > a:hover {
+    font-weight: bold;
+    background: transparent; }
+  .navbar-right > li > a:active {
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem);
     text-decoration: none;
-    color: #B40101; }
-  .navbar-left > li > a:focus {
+    color: #fff; }
+  .navbar-right > li > a:focus {
     text-decoration: none;
-    color: #B40101; }
+    color: #fff; }
 
 .cta {
   background: transparent;
@@ -1524,17 +1523,14 @@ html[xmlns] .flexslider .slides {
   font-size: 2rem;
   font-weight: 300; }
   .cta:hover {
-    background: #eeeeee;
-    color: #810101; }
+    font-weight: bold; }
   .cta:active {
-    text-decoration: none;
-    color: #B40101; }
+    text-decoration: none; }
   .cta:focus {
-    text-decoration: none;
-    color: #B40101; }
+    text-decoration: none; }
 
 .fa-bars {
-  color: #B40101; }
+  color: #fff; }
 
 .phone, .fa-phone {
   color: #fff; }
