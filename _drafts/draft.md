@@ -40,7 +40,7 @@ Today we’re going to focus on how to build a retirement plan, **as well as wha
 
 Let’s say you take those variables and go to enter it in a calculator that says you can retire on time with the paycheck you want for the rest of your life. If this happens to you, congratulations! It’s a great first step. Every three to five years, come back and redo the calculation to make sure you’re on track.
 
-<br>**However, for most of us, the calculation will come back saying that we need to do something a little bit different to reach our goals.** That’s when we look at the five dials I mentioned earlier. What can we change in our assumptions to see if we can get back on track?
+**However, for most of us, the calculation will come back saying that we need to do something a little bit different to reach our goals.** That’s when we look at the five dials I mentioned earlier. What can we change in our assumptions to see if we can get back on track?
 
 {% include pullquote.html %}
 
