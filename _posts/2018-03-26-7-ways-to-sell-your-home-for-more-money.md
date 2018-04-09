@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The spring market is coming. What can you do to get your home ready, to sell
   quickly and for the most money?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/Naperville+Real+Estate++The+Stary+Group+Get+the+most+money+for+your+home.mp4
 pullquote: >-
   To get the biggest bang for your buck, repaint your home in neutral colors
   such as tan and gray tones.
@@ -33,7 +34,7 @@ As we approach the spring market, a lot of sellers are asking what they need to 
 * **Kitchen.** Oak cabinets are no longer in; white cabinets are all the rage.
 * **Open all of the blinds.** You want as much natural light in your home as possible. You want people to be able to walk in and see what the home has to offer.
 * **Declutter.** Take everything off the countertops and keep it simple.
-* **Play soft music.&nbsp;**It sets the mood when people are walking through your home.&nbsp;
+* **Play soft music.**It sets the mood when people are walking through your home.
 * **Clean.** Make sure all areas, including your floors, walls, windows, and outside walkways are spic-and-span.
 
 These are some small items that can make or break getting a buyer’s contract on your property.
