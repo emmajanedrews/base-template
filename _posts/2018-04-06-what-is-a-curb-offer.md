@@ -19,9 +19,9 @@ youtube_code: 2RC2-6ZZcHk
 
 Today we’re going to talk about curb offers for commercial properties and some of the key information you’ll need to know about them.
 
-**In commercial real estate, curb offers are pretty common.**What is a curb offer? Well, it’s an offer that you’re making on a property without going through or even seeing the property. If it’s a listed property and there are dozens of buyers interested, instead of having a ton of walkthroughs that disturb tenants, a lot of sellers will provide what’s called “a curb offer.”
+**In commercial real estate, curb offers are pretty common.&nbsp;**What is a curb offer? Well, it’s an offer that you’re making on a property without going through or even seeing the property. If it’s a listed property and there are dozens of buyers interested, instead of having a ton of walkthroughs that disturb tenants, a lot of sellers will provide what’s called “a curb offer.”
 
-The owners typically try to take really good pictures of the property, provide really good information about the property, and other data that allows you to make an assumption on what the value of the property is.** By using comparable sales, you can get a really good idea of what a property will go for.**
+The owners typically try to take really good pictures of the property, provide really good information about the property, and provide other data that allows you to make an assumption on what the value of the property is. **By using comparable sales, you can get a really good idea of what a property will go for.**
 
 {% include pullquote.html %}
 
