@@ -3,6 +3,7 @@ layout: post
 title: Upgrade Your Home’s Exterior With These Quick Tips
 date:
 tags:
+  - Home Seller Tips
 excerpt: >-
   I have a few tips to share with you that will help you upgrade the outside of
   your home.
@@ -17,7 +18,9 @@ youtube_code: OqZFPWHSwYQ
 
 {% include youtube.html %}
 
-<center>I have a few tips to share with you that will help you upgrade the outside of your home.</center>
+<center><em>I have a few tips to share with you that will help you upgrade the outside of your home.</em></center>
+
+<center>&nbsp;</center>
 
 Whether you’re selling your home or making sure it’s well-maintained heading into spring, here are a few tips that will help you upgrade its exterior.&nbsp;
 
