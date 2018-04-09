@@ -21,8 +21,10 @@ blogger_orig_url: http://scotthimelstein.blogspot.com/2018/02/do-fewer-people-wa
 {% include youtube.html %}
 Will The Tax Cuts and Jobs Act keep more San Fernando Valley buyers on the fence? C.P.A. Issam Aljaber is here to discuss this and other concerns about tax reform.
 
-Looking to buy a home? Get a Full Home Search   
-Looking to sell your home?  Free Home Price Evaluation
+<div class="post-cta">
+<strong>Looking to buy a home? <a href="http://www.whatsyoursocalhomeworth.com/" target="_blank">Get a Full Home Search</a></strong><br>
+<strong>Looking to sell your home?  <a href="http://www.scottworks4u.com/#home-search" target="_blank">Free Home Price Evaluation</a></strong>
+</div>
 
 Today I’m joined by C.P.A. Issam Aljaber to discuss some of the concerns we’re hearing from home sellers about the new tax reform act.
 

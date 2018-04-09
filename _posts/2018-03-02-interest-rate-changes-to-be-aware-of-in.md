@@ -5,8 +5,8 @@ enclosure: https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2018/Porter+
 pullquote: IT’S A GREAT TIME FOR BUYERS AND SELLERS TO GET OFF THE FENCE.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/agent.jpg
 layout: post
 title: Interest Rate Changes to Be Aware of in 2018
 date: '2018-03-02T08:30:00.001-08:00'
@@ -22,8 +22,10 @@ blogger_orig_url: http://scotthimelstein.blogspot.com/2018/03/interest-rate-chan
 {% include youtube.html %}
 Though interest rates have risen, the introduction of new lending programs and the loosening of lending guidelines mean now is a great time to buy or sell a home.
 
-Looking to buy a home? Get a Full Home Search   
-Looking to sell your home?  Free Home Price Evaluation
+<div class="post-cta">
+<strong>Looking to buy a home? <a href="http://www.whatsyoursocalhomeworth.com/" target="_blank">Get a Full Home Search</a></strong><br>
+<strong>Looking to sell your home?  <a href="http://www.scottworks4u.com/#home-search" target="_blank">Free Home Price Evaluation</a></strong>
+</div>
 
 One of the most common questions we’re getting right now is how interest rates are affecting buyers and sellers in our market, so I’ve once again brought in our preferred lender Brandon Moss to shed some light on this topic.
 

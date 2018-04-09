@@ -21,8 +21,10 @@ blogger_orig_url: http://scotthimelstein.blogspot.com/2017/12/is-it-better-to-bu
 {% include youtube.html %}
 When it comes to choosing between buying and building a home or between buying a new or resale home, there are a lot of variables to consider.
 
-Looking to buy a home? Get a Full Home Search   
-Looking to sell your home?  Free Home Price Evaluation
+<div class="post-cta">
+<strong>Looking to buy a home? <a href="http://www.whatsyoursocalhomeworth.com/" target="_blank">Get a Full Home Search</a></strong><br>
+<strong>Looking to sell your home?  <a href="http://www.scottworks4u.com/#home-search" target="_blank">Free Home Price Evaluation</a></strong>
+</div>
 
 Is it better to buy or build a house? Or is it better to buy a new or existing home?
 

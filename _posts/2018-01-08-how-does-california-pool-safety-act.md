@@ -21,8 +21,10 @@ blogger_orig_url: http://scotthimelstein.blogspot.com/2018/01/how-does-californi
 {% include youtube.html %}
 How does the California Pool Safety Act affect the home buying process? Keith Morgan from Property Inspection Consultants is here to help me explain.
 
-Looking to buy a home? Get a Full Home Search   
-Looking to sell your home?  Free Home Price Evaluation
+<div class="post-cta">
+<strong>Looking to buy a home? <a href="http://www.whatsyoursocalhomeworth.com/" target="_blank">Get a Full Home Search</a></strong><br>
+<strong>Looking to sell your home?  <a href="http://www.scottworks4u.com/#home-search" target="_blank">Free Home Price Evaluation</a></strong>
+</div>
 
 I hope you all had a happy holiday season. Today, I’m joined by Keith Morgan from Property Inspection Consultants to discuss the California Pool Safety Act and how it affects buyers and sellers.
 

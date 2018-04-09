@@ -21,8 +21,10 @@ blogger_orig_url: http://scotthimelstein.blogspot.com/2018/02/10-terms-first-tim
 {% include youtube.html %}
 Today, I want to share a list of the top 10 terms that all first-time homebuyers should understand.
 
-Looking to buy a home? Get a Full Home Search   
-Looking to sell your home?  Free Home Price Evaluation
+<div class="post-cta">
+<strong>Looking to buy a home? <a href="http://www.whatsyoursocalhomeworth.com/" target="_blank">Get a Full Home Search</a></strong><br>
+<strong>Looking to sell your home?  <a href="http://www.scottworks4u.com/#home-search" target="_blank">Free Home Price Evaluation</a></strong>
+</div>
 
 If you are buying a home for the first time, there are 10 important terms that you need to know:
 

@@ -21,14 +21,16 @@ blogger_orig_url: http://scotthimelstein.blogspot.com/2018/01/what-happened-in-2
 {% include youtube.html %}
 What can you expect from the 2018 real estate market? Let’s take a look at the 2017 market recap and see which market trends may continue this year.
 
-Looking to buy a home? Get a Full Home Search   
-Looking to sell your home?  Free Home Price Evaluation
+<div class="post-cta">
+<strong>Looking to buy a home? <a href="http://www.whatsyoursocalhomeworth.com/" target="_blank">Get a Full Home Search</a></strong><br>
+<strong>Looking to sell your home?  <a href="http://www.scottworks4u.com/#home-search" target="_blank">Free Home Price Evaluation</a></strong>
+</div>
 
 It’s time to recap what happened in the 2017 real estate market. I also have a forecast of what you might be able to expect in 2018 for Porter Ranch and the San Fernando Valley.
 
 2017 started off with very low inventory. There were only about 47 properties for sale out of 11,600 single-family units. We ended the year with slightly less inventory. That low inventory really fueled the market—not just here in Porter Ranch but all over Southern California.
 
-When you look at the inventory in 2017, it stayed very low the first half of the year. In June, as spring transitioned into summer, inventory doubled from what it was at the beginning of the year. Still, it just wasn’t enough to satisfy buyer demand. **Even though inventory increased in the summer, that inventory got gobbled up.** 
+When you look at the inventory in 2017, it stayed very low the first half of the year. In June, as spring transitioned into summer, inventory doubled from what it was at the beginning of the year. Still, it just wasn’t enough to satisfy buyer demand. **Even though inventory increased in the summer, that inventory got gobbled up.**
 
 From the beginning of 2017 to the end of 2017, inventory decreased by 24% and the average price in San Fernando Valley went up 13% in most neighborhoods.
 

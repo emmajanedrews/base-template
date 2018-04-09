@@ -21,8 +21,10 @@ blogger_orig_url: http://scotthimelstein.blogspot.com/2017/12/how-wiseoceans-is-
 {% include youtube.html %}
 I recently talked to Hannah Harries from WiseOceans about their Reef Restoration Project. Learn more about how they are working to reverse the effects of climate change.
 
-Looking to buy a home? Get a Full Home Search   
-Looking to sell your home?  Free Home Price Evaluation
+<div class="post-cta">
+<strong>Looking to buy a home? <a href="http://www.whatsyoursocalhomeworth.com/" target="_blank">Get a Full Home Search</a></strong><br>
+<strong>Looking to sell your home?  <a href="http://www.scottworks4u.com/#home-search" target="_blank">Free Home Price Evaluation</a></strong>
+</div>
 
 The Seychelles is composed of 115 scattered islands in the Indian Ocean. This tiny nation finds itself at ground zero of climate change.
 
