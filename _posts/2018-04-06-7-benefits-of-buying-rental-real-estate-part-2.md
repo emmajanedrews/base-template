@@ -17,7 +17,7 @@ youtube_code: y7f4AcWbrDY
 
 {% include youtube.html %}
 
-Today, I’m here with the second and final video in our series about the seven benefits of buying rental real estate. You can find the first installment [**here**](http://blog.dougcaryteam.com/3-great-benefits-of-investing-in-real-estate.html).
+Today, I’m here with the second and final video in our series about the seven benefits of buying rental real estate. You can find the first installment [**here**](http://blog.dougcaryteam.com/3-great-benefits-of-investing-in-real-estate.html){: target="_blank"}.
 
 Last time, we talked about cash flow, appreciation, and depreciation. Now, it’s time to learn about:
 
