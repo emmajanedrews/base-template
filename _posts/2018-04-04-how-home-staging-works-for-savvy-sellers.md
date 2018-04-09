@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/marjorie-dick-stuart-staging.jpg
-youtube_code: 'https://youtu.be/1ZIUTSpSaAE'
+youtube_code: H27lZhj6Vn0
 ---
 
 {% include youtube.html %}Welcome to another episode of “What’s Working Now!”<br><br>Today, I’m reporting to you live from my listing at 3201 Garfield Street NW…<br>On the edge of Cleveland Park…<br>Last summer, we sold this house for over $1,600,000…<br>**But the story began 3 years earlier…**<br>The owners hired another agent…<br>Who failed to sell their house in 3 months…<br>Frustrated, they took it off the market…<br>**Then, three years later…**<br>A mutual friend referred them to me…<br>That was last August…<br>You all know how I feel about staging…<br>**And something shocking happened at the Garfield house…**<br>That demonstrates exactly how important staging is…<br>In many cases, home staging has helped my sellers net an extra $100,000…<br>Or even more…<br>Sometimes, though, a motivated buyer will get a sneak preview…<br>Before the house is ready…<br>I invited an agent and her prospective buyers over to the Garfield house…<br>She was working with a family of four…<br>**They came into the dining room…**<br>The sellers had their wedding guest list on the wall…<br>The agent noticed it…<br>She couldn’t take her eyes off of it…<br>And she told her buyers…<br>“Come over here and see who’s invited to the wedding.”
