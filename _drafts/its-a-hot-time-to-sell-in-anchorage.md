@@ -3,6 +3,7 @@ layout: post
 title: It's a Hot Time to Sell in Anchorage
 date:
 tags:
+  - Market Update
 excerpt: 'Today, I’ve got a key market update to share with you.'
 enclosure:
 pullquote: Now is the time to make your move if you’re thinking of listing.
@@ -15,7 +16,9 @@ youtube_code: 0wDwJD1GyZM
 
 {% include youtube.html %}
 
-<center>Today, I’ve got a key market update to share with you.</center>
+<center><em>Today, I&rsquo;ve got a key market update to share with you.</em></center>
+
+<center>&nbsp;</center>
 
 Especially for those who are thinking of buying or selling, keeping a pulse on the market is always important, so I’m here with another market update.
 
