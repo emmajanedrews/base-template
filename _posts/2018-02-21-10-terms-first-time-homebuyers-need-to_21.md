@@ -1,7 +1,7 @@
 ---
 youtube_code: CfqnQQXv4gk
 excerpt:
-enclosure:
+enclosure: https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2018/Porter+Ranch+Real+Estate-+10+Terms+for+First-Time+Homebuyers.mp4
 pullquote: CLOSING COSTS ARE USUALLY 2% TO 5% OF THE PURCHASE PRICE.
 enclosure_type: video/mp4
 enclosure_time:
