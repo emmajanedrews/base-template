@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: >-
-  People always ask me, “Shawneequa, what do I do to get top dollar for my home
+  People always ask me, “Shawneequa, what can I do to get top dollar for my home
   in this market?” Today, I’ll share five tips on how to get your home ready for
   the spring and summer selling season. First, remember that your home’s first
   impression is sometimes its only impression. Second, stick to upgrades that
