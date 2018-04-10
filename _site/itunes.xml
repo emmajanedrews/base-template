@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with Willie Miranda</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://WillieMirandaBlog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://WillieMirandaBlog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Willie Miranda</managingEditor>
-    <lastBuildDate>2018-03-07 16:40:49 -0600</lastBuildDate>
+    <lastBuildDate>2018-04-10 11:00:12 -0500</lastBuildDate>
     <media:copyright>Willie Miranda</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://WillieMirandaBlog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,50 @@
     </itunes:owner>
     <itunes:author>Willie Miranda</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://WillieMirandaBlog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Let Us Help With Your Move</title>
+        <link>http://WillieMirandaBlog.com/let-us-help-with-your-move.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Willie Miranda</author>
+        <pubDate>2018-04-04 10:27:15 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+How do we set ourselves apart from other real estate teams? Well, one way is with the free moving truck we offer for our buyers and sellers.
+
+&nbsp;
+
+Looking for a Capital District home?&nbsp;Click here for a full Home SearchSelling Your Capital District home?&nbsp;Get a free Home Price Evaluation
+
+Have any questions? Contact Us
+
+&nbsp;
+
+One of the services we provide here at Miranda Real Estate Group, Inc. is the use of a free moving truck. This is just one of the things we do differently for our clients. We truly care about making things as easy as possible during your transition between homes. If you’re interested in buying or selling a home here in the Capitol District, we would love to assist you in doing so.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How do we set ourselves apart from other real estate teams? Well, one way is with the free moving truck we offer for our buyers and sellers.</itunes:subtitle>
+        <itunes:author>Willie Miranda</itunes:author>
+        <itunes:summary>How do we set ourselves apart from other real estate teams? Well, one way is with the free moving truck we offer for our buyers and sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>We Can Now Connect You With Buyers and Sellers Everywhere</title>
-        <link>localhost:4000/the-network-that-lets-us-help-around.html</link>
+        <link>http://WillieMirandaBlog.com/the-network-that-lets-us-help-around.html</link>
         
         <author>Willie Miranda</author>
         <pubDate>2018-02-12 10:52:00 -0600</pubDate>
@@ -51,7 +86,7 @@ For the Miranda Real Estate Group, this means that, now, not only can we sell or
 If you are looking to sell or buy a home and want to take advantage of this expansion, please reach out to us. We have access to buyers and sellers all over the world, and we hope to use this network to better serve your needs, wherever you are.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+The+network+that+lets+us+help+around+the+world.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+The+network+that+lets+us+help+around+the+world.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -66,7 +101,7 @@ If you are looking to sell or buy a home and want to take advantage of this expa
       
       <item>
         <title>A Few Predictions for Our 2018 Market</title>
-        <link>localhost:4000/what-2018-holds-for-our-markets.html</link>
+        <link>http://WillieMirandaBlog.com/what-2018-holds-for-our-markets.html</link>
         
           <category>market update</category>
         
@@ -104,7 +139,7 @@ These conditions mean we think 2018 will be a great year. If you’re a buyer, t
 If you have any more questions about our market or you’re thinking of buying or selling a home, give me a call or message me here on our website. I’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+What+2018+holds+for+our+markets.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+What+2018+holds+for+our+markets.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -119,7 +154,7 @@ If you have any more questions about our market or you’re thinking of buying o
       
       <item>
         <title>6 Reasons You Should Consider Selling Now </title>
-        <link>localhost:4000/should-you-list-now-or-wait-until-spring.html</link>
+        <link>http://WillieMirandaBlog.com/should-you-list-now-or-wait-until-spring.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -156,7 +191,7 @@ It’s an exciting time to sell in the spring—you have the spring market rush 
 If you have any questions about this topic or you’re thinking of buying or selling a home in the Capital District, don’t hesitate to call me or message me on my website. I’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+now+or+wait+until+spring.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+now+or+wait+until+spring.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -171,7 +206,7 @@ If you have any questions about this topic or you’re thinking of buying or sel
       
       <item>
         <title>First Quarter Market Update for the Capital District</title>
-        <link>localhost:4000/capital-district-real-estate-first.html</link>
+        <link>http://WillieMirandaBlog.com/capital-district-real-estate-first.html</link>
         
           <category>market update</category>
         
@@ -202,7 +237,7 @@ Due to the shortage of inventory, we are seeing a lot of multiple offer situatio
 If you have any questions about the market or are looking to buy or sell a home, please feel free to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+First+quarter+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+First+quarter+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -217,7 +252,7 @@ If you have any questions about the market or are looking to buy or sell a home,
       
       <item>
         <title>A Great New Home Selling Resource</title>
-        <link>localhost:4000/capital-district-real-estate-want-free.html</link>
+        <link>http://WillieMirandaBlog.com/capital-district-real-estate-want-free.html</link>
         
           <category>miranda home selling team</category>
         
@@ -246,7 +281,7 @@ If you’d like to receive your free copy, visit &lt;a href=”http://518sellerb
 I look forward to hearing your feedback!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Want+a+free+copy+of+my+new+book.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Want+a+free+copy+of+my+new+book.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -261,7 +296,7 @@ I look forward to hearing your feedback!
       
       <item>
         <title>What to Expect From the Capital District Real Estate Market in 2017</title>
-        <link>localhost:4000/capital-district-real-estate-inventory.html</link>
+        <link>http://WillieMirandaBlog.com/capital-district-real-estate-inventory.html</link>
         
           <category>market update</category>
         
@@ -290,7 +325,7 @@ As we see more inventory come on the market in the spring and summer, we will se
 With all that in place, it looks like the first quarter stats from 2017 point to a strong market throughout the year. If you have any questions for me or you’re looking to buy a home in the Capital District, give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Inventory+won%E2%80%99t+stay+this+low+for+long.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Inventory+won%E2%80%99t+stay+this+low+for+long.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -305,7 +340,7 @@ With all that in place, it looks like the first quarter stats from 2017 point to
       
       <item>
         <title>The Benefits of Selling a House in the Winter</title>
-        <link>localhost:4000/capital-district-real-estate-should-you.html</link>
+        <link>http://WillieMirandaBlog.com/capital-district-real-estate-should-you.html</link>
         
           <category>Home Selling Tips</category>
         
@@ -338,7 +373,7 @@ Thanks to Eileen for submitting this question. It’s a great topic for this sea
 If you’re ready to get into the market this winter, give me a call or send me an email. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+your+house+this+winter.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://WillieMirandaBlog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Should+you+list+your+house+this+winter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
