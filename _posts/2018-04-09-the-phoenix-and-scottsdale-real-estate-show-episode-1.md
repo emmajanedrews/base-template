@@ -21,7 +21,7 @@ Welcome to the first episode of The Phoenix and Scottsdale Real Estate Show!
 
 It is our mission to keep you informed so that you can make smart decisions when buying or selling real estate and keep you connected with the community. We started this show to really connect buyers, sellers, and investors out there in the Phoenix area. We’ll provide localized content about what’s happening here in our area.
 
-When you hear national news about the national real estate market, it’s not at all applicable to our city, our ZIP codes, or your community or subdivision. That is what we’re here to do. If you have any questions about your specific area, go to our [Facebook](http://www.facebook.com/KellyCookRealEstateGroup/) &nbsp;or [Instagram](https://www.instagram.com/kellycookhomes/) and post your question. We’ll answer you on the next episode.
+When you hear national news about the national real estate market, it’s not at all applicable to our city, our ZIP codes, or your community or subdivision. That is what we’re here to do. If you have any questions about your specific area, go to our [Facebook](http://www.facebook.com/KellyCookRealEstateGroup/) or [Instagram](https://www.instagram.com/kellycookhomes/) and post your question. We’ll answer you in the next episode.
 
 That brings us to today’s episode.
 
