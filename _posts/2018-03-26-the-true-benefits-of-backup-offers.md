@@ -25,7 +25,7 @@ Most of the agents I’ve spoken to have expressed a common frustration: They do
 
 Something other markets see often that isn’t as common in our Des Moines area is active backup offers. Today, I want to talk to you about how to make this kind of offer, as well as the benefits of doing so.&nbsp;
 
-An active backup offer is a fully executed offer that is clearly stated as being second to an offer the seller has already accepted. If, for any reason, something were to cause that first offer to fall through, the active backup offer would automatically be accepted and move forward toward closing.
+**An active backup offer is a fully executed offer that is clearly stated as being second to an offer the seller has already accepted.** If, for any reason, something were to cause that first offer to fall through, the active backup offer would automatically be accepted and move forward toward closing.
 
 This kind of offer poses a number of advantages for your client. It can help them get their foot in the door instead of having to wait around for another opportunity.&nbsp;
 
@@ -35,6 +35,6 @@ There are many reasons a deal can fall through, so it isn’t unrealistic to bel
 
 One concern I often hear about backup offers is that agents don’t want to lock their buyers into a hopeless situation. However, putting clear terms in a backup offer can alleviate this issue. You can always stipulate within the offer that your buyer can cancel at any point after a certain amount of time has passed.&nbsp;
 
-This type of offer may be a little more work for us as agents, but it will absolutely show your client that you’re on their side. If your buyer truly loves a home, then I definitely recommend considering this type of offer.
+**This type of offer may be a little more work for us as agents, but it will absolutely show your client that you’re on their side.** If your buyer truly loves a home, then I definitely recommend considering this type of offer.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
