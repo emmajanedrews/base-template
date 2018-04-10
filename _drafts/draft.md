@@ -38,7 +38,7 @@ Today we’re going to focus on how to build a retirement plan, **as well as wha
 
 **7. What’s the rate of inflation?**
 
-Let’s say you take those variables and go to enter it in a calculator that says you can retire on time with the paycheck you want for the rest of your life. If this happens to you, congratulations! It’s a great first step. Every three to five years, come back and redo the calculation to make sure you’re on track.
+Let’s say you take those variables and enter them into a calculator that says you can retire on time with the paycheck you want for the rest of your life. If this happens to you, congratulations! It’s a great first step. Every three to five years, come back and redo the calculation to make sure you’re on track.
 
 **However, for most of us, the calculation will come back saying that we need to do something a little bit different to reach our goals.** That’s when we look at the five dials I mentioned earlier. What can we change in our assumptions to see if we can get back on track?
 
@@ -54,7 +54,7 @@ Let’s say you take those variables and go to enter it in a calculator that say
 
 **5. Can I not live so long?**
 
-If you can control that last one, you’ve got more power than I do. I think 20-30 years is an appropriate time horizon to think that you’re going to be in retirement. What I’ve found is that if you’re under 50, you have more control over a few items including saving and the risk you can take in your portfolio. The younger you are and the more years you have to retirement, the better. If you’re closer to retirement, maybe spending less or working a few more years could be the right dials to change.
+If you can control that last one, you’ve got more power than I do. I think 20 to 30 years is an appropriate time horizon to think that you’re going to be in retirement. What I’ve found is that if you’re under 50, you have more control over a few items, including saving and the risk you can take in your portfolio. The younger you are and the more years you have to retirement, the better. If you’re closer to retirement, maybe spending less or working a few more years could be the right dials to change.
 
 I recommend that anybody and everybody seek out a professional certified financial planner five years before you plan to retire. They can give you a second opinion on your retirement plan. After you’ve received that second opinion, I would try to get that updated periodically before you actually retire. It helps you stay on track to retire on time with a paycheck for life.
 
