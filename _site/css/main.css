@@ -2758,12 +2758,8 @@ form select {
 .client-testimonial {
   margin-top: 10px; }
 
-.testimonial-text {
-  font-style: italic; }
-
 .testimonial-author {
-  color: #b40101;
-  margin-top: -20px; }
+  color: #008C9B; }
 
 .recruiting {
   text-align: center; }
