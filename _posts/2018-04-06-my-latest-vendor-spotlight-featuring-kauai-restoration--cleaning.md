@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'My Latest Vendor Spotlight, Featuring Kauai Restoration & Cleaning'
-date: 2018-04-06 17:14:01
+date: 2018-04-06 17:14:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kzjFv4K3L6I
+youtube_code: 3DfNafRqjPk
 ---
 
 {% include youtube.html %}
@@ -30,4 +30,4 @@ To hear our full conversation, watch the video above. **Listed below are time st
 
 If you have any questions for Gabe or need his help with a mold problem, you can call him at (808) 346-7344 or [visit their website.](http://kauairestoration.com/)
 
-If you have any other real estate questions for me or there’s anything else I can assist you with, don’t hesitate to reach out to me. I look forward to hearing from you. &nbsp;
+If you have any other real estate questions for me or there’s anything else I can assist you with, don’t hesitate to reach out to me. I look forward to hearing from you.
