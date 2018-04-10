@@ -13,13 +13,15 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money** — [Video](https://www.youtube.com/watch?v=3auqOiLwvUI&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
+**Contract to Close - Checklists to Closings, Reviews and Referrals, April 2018** — [Video](https://www.youtube.com/watch?v=hKcA6bPpmkQ&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/nflig5ii1dpo6lb/AAC5S3PR-giDt5PXEMFmEN4Na?dl=0)
 
-We’re officially in the spring market, and things are heating up. Right now, your time may be extremely limited. You may not always want to admit it, but you may need help in order to increase your sales and productivity. If you’re struggling to manage the workload you have, or if you find yourself working too many hours, I encourage you to look at this 30-minute webinar titled “Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money”.
+As we head into the late spring and summer months, it can be difficult to think about implementing the systems and structure needed to help you grow your business in the future. Creating a system of checklists is a crucial part of delegating a “wow” experience for your client, especially as you continue to onboard new agents. If you’re struggling to create a consistent client experience, I encourage you check out this 30-minute webinar discussing “Contract to Close - Checklists to Closings, Reviews and Referrals”.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3auqOiLwvUI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hKcA6bPpmkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Previous Webinars:
+
+**Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money, March 2018** — [Video](https://www.youtube.com/watch?v=3auqOiLwvUI&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
 **Rule the Market: Listing Your Way to More Leads & Profit, February 2018** — [Video](https://youtu.be/vZhWv3lzrkk) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
