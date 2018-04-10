@@ -27,7 +27,7 @@ So today, I’d like to share five strategies I’ve developed to help buyers wi
 
 {% include pullquote.html %}
 
-1. **Put down as much as possible and get approved as early as you can.** Before you even find the right home, it’s critically important that you talk to a lender. The further you are in the approval process, the more advantage you’ll have over other competing buyers.
+1. **Put down as much money as possible and get approved as early as you can.** Before you even find the right home, it’s critically important that you talk to a lender. The further you are in the approval process, the more advantage you’ll have over other competing buyers.
 2. **Consider offering appraisal protection.** For example, imagine that you are going to buy a $400,000 home with 20% down. Your lender will loan you 80% of what the home appraises for, even if the appraisal is less than the list price. If a home appraises below list price, though, you technically have the right to not go through with the purchase or ask that the seller drops the price, based on the mortgage contingency. However, you can still purchase the home if you’re willing to offer appraisal protection and make up the difference. This may not be the best choice for every buyer, but it can certainly make your offer stand out.
 3. **Consider inspection flexibility.** Sometimes this is just a matter of having your agent communicate with the seller’s agent, indicating that you won’t nickel-and-dime the seller based on inspection results.&nbsp;
 4. **Be creative.** For example, I work with a particular lender who offers a $2,500 guarantee to sellers if their buyers don’t close. For a buyer, being creative might involve writing a personal letter to the seller about your intentions for their home.
