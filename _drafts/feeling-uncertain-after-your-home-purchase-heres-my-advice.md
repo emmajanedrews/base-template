@@ -5,14 +5,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
-  I’ve bought many homes, and after each of them, I’ve gone through a period of
-  uncertainty, doubt, and cold sweats, a condition known as homebuyer’s remorse.
-  If you’re a first-time homebuyer, there are some things you can do to mitigate
-  these feelings once you close on your home. Try creating a list of five wants
-  and five needs regarding the home you’re looking to buy. The more of those
-  features your selected home has, the more certain you’ll feel when you’ve
-  closed. For more advice and to find out what factors can cause homebuyer’s
-  remorse, watch my latest video.
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+Avoid+Homebuyers+Remorse.mp4
 enclosure:
 pullquote: We are proud of our guaranteed sale program.
 enclosure_type: video/mp4
