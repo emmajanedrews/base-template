@@ -13,10 +13,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/nick-kellar-march-1-screen-shot-no-play.jpg
-youtube_code: ISj_NaOjBm0
+youtube_code:
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_AQanG6CTR4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_AQanG6CTR4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></center>
 
 We’re back again with another community spotlight for you today. We recently sat down with Stu and Mark of HS Tech Group. They’re going to pull back the curtain and give us a little rundown of what they do here. **Here’s a breakdown of what they talked about in timestamps so you can skip ahead to the part that most interests you**:
 
