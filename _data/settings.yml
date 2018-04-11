@@ -5,12 +5,12 @@ show_custom_links: true
 custom_links:
   # - title: Millionaire Agent Mindset
   #   url: http://millionaireagentmindset.com/
-  - title: About
-    url: http://www.viewsaltlakecityareahomes.com/about/
+  # - title: About
+  #   url: http://www.viewsaltlakecityareahomes.com/about/
   - title: Testimonials
-    url: https://soundcloud.com/joshua-stern-5
+    url: /testimonials
 client:
-  name: Joshua Stern
+  name: Joshua Stern<br>Keller Williams MAPS Coach
   license_number:
   about_markdown: |
     As a Millionaire Agent who coaches some of the top teams in the country, I feel compelled to bring the specific Millionaire Agent systems and techniques we use to help my local friends build their own Mega Agent Business. - Joshua Stern
