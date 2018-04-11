@@ -2054,16 +2054,11 @@ table tr, table td {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: transparent;
-    color: #fe1d1d;
-    box-shadow: 4px 4px 0 #fe1d1d;
-    border: 1px solid #fe1d1d;
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-transform: translateY(-0.2rem);
-    transform: translateY(-0.2rem); }
+    background: #fff;
+    color: #B40101;
+    border: 1px solid #B40101; }
   .readlink > a:active {
-    box-shadow: 0 0 0 #fe1d1d;
+    box-shadow: 0 0 0 #B40101;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -2867,6 +2862,18 @@ form select {
     text-decoration: none;
     color: #B40101; }
 
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 4px; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
@@ -3000,9 +3007,9 @@ form select {
     text-align: center; }
 
 .question {
-  font-weight: 600;
   color: #000;
-  font-size: 20px; }
+  font-size: 22px;
+  font-weight: 600; }
 
 .mySlides img {
   display: block;
