@@ -28,7 +28,7 @@ First, replace or clean the siding. Take a look around the outside of your home 
 
 Next, keep an eye out for any dry rot, especially around door and window frames. Scrape off any peeling materials, sand, and/or paint to make your home more attractive to buyers.
 
-If you have any roof damage, have it repaired before putting your home on the market. If your concrete is in disrepair, that could become a hazard, so consider having any broken or uneven concrete fixed.
+**If you have any roof damage, have it repaired before putting your home on the market.** If your concrete is in disrepair, that could become a hazard, so consider having any broken or uneven concrete fixed.
 
 {% include pullquote.html %}
 
@@ -38,4 +38,4 @@ Fences can sometimes fall into disrepair and give your home a shabby look, so ma
 
 If you haven’t kept up your home’s maintenance or you have doubts about its condition, you can always **get a home inspection done before listing** to give yourself peace of mind knowing it will sell without any issues.
 
-If you’d like more tips on how to upgrade your home’s exterior or you have any other real estate questions I can help you with, don’t hesitate to reach out to me. I’d be happy to assist you.<br>
+If you’d like more tips on how to upgrade your home’s exterior or you have any other real estate questions I can help you with, don’t hesitate to reach out to me. I’d be happy to assist you.
