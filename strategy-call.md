@@ -20,7 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
+{% include strategy-photos.html %}
 
 <p>We are The Michael Kaim Team and we’ve sold more than 4000 homes to date.</p>
 
