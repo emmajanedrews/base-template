@@ -16,4 +16,4 @@ youtube_code: BcEQfLsO9j0
 
 {% include youtube.html %}
 
-Paradise Cove is South Walton’s newest residential community. Sitting on 20 acres of picturesque property and just a quarter-mile away from Highway 395 (which leads to Publix and the beautiful Seagrove Beach), this community is surrounded by sun, sand, and water. Here, homes will be available starting from 1,872 to 2,600 square feet, and prices will begin in the mid-$300,000 range. To see what sort of coastal lifestyle you could enjoy by living here, watch the visual tour provided by my latest video.
+Paradise Cove is South Walton’s newest residential community. Sitting on 20 acres of picturesque property and just a quarter-mile away from Highway 395 (which leads to Publix and the beautiful Seagrove Beach), this community is surrounded by sun, sand, and water. Here, homes will be available starting from 1,872 to 2,600 square feet, and prices will begin in the mid-$300,000 range.
