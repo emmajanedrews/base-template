@@ -16,7 +16,7 @@ youtube_code: 72PbuOPK7VA
 
 {% include youtube.html %}
 
-Before your home is on the MLS, there are a few key ways you should prepare.
+<center>Before your home is on the MLS, there are a few key ways you should prepare.</center>
 
 Before listing your property, there are a few key things you need to do.
 
