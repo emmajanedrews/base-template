@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   When it comes to foreclosures, there are a few things you need to know before
   you decide to purchase one.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+The+Truth+About+Foreclosure+Listings.mp4
 pullquote: >-
   Before someone has stopped making payments on a house, they probably also
   stopped maintaining the house.
