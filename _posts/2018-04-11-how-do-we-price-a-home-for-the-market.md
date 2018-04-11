@@ -11,7 +11,8 @@ excerpt: >-
   approach. I compare your home to homes with similar style, size, age, and
   location to determine a range of price that your home falls into. To learn
   more about this process, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ben+Parojcic/Videos/2018/Ben+Parojcic+Remax+%257C+The+Price+is+Right.mp4
 pullquote: >-
   How do I price a home to sell for the most money possible? Today, I’ll talk
   about how I price a home for the market.
@@ -42,6 +43,6 @@ If we can find a group of comparables with those four factors held constant, we�
 
 We then need to find out where on that range your house fits by asking some very thought-provoking questions. Is your house average or above-average? I’m sure yours is better than average, but we still need to figure how much better
 
-This is when **we look at the amenities and upgrades that you’ve made.** Do those amenities take us to the very top of the range or do they keep us between the median and the top? It’s important to do this thoughtfully and honestly because** if you don’t, you run the risk of simply pricing your house too high**, which will then cause it to languish on the market for months. If that happens, you’ll go through multiple price reductions before you sell it, and you’ll probably end up reducing it below the point at which you could have sold it initially.
+This is when **we look at the amenities and upgrades that you’ve made.** Do those amenities take us to the very top of the range or do they keep us between the median and the top? It’s important to do this thoughtfully and honestly because\*\* if you don’t, you run the risk of simply pricing your house too high\*\*, which will then cause it to languish on the market for months. If that happens, you’ll go through multiple price reductions before you sell it, and you’ll probably end up reducing it below the point at which you could have sold it initially.
 
 If you have any other questions about pricing or selling a home, please feel free to reach out to me. I hope to hear from you soon!
