@@ -10,7 +10,9 @@ custom_links:
   - title: Hiring FAQ's
     url: /hiring-process
   - title: Freebies + Events
-    url: /events/
+    url: /freebies
+  - title: Contact
+    url: /contact
   - title: Apply Now
     url: https://dave-friedman-team.breezy.hr/#positions
 

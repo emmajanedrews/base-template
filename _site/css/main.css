@@ -1710,6 +1710,12 @@ label.tree-toggle {
   padding-top: 2rem;
   text-align: center; }
 
+.form-title {
+  font-size: 20px;
+  color: #B40101;
+  font-weight: bold;
+  text-align: center; }
+
 :root {
   font-size: 10px; }
 
@@ -2759,7 +2765,8 @@ form select {
     .contact-form input[type="submit"]:hover {
       background: #fff;
       color: #B40101;
-      border: 1px solid #B40101; }
+      font-weight: bold;
+      border: 3px solid #B40101; }
 
 .contact {
   font-size: 24px;
