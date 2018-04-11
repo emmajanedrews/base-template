@@ -27,6 +27,6 @@ Welcome back to my series where we discuss the direction of your career path.
 
 {% include pullquote.html %}<br><br>**However, there are so many different types of residential properties.** There are rural properties, penny homes, townhomes, condos, and more. In order to be a successful agent, you need to at least be familiar with all of them. If you’re going to claim to be an expert on something, you have to walk the walk and learn everything about it.
 
-**We highly encourage our agents to be specialists** and to have an insanely deep knowledge about what they’re talking about. It helps because when the consumer talks to them, they know that they’re speaking someone has the best knowledge in the market.
+**We highly encourage our agents to be specialists** and to have an insanely deep knowledge about what they’re talking about. It helps because when the consumer talks to them, they know that they’re speaking to someone that has the best knowledge in the market.
 
 If you have any questions about where to start or about anything else relating to your real estate career, reach out to me. I’d be happy to have a conversation with you.
