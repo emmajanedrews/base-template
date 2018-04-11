@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Are you interested in buying or selling a home in South Central Pennsylvania?
   I’m Andrew Kronenberg, and I’m here to help.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/Central+Pennsylvania+Real+Estate-+Why+Should+You+Work+With+a+Realtor%253F.mp4
 pullquote: 'Our market is moving quickly, but we have the tools to give you the advantage.'
 enclosure_type: video/mp4
 enclosure_time:
