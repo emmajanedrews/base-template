@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our First Non-Contingent Pre-Approval
-date: 2018-04-06 14:54:46
+date: 2018-04-06 14:54:00
 tags:
   - Realtors
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kBH25GYUWdw
+youtube_code: IPJGfZVeius
 hide_index_page: true
 ---
 
@@ -30,6 +30,4 @@ In a competitive market like this, what can help you get more offers accepted? A
 
 In a competitive situation, if you have this kind of pre-approval, I believe you will get more deals and I think you’ll get your offer accepted at a much higher rate than those who do have contingencies.
 
-<br>**Everybody does 30-day closings, but does anybody do no loan contingent closings?&nbsp;**Not to our knowledge. If you have any questions for me or want to take advantage of this new offer we have, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
+<br>**Everybody does 30-day closings, but does anybody do no loan contingent closings?**Not to our knowledge. If you have any questions for me or want to take advantage of this new offer we have, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
