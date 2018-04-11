@@ -27,13 +27,13 @@ We, like you, are glad tax day has come and gone! And hopefully you either got a
 Either way, LET’S CELEBRATE!
 {: .present-before-paste}
 
-What: Hot Breakfast provided by our friends at [Nook & Kranny](http://nook-n-kranny.com/) Home Inspections and FREE document shredding by [Preston’s Shredding](https://prestonshredding.com/)!
+**What:** Hot Breakfast provided by our friends at [Nook & Kranny](http://nook-n-kranny.com/) Home Inspections and FREE document shredding by [Preston’s Shredding](https://prestonshredding.com/)!
 {: .present-before-paste}
 
-Where: 50 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ
+**Where:** 50 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ
 {: .present-before-paste}
 
-What to bring: You, your family, and if you like, up to 5 boxes of documents you need shredded!
+**What to bring:** You, your family, and if you like, up to 5 boxes of documents you need shredded!
 {: .present-before-paste}
 
 RSVP: Please if possible! Do so here.
