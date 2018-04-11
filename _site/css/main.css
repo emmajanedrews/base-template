@@ -1636,7 +1636,7 @@ label.tree-toggle {
   background-repeat: no-repeat; }
 
 .site-logo {
-  width: 90%;
+  width: 50%;
   max-width: 60rem;
   -webkit-filter: drop-shadow(0px 2px 7px rgba(61, 44, 50, 0.8));
   filter: drop-shadow(0px 2px 7px rgba(61, 44, 50, 0.8)); }
@@ -1697,6 +1697,18 @@ label.tree-toggle {
     padding: 0.5rem; } }
 .container-fluid {
   padding: 0; }
+
+.page-logo {
+  display: block;
+  width: 35%;
+  margin: 0 auto;
+  padding-top: 7rem;
+  -webkit-filter: drop-shadow(0px 2px 7px rgba(61, 44, 50, 0.8));
+  filter: drop-shadow(0px 2px 7px rgba(61, 44, 50, 0.8)); }
+
+.hero-cta-page {
+  padding-top: 2rem;
+  text-align: center; }
 
 :root {
   font-size: 10px; }
