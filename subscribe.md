@@ -28,11 +28,11 @@ permalink: /subscribe/
 
 <p>We have no intention of recruiting you - that’s a conversation with us when you are ready, if at all.</p>
 
-<p>Last year 28,824 homes sold in the greater Northeast Ohio market.</p>
+<p>Last year 44,411 homes sold in the greater Northeast Ohio market.</p>
 
 <p>That’s plenty of business to go around for all of us.</p>
 
-<p>We’ve been fortunate to sell 44,411 homes last year and our average agent earns six figures a year with us.</p>
+<p>We’ve been fortunate to sell 486 homes last year and our average agent earns six figures a year with us.</p>
 
 <p>The same training they get will help you do it as well.</p>
 
