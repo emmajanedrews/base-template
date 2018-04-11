@@ -20,19 +20,15 @@ youtube_code:
 
 We’re back again with another community spotlight for you today. We recently sat down with Stu and Mark of HS Tech Group. They’re going to pull back the curtain and give us a little rundown of what they do here. **Here’s a breakdown of what they talked about in timestamps so you can skip ahead to the part that most interests you**:
 
-0:40- What exactly does HS Tech Group do?
+0:38- What exactly does HS Tech Group do?
 
-1:30- How a career in security led Stu and Mark to pursue something more.
+1:45- The most common smart home and home security options for homeowners.
 
-3:00- Why the guys stress keeping it simple when it comes to home security and technology.
+2:30- Why automating all of your home’s systems is such a smart idea in the long run.
 
-5:00- Why the switch from 4g to 5g networks plays a key role in what HS Tech Group is doing now and in the future.
+3:45- How HS Tech Group helps homeowners and their homes communicate with each other.
 
-6:50- What the average “smart home” will look like in the future.
-
-8:15- The major long-term benefits of automating your home.
-
-9:30- Why a smart home doesn’t have to be a new home.
+4:30- Why a smart home doesn’t necessarily have to be a new home.
 
 {% include pullquote.html %}
 
