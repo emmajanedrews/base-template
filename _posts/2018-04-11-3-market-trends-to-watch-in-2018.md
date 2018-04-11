@@ -24,11 +24,11 @@ youtube_code: KTLq_PAqTBQ
 
 A lot of people ask me every day what the market is like right now and what they can expect in 2018. **Here are three things I want you to think about:**
 
-1. **We’ll see continued appreciation throughout Salt Lake County.** Since 2011, the median price has increased 50% and has risen from $216,000 to almost $325,000 today. We saw a 10% increase last year and are projecting an 8% increase this year. That will bring us up to a median price right around $350,000.
+**1. We’ll see continued appreciation throughout Salt Lake County.** Since 2011, the median price has increased 50% and has risen from $216,000 to almost $325,000 today. We saw a 10% increase last year and are projecting an 8% increase this year. That will bring us up to a median price right around $350,000.
 
-2. **Interest rates are on the rise.** From December 2017 until now, we’ve seen a .5% increase in rates, pricing some buyers out of the market. We might see another .5% increase by the end of the year. The Fed is projecting four small rate hikes throughout the year which could bring us up to around 6%.
+**2. Interest rates are on the rise.** From December 2017 until now, we’ve seen a .5% increase in rates, pricing some buyers out of the market. We might see another .5% increase by the end of the year. The Fed is projecting four small rate hikes throughout the year which could bring us up to around 6%.
 
-3. **The perceived low inventory.**The number of listings for all types of homes in Salt Lake County has been pretty consistent for all types of homes over the last four years, right around $22,500. It’s a perceived shortage that may be due to the high rates of net in migration and strong employment growth, rather than a decline in the number of listings.
+**3. The perceived low inventory.**The number of listings for all types of homes in Salt Lake County has been pretty consistent for all types of homes over the last four years, right around $22,500. It’s a perceived shortage that may be due to the high rates of net in migration and strong employment growth, rather than a decline in the number of listings.
 
 {% include pullquote.html %}
 
