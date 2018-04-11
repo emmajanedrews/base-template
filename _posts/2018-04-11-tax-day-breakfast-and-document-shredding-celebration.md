@@ -36,7 +36,7 @@ Either way, LET’S CELEBRATE!
 **What to bring:** You, your family, and if you like, up to 5 boxes of documents you need shredded!
 {: .present-before-paste}
 
-RSVP: Please if possible! Do so here.
+**RSVP:** Please if possible! Do so here.
 {: .present-before-paste}
 
 What if I don’t have documents to shred? COME FOR BREAKFAST! We’ll have the griddles going from 8-11 AM.
