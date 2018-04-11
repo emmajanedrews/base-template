@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Market Trends to Watch in 2018
-date:
+date: 2018-04-11 17:46:17
 tags:
   - Real Estate
 excerpt: >-
