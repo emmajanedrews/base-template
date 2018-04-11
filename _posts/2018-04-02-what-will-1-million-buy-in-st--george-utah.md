@@ -14,7 +14,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/arid-bryce-canyon-clouds-460687.jpg
+youtube_alternate_image: /uploads/jolley-circle.jpg
 youtube_code:
 ---
 
@@ -30,6 +30,6 @@ If you have any questions whatsoever about the St. George Real Estate market, gi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pZxjz-i62os?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-**2825 S. Jolley Circle – Bloomington Country Club–**&nbsp; 6 Geds, 6.5 Baths, 7,534 SF
+**2825 S. Jolley Circle – Bloomington Country Club–**&nbsp; 6 Beds, 6.5 Baths, 7,534 SF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lSLzqUhU3I0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
