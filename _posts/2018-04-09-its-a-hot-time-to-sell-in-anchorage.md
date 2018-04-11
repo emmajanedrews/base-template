@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's a Hot Time to Sell in Anchorage
-date: 2018-04-09 21:57:15
+date: 2018-04-09 21:57:00
 tags:
   - Market Update
 excerpt: 'Today, I’ve got a key market update to share with you.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0wDwJD1GyZM
+youtube_code: p10L8l5kses
 ---
 
 {% include youtube.html %}
