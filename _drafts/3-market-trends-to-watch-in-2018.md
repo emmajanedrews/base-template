@@ -18,7 +18,7 @@ youtube_code: KTLq_PAqTBQ
 
 {% include youtube.html %}
 
-I’ve got a quick market update to share with you today. Here’s what you should know.
+<center>I’ve got a quick market update to share with you today. Here’s what you should know.</center>
 
 A lot of people ask me every day what the market is like right now and what they can expect in 2018. Here are three things I want you to think about:
 
