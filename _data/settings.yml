@@ -3,16 +3,16 @@ title: -- CLIENT BRAND --
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
-  - title: Careers
-    url: https://dave-friedman-team.breezy.hr/#positions
-  - title: Meet the Team
-    url: http://clickcharlestonsc.com/agents.php
-  - title: Core Values
-    url: /values/
+  - title: Culture + Environment
+    url: /culture/
+  - title: Career Track
+    url: /career-track/
   - title: Hiring Process
-    url: /hiring-process/
+    url: /hiring-process
   - title: FAQ's
     url: /faq/
+  - title: Freebies + Events
+    url: /events/
   - title: Apply Now
     url: https://dave-friedman-team.breezy.hr/#positions
 
