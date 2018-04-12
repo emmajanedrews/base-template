@@ -19,6 +19,8 @@ youtube_code: '-XvH-y23Xec'
 
 {% include youtube.html %}
 
+*If you plan on buying a home this year, you should do so sooner rather than later. Here’s why.*
+
 If you’re thinking of buying a home in 2018, are you better off doing so now or waiting until later in the year?&nbsp;
 
 Let’s review a few facts about our market. Currently, our level of inventory will likely remain low throughout 2018. Over the past 12 months, home prices have appreciated by about 12% and interest rates have remained at historic lows, which has allowed many buyers to enter the market.&nbsp;
