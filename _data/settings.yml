@@ -15,7 +15,7 @@ client:
   title:
   license_number:
   about_markdown: |
-
+    With more than 15 years of real estate experience under her belt, and as the CEO of The Wolek Real Estate Group, Jennie has learned a thing or two about the industry. Now she wants to share that knowledge with other agents and business owners so you don't have to reinvent the wheel. You will learn how to focus on what is most important - running a great business while helping your clients achieve their goals and dreams.
   market:
   brand: The Wolek Group
   brokerage: Keller Williams Realty
@@ -28,24 +28,24 @@ client:
   url: https://www.thewolekgroup.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.tulsahomevalue.com/
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.thewolekgroup.com/search-for-homes/#/-1451235678
+  first_CTA_text: Apply Here
+  first_CTA_URL: /apply/
+  second_CTA_text: Send Us a Referral
+  second_CTA_URL: http://www.thewolekgroup.com/contact/
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.tulsahomevalue.com/
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: "Join Our Tulsa Real Estate Team"
+    CTA_text: "You will learn how to focus on what is most important - running a great business while helping your clients achieve their goals and dreams."
+    CTA_link_text: "Apply Here"
+    CTA_url: /apply/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.thewolekgroup.com/search-for-homes/#/-1451235678
+    CTA_title2: "Send Us a Referral"
+    CTA_text2:
+    CTA_link_text2: "Get Started"
+    CTA_url2: http://www.thewolekgroup.com/contact/
 
 lender:
   show_section: false
@@ -71,7 +71,7 @@ socials:
   zillow_url: http://www.zillow.com/profile/jwolek/
   trulia_url: https://www.trulia.com/profile/jennie-wolek-agent-tulsa-ok-zgbwwlv0/overview
   yelp_url: http://www.yelp.com/biz/the-wolek-real-estate-group-tulsa
-  podcast_url: http://i.imgur.com/KXY51Bh.png
+  podcast_url: https://itunes.apple.com/us/podcast/tulsa-ok-real-estate-careers/id1199634583?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -85,7 +85,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 30
+  logo_width_number: 50
   hero_text:
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
@@ -101,10 +101,10 @@ navbar_colors:
   border_bottom:
 
 header_shadow:
-  h_shadow: 0px
+  h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
