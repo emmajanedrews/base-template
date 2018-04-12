@@ -21,9 +21,7 @@ youtube_code: li9ULVcDj1U
 
 <center><em>If you plan on buying a home this year, you should do so sooner rather than later. Here&rsquo;s why.</em></center>
 
-&nbsp;
-
-&nbsp;
+<br>
 
 If you’re thinking of buying a home in 2018, are you better off doing so now or waiting until later in the year?
 
