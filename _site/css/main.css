@@ -2295,15 +2295,7 @@ table tr, table td {
       fill: #fe1d1d;
       background: transparent;
       color: #fe1d1d;
-      box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-    .socials svg:active {
-      box-shadow: 0 0 0 #fe1d1d;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
 
 .about .socials {
   margin-bottom: 2rem; }
@@ -2900,6 +2892,10 @@ form select {
     fill: #fff; }
   .footer .socials svg {
     fill: #fff; }
+    .footer .socials svg:hover {
+      fill: #B40101;
+      background: #fff;
+      border: 1px solid #fff; }
   .footer a {
     color: #fff; }
 
