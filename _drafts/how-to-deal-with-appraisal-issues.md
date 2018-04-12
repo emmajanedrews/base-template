@@ -18,7 +18,7 @@ youtube_code: Ie7iitqSe2I
 
 {% include youtube.html %}
 
-What can you do to combat issues with an appraisal? Here are a few tips.
+<center>What can you do to combat issues with an appraisal? Here are a few tips.</center>
 
 I’m coming to you today from busy Las Vegas Boulevard to discuss an important topic: how to deal with issues that arise from an appraisal.
 
