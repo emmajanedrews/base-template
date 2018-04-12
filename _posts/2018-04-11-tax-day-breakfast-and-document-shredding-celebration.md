@@ -21,7 +21,7 @@ youtube_code: G2wIVgz0zmA
 Friends, clients, happy (?) tax payers! &nbsp;😊
 {: .present-before-paste}
 
-We, like you, are glad tax day has come and gone! And hopefully you either got a refund, or saved a few bucks to pay Uncle Same.
+We, like you, are glad tax day has come and gone! And hopefully you either got a refund, or saved a few bucks to pay Uncle Sam.
 {: .present-before-paste}
 
 Either way, LET’S CELEBRATE!
@@ -30,7 +30,10 @@ Either way, LET’S CELEBRATE!
 **What:** Hot Breakfast provided by our friends at [Nook & Kranny](http://nook-n-kranny.com/) Home Inspections and FREE document shredding by [Preston’s Shredding](https://prestonshredding.com/)!
 {: .present-before-paste}
 
-**Where:** 50 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ
+**When:** Saturday April 21st from 8 - 11 AM.
+{: .present-before-paste}
+
+**Where:**&nbsp;45 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ)
 {: .present-before-paste}
 
 **What to bring:** You, your family, and if you like, up to 5 boxes of documents you need shredded!
@@ -39,5 +42,5 @@ Either way, LET’S CELEBRATE!
 **RSVP:** Please if possible! Do so here.
 {: .present-before-paste}
 
-What if I don’t have documents to shred? COME FOR BREAKFAST! We’ll have the griddles going from 8-11 AM.
+**What if I don’t have documents to shred?** COME FOR BREAKFAST! We’ll have the griddles going from 8-11 AM.
 {: .present-before-paste}
