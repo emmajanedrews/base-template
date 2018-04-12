@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the 2 Primary Meanings of the Term "Escrow Account?"
-date: 2018-04-18 17:12:00
+date: 2018-05-30 17:12:00
 tags:
   - Home Buyer Tips
 excerpt: >-
