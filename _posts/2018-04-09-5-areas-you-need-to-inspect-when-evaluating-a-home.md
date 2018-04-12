@@ -6,11 +6,11 @@ tags:
 excerpt: >-
   If you’re considering buying a home, there are five areas of that home that
   you need to inspect carefully.
-enclosure: 'https://youtu.be/SQk7iWxv__o'
+enclosure:
 pullquote: 'In Texas, just wait and you’ll get a new roof pretty quickly.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/sheila-fejeran-5-things-when-search.jpg
 youtube_code: SQk7iWxv__o
 ---
