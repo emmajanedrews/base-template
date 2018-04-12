@@ -2018,6 +2018,21 @@ table tr, table td {
 .post-image {
   width: 100%; }
 
+.quarter-image {
+  width: 25%;
+  margin: 0 auto;
+  display: block; }
+
+.half-image {
+  width: 50%;
+  margin: 0 auto;
+  display: block; }
+
+.three-quarter-image {
+  width: 75%;
+  margin: 0 auto;
+  display: block; }
+
 .post-image-container {
   padding: 0; }
 
@@ -3431,10 +3446,9 @@ form select {
 
 .comp-subtitle {
   font-weight: 400;
-  font-size: 24px;
+  font-size: 26px;
   color: #4E4A46;
-  text-align: center;
-  margin-top: 3rem; }
+  text-align: center; }
 
 .img-table {
   width: 100%;
@@ -3450,5 +3464,16 @@ form select {
   font-size: 60px;
   line-height: 70px;
   color: #fff;
-  text-align: center;
-  margin-top: 3rem; }
+  text-align: center; }
+
+.career-subtitle {
+  font-weight: 400;
+  font-size: 26px;
+  color: #fff;
+  text-align: center; }
+
+#comp-end {
+  margin: 3rem 0; }
+
+#graph {
+  padding-top: 2rem; }
