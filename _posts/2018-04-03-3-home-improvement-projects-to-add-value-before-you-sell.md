@@ -7,7 +7,8 @@ date: 2018-04-03 15:49:00
 excerpt: >-
   There are three home projects that can add value to your home when it comes
   time to sell.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+Which+Projects+Have+the+Highest+Returns%253F.mp4
 pullquote: Make sure all updates you make still look cohesive with the rest of your home.
 enclosure_type: video/mp4
 enclosure_time:
