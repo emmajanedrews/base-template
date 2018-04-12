@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do We Have So Many Satisfied Clients at Vision Realty?
-date: 2018-04-12 19:00:37
+date: 2018-04-12 19:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 86P1VJPqkAM
 ---
 
 {% include youtube.html %}
