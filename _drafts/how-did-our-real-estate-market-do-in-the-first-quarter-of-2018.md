@@ -18,7 +18,9 @@ youtube_code: MB5PyaXHmZE
 
 {% include youtube.html %}
 
-<center>In today’s market update, I’ll go over what happened in the first quarter of 2018 and how our current market compares to the first quarter of 2017.&nbsp;</center>
+<center><em>In today&rsquo;s market update, I&rsquo;ll go over what happened in the first quarter of 2018 and how our current market compares to the first quarter of 2017.&nbsp;</em></center>
+
+<center>&nbsp;</center>
 
 Today, I want to take a couple minutes to give you an update on the first quarter of 2018.&nbsp;
 
