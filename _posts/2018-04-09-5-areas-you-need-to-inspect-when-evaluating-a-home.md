@@ -10,7 +10,7 @@ enclosure: 'https://youtu.be/SQk7iWxv__o'
 pullquote: 'In Texas, just wait and you’ll get a new roof pretty quickly.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/sheila-fejeran-5-things-when-search.jpg
 youtube_code: SQk7iWxv__o
 ---
@@ -43,6 +43,6 @@ When it comes to the HVAC unit, if this is not functioning properly, it will mak
 
 The foundation is an important factor to be aware of because of the soil composition in Texas, and foundation repairs can cost anywhere from $3,000 to $30,000.
 
-Lastly, whether or not the home’s electrical system needs to be replaced or repaired will depend on when the home was built. If it was built during the 1970s, it likely has knob-and-tube wiring, which can be a fire hazard. Another thing to look out for is Federal Pacific panels, which are also a fire hazard. For safety reasons, you should ask for these to be replaced if you find them.**&nbsp;For newer homes, you generally shouldn’t have to worry about having to replace anything electrical.**
+Lastly, whether or not the home’s electrical system needs to be replaced or repaired will depend on when the home was built. If it was built during the 1970s, it likely has knob-and-tube wiring, which can be a fire hazard. Another thing to look out for is Federal Pacific panels, which are also a fire hazard. For safety reasons, you should ask for these to be replaced if you find them.** For newer homes, you generally shouldn’t have to worry about having to replace anything electrical.**
 
 If you have any more questions about what you need to look for when searching for a home or you have any other real estate needs, don’t hesitate to reach out to me. I’d be happy to assist you.
