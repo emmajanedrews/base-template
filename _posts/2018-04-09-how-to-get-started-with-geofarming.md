@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Get Started With GeoFarming
-date: 2018-04-09 17:05:53
+date: 2018-04-09 17:05:00
 tags:
   - Real Estate
 excerpt: >-
   There are three things to keep in mind when choosing a location for your
   GeoFarm.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Frank+Gray/Inside+Abby+Realty+3+considerations+for+choosing+a+GeoFarm.mp4
 pullquote: 'If at all possible, farm your own neighborhood.'
 enclosure_type: video/mp4
 enclosure_time:
