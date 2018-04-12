@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/nick-kellar-march-1-screen-shot-no-play.jpg
 youtube_code: 40JLOq5Rcqo
 ---
 
-<center>{% include youtube.html %}</center>
+{% include youtube.html %}
 
 <center><em>We&rsquo;re back with another community spotlight. This time, we&rsquo;re with HS Tech Group.</em></center>
 
