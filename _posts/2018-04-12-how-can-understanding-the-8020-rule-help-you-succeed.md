@@ -9,7 +9,8 @@ excerpt: >-
   are sold by 20% of the real estate agents. How can you apply the 80/20 rule to
   your goal-setting so that you can produce 80% of the results with only 20% of
   your effort? To find out, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/MAM/The+Stern+Team-+The+80-20+Rule.mp4
 pullquote: >-
   What is the one thing you can do that, just by doing it, will make everything
   else easier or unnecessary?
