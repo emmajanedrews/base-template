@@ -2968,31 +2968,6 @@ form select {
   Margin: 20px 0;
   display: block; }
 
-.core-value {
-  text-transform: uppercase;
-  font-size: 36px;
-  font-weight: bold;
-  color: #B40101; }
-
-.core-value-section {
-  width: 80%;
-  text-align: center;
-  display: block;
-  margin: 0 auto; }
-  .core-value-section hr {
-    border: 2px solid #B40101;
-    margin-bottom: 2rem; }
-
-.value-quote {
-  font-size: 20px;
-  font-style: oblique;
-  color: #4E4A46; }
-
-.value-author {
-  font-size: 20px;
-  font-style: oblique;
-  color: #B40101; }
-
 .half-image {
   width: 50%;
   display: block;
@@ -3471,8 +3446,48 @@ form select {
   color: #fff;
   text-align: center; }
 
+.core-value {
+  font-size: 26px;
+  font-weight: 600;
+  color: #B40101; }
+
+.core-value-section {
+  margin: 0 auto;
+  display: block;
+  width: 65%; }
+  .core-value-section hr {
+    border: 2px solid #B40101;
+    margin-bottom: 2rem;
+    width: 60%;
+    margin-left: 0; }
+
+.value-quote {
+  font-size: 18px;
+  font-style: bold;
+  color: #4E4A46; }
+
+.value-author {
+  font-size: 18px;
+  color: #B40101; }
+
 #comp-end {
   margin: 3rem 0; }
 
 #graph {
   padding-top: 2rem; }
+
+#value {
+  color: #000;
+  text-align: left; }
+
+#value1 {
+  padding: 3rem; }
+
+#value2 {
+  padding: 3rem; }
+
+#value-img1 {
+  padding: 0; }
+
+#value-img2 {
+  padding: 0; }
