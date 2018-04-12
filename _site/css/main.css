@@ -3480,7 +3480,10 @@ form select {
   padding: 3rem; }
 
 #value2 {
-  padding: 3rem; }
+  padding: 3rem;
+  text-align: right; }
+  #value2 hr {
+    margin-left: 40%; }
 
 #value-img1 {
   padding: 0; }
