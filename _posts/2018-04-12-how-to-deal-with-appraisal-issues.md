@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Deal with Appraisal Issues
-date:
+date: 2018-04-12 20:06:08
 tags:
   - Real Estate
 excerpt: What can you do to combat issues with an appraisal? Here are a few tips.
