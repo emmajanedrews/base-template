@@ -15,8 +15,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/nick-kellar-march-1-screen-shot-no-play.jpg
 youtube_code:
 ---
+{% include youtube.html %}
 
-<center><br />We&rsquo;re back again with another community spotlight for you today. We recently sat down with Stu and Mark of HS Tech Group. They&rsquo;re going to pull back the curtain and give us a little rundown of what they do here. <strong>Here&rsquo;s a breakdown of what they talked about in timestamps so you can skip ahead to the part that most interests you</strong>:</center>
+<br />We&rsquo;re back again with another community spotlight for you today. We recently sat down with Stu and Mark of HS Tech Group. They&rsquo;re going to pull back the curtain and give us a little rundown of what they do here. <strong>Here&rsquo;s a breakdown of what they talked about in timestamps so you can skip ahead to the part that most interests you</strong>
 
 0:38- What exactly does HS Tech Group do?
 {: .present-before-paste}
