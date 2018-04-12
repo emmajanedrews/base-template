@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/john-schuster-screenshot-march-2-no-play-1.jpg
 youtube_code: ffTWe46lHQw
 ---
 
