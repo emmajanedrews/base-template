@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did Our Real Estate Market Do in the First Quarter of 2018?
-date:
+date: 2018-04-12 20:23:07
 tags:
   - Market Update
 excerpt: >-
