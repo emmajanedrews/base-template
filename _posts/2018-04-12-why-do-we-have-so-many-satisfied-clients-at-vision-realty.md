@@ -13,7 +13,7 @@ pullquote: I couldn’t give a stronger referral.”
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/payne-email.jpg
+youtube_alternate_image: /uploads/payne-youtube-1-1.jpg
 youtube_code: 86P1VJPqkAM
 ---
 
