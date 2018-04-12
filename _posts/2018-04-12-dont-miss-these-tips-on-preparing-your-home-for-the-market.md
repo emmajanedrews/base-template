@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Miss These Tips on Preparing Your Home for the Market
-date:
+date: 2018-04-12 17:03:22
 tags:
   - Home Seller Tips
 excerpt: 'Before your home is on the MLS, there are a few key ways you should prepare.'
@@ -30,8 +30,8 @@ Next, we’ll get your home picture-perfect. This will involve decluttering, dep
 
 {% include pullquote.html %}
 
-Also, you’ll want the outside of your home to sparkle as well. Pay special attention to your front door and patio, since this will play a major role in any potential buyer’s first impression.&nbsp;
+Also, you’ll want the outside of your home to sparkle as well. Pay special attention to your front door and patio, since this will play a major role in any potential buyer’s first impression.
 
 **Finally, make buyers feel at home.** If you’ve got a backyard, for example, add comfy and cozy touches like a fire pit or lawn furniture. You want buyers to be able to envision themselves living in your home.
 
-If you have any other questions, would like more information, or want to know how we can assist you with your listing, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions, would like more information, or want to know how we can assist you with your listing, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
