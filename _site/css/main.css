@@ -3426,10 +3426,29 @@ form select {
   font-size: 60px;
   line-height: 70px;
   color: #B40101;
-  text-align: center; }
+  text-align: center;
+  margin-top: 3rem; }
 
 .comp-subtitle {
-  font-weight: 300;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 24px;
   color: #4E4A46;
-  text-align: center; }
+  text-align: center;
+  margin-top: 3rem; }
+
+.img-table {
+  width: 100%;
+  margin-top: 3rem; }
+
+.career-track {
+  padding: 3rem;
+  background: #4E4A46; }
+
+.career-title {
+  font-family: "Lato", serif;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+  color: #fff;
+  text-align: center;
+  margin-top: 3rem; }
