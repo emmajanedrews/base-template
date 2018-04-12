@@ -2876,7 +2876,7 @@ form select {
   cursor: pointer;
   padding: 1rem 1.5rem; }
   #myBtn:hover {
-    background-color: transparent;
+    background-color: #fff;
     border: 2px solid #B40101;
     color: #B40101; }
 
@@ -3396,3 +3396,40 @@ form select {
   width: 50px;
   display: block;
   margin-top: 10rem; }
+
+.compensation {
+  display: block;
+  margin: auto;
+  font-size: 20px;
+  text-align: center;
+  width: 85%;
+  height: 200px;
+  text-transform: uppercase;
+  color: #B40101;
+  padding-top: 4rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background: rgba(238, 238, 238, 0.9);
+  line-height: 22px; }
+
+.comp-svg {
+  width: 50px;
+  padding-bottom: 2rem; }
+
+.brand-logo {
+  width: 200px;
+  margin-bottom: 2rem; }
+
+.comp-title {
+  font-family: "Lato", serif;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+  color: #B40101;
+  text-align: center; }
+
+.comp-subtitle {
+  font-weight: 300;
+  font-size: 20px;
+  color: #4E4A46;
+  text-align: center; }
