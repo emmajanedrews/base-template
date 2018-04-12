@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sheila-fejeran-5-things-when-search.jpg
-youtube_code: =SQk7iWxv__o
+youtube_code: SQk7iWxv__o
 ---
 
 {% include youtube.html %}
