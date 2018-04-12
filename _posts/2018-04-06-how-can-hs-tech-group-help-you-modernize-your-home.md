@@ -18,7 +18,7 @@ youtube_code: 40JLOq5Rcqo
 
 <center>{% include youtube.html %}</center>
 
-<center>*We’re back with another community spotlight. This time, we’re with HS Tech Group.*</center>
+<center><em>We&rsquo;re back with another community spotlight. This time, we&rsquo;re with HS Tech Group.</em></center>
 
 <br>We’re back again with another community spotlight for you today. We recently sat down with Stu and Mark of HS Tech Group. They’re going to pull back the curtain and give us a little rundown of what they do here. **Here’s a breakdown of what they talked about in timestamps so you can skip ahead to the part that most interests you**
 
