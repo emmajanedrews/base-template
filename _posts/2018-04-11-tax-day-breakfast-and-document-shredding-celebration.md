@@ -27,7 +27,7 @@ We, like you, are glad tax day has come and gone! And hopefully you either got a
 Either way, LET’S CELEBRATE!
 {: .present-before-paste}
 
-## RSVP HERE
+<center>## RSVP HERE</center>
 {: .present-before-paste}
 
 **What:** Hot Breakfast provided by our friends at [Nook & Kranny](http://nook-n-kranny.com/) Home Inspections and FREE document shredding by [Preston’s Shredding](https://prestonshredding.com/)!
