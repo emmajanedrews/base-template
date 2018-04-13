@@ -8,7 +8,8 @@ excerpt: >-
   New homeowners may be excited about finally having a place to themselves, but
   there are seven things they often forget to keep in mind when it comes to
   maintaining the home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/John+Schuster/John+Schuster+Group+7+things+homeowners+need+to+know+(2).mp4
 pullquote: >-
   It’s just the joy of homeownership—plumbing issues, appliances breaking down,
   and natural disasters.
