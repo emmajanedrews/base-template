@@ -18,7 +18,9 @@ youtube_code: u39UsX8jbAM
 
 {% include youtube.html %}
 
-<center>There are a few things you can do to make the home search process easier for yourself. I’d like to share those tips with you, today.</center>
+<center><em>There are a few things you can do to make the home search process easier for yourself. I&rsquo;d like to share those tips with you, today.</em></center>
+
+<center>&nbsp;</center>
 
 Are you planning on shopping for a home this spring? If so, I’ve got a few tips that could help you save time and money when you do so.&nbsp;
 
