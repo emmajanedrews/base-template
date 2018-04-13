@@ -1,9 +1,10 @@
 ---
-layout: hiring
+layout: career
 title: Hiring Process
 permalink: /hiring-process/
 ---
 <div class="values">
+{% include faq.html %}
 
 <h1>DFT Training Program</h1>
 <hr>
@@ -31,11 +32,6 @@ permalink: /hiring-process/
 <p>You are paid $2,500 per month during this training period. Once out of the training period, you will be 100% commission. </p>
 
 <p>Our start dates are the 1st and the 15th of the month; if this day falls on a weekend or a company Holiday, it will move to the following day. </p>
-</div>
-
-<div class="photo-cta">
-  <img src="/img/cta-images/join_our_team_ad.png" class="photo-full-cta"/>
-  <div class="cta-button-ad"><a href="https://dave-friedman-team.breezy.hr/" target="_blank">Apply Now   <i class="fa fa-angle-double-right"></i></a></div>
 </div>
 
 <div class="video-md">
