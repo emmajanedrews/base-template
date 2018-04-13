@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Don't Miss These Tips on Preparing Your Home for the Market
-date: 2018-04-12 17:03:22
+date: 2018-04-12 17:03:00
 tags:
   - Home Seller Tips
 excerpt: 'Before your home is on the MLS, there are a few key ways you should prepare.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/Surrey+Real+Estate++2+Percent+Realty+Solution+How+to+prepare+before+you+list.mp4
 pullquote: You want buyers to be able to envision themselves living in your home.
 enclosure_type: video/mp4
 enclosure_time:
