@@ -23,9 +23,9 @@ If you’re thinking about selling your home, I’ve got some great advice for y
 
 **1. How long have you been in the real estate business?** This question is very important to ask because you want to know how much experience this agent has before you assign them to a big task. If they’ve never done this before or if their team is inexperienced, it may be a big concern later down the road.
 
-**2. What sort of marketing plans do you have for my home?** The answer the agent gives to this questions will show whether or not this agent knows what they are talking about. Not all homes will sell the same way. By asking these questions correctly during the interview process, it will help you immensely.
+**2. What sort of marketing plans do you have for my home?** The answer the agent gives to this question will show whether or not this agent knows what they are talking about. Not all homes will sell the same way. By asking these questions correctly during the interview process, it will help you immensely.
 
-**3. What types of professionals can you recommend to me?**When you sell your home and move, the real estate agent isn’t the only person involved. You may need movers, handymen, or inspectors. The agent you hire should have a list of people they have worked with who also do a great job. When it comes down to needing guidance outside of selling your home, you want your agent to have it covered.
+**3. What types of professionals can you recommend to me?&nbsp;**When you sell your home and move, the real estate agent isn’t the only person involved. You may need movers, handymen, or inspectors. The agent you hire should have a list of people they have worked with who also do a great job. When it comes down to needing guidance outside of selling your home, you want your agent to have it covered.
 
 {% include pullquote.html %}
 
