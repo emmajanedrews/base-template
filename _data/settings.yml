@@ -21,12 +21,14 @@ client:
   name: Tony Verdi
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     TONY VERDI, BROKER-ASSOCIATE ABR,SRES,PSA: Trusted experience and extensive
     local market insight. VP of Sales/Relocation for #1 independent brokerage,
     closing over $70 million annually in Rhode Island. Recipient of the 2017
     Gold Circle of Excellence Award-Greater Providence Board of Realtors. Zillow
-    Premier 5-Star Agent. Accredited by the Better Business Bureau.
+    Premier 5-Star Agent. Accredited by the Better Business Bureau. If you have
+    any other questions about real estate, you can call Tony at (401) 225-7800
+    or send him an email at TonyVerdi@HillHarbor.com.&nbsp;
   market:
   brand: Hill Harbor Group
   brokerage:
@@ -120,7 +122,7 @@ header_shadow:
   h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: '#transperant'
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
