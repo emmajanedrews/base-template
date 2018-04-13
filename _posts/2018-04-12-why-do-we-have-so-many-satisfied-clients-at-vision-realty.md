@@ -9,7 +9,7 @@ excerpt: >-
   Here are a few of their stories.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Donald+Payne/Donald+Payne-+Client+Experience+Stories.mp4
-pullquote: I couldn’t give a stronger referral.”
+pullquote: I couldn’t give a stronger referral.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
