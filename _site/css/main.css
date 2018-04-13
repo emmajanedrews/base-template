@@ -3079,6 +3079,11 @@ form select {
   display: block;
   margin: 0 auto 2rem auto; }
 
+.contact-form-container {
+  width: 50%;
+  display: block;
+  margin: 0 auto; }
+
 .subscribe {
   background: #B40101;
   color: white;
