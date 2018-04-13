@@ -12,13 +12,14 @@
 		<!-- <div class="nav navbar-nav navbar-left">
 			<a href="/"><img src="/img/nav-logo.png" class="nav-logo"></a></li>
 		</div> -->
-		<ul class="nav navbar-nav navbar-right">
+		<ul class="nav navbar-nav navbar-left">
 			<li><a href="/">Home</a></li>
 			{% if site.data.settings.show_custom_links == true %}
 				{% for item in site.data.settings.custom_links %}
-      		<li><a href="{{ item.url}}">{{ item.title}}</a></li>
+				<li><a href="{{ item.url}}">{{ item.title}}</a></li>
     		{% endfor %}
 			{% endif %}
+			<li><a href="https://dave-friedman-team.breezy.hr/#positions" target="_blank">Apply Now</a></li>
 		</ul>
 	</div>
 </nav>

@@ -13,8 +13,8 @@ custom_links:
     url: /freebies
   - title: Contact
     url: /contact
-  - title: Apply Now
-    url: https://dave-friedman-team.breezy.hr/#positions
+  # - title: Apply Now
+  #   url: https://dave-friedman-team.breezy.hr/#positions
 
 client:
   name: Dave Friedman
