@@ -19,7 +19,7 @@ youtube_code: G2wIVgz0zmA
 
 Friends, clients, happy (?) tax payers! &nbsp;😊
 
-We, like you, are glad tax day has come and gone! And hopefully you either got a refund, or saved a few bucks to pay Uncle Sam.
+We, like you, are glad tax day has come and gone! And hopefully you either got a refund, or saved a few bucks to pay Uncle Same.
 
 Either way, LET’S CELEBRATE!
 
