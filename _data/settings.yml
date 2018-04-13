@@ -22,9 +22,9 @@ client:
     I focus on helping sellers market their home for maximum returns in the time frame they want, finding buyers the best home that matches their wishes, and maximizing our investors returns. Real Estate is my passion and calling and I would be honored to have the opportunity to share my knowledge and experience with you by learning your own real estate goals. Whether it's selling fast, selling for top dollar to make another move, looking to build wealth through investing, or practically anything else real-estate related, I'm eager to learn about what your real estate-related goals are to help make them a reality!
   market:
   brand: GAFinestHomes Group, LLC
-  brokerage: Keller Williams Realty, Signature Partners
+  brokerage: Keller Williams Realty Signature Partners
   address: 2651 Dallas Hwy, Marietta GA 30064
-  phone: 678-416-9676
+  phone: 678-909-1783
   phone_type:
   phone2:
   phone2_type:
@@ -33,9 +33,9 @@ client:
 
 CTAs:
   first_CTA_text: Start Your Buying Journey Here
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: /homesearch/
   second_CTA_text: Free Appraisal
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: /homevalue/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
