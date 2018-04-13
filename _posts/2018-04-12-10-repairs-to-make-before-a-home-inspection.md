@@ -32,17 +32,17 @@ Today, I’d like to share with you 10 observations I received from an inspector
 
 **4. Take care of the heating and air conditioning system.** If you haven’t changed the filter recently, it’s a good thing to do. It’s cheap and a great thing to do ahead of time so that you can provide the letter of service when it’s time for the inspection.
 
-**5. Provide and change the lightbulbs.**I know it sounds silly, but you would not believe how many times we see in inspection reports that a certain number of lights don’t work.
+**5. Provide and change the lightbulbs.&nbsp;**I know it sounds silly, but you would not believe how many times we see in inspection reports that a certain number of lights don’t work.
 
 {% include pullquote.html %}
 
-**6. Check for rotten wood around the home.**That includes walking around the exterior, looking behind the gutters, and under the eaves and soffits. Home inspectors will be looking for that.
+**6. Check for rotten wood around the home.&nbsp;**That includes walking around the exterior, looking behind the gutters, and under the eaves and soffits. Home inspectors will be looking for that.
 
 **7. Buyers want a roof that is in great shape.** We have a roofer who can come out and inspect yours to see if there are any issues or leaks. For $75, he can give us a roofing letter.
 
-**8. Tighten your plumbing fixtures.**Make sure there aren’t any drips or cracks that could cause water- or mold-related damages.
+**8. Tighten your plumbing fixtures.&nbsp;**Make sure there aren’t any drips or cracks that could cause water- or mold-related damages.
 
-**9. Make sure there is no furniture in the inspector’s way.**Move or pack away any items that will prevent an inspector from accessing areas they’ll need to in order to do their jobs. Panel boxes, water heaters, furnaces, and other such key areas are especially important to keep clear.
+**9. Make sure there is no furniture in the inspector’s way.&nbsp;**Move or pack away any items that will prevent an inspector from accessing areas they’ll need to in order to do their jobs. Panel boxes, water heaters, furnaces, and other such key areas are especially important to keep clear.
 
 **10. Know your home.** We always put things off until we get ready to list, but if you take the time to familiarize yourself with the workings and condition of your home, the easy it will be for you to address any problems before it comes to inspect it.
 
