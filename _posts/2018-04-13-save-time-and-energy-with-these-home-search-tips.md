@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save Time and Energy With These Home Search Tips
-date:
+date: 2018-04-13 18:59:54
 tags:
   - Home Buyer Tips
 excerpt: >-
