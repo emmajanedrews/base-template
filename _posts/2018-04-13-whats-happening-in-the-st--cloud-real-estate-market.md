@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the St. Cloud Real Estate Market?
-date:
+date: 2018-04-13 18:24:37
 tags:
   - Market Update
 excerpt: >-
