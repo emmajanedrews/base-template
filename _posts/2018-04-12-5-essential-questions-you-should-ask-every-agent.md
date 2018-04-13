@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Essential Questions You Should Ask Every Agent
-date: 2018-04-12 18:28:19
+date: 2018-04-12 18:28:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: FpnHReOrAtI
+youtube_code: WLeYxID2k0
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ If you’re thinking about selling your home, I’ve got some great advice for y
 
 **2. What sort of marketing plans do you have for my home?** The answer the agent gives to this question will show whether or not this agent knows what they are talking about. Not all homes will sell the same way. By asking these questions correctly during the interview process, it will help you immensely.
 
-**3. What types of professionals can you recommend to me?&nbsp;**When you sell your home and move, the real estate agent isn’t the only person involved. You may need movers, handymen, or inspectors. The agent you hire should have a list of people they have worked with who also do a great job. When it comes down to needing guidance outside of selling your home, you want your agent to have it covered.
+**3. What types of professionals can you recommend to me?** When you sell your home and move, the real estate agent isn’t the only person involved. You may need movers, handymen, or inspectors. The agent you hire should have a list of people they have worked with who also do a great job. When it comes down to needing guidance outside of selling your home, you want your agent to have it covered.
 
 {% include pullquote.html %}
 
