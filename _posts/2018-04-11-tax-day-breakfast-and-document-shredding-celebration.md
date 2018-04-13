@@ -27,6 +27,9 @@ We, like you, are glad tax day has come and gone! And hopefully you either got a
 Either way, LET’S CELEBRATE!
 {: .present-before-paste}
 
+RSVP HERE
+{: .present-before-paste}
+
 **What:** Hot Breakfast provided by our friends at [Nook & Kranny](http://nook-n-kranny.com/) Home Inspections and FREE document shredding by [Preston’s Shredding](https://prestonshredding.com/)!
 {: .present-before-paste}
 
@@ -39,7 +42,7 @@ Either way, LET’S CELEBRATE!
 **What to bring:** You, your family, and if you like, up to 5 boxes of documents you need shredded!
 {: .present-before-paste}
 
-**RSVP:** Please if possible! Do so here.
+**RSVP:** Please if possible! [Do so here](https://docs.google.com/forms/d/e/1FAIpQLSd7sGf_IYh2NiY5K8mkCtdWrvQaZUMbn7BBpPYm1Wuxpwn6Tg/viewform).
 {: .present-before-paste}
 
 **What if I don’t have documents to shred?** COME FOR BREAKFAST! We’ll have the griddles going from 8-11 AM.
