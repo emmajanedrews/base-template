@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Upgrade Your Home’s Exterior With These Quick Tips
-date: 2018-04-09 19:30:10
+date: 2018-04-09 19:30:00
 tags:
   - Home Seller Tips
 excerpt: >-
   I have a few tips to share with you that will help you upgrade the outside of
   your home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Danielle+Salas/The+Salas+Team+Upgrading+your+home%E2%80%99s+exterior.mp4
 pullquote: A fresh coat of stain can go a long way.
 enclosure_type: video/mp4
 enclosure_time:
