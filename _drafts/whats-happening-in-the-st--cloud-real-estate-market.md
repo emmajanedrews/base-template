@@ -18,7 +18,7 @@ youtube_code: O-a_jRJmKz4
 
 {% include youtube.html %}
 
-How are things in the St. Cloud real estate market? I’ll give you a quick update on our inventory and new construction today.
+<center>How are things in the St. Cloud real estate market? I’ll give you a quick update on our inventory and new construction today.</center>
 
 Today, I have a quick St. Cloud market update to share with you.&nbsp;
 
