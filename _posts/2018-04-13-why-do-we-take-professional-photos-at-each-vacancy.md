@@ -27,7 +27,7 @@ We also promise and commit to taking new pictures and videos every time your uni
 
 {% include pullquote.html %}
 
-**These pictures come as part of our service at no cost to the owner.** We’ll take pictures each time we get a new tenant in as part of our 10% fee. There are no rent fees, rental buffers, or maintenance buffers.
+**These pictures come as part of our service at no cost to the owner.** We’ll take pictures each time we get a new tenant in as part of our 10% fee. There are no rental fees, rental buffers, or maintenance buffers.
 
 If you have any questions, just give us a call or send us an email. We would be happy to help you!
 
