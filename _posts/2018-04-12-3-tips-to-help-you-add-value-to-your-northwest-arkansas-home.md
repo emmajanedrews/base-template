@@ -28,7 +28,7 @@ When you are getting ready to put your home on the market, there are three thing
 
 {% include pullquote.html %}
 
-**2. Make sure that your bathrooms and kitchens are updated.** These are the two biggest rooms that buyers are looking at. They’re going to sell your home. If your bathrooms are stuck in the 70s with olive green tile, that will be a big cost. Most people’s bathrooms just need a fresh coat of paint. The kitchen may just need an updated backsplash. If there is anything you can do to update your kitchen or bathroom just a little bit, it will definitely bring more dollars to your pocket.
+**2. Make sure that your bathrooms and kitchens are updated.** These are the two biggest rooms that buyers are looking at. They’re going to sell your home. If your bathrooms are stuck in the 70s with olive green tile, that will be a big cost. Most peoples' bathrooms just need a fresh coat of paint. The kitchen may just need an updated backsplash. If there is anything you can do to update your kitchen or bathroom just a little bit, it will definitely bring more dollars to your pocket.
 
 **3. Work on your “honey do” list.** Take care of those small things around your house that you’ve just never gotten to before you list your house. Are there nail holes that need to be filled? A room that needs to be painted? Rotting wood on your deck or fascia of your house? Get that replaced. When buyers are walking through your home, they want to make sure that you’ve maintained your home well. Those small things that need to be updated might turn them away. Go to Lowes and take a long weekend to fix a few things around your house.
 
