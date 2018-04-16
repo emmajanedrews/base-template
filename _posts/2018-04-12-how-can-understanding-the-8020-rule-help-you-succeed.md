@@ -35,7 +35,7 @@ How does this work? If you have a list of 10 items to accomplish, two of those i
 
 {% include pullquote.html %}
 
-How can you apply the 80/20 rule to goal-setting and your overall productivity? First, take a piece of paper and write down 10 goals. Then, **ask yourself if you could only accomplish one goal today, which one would have the greatest impact on your life?**After that, pick the second-most important goal. After you finish this exercise, you’ll have predetermined the most important 20% of your goals that will help you more than anything else.
+How can you apply the 80/20 rule to goal-setting and your overall productivity? First, take a piece of paper and write down 10 goals. Then, **ask yourself if you could only accomplish one goal today, which one would have the greatest impact on your life?&nbsp;**After that, pick the second-most important goal. After you finish this exercise, you’ll have predetermined the most important 20% of your goals that will help you more than anything else.
 
 Remember, success is sequential. It’s not simultaneous. It’s like a geometric progression in life that’s set up like a row of dominos. If you focus on knocking down that first domino, you can rest assured that the rest will fall. This sounds simple, but it’s not easy. In real estate, easy is being distracted and focusing on urgent things that are cleverly disguised as important.
 
