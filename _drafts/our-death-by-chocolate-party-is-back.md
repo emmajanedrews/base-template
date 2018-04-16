@@ -2,33 +2,31 @@
 layout: post
 title: Our Death by Chocolate Party Is Back
 tags:
-  - Market Update
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  Our last Death by Chocolate party was so popular, we decided to bring it
+  back—and you’re invited. On April 27th, we’ll be at the Oakwood Homes Model
+  Home Center and we hope that you and your sweet tooth will join us. There will
+  be three chocolate fountains, wine, and more. To get all the details, watch
+  this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+pullquote: It’s our way of saying thanks for supporting us.
 enclosure_type: video/mp4
-enclosure_time: '10:39 am'
+enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: cHRm6MYBeck
 ---
-
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
+Our Death by Chocolate party is back by popular demand. Make sure you save the date!
+
+**On April 27th, we’ll be at Oakwood Homes Model Homes Center (206 E. Winchester St. Murray, UT 84107) from 5 p.m. to 8 p.m. and we hope you bring your sweet tooth.** You’ll be able to check out some of the latest in home design trends, as well as satisfy your chocolate cravings.
 
 {% include pullquote.html %}
 
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
+We’ll have three chocolate fountains, wine, non-alcoholic beverages, and some light appetizers for you to indulge in. It’s our way of saying thanks for supporting us.
 
-To hear the full radio endorsement, listen to the clip above.
+If you have any questions in the meantime or need any real estate assistance of any kind, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
