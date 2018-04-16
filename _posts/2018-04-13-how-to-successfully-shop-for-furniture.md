@@ -31,7 +31,7 @@ However, there is a method to the madness. Here are five important tips that can
 
 **2. Shop online first.** If your shopping trip is taking you to a name-brand retailer, pursue the inventory online first to narrow down the selection. Check out available fabrics, finishes, and measurements before making that visit to the store, and call ahead to see if your selections are in stock so you don’t waste a trip.
 
-**3. Measure access points.** Before you get your heart set on that super-sized sectional or California king bed, make sure there is a way to get it into your house. Don’t just measure the spot where the piece will reside. Measure doorways and stairwells to make sure it will fit around the corner, and find out if the piece can be broken down into separate pieces for delivery.
+**3. Measure access points.** Before you get your heart set on that super-sized sectional or California King bed, make sure there is a way to get it into your house. Don’t just measure the spot where the piece will reside. Measure doorways and stairwells to make sure it will fit around the corner, and find out if the piece can be broken down into separate pieces for delivery.
 
 **4. Find out about assembly.** Be sure that you’re clear on whether or not the furniture item you’re buying requires assembly. Decide if you are ready, willing, and able to take on the task if it does.
 
