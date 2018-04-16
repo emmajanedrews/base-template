@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: QJ4GUNMN6dg
+youtube_code: QDoGvHBP-0s
 ---
 
 {% include youtube.html %}
@@ -29,5 +29,3 @@ Today we just wanted to speak a little bit about the numbers we’re seeing in t
 **The question I’ve been asking a lot of my business partners about this talent shortage is, “What is your talent acquisition process like?”** There are a lot of different ways to go here. Maybe you hired an outside search firm, or you have good relationships with local colleges and universities. Maybe you’ve developed an internal program to grow your own talent to help fill the void. Make sure your strategy is down pat. The more consistency you have there, the more effective you’ll be at bringing in top talent.
 
 If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
