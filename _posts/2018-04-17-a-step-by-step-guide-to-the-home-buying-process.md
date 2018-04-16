@@ -11,7 +11,7 @@ enclosure_type: >-
   https://s3.amazonaws.com/vyralmarketing/Sherif+Nathoo/Videos/2018/Sherif%2520Nathoo%2520Team-%2520Tips%2520for%2520a%2520first-time%2520homebuyer(1).mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/4-16---sherif-nathoo---email.jpg
 youtube_code: EDE9KdcPTIQ
 ---
 
