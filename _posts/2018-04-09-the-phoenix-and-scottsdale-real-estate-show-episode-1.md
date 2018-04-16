@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/kelly-cook-ep1.jpg
-youtube_code: Do2znUWoepc
+youtube_code: lZC-UfjUCjc
 ---
 
 {% include youtube.html %}
@@ -35,7 +35,7 @@ As a buyer, there are three important things that you need to check before you m
 
 **2. School districts.** Even if you don’t have kids, school districts are very important because of resale value. Chances are that part of your future buyer people will have new families and young kids, so they will really pay attention to school districts. For us personally, having three small kids ages six, four, and three, schools were very important when my wife and I purchased our home. To see how schools in the area are ranked, check out [GreatSchools.org](https://www.greatschools.org/).
 
-**3. Resale values.&nbsp;**It’s important that you have a good agent who can really articulate property values. They can help you determine what the home sold for and how long the previous owners have been in the house. If you are looking for a place with more stability, look at the neighbors and see how long they have been in their houses. This is a very important thing to do. If you move into an area with a high turnover rate (north of 15% or 20%), that may not be the best for real estate value. Again, a good agent can articulate the value of the property you’re purchasing and the value of homes in the area.
+**3. Resale values.** It’s important that you have a good agent who can really articulate property values. They can help you determine what the home sold for and how long the previous owners have been in the house. If you are looking for a place with more stability, look at the neighbors and see how long they have been in their houses. This is a very important thing to do. If you move into an area with a high turnover rate (north of 15% or 20%), that may not be the best for real estate value. Again, a good agent can articulate the value of the property you’re purchasing and the value of homes in the area.
 
 One of the benefits of working with us is that we have proprietary software called Market Snapshot that you can sign up for. If you are looking to purchase a home (and even after you purchase), we will send you a monthly email that shows you what’s going on with prices for homes in your area. That way, you can keep tabs on what’s going on and keep track of the market value of your property.
 
