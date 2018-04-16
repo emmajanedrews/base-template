@@ -13,10 +13,10 @@ excerpt: >-
   understand your needs, your family situation, and how to help you. To learn
   more about the home buying process and how to make sure you get the right home
   at the right price, watch my latest video.
-enclosure:
-pullquote: 'When buying a home, your first step is to find a good Realtor to work with.'
-enclosure_type: >-
+enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sherif+Nathoo/Videos/2018/Sherif%2520Nathoo%2520Team-%2520Tips%2520for%2520a%2520first-time%2520homebuyer(1).mp4
+pullquote: 'When buying a home, your first step is to find a good Realtor to work with.'
+enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
