@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How to Deal with Appraisal Issues
-date: 2018-04-12 20:06:08
+date: 2018-04-12 20:06:00
 tags:
   - Real Estate
 excerpt: What can you do to combat issues with an appraisal? Here are a few tips.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate+Dealing+with+appraisal+issues.mp4
 pullquote: >-
   It’s just a matter of the appraisal value catching up to the demand and for
   the prices to be equal with the appraised value.
@@ -32,6 +33,6 @@ This has been a very challenging situation with a lot of listings and buyers as 
 
 1. **The buyer and seller meet halfway.** This is assuming that the buyer has enough out-of-pocket money to cover the difference in cash.
 2. **The seller could go down to the appraised value.** Unfortunately, even though the demand is there, the seller may have to come down to the appraised value to make the deal and close successfully.
-3. **The buyer can cover the difference in cash.&nbsp;**That’s only if they have the money to do so and if they can’t give up on that property. Many buyers are doing that because they know that inventory is low and that prices will continue to escalate. It’s just a matter of the appraisal value catching up to the demand and for the prices to be equal with the appraised value.
+3. **The buyer can cover the difference in cash.** That’s only if they have the money to do so and if they can’t give up on that property. Many buyers are doing that because they know that inventory is low and that prices will continue to escalate. It’s just a matter of the appraisal value catching up to the demand and for the prices to be equal with the appraised value.
 
-If you have any questions about selling or buying a home, please feel free to reach out to us. We’d be glad to help you.<br>&nbsp;
+If you have any questions about selling or buying a home, please feel free to reach out to us. We’d be glad to help you.<br>
