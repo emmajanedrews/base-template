@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Let Us Help With Your Move
-date: 2018-04-04 15:27:15
+date: 2018-04-04 15:27:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
   How do we set ourselves apart from other real estate teams? Well, one way is
   with the free moving truck we offer for our buyers and sellers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate+Let+us+provide+the+moving+truck.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
