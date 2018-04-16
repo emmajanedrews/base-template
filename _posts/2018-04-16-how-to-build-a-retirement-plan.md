@@ -9,7 +9,8 @@ excerpt: >-
   on building a retirement plan around what retirement means to you. It all
   starts by answering a few questions about your retirement goals. To find out
   more, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mario+Giganti/Videos/2018/The+Retirement+Bullseye+Advisor-+Retirement+Plan.mp4
 pullquote: >-
   Seek out a professional certified financial planner five years before you plan
   to retire.
