@@ -19,7 +19,7 @@ youtube_code: QyK3E0r5CDY
 
 {% include youtube.html %}
 
-After you’ve done all the decluttering, cleaning, and depersonalizing, it’s time to get your home ready for a showing. **Here are seven tips that will help your home sparkle:**
+After you’ve done all the decluttering, cleaning, and depersonalizing, it’s time to get your home ready for a showing. **Here are seven tips that will help you get your home sold:**
 
 **1. Have buyers and agents come through your front door.** Your home always presents itself better this way because you’re entering through the largest room in your house.
 
