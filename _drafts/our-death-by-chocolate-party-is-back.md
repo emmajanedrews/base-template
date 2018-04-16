@@ -10,7 +10,7 @@ excerpt: >-
   be three chocolate fountains, wine, and more. To get all the details, watch
   this short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+Death+By+Chocolate.mp4
 pullquote: It’s our way of saying thanks for supporting us.
 enclosure_type: video/mp4
 enclosure_time:
