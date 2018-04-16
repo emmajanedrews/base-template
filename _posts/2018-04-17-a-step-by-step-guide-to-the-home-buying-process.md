@@ -44,5 +44,3 @@ Finally, you have the closing. Three days before the closing date, the lawyer wi
 After that, it’s time to party because you just bought your first home!
 
 If you have any more questions about the home buying process or you’re thinking of buying or selling a home in our market, don’t hesitate to reach out to me. I’d love to help you.
-
-&nbsp;
