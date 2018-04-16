@@ -4,7 +4,15 @@ title: A Step-By-Step Guide to the Home Buying Process
 date: 2018-04-17 12:00:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Are you a first-time homebuyer or you just haven’t purchased a home in a while
+  and are re-entering the market? If so, today’s topic is for you. I’ll explain
+  the home buying process in detail and share which steps you need to take to
+  get the right home at the right price. The first and most important step is to
+  find a good Realtor to work with. A good Realtor will be someone who
+  understand your needs, your family situation, and how to help you. To learn
+  more about the home buying process and how to make sure you get the right home
+  at the right price, watch my latest video.
 enclosure:
 pullquote: 'When buying a home, your first step is to find a good Realtor to work with.'
 enclosure_type: >-
