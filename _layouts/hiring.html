@@ -4,30 +4,27 @@
 {% include head.html %}
 
 	<body>
-		{% if site.data.settings.audit_header == true %}
-			{% include audit.html %}
-		{% endif %}
 		<div class="row">
 			<div class="col-sm-12">
 
-				{% include hiring-navbar.html %}
+				{% include navigation.html %}
 			</div>
 		</div>
-		{% include page-header.html %}
+		{% include career-header.html %}
 
 		<div class="row">
 			<div class="col-lg-7 col-md-7 col-lg-offset-1">
-				{% include hiring-process.html %}
-				{% include qualifications.html %}
 				{{ content }}
 			</div>
 
 		<!-- Sidebar Content // Hidden on mobile -->
+		<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
+			{% include socials.html %}
+			{% include search-box.html %}
+			<div class="whitespace"></div>
+			{% include simple-side-cta.html %}
+		</div>
 
-		<div class="whitespace"></div>
-			<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
-				{% include cta-sidebar.html %}
-			</div>
 		</div>
 					{% include top-button.html %}
 					{% include footer.html %}

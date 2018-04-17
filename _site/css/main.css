@@ -2995,7 +2995,8 @@ form select {
   margin-top: 3rem; }
 
 .faq {
-  font-size: 18px; }
+  font-size: 18px;
+  text-align: left; }
   .faq h1 {
     font-weight: bold;
     text-align: center; }
@@ -3253,6 +3254,14 @@ form select {
   border-bottom: 5px solid #B40101; }
   .simple-cta-container:hover {
     background: #fff; }
+
+.simple-side-cta-container {
+  width: 90%;
+  background: rgba(238, 238, 238, 0.9);
+  margin: 0 auto;
+  margin: 2rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 5px solid #B40101; }
 
 .full-cta {
   background: #eee;

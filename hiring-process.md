@@ -1,11 +1,11 @@
 ---
-layout: career
+layout: hiring
 title: Hiring Process
 permalink: /hiring-process/
 ---
 <div class="values">
 {% include faq.html %}
-
+{% include qualifications.html %}
 <h1>DFT Training Program</h1>
 <hr>
 <div class="training">
@@ -34,16 +34,4 @@ permalink: /hiring-process/
 <p>Our start dates are the 1st and the 15th of the month; if this day falls on a weekend or a company Holiday, it will move to the following day. </p>
 </div>
 
-<div class="video-md">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aSrRpFvKd40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-<div class="whitespace">  </div>
-
-<div class="video-md">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y69XgNHP9GQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-<div class="whitespace">  </div>
-
-</div>
+{% include hiring-process.html %}
