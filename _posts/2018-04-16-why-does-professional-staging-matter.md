@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Does Professional Staging Matter?
-date: 2018-04-16 15:57:54
+date: 2018-04-16 15:57:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/karlyn-ellis--home-staging-youtube.jpg
-youtube_code: 5mjNt23D7hc
+youtube_code: qf75ZsUwPls
 ---
 
 {% include youtube.html %}
@@ -27,8 +27,8 @@ Ideally, your agent is going to spend the money for the cost of a staging consul
 
 {% include pullquote.html %}
 
-Here’s what happens during a staging consultation. The stager will start on the outside of the home, examining your yard, driveway, sidewalks, and the exterior of your home. Then they will go through the home room by room and give you a list of ideas of things to do in each room. The consultation usually takes about an hour, and the stager will present you with a report. It’s a giant to-do list and can be very overwhelming, so prioritize the list. It’s okay not to do everything, but the more you’re able to do on the list, the better.&nbsp;
+Here’s what happens during a staging consultation. The stager will start on the outside of the home, examining your yard, driveway, sidewalks, and the exterior of your home. Then they will go through the home room by room and give you a list of ideas of things to do in each room. The consultation usually takes about an hour, and the stager will present you with a report. It’s a giant to-do list and can be very overwhelming, so prioritize the list. It’s okay not to do everything, but the more you’re able to do on the list, the better. 
 
 Finally, keep in mind that this is your home and we know it can be hard to let go. However, **a home stager is there to transform the home from a personal home to a product that buyers are willing to pay top dollar for.** Putting in a little work up front can really pay off in the end.
 
-I hope this was helpful for you. If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+I hope this was helpful for you. If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
