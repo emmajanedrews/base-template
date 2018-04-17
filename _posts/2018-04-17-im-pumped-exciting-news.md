@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'I’m pumped, EXCITING NEWS!!'
-date: 2018-04-17 17:20:22
+date: 2018-04-17 17:20:00
 tags:
   - Real Estate
 excerpt:
@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/unnamed-3-1.jpg
 youtube_code:
 ---
 
