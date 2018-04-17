@@ -41,10 +41,10 @@ Either way, LET’S CELEBRATE!
 
 ## **SPONSORS:**
 
-[![](/uploads/bay-equity.jpg)](https://www.bayequityhomeloans.com/)
+<center>[![](/uploads/bay-equity.jpg)](https://www.bayequityhomeloans.com/)
 
 [![](/uploads/elevate-logo-final-1.jpg)](https://www.elevatehw.com/)
 
 [![](/uploads/shredding-truck.jpg)](https://prestonshredding.com/)
 
-[![](/uploads/nook-and-kranny-no-back-ground.png)](http://nook-n-kranny.com/)
+[![](/uploads/nook-and-kranny-no-back-ground.png)](http://nook-n-kranny.com/)</center>
