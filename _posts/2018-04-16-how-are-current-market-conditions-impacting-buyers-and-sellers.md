@@ -24,6 +24,8 @@ To answer that, let’s first compare some year-over-year numbers from March 201
 
 Currently, inventory remains low—there were only 687 homes that were listed last March. Because inventory is so low, March 2018 saw a 19% hike in home values compared to March 2017. So, **in addition to inventory being low, prices continue to rise.**
 
+{% include pullquote.html %}
+
 Interest rates are still at 40-year lows, starting at about 4.375% and rising depending on your home purchase and specific situation.
 
 What does this mean for buyers and sellers?
@@ -33,5 +35,3 @@ Like I said, inventory is tight. Banks are getting very aggressive with their pr
 In general, **our market is looking strong, and there are a lot of great opportunities for buyers and sellers**.
 
 If you have any further questions about our market or you’re thinking of buying or selling a home, feel free to give me a call or shoot me an email. I hope to speak to you soon!
-
-{% include pullquote.html %}
