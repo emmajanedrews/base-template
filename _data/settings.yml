@@ -11,20 +11,20 @@ emma:
   form:
 
 client:
-  name: Matt Bohanon
-  title:
+  name: Ashley Leon
+  title: Director of Growth and Development
   license_number:
   about_markdown: |
-        Matt Bohanon moved to Sarasota from Cleveland, Ohio. He studied Finance at Cleveland State University and then proceeded to work in the fast paced world of Online Mortgage Sales. Looking for the next step in his career the move to Keller Williams was a natural fit. Matt was a top producing agent and leader of the Pegasus Property Group before stepping up to fill the role of Team Leader at KW Select. Matt now oversees 400 Million in annual sales with a growth goal to hit over 1 Billion in the next 2 years.
+        We understand that activities dictate our results – not the market. Whether you’re new to the industry or already a top producer, we can help you bring laser focus to the activities that lead to results. Gain access to our tools that provide you with an unprecedented view into your business so you know EXACTLY what needs to be accomplished in order to achieve all-new levels of production and profitability: the two factors that determine if your business can fund the life you envision for yourself and your family.
   market: Sarasota/Manatee
   brand: House Match
   brokerage: Keller Williams Select
   address: 8210 Lakewood Ranch Blvd City, Lakewood Ranch, FL 34202
-  phone: 941-726-8750
+  phone: 407-923-7695
   phone_type:
   phone2:
   phone2_type:
-  email: mattbohanon@kw.com
+  email: ashleyleon@kw.com
   url: http://www.liveinlakewoodranch.com
 
 CTAs:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#5A4099'
-  theme_color: '#404040'
+  brand_color: '#d11241'
+  theme_color: '#4c4d4f'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
