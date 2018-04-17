@@ -25,7 +25,7 @@ There are three important reasons why it’s great to have your own buyer repres
 
 **1. No discounts.** You don’t get any discounts by going directly to the listing agent. In fact, that commission is negotiated between the seller and the listing agent.&nbsp;
 
-**2. Agent works for seller.** By not using your own agent, in effect, you are using their agent, and they’ll get paid double.
+**2. The listing agent works for seller.** By not using your own agent, in effect, you are using their agent, and they’ll get paid double.
 
 {% include pullquote.html %}
 
