@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Events
     url: /
+  - title: Join Our Team
+    url: /join-our-team/
 
 
 client:
@@ -96,7 +98,7 @@ images:
   logo_width_number: 30
   # hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/background2.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#008C9B'

@@ -4,7 +4,7 @@
 	min-height: 52px
 	background: #ffffff
 	width: 100%
-	overflow: hidden
+	// overflow: hidden
 
 .navbar-andross .navbar-brand
 	color: $brand
@@ -57,6 +57,8 @@
 	padding-left: 15px
 	// height: 52px
 
+.navbar-left
+	padding-top: 1.5rem
 
 @media(max-width: 347px)
 	.navbar
@@ -65,9 +67,12 @@
 	.navbar-header
 		a.navbar-brand
 			width: 0
-			overflow: hidden
+			// overflow: hidden
 			display: none
 			opacity: 0
+	.dropbtn
+		padding: 6px 16px
+		width: 100%
 // .scroll-nav-color
 // 	background: transparentize($theme, 0)
 // 	animation: .5s fadeNavigation ease-in-out
@@ -86,7 +91,25 @@
 // 		transform: translateY(0)
 // 		+shadow
 // 		// background: $theme
-.brand-color
-	+shadow
-	background: $theme
-	animation: .3s fadein ease-in-out
+// .brand-color
+// 	+shadow
+// 	background: $theme
+// 	animation: .3s fadein ease-in-out
+
+.nav-logo
+	float: left !important
+	max-width: 250px
+	margin: 5px
+	padding: 10px
+
+.navbar-collapse.in
+	overflow: visible
+
+@media (max-width: 760px)
+	.nav-logo
+		display: none
+	.hero-img
+		height: 300px
+	.nav-logo-small
+		max-width: 200px
+		margin-top: -15px
