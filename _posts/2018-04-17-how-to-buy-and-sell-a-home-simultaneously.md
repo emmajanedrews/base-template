@@ -29,12 +29,12 @@ What three questions do you need to ask a listing agent before hiring them?
 
 Today we’re going to be talking about the steps to buying and selling a home at the same time. Most homeowners I talk to are anxious about balancing this because they don’t want to end up homeless or with two mortgage payments. **Here are three simple steps we can take to help make sure things go smoothly for you:**
 
-1. **Make sure you’re comfortable with the current inventory and you have your financial ducks in a row**. These include a pre-approval with a lender, as well as your down payment. If you can afford the down payment before you’ve sold your home, it would be better for you to buy before you sell. We can execute your purchase, then fully attack the sale once the purchase is finalized. If this isn’t an option for you, we want to make sure that your purchase is in order, then we can start talking about the sale.
+**1. Make sure you’re comfortable with the current inventory and you have your financial ducks in a row**. These include a pre-approval with a lender, as well as your down payment. If you can afford the down payment before you’ve sold your home, it would be better for you to buy before you sell. We can execute your purchase, then fully attack the sale once the purchase is finalized. If this isn’t an option for you, we want to make sure that your purchase is in order, then we can start talking about the sale.
 
-2. **Determine the best marketing plan for you**. We’ll do a market analysis on your home, aggressively promote and market your home, and negotiate with the buyer for terms that are favorable for you. Then we can aggressively find your new property.
+**2. Determine the best marketing plan for you**. We’ll do a market analysis on your home, aggressively promote and market your home, and negotiate with the buyer for terms that are favorable for you. Then we can aggressively find your new property.
 
-<br>3. **Make sure you hire an experienced team**. If one thing happens to derail the purchase or sale, it can derail the entire process. They need to ensure that you have a great transition into your new home.
+<br>**3.&nbsp;****Make sure you hire an experienced team**. If one thing happens to derail the purchase or sale, it can derail the entire process. They need to ensure that you have a great transition into your new home.
 
 {% include pullquote.html %}
 
-There are a lot of steps involved, but tackling it this way allows us to take action promptly and swiftly and can prevent those double payments.  If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+There are a lot of steps involved, but tackling it this way allows us to take action promptly and swiftly and can prevent those double payments. &nbsp;If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
