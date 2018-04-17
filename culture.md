@@ -3,7 +3,6 @@ layout: career
 title: Culture + Environment
 permalink: /culture/
 ---
-{% include core-value.html %}
 
 
 <div class="row">
@@ -16,5 +15,6 @@ permalink: /culture/
 </div>
 
 
+{% include values.html %}
 {% include value-prop.html %}
 {% include testimonials.html %}

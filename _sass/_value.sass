@@ -71,9 +71,10 @@
   text-align: center
 
 .core-value
-  font-size: 26px
+  font-size: 32px
   font-weight: 600
-  color: $brand
+  color: #fff
+  text-shadow: $header-shadow
 
 .core-value-section
   margin: 0 auto
@@ -88,11 +89,23 @@
 .value-quote
   font-size: 18px
   font-style: bold
-  color: $theme
+  color: #fff
 
 .value-author
   font-size: 18px
-  color: $brand
+  font-style: bold
+  color: #fff
+
+#value-title
+  text-align: center
+  padding-top: 3rem
+
+.bkg-img
+  background-position: center
+  background-size: cover
+  background-attachment: fixed
+  background-repeat: no-repeat
+  margin-top: 10rem
 
 #comp-end
   margin: 3rem 0
@@ -109,9 +122,9 @@
 
 #value2
   padding: 3rem
-  text-align: right
+  // text-align: right
   hr
-    margin-left: 40%
+    // margin-left: 40%
 
 #value-img1
   padding: 0
@@ -120,7 +133,7 @@
   padding: 0
 
 .value-prop
-  margin-top: 3rem
+  // margin-top: 3rem
   padding: 3rem
   background: $theme
   p
@@ -128,3 +141,9 @@
     text-align: center
     margin: 2rem 0
     font-size: 18px
+
+.hidden
+  display: none
+
+@media(max-width: 750px)
+  display: block
