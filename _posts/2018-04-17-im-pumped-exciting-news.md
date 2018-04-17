@@ -4,9 +4,13 @@ title: 'I’m pumped, EXCITING NEWS!!'
 date: 2018-04-17 17:20:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  I am excited to announce that Hooke, Hooke & Eckman Realtors has formally
+  affiliated with Keller Williams of Central PA!
 enclosure:
-pullquote:
+pullquote: >-
+  Hooke, Hooke & Eckman Realtors has formally affiliated with Keller Williams of
+  Central PA!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
