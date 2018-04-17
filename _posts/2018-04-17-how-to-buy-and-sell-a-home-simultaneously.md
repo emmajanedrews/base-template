@@ -35,4 +35,4 @@ Today we’re going to be talking about the steps to buying and selling a home a
 
 {% include pullquote.html %}
 
-There are a lot of steps involved, but tackling it this way allows us to take action promptly and swiftly and can prevent those double payments. &nbsp;If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+There are a lot of steps involved, but tackling it this way allows us to take action promptly and swiftly and can prevent those double payments.  If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
