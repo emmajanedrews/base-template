@@ -1,31 +1,38 @@
 ---
 layout: post
 title: How to Buy and Sell a Home Simultaneously
-date:
+date: 2018-04-17 00:00:00
 tags:
+  - Real Estate
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt:
-enclosure:
-pullquote:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Videos/How+to+Buy+and+Sell+a+Home+Simultaneously.mp4
+pullquote: Make sure you hire an experienced team.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/kevin-langan-march-2-ss-no-play.jpg
+youtube_code: fo_jvADqSAU
 ---
+
 <center>{% include youtube.html %}</center>
 
-<center><em>When interviewing a potential listing agent, there are three specific questions you must ask them to determine if they&rsquo;re the right fit.</em></center>
+<center><em>Buying and selling at the same time is possible in today&rsquo;s market. Here&rsquo;s how to do it.</em></center>
 
 <center>&nbsp;</center>
 
 What three questions do you need to ask a listing agent before hiring them?
 
-**1. What sets them apart from other agents?&nbsp;**For example, here at BTG Real Estate, what sets us apart is our team approach. We compartmentalize each section of our business so each person is the absolute best at what they do.
+Today we’re going to be talking about the steps to buying and selling a home at the same time. Most homeowners I talk to are anxious about balancing this because they don’t want to end up homeless or with two mortgage payments. **Here are three simple steps we can take to help make sure things go smoothly for you:**
 
-**2. What type of marketing plan will they be using?** Most agents use a three-point plan: they put a sign in the home’s yard, put the home on the MLS, and pray that some other agent sells it. You need an agent who’s proactive and has a system behind what they’re doing to market and sell your home.
+1. **Make sure you’re comfortable with the current inventory and you have your financial ducks in a row**. These include a pre-approval with a lender, as well as your down payment. If you can afford the down payment before you’ve sold your home, it would be better for you to buy before you sell. We can execute your purchase, then fully attack the sale once the purchase is finalized. If this isn’t an option for you, we want to make sure that your purchase is in order, then we can start talking about the sale.
 
-**3. Can you cancel your contract?** We’re a relationship-based business, and we want to make sure our clients are comfortable throughout every step of the process. If at any point during that process they’re not feeling comfortable, we’d rather turn them down today then let them down later at a critical juncture, which is why we have an easy exit listing option.
+2. **Determine the best marketing plan for you**. We’ll do a market analysis on your home, aggressively promote and market your home, and negotiate with the buyer for terms that are favorable for you. Then we can aggressively find your new property.
+
+<br>3. **Make sure you hire an experienced team**. If one thing happens to derail the purchase or sale, it can derail the entire process. They need to ensure that you have a great transition into your new home.
 
 {% include pullquote.html %}
 
-If you have any other questions about what you should ask your listing agent before hiring them or you’re thinking of buying or selling a home, don’t hesitate to reach out to me for a free consultation. I’d love to help you.
+There are a lot of steps involved, but tackling it this way allows us to take action promptly and swiftly and can prevent those double payments. &nbsp;If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
