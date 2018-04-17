@@ -20,7 +20,7 @@ youtube_code: wzVMBg10jK8
 
 {% include youtube.html %}
 
-*We’re looking to expand our team with highly motivated agents. Are you interested?*
+<center>*We’re looking to expand our team with highly motivated agents. Are you interested?*</center>
 
 A lot of you may not have heard about who we are, but **Colemere Realty is the oldest real estate company in the Salt Lake Valley**.
 
