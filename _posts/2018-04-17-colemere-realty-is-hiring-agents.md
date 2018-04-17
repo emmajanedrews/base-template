@@ -6,7 +6,9 @@ tags:
   - recruiting
   - Salt Lake City
   - Utah
-excerpt: Should you rent or buy your next home? Here’s what you should know.
+excerpt: >-
+  We’re looking to expand our team with highly motivated agents. Are you
+  interested?
 enclosure: 'https://goo.gl/pd3uSL'
 pullquote: We want to build an awesome team of highly motivated agents.
 enclosure_type: video/mp4
