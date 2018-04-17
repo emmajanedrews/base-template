@@ -31,9 +31,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.alwayscalljodie.com/s/Find-Out-How-Much-Your-Salt-Lake-City-Home-Is-Worth
+  first_CTA_URL: http://www.searchsaltlake.house/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.alwayscalljodie.com/search.aspx
+  second_CTA_URL: http://www.searchsaltlake.house/index.php?rtype=
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
