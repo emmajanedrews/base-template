@@ -6,7 +6,9 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  Buying and selling at the same time is possible in today’s market. Here’s how
+  to do it.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Videos/How+to+Buy+and+Sell+a+Home+Simultaneously.mp4
 pullquote: Make sure you hire an experienced team.
