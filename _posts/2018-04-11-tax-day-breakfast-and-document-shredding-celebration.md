@@ -36,3 +36,13 @@ Either way, LET’S CELEBRATE!
 **RSVP:** Please if possible! **[Do so here](https://docs.google.com/forms/d/e/1FAIpQLSd7sGf_IYh2NiY5K8mkCtdWrvQaZUMbn7BBpPYm1Wuxpwn6Tg/viewform)**.
 
 **What if I don’t have documents to shred?** COME FOR BREAKFAST! We’ll have the griddles going from 8-11 AM.
+
+**SPONSORS**
+
+![](/uploads/bay-equity.jpg)
+
+![](/uploads/elevate-logo-final-1.jpg)
+
+![](/uploads/shredding-truck.jpg)
+
+![](blob:https://app.cloudcannon.com/a5bf9cf2-b58e-4e2e-be82-e81743b1a14c)
