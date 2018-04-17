@@ -19,12 +19,11 @@ blogger_id: 'tag:blogger.com,1999:blog-3697608065978771942.post-5250656821371800
 blogger_orig_url: 'http://www.jodieosofsky.com/2018/01/everything-you-need-to-know-about_22.html'
 ---
 
-{% include youtube.html %}Welcome to part two of our series about estate planning. I’ve invited Eric Froisland, a licensed attorney, to come back and explain estate planning in a little more detail.
+{% include youtube.html %}
 
-<div class="post-cta">
-Looking to buy in the Salt Lake City Area? <a href="" target="_blank" class="cc-active">Get a full Home Search</a><br />
-Looking to sell in the Salt Lake City Area? <a href="" target="_blank" class="cc-active">Get a free Home Equity Report</a>
-</div>
+Welcome to part two of our series about estate planning. I’ve invited Eric Froisland, a licensed attorney, to come back and explain estate planning in a little more detail.
+
+<div class="post-cta">Looking to buy in the Salt Lake City Area? <a target="_blank" class="cc-active" href="">Get a full Home Search</a><br />Looking to sell in the Salt Lake City Area? <a target="_blank" class="cc-active" href="">Get a free Home Equity Report</a></div>
 
 When should you put an estate plan in place? **There’s really no right or wrong time.** However, Eric recommends that you start thinking about it more seriously after you’ve bought a home or had children.
 
