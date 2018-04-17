@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/unnamed-3-1.jpg
 youtube_code:
 ---
 
-![](/uploads/unnamed-3.jpg)![](/uploads/unnamed--3-.jpg)
+![](/uploads/unnamed--3-.jpg)
 
 Friends and Clients —
 
