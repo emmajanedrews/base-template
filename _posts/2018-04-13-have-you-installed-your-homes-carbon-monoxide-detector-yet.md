@@ -27,8 +27,8 @@ The National Association of Fire Protection takes it a step further by recommend
 
 {% include pullquote.html %}
 
-**If you’re getting your home ready for sale and you don’t have a CO detector installed,** that will come up on an inspection report once you get an offer. More importantly, this is about you and your family’s safety.
+If you’re getting your home ready for sale and you don’t have a CO detector installed, that will come up on an inspection report once you get an offer. More importantly, this is about you and your family’s safety.
 
-If you’d like more information about this ordinance, [this link](https://www.abor.com/new-carbon-monoxide-ordinance-effective-april-1/) will provide you with all the details. These detectors aren’t expensive, and you can pick one up at Home Depot or just search for one on Amazon.
+**If you’d like more information about this ordinance, [this link](https://www.abor.com/new-carbon-monoxide-ordinance-effective-april-1/) will provide you with all the details.** These detectors aren’t expensive, and you can pick one up at Home Depot or just search for one on Amazon.
 
 If you have any other questions for me about this ordinance or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
