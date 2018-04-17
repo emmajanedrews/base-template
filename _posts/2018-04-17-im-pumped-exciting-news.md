@@ -9,12 +9,12 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/unnamed-3-1.jpg
 youtube_code:
 ---
 
-![](/uploads/unnamed-3.jpg)
+![](/uploads/unnamed-3.jpg)![](/uploads/unnamed--3-.jpg)
 
 Friends and Clients —
 
@@ -25,7 +25,3 @@ Keller Williams is the #1 real estate company in the world! We are confident tha
 Please know, as an existing or prospective buyer or seller, there is nothing you need to do. This email is intended to make sure you are among the first to know about this exciting new partnership. The terms of your listing and/or buyer representation will not change.
 
 Please don’t hesitate to contact me directly with any questions. Thank you for your continued trust and I look forward to striving to provide you with an exceptional buying and selling experience!
-
-Regards,
-
-**Andrew Kronenberg | Realtor**<br>(717) 609-8265<br>AndrewK@HHandE.com
