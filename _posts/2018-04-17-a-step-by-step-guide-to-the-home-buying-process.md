@@ -25,7 +25,7 @@ youtube_code: EDE9KdcPTIQ
 
 {% include youtube.html %}
 
-When buying a home, which steps do you you need to take to find the home that’s right for you?
+When buying a home, which steps do you need to take to find the home that’s right for you?
 
 **The first and most important step is finding a good Realtor to work with.** This means someone who understands your needs, your family situation, and how to help you. You don’t want someone who’s pushy or would try to sell you something.
 
