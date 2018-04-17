@@ -31,7 +31,7 @@ With our area being so dense, buying or selling a home can be done at basically 
 
 So far this year, we’ve seen a decrease in the number of contracts being written compared to what we saw this same time last year. Still, there has been a slight increase in inventory after a very long period of decreasing supply.
 
-The market is set up statistically for a shift. With that information in mind, think about anyone you know who is thinking of selling in the next three to 18 months. Conditions are now slowly shifting toward a buyer’s market, so if you or anyone you know is thinking of selling, now is a good time to make your move.
+The market is set up statistically for a shift. With that information in mind, think about anyone you know who is thinking of selling in the next three to 18 months. Conditions are now slowly shifting to benefit buyer’s more, so if you or anyone you know is thinking of selling, now is a good time to make your move.
 
 **My team and I watch market statistics on a weekly basis, so we have clear evidence that this shift is on its way.**
 
