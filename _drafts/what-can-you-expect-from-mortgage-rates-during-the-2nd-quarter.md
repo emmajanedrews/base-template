@@ -3,7 +3,8 @@ layout: post
 title: What Can You Expect From Mortgage Rates During the 2nd Quarter?
 date: 2018-04-17 09:45:00
 tags:
-  - Mortgages
+  - Market Update
+  - Mortgage
 excerpt: >-
   Today, I want to discuss what I believe will happen with mortgage rates during
   the second quarter of 2018. During the first quarter, rates increased by as
