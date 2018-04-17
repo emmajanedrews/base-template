@@ -26,6 +26,8 @@ Hooke, Hooke & Eckman Realtors is constantly striving to bring our clients the h
 
 Keller Williams is the #1 real estate company in the world! We are confident that the tools, training and resources available from KW can only improve on the already outstanding service that we are committed to providing our clients.
 
+{% include pullquote.html %}
+
 Please know, as an existing or prospective buyer or seller, there is nothing you need to do. This email is intended to make sure you are among the first to know about this exciting new partnership. The terms of your listing and/or buyer representation will not change.
 
 Please don’t hesitate to contact me directly with any questions. Thank you for your continued trust and I look forward to striving to provide you with an exceptional buying and selling experience!
