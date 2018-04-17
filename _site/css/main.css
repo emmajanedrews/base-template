@@ -2780,6 +2780,10 @@ form select {
 .testimonial-author {
   color: #008C9B; }
 
+.results {
+  margin-top: 3rem;
+  font-size: 18px; }
+
 .recruiting {
   text-align: center; }
 
