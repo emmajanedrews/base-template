@@ -11,8 +11,8 @@ enclosure:
 pullquote: Past sales play the most important role in determining a home value.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/tony-verdi-truth-about-zillow-youtube.jpg
 youtube_code: WKECfUzcGYY
 ---
 
