@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Installed Your Home’s Carbon Monoxide Detector Yet?
-date: 2018-04-13 19:32:58
+date: 2018-04-13 19:32:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: c2Q4emyZlUE
+youtube_code: 09u0Pgndrls
 ---
 
 {% include youtube.html %}
@@ -32,5 +32,3 @@ The National Association of Fire Protection takes it a step further by recommend
 If you’d like more information about this ordinance, [this link](https://www.abor.com/new-carbon-monoxide-ordinance-effective-april-1/) will provide you with all the details. These detectors aren’t expensive, and you can pick one up at Home Depot or just search for one on Amazon.
 
 If you have any other questions for me about this ordinance or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
-
-&nbsp;
