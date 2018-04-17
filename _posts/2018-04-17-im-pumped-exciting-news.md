@@ -28,4 +28,4 @@ Please don’t hesitate to contact me directly with any questions. Thank you for
 
 Regards,
 
-**Andrew Kronenberg | Realtor**<br>(717) 609-8265<br>[AndrewK@HHandE.com](javascript:void(location.href='mailto:'+String.fromCharCode(65,110,100,114,101,119,75,64,72,72,97,110,100,69,46,99,111,109)))&nbsp;
+| Andrew Kronenberg | Realtor<br>(717) 609-8265<br>[AndrewK@HHandE.com](javascript:void(location.href='mailto:'+String.fromCharCode(65,110,100,114,101,119,75,64,72,72,97,110,100,69,46,99,111,109)))&nbsp; |
