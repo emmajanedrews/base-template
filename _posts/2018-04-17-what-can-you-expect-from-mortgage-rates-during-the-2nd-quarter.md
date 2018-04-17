@@ -4,7 +4,6 @@ title: What Can You Expect From Mortgage Rates During the 2nd Quarter?
 date: 2018-04-17 09:45:00
 tags:
   - Market Update
-  - Mortgage
 excerpt: >-
   Today, I want to discuss what I believe will happen with mortgage rates during
   the second quarter of 2018. During the first quarter, rates increased by as
@@ -13,7 +12,8 @@ excerpt: >-
   0.25% just last week. Despite this, you shouldn’t be worried about them
   getting any higher during the second quarter. To find out why, watch my latest
   video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Manny+Gomes/Videos/2018/Guaranteed+Rate+%257C+Market+Update.mp4
 pullquote: 'Historically, the second quarter is the time when rates tend to improve.'
 enclosure_type: video/mp4
 enclosure_time:
