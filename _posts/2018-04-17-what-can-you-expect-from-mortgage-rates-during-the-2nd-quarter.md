@@ -18,7 +18,7 @@ pullquote: 'Historically, the second quarter is the time when rates tend to impr
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /Manny_Gomes_-_April_2018_-_1_-_Youtube.jpg
 youtube_code: FMeVun_wUKo
 ---
 
