@@ -45,4 +45,6 @@ Either way, LET’S CELEBRATE!
 
 <center><a href="https://www.elevatehw.com/"><img src="/uploads/elevate-logo-final-2.jpg" width="800" height="247" /></a></center>
 
-<center><a href="https://prestonshredding.com/"><img src="/uploads/shredding-truck-1.jpg" width="2016" height="1512" /></a><a href="http://nook-n-kranny.com/"><img src="/uploads/nook-and-kranny-no-back-ground-1.png" width="1080" height="751" /></a></center>
+<center><a href="http://nook-n-kranny.com/"><img src="blob:https://app.cloudcannon.com/07c67412-f246-4180-a429-32e3d03c6695" /></a></center>
+
+<center><a href="https://prestonshredding.com/"><img src="/uploads/shredding-truck-1.jpg" width="2016" height="1512" /></a></center>
