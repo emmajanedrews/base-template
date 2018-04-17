@@ -36,15 +36,3 @@ Either way, LET’S CELEBRATE!
 **RSVP:** Please if possible! **[Do so here](https://docs.google.com/forms/d/e/1FAIpQLSd7sGf_IYh2NiY5K8mkCtdWrvQaZUMbn7BBpPYm1Wuxpwn6Tg/viewform)**.
 
 **What if I don’t have documents to shred?** COME FOR BREAKFAST! We’ll have the griddles going from 8-11 AM.
-
-## &nbsp;
-
-## **SPONSORS:**
-
-<center><a href="https://www.bayequityhomeloans.com/"><img width="250" height="250" src="/uploads/bay-equity-1.jpg" /></a></center>
-
-<center><a href="https://www.elevatehw.com/"><img width="800" height="247" src="/uploads/elevate-logo-final-2.jpg" /></a></center>
-
-<center><a href="http://nook-n-kranny.com/"><img src="blob:https://app.cloudcannon.com/cc970d72-6ff9-4dd5-b028-cdb80070c5a7" /></a></center>
-
-<center><a href="https://prestonshredding.com/"><img src="/uploads/shredding-truck-2.jpg" width="2016" height="1512" /></a></center>
