@@ -37,12 +37,14 @@ Either way, LET’S CELEBRATE!
 
 **What if I don’t have documents to shred?** COME FOR BREAKFAST! We’ll have the griddles going from 8-11 AM.
 
-**SPONSORS**
+## &nbsp;
 
-![](/uploads/bay-equity.jpg)
+## **SPONSORS:**
 
-![](/uploads/elevate-logo-final-1.jpg)
+[![](/uploads/bay-equity.jpg)](https://www.bayequityhomeloans.com/)
 
-![](/uploads/shredding-truck.jpg)
+[![](/uploads/elevate-logo-final-1.jpg)](https://www.elevatehw.com/)
 
-![](blob:https://app.cloudcannon.com/a5bf9cf2-b58e-4e2e-be82-e81743b1a14c)
+[![](/uploads/shredding-truck.jpg)](https://prestonshredding.com/)
+
+[![](/uploads/nook-and-kranny-no-back-ground.png)](http://nook-n-kranny.com/)
