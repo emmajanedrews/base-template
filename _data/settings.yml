@@ -40,14 +40,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.alwayscalljodie.com/s/Find-Out-How-Much-Your-Salt-Lake-City-Home-Is-Worth
+    CTA_url: http://www.searchsaltlake.house/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.alwayscalljodie.com/search.aspx
+    CTA_url2: http://www.searchsaltlake.house/index.php?rtype=
 
 lender:
   show_section: false
