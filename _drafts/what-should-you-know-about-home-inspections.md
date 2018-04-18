@@ -18,7 +18,9 @@ youtube_code: ByjxlmEGccg
 
 {% include youtube.html %}
 
-<center>Home inspections can be intimidating for buyers and sellers. Here’s how to handle them.</center>
+<center><em>Home inspections can be intimidating for buyers and sellers. Here&rsquo;s how to handle them.</em></center>
+
+<center>&nbsp;</center>
 
 There are a few things you should know about home inspections before going in. One thing to keep in mind is that it’s the inspector’s job to find problems with your home. **Having a home inspection without any issues is very unlikely.**
 
