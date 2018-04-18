@@ -21,7 +21,9 @@ youtube_code: paHTatIPmQ8
 
 {% include youtube.html %}
 
-<center>The latest numbers from our real estate market are in. Today, I’d like to go over what trends we’re seeing and how they might impact your real estate goals this year.</center>
+<center><em>The latest numbers from our real estate market are in. Today, I&rsquo;d like to go over what trends we&rsquo;re seeing and how they might impact your real estate goals this year.</em></center>
+
+<center>&nbsp;</center>
 
 Spring has finally sprung. So, let’s celebrate the end of winter by taking a look at the April edition of our hot-off-the-press market report.&nbsp;
 
@@ -41,6 +43,6 @@ As the numbers show, the reason behind the upward pressure on prices is as simpl
 
 Not all market trends this year have been this consistent, though. After rising steadily for the first few weeks of 2018, interest rates have been bouncing around lately. Therefore, I don’t recommend waiting around for a better time to buy. Whether you’ve been thinking of buying or listing, now is a great time to make your move.&nbsp;
 
-If you would like to learn more about the listing process, sign up today for our next Home Selling Sharks Seminar. This seminar will take place on June 12, 2018, at the Hilton Garden Inn in Fort Washington. To learn more about the event, visit www.homesharkseminar.com.&nbsp;
+If you would like to learn more about the listing process, sign up today for our next Home Selling Sharks Seminar. This seminar will take place on June 12, 2018, at the Hilton Garden Inn in Fort Washington. To learn more about the event, visit [www.homesharkseminar.com](www.homesharkseminar.com).&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
