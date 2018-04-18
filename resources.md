@@ -13,4 +13,4 @@ permalink: /resources/
 
 <a href="/img/goal-setting.pdf"><object width="1000" height="1200" data="/img/goal-setting.pdf" id="wealth-pdf"></object></a>
 
-<a href="/img/mrea.jpg"><img src="/img/mrea.jpg" id="wealth-pdf"></a>
+<a href="/img/mrea.JPG"><img src="/img/mrea.JPG" id="wealth-pdf"></a>
