@@ -44,7 +44,9 @@
 .hero-cta
   padding-top: $nav-height + 5rem
   text-align: center
-  // margin-right: 4rem
+  width: 50%
+  display: block
+  margin: 0 auto
 
 .cta-title
   font-family: 'Lato', serif
@@ -172,11 +174,15 @@
   text-transform: capitalize
   font-size: 20px
 
-@media (max-width: 1100px)
+@media (max-width: 1285px)
   .site-title
     font-size: 5rem
+  .browse-item
+    width: 90%
+  .hero-cta
+    width: 75%
 
-@media (max-width: 1000px)
+@media (max-width: 1024px)
   .home-logo
     max-width: 20rem
   .home-broker-logo
@@ -185,8 +191,12 @@
   .browse-item
     width: 90%
     padding: .5rem
+  .browse-container
+    width: 99%
+  .browse
+    padding: 0
 
-@media (max-width: 760px)
+@media (max-width: 800px)
   #hero
     // height: 33rem
   .home-logo
@@ -196,6 +206,15 @@
     font-size: 5rem
   .home-broker-logo
     display: none
+  .cta-title
+    font-size: 45px
+    line-height: 50px
+  .browse-item
+    margin-top: 1rem
+  .browse-container
+    padding-top: 0
+
+
 
 @media (max-width: 600px)
   .home-logo

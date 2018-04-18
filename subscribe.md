@@ -3,9 +3,7 @@ layout: page
 title: Subscribe
 permalink: /subscribe/
 ---
-<div class="letterhead"><span id="letterhead">FROM THE DESK OF DAVE FRIEDMAN</span>
-
-<p id="letterhead-subtitle"><em>Free Real Estate Agent Training Newsletter</em></p>
+<div class="letterhead"><span id="letterhead">Free Real Estate Agent Training Newsletter</span>
 
 <div id="letterhead-title">Sell More Homes In Less Time</div>
 
@@ -13,40 +11,53 @@ permalink: /subscribe/
 
 <hr>
 
+<p>Dear Real Estate Agent:</p>
 
-Dear Real Estate Agent,
+<p>Are you looking for training that teaches you exactly what you need to do to sell homes specifically right here in Charleston?</p>
 
-Are you frustrated with where you’re at in your real estate business?
+<p>I invite you to subscribe to our free real estate agent training newsletter.</p>
 
-I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Every two weeks, we publish helpful tips for you; which includes:
+<ol class="indent">
+<li>Real agent success stories</li>
+<li>Question and answer videos</li>
+<li>Highlights of our team training</li>
+<li>Our favorite technology tips</li>
+</ol></p>
 
-<ul>
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
-</ul>
+<p>Our goal is to give you a taste of the training we provide if you have any interest in working with us in the future.</p>
 
-This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.
+<p><strong>We have no intention of recruiting you</strong> - that’s a conversation with us when you are ready, if at all.</p>
 
-This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in Charleston. In the greater Charleston area, there were 17,720 closed sales in 2016. The Dave Friedman Team sold 212 homes in 2016, so there is plenty of business to go around. So far in 2017, we've closed 223.
+<p>18,726 homes were sold in the greater Charleston market in 2017.</p>
 
-SPECIAL NEW SUBSCRIBER BONUS
+<p>That’s plenty of business to go around for all of us.</p>
 
-When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office.
+<p>We were fortunate to sell over 250 homes in 2017 and our average agent earns more than $100,000 in take home compensation.</p>
 
-Feel free to unsubscribe anytime. We will never, ever, ever spam you.
+<p>The same training they get will help you do it as well.</p>
 
-The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.
+<p>So, if you’re interested in knowing what we’re up to here, and you’d like to stay current on the latest strategies to:
+<ol class="indent">
+<li>Generate qualified seller leads</li>
+<li>Attract buyers who actually want to buy</li>
+<li>Convert more leads to appointments</li>
+<li>Win more listing presentations at full commission</li>
+<li>Systematize your administrative processes</li>
+<li>Earn more referrals and reviews for repeat business</li>
+</ol></p>
 
-I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.
+<p>…I invite you to subscribe to our free newsletter below.</p>
 
-Email me at <a href="mailto:Dave@DaveFriedmanTeam.com">Dave@DaveFriedmanTeam.com</a> with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!
+<p>You are also welcome to subscribe to our YouTube page and we also publish our free training content on our agent training Facebook page if you prefer to stay touch that way, too.</p>
 
-Let’s help you grow your business.
+<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at <a href="mailto:questions@davefriedmanteam.com">questions@davefriedmanteam.com</a>.</p>
 
-Dave Friedman
+<p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
+
+<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in Charleston!</p>
+
+<p>I invite you to subscribe now below:</p>
+
 
 {% include subscribe.html %}
