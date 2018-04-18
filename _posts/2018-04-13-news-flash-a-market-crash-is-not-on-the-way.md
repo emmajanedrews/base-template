@@ -34,6 +34,6 @@ While rates have risen, they’re still at historic lows. In order for rising ra
 
 Today’s interest rates are a gift. **Buyers should be jumping on opportunities, and sellers should do the same while demand is high.** Low supply is one contributing factor of today’s high demand. From 2012 to 2017, 30% fewer homes have come on the market compared to those in 2000 to 2008.&nbsp;
 
-There are currently about 4,300 homes on the market, which is significantly lower than the long-term average of 8,000 homes. So, ignore the chatter: Our Orange County market is hot and will continue to be so in the future.
+There are currently about 4,300 homes on the market, which is significantly lower than the long-term average of 8,000 homes. So, ignore the chatter. Our Orange County market is hot and will continue to be so in the future.
 
 If you have any other questions, would like more information, or want to know how you can benefit from these unusual market conditions, feel free to give me a call or send me an email. I look forward to hearing from you soon.
