@@ -33,7 +33,7 @@ Today we’re going to be talking about the steps to buying and selling a home a
 
 **2. Determine the best marketing plan for you**. We’ll do a market analysis on your home, aggressively promote and market your home, and negotiate with the buyer for terms that are favorable for you. Then we can aggressively find your new property.
 
-<br>**3.&nbsp;****Make sure you hire an experienced team**. If one thing happens to derail the purchase or sale, it can derail the entire process. They need to ensure that you have a great transition into your new home.
+**3.&nbsp;****Make sure you hire an experienced team**. If one thing happens to derail the purchase or sale, it can derail the entire process. They need to ensure that you have a great transition into your new home.
 
 {% include pullquote.html %}
 
