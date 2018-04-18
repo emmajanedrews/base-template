@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today, I wanted to bring you your market update with some specifics about
   various markets in the area.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/Houston+Real+Estate+Agent-+An+Update+on+the+March+Market.mp4
 pullquote: >-
   When you’re looking to sell your house, you need to look at the specifics of
   your own market and what the competing market looks like.
