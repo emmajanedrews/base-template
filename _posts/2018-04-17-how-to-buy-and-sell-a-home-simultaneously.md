@@ -25,8 +25,6 @@ youtube_code: fo_jvADqSAU
 
 <center>&nbsp;</center>
 
-What three questions do you need to ask a listing agent before hiring them?
-
 Today we’re going to be talking about the steps to buying and selling a home at the same time. Most homeowners I talk to are anxious about balancing this because they don’t want to end up homeless or with two mortgage payments. **Here are three simple steps we can take to help make sure things go smoothly for you:**
 
 **1. Make sure you’re comfortable with the current inventory and you have your financial ducks in a row**. These include a pre-approval with a lender, as well as your down payment. If you can afford the down payment before you’ve sold your home, it would be better for you to buy before you sell. We can execute your purchase, then fully attack the sale once the purchase is finalized. If this isn’t an option for you, we want to make sure that your purchase is in order, then we can start talking about the sale.
