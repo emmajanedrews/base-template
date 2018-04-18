@@ -11,7 +11,7 @@ emma:
   form:
 
 client:
-  name: Alex Yu
+  name: Alex Yu<br>Broker Associate, CIPS
   title:
   license_number: BRE 01492674
   about_markdown: |
@@ -19,8 +19,8 @@ client:
 
     He consistently ranks in the top tier of productive agents and prides himself on being a resource and helping others reach their real estate goals. Whether it is a first home or tenth investment property, he is an invaluable asset. For buyers, he provides key market analysis and creates strategies to win offers. For sellers, he provides cutting edge marketing and a global reach to get homes sold for the highest dollar amount in the shortest span of time.
   market: Orange County
-  brand: Alex Yu Real Estate
-  brokerage: First Team Estates and Christie's International Real Estate
+  brand:
+  brokerage: First Team Estates / Christie's International Real Estate
   address: 4 Corporate Plaza Suite 100 Newport Beach, CA 92660
   phone: 949-682-8880
   phone_type:
