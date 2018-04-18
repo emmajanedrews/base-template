@@ -19,7 +19,7 @@ youtube_code: idWIB3HrfZQ
 
 {% include youtube.html %}
 
-<center>*I’m here with your Myrtle Beach real estate market update for the first quarter of 2018.*</center>
+<center><em>I&rsquo;m here with your Myrtle Beach real estate market update for the first quarter of 2018.</em></center>
 
 The numbers are out for the first quarter of 2018, so I want to share a couple of stats with you today.
 
