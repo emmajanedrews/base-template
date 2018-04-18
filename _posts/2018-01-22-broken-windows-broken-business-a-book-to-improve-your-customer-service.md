@@ -1,28 +1,29 @@
 ---
 youtube_code: qdU1Qco9iK4
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Books%2520to%2520improve%2520your%2520business.mp4
 pullquote: CUSTOMER SERVICE IS THE NO. 1 BROKEN WINDOW IN BUSINESS.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: "Broken Windows, Broken Business: A Book to Improve Your Customer Service"
-date: '2018-01-22T10:27:00.004-08:00'
+title: 'Broken Windows, Broken Business: A Book to Improve Your Customer Service'
+date: 2018-01-22 18:27:00
 author: Vyral Admin
 tags:
-- Books
-modified_time: '2018-01-22T11:04:04.028-08:00'
-thumbnail: https://i.ytimg.com/vi/qdU1Qco9iK4/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1483616997887452353.post-6656018259717074346
-blogger_orig_url: http://mirandateamcoaching.blogspot.com/2018/01/books-to-improve-your-business.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/qdU1Qco9iK4/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1483616997887452353.post-6656018259717074346'
+blogger_orig_url: >-
+  http://mirandateamcoaching.blogspot.com/2018/01/books-to-improve-your-business.html
 ---
-{% include youtube.html %}
-I recently picked up a great book called “Broken Windows, Broken Business”. It helped me improve my business practices, and it can help you, too.
+
+{% include youtube.html %}I recently picked up a great book called “Broken Windows, Broken Business”. It helped me improve my business practices, and it can help you, too.
 
 <div class="post-cta">
-<strong>Questions about your Real Estate Career?<br>
+<strong>Questions about your Real Estate Career?<br />
 <a href="mailto:Wmiranda@mrgteam.com">Click here to send me a private email.</a></strong>
 </div>
 
@@ -44,7 +45,6 @@ The author gave a few ways that you can use to find what broken windows your bus
 
 **2. Call the office directly** to see how long it takes for them to answer. What’s the agent’s tone like? It works a lot like curb appeal for a home; if you come to a home with garbage all over the place, it tends to push people away. Customer service, similarly, needs to be good from the first encounter in order to keep clients coming back.
 
-**3. Walk-ins.** Have someone physically come into the business and see how they’re treated from beginning to end.
-In the end, you need a way to determine what you’re doing wrong, what you’re doing well, as well as if you’re hiring the right people to give the level of service you can be proud of. I know that I’ll be going back to talk to my staff about our broken windows, and it might be a good idea for you to do the same.
+**3. Walk-ins.** Have someone physically come into the business and see how they’re treated from beginning to end.In the end, you need a way to determine what you’re doing wrong, what you’re doing well, as well as if you’re hiring the right people to give the level of service you can be proud of. I know that I’ll be going back to talk to my staff about our broken windows, and it might be a good idea for you to do the same.
 
 If you have any questions for me about books for business owners, or about real estate in general, feel free to reach out to me. I’d be glad to talk with you.
