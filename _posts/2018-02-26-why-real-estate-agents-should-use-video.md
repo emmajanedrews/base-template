@@ -1,7 +1,8 @@
 ---
 youtube_code: BXwK9oFqwOA
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520The%2520importance%2520of%2520video.mp4
 pullquote: JUST START MAKING VIDEOS.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,20 +10,19 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Why Real Estate Agents Should Use Video
-date: '2018-02-26T10:08:00.001-08:00'
+date: 2018-02-26 18:08:00
 author: Vyral Admin
 tags:
-- Expert Advice
-modified_time: '2018-03-02T11:33:42.275-08:00'
-thumbnail: https://i.ytimg.com/vi/BXwK9oFqwOA/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1483616997887452353.post-7079906353255649970
-blogger_orig_url: http://mirandateamcoaching.blogspot.com/2018/02/the-importance-of-video.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/BXwK9oFqwOA/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1483616997887452353.post-7079906353255649970'
+blogger_orig_url: 'http://mirandateamcoaching.blogspot.com/2018/02/the-importance-of-video.html'
 ---
-{% include youtube.html %}
-Why is video so important when it comes to engaging with your real estate clients? I’ll explain today.
+
+{% include youtube.html %}Why is video so important when it comes to engaging with your real estate clients? I’ll explain today.
 
 <div class="post-cta">
-<strong>Questions about your Real Estate Career?<br>
+<strong>Questions about your Real Estate Career?<br />
 <a href="mailto:Wmiranda@mrgteam.com">Click here to send me a private email.</a></strong>
 </div>
 
@@ -44,4 +44,4 @@ Just try it. If you don’t want to get into BombBomb, you can shoot a video on 
 
 **There are many ways to do video, but the point is to get started now!** You can even send me your first video if you want a few pointers.
 
-Please don’t hesitate to reach out to me with any questions you may have. I would be happy to help you! Please call/text me at 518-376-1073 or email me at <a href="mailto:wmiranda@mrgteam.com">wmiranda@mrgteam.com</a>.
+Please don’t hesitate to reach out to me with any questions you may have. I would be happy to help you! Please call/text me at 518-376-1073 or email me at [wmiranda@mrgteam.com](mailto:wmiranda@mrgteam.com).
