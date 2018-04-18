@@ -1,7 +1,8 @@
 ---
 youtube_code: x-M9DNyK4jE
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Learn%2520how%2520to%2520execute%2520your%2520goals.mp4
 pullquote: THIS WEBINAR WILL BRING YOUR 2018 GAME TO THE NEXT LEVEL.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,20 +10,20 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: A Webinar to Help You Achieve Your Goals in 2018
-date: '2018-01-29T13:21:00.000-08:00'
+date: 2018-01-29 21:21:00
 author: Vyral Admin
 tags:
-- Goals
-modified_time: '2018-02-05T07:44:15.907-08:00'
-thumbnail: https://i.ytimg.com/vi/x-M9DNyK4jE/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1483616997887452353.post-4140307928500237755
-blogger_orig_url: http://mirandateamcoaching.blogspot.com/2018/01/learn-how-to-execute-your-goals.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/x-M9DNyK4jE/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1483616997887452353.post-4140307928500237755'
+blogger_orig_url: >-
+  http://mirandateamcoaching.blogspot.com/2018/01/learn-how-to-execute-your-goals.html
 ---
-{% include youtube.html %}
-Join author Paul Cummings and I in my latest webinar where we discuss how to plan and execute all of your goals in 2018.
+
+{% include youtube.html %}Join author Paul Cummings and I in my latest webinar where we discuss how to plan and execute all of your goals in 2018.
 
 <div class="post-cta">
-<strong>Questions about your Real Estate Career?<br>
+<strong>Questions about your Real Estate Career?<br />
 <a href="mailto:Wmiranda@mrgteam.com">Click here to send me a private email.</a></strong>
 </div>
 
@@ -36,7 +37,7 @@ How can you be a part of the percentile that makes goals and achieves them?
 
 **This week, I hosted a webinar where I interviewed Paul Cummings**, author of the book “It All Matters: 125 Strategies to Achieve Maximum Confidence, Clarity, Certainty, and Creativity.” I asked Paul some really neat questions about what you need to have in order to engage and execute your goals. He put together a 10-step process on how to build your goals, and he included nine area goals as well that you need to have to create a great work-life balance.
 
-**To watch the full webinar, <a href="https://register.gotowebinar.com/recording/recordingView?webinarKey=6463891808849661443&registrantEmail=victoria@woople.com&assets=true&utm_content=buffere7c64&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">click here</a>.**
+**To watch the full webinar, [click here](https://register.gotowebinar.com/recording/recordingView?webinarKey=6463891808849661443&amp;registrantEmail=victoria@woople.com&amp;assets=true&amp;utm_content=buffere7c64&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer).**
 
 What are you going to do differently this year? If you keep doing the same thing, you’ll get the same results. By implementing the strategies Paul talks about in his book and outlines in this webinar, you’ll be able to bring your 2018 game to the next level.
 
