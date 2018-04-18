@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/IrS4bp4NTZA'
 
 {% include youtube.html %}
 
-Today I wanted to give you a quick reminder about the community event we are hosting for our clients and friends. 
+Today I wanted to give you a quick reminder about the community event we are hosting for our clients and friends.&nbsp;
 
 **On Saturday, April 21, we hope to see you out in the parking lot of Broadlands Community Center in Ashburn, VA for our recycling and shredding event.**
 
@@ -27,6 +27,6 @@ Bring everything that you need shredded to the shredding truck, which will be in
 
 {% include pullquote.html %}
 
-**Collect the stuff you don’t want taking up space in your house and bring it down.** That’s what we’re doing. We’ll have light refreshments for you too. For all of the information about the event, click **[here.](http://www.wickerhomesgroup.com/events)**
+**Collect the stuff you don’t want taking up space in your house and bring it down.** That’s what we’re doing. We’ll have light refreshments for you too. For all of the information about the event, click **[here.](https://spark.adobe.com/page/ojf9kF29QM3N5/)**
 
-If you have any questions for us in the meantime, don’t hesitate to reach out and give us a call or send us an email today. We look forward to hearing from you soon.<br>
+If you have any questions for us in the meantime, don’t hesitate to reach out and give us a call or send us an email today. We look forward to hearing from you soon.
