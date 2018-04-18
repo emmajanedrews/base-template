@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike-gray--march-market-update-youtube.jpg
-youtube_code: 'https://youtu.be/rLFk5TkO8GQ'
+youtube_code: 'https://youtu.be/aZvU7vb-Vuk'
 ---
 
 {% include youtube.html %}
@@ -26,7 +26,7 @@ There has been a 12% increase of homes going under contract—this means there a
 
 Let’s look at some specific markets.
 
-* **Bellaire,** in the $1.2 million-and-above range, &nbsp;is a bit slower and leans toward a buyer’s market. Below that figure, the market is more favorable to sellers.
+* **Bellaire,** in the $1.2 million-and-above range,  is a bit slower and leans toward a buyer’s market. Below that figure, the market is more favorable to sellers.
 * **West University** is strong across the board; there’s not a lot of inventory, but it’s still a strong market.<br>{% include pullquote.html %}
 * In **Memorial**, we’re seeing about the same number of homes as we did last summer. Homes above the $2 million price point are taking longer to sell. The lower price ranges are very strong, with some even having multiple offer situations.
 * **The Heights** also has a strong market. We’re seeing low inventory and good demand, and this market also had that highest number of sales for an inner area in 2017. The other areas in the top 10 were the outer, suburb areas.
