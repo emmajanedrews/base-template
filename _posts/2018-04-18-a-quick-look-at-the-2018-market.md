@@ -21,6 +21,8 @@ youtube_code: idWIB3HrfZQ
 
 <center><em>I&rsquo;m here with your Myrtle Beach real estate market update for the first quarter of 2018.</em></center>
 
+&nbsp;
+
 The numbers are out for the first quarter of 2018, so I want to share a couple of stats with you today.
 
 The inventory for single-family detached homes is down 10% from the first quarter of last year, and **the number of sales is up by 7%.**
