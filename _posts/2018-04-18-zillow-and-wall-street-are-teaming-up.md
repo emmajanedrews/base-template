@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zillow and Wall Street Are Teaming Up
-date:
+date: 2018-04-18 21:19:15
 tags:
   - Real Estate
 excerpt: >-
