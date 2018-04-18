@@ -5,8 +5,8 @@ show_custom_links: true
 custom_links:
   # - title: Millionaire Agent Mindset
   #   url: http://millionaireagentmindset.com/
-  # - title: About
-  #   url: http://www.viewsaltlakecityareahomes.com/about/
+  - title: Resources
+    url: /resources/
   - title: Testimonials
     url: /testimonials
 client:
