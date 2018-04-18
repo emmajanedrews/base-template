@@ -1,7 +1,8 @@
 ---
 youtube_code: yv0FUzwngAk
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520I%2520broke%2520my%2520big%2520rule.mp4
 pullquote: YOU NEVER WANT TO PRESENT TO JUST ONE DECISION MAKER.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,20 +10,19 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: I Broke My Rule
-date: '2018-03-14T11:05:00.001-07:00'
+date: 2018-03-14 18:05:00
 author: Vyral Admin
 tags:
-- Expert Advice
-modified_time: '2018-03-15T11:41:29.313-07:00'
-thumbnail: https://i.ytimg.com/vi/yv0FUzwngAk/default.jpg
-blogger_id: tag:blogger.com,1999:blog-1483616997887452353.post-1359768623421629418
-blogger_orig_url: http://mirandateamcoaching.blogspot.com/2018/03/i-broke-my-big-rule.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/yv0FUzwngAk/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-1483616997887452353.post-1359768623421629418'
+blogger_orig_url: 'http://mirandateamcoaching.blogspot.com/2018/03/i-broke-my-big-rule.html'
 ---
-{% include youtube.html %}
-I broke one of my cardinal rules over the weekend. Here’s where I messed up.
+
+{% include youtube.html %}I broke one of my cardinal rules over the weekend. Here’s where I messed up.
 
 <div class="post-cta">
-<strong>Questions about your Real Estate Career?<br>
+<strong>Questions about your Real Estate Career?<br />
 <a href="mailto:Wmiranda@mrgteam.com">Click here to send me a private email.</a></strong>
 </div>
 
