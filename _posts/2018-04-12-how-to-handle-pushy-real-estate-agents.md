@@ -23,7 +23,7 @@ youtube_code: p2Y3n69xVxU
 
 “We’ve been looking at open houses for several months and feel we’ve learned a lot doing that. Our problem is that we find most of the agents are more interested in getting us to work with them than answering our questions. How do we handle that?”
 
-This is a fantastic question.** Previewing homes using open houses is one of the best ways to prepare yourself for buying the right home**. We also recommend that you first find the right real estate consultant as a seperate and critical step. Find one with a teacher’s heart. Someone who listens to understand, not to sell something.
+This is a fantastic question. **Previewing homes using open houses is one of the best ways to prepare yourself for buying the right home.** We also recommend that you first find the right real estate consultant as a separate and critical step. Find one with a teacher’s heart. Someone who listens to understand, not to sell something.
 
 When you present that agent’s business card at the open houses, it will change the response of the showing agent. That’s guaranteed.&nbsp;
 
@@ -31,6 +31,6 @@ When you present that agent’s business card at the open houses, it will change
 
 The reason more than 80% of our business comes from repeat and past clients is that we care enough to understand. Want our help or have any questions? Just give us a call or send us an email today. We look forward to hearing from you soon.
 
-Teaser: How should you handle pushy real estate agents? It’s a delicate situation. It might seem like agents are more interested in working with you than answering your questions. If that’s the case, I have a few tips to share with you today. By following them, you’ll be on the right path to real estate success. To learn more, watch this short video.<br>&nbsp;
+<br>&nbsp;
 
 &nbsp;
