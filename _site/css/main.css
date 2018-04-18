@@ -2637,3 +2637,10 @@ form select {
 
 #about {
   font-weight: bold; }
+
+#wealth-pdf {
+  display: block;
+  margin: 0 auto;
+  padding: 3rem 0; }
+  #wealth-pdf a:hover {
+    cursor: zoom-in; }
