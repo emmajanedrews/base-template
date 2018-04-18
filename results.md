@@ -15,4 +15,10 @@ permalink: /results/
 
 <p>TJ Vitense</p>
 
+<hr>
+
+<p>
+Shawn is a dynamic and strategic  leader who is dedicated in getting the best out of those around him!   His systems, ideology and culture create an environment that you can prosper with...  Quite simply Shawn is the real deal!
+</p>
+
 </div>
