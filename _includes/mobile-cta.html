@@ -1,30 +1,34 @@
 <div class="container-fluid visible-xs">
-  {% for cta in site.data.settings.sidebar_CTA %}
-  <div class="cta-sidebar-container">
-  	<div class="cta-img-container">
-  		{% if cta.CTA_link_text == null or cta.CTA_url == null%}
-  	<a href="{{cta.first_CTA_URL}}" target="_blank">
-  		{% else %}
-  		<a href="{{cta.CTA_url}}" target="_blank">
-  		{%endif%}
-  		<img src="{{cta.CTA_image_path}}" alt="" />
-  	</a>
-  	</div>
-  	<h5>{{cta.CTA_title | replace: '-- MARKET --', site.data.settings.client.market}}</h5>
-  	<p>
-  		{{cta.CTA_text}}
-  	</p>
-  	<div class="ctacontainer">
-  		{% if cta.CTA_link_text == null or cta.CTA_url == null%}
-  		<a class="ctalink" href="{{site.data.settings.CTAs.first_CTA_URL}}" target="_blank">
-  			{{site.data.settings.CTAs.first_CTA_text}}
-  		</a>
-  		{% else %}
-  		<a class="ctalink" href="{{cta.CTA_url}}" target="_blank">
-  			{{cta.CTA_link_text | replace: '-- MARKET --', site.data.settings.client.market}}
-  		</a>
-  		{% endif %}
-  	</div>
+  <div class="mobile-cta-container">
+    <div class="mobile-cta" id="team">
+      <a href="/join-our-team/" target="_blank">
+        Join Our Team
+      </a>
+    </div>
+
+    <div class="mobile-cta" id="call">
+      <a href="/strategy-call/" target="_blank">
+        Free Strategy Call
+      </a>
+    </div>
+
+    <div class="mobile-cta" id="events">
+      <a href="https://www.eventbrite.com/o/misty-soldwisch-for-be-better-dsm-real-estate-coaching-17105672355" target="_blank">
+        Real Estate Workshop
+      </a>
+    </div>
+
+    <div class="mobile-cta" id="subscribe">
+      <a href="/subscribe/" target="_blank">
+        Free Newsletter
+      </a>
+    </div>
+
+
+    <div class="mobile-cta" id="meet">
+      <a href="https://www.eventbrite.com/o/misty-soldwisch-for-be-better-dsm-real-estate-coaching-17105672355" target="_blank">
+        Meet & Greet
+      </a>
+    </div>
   </div>
-  {% endfor %}
 </div>
