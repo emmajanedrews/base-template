@@ -21,7 +21,7 @@ youtube_code: paHTatIPmQ8
 
 {% include youtube.html %}
 
-The latest numbers from our real estate market are in. Today, I’d like to go over what trends we’re seeing and how they might impact your real estate goals this year.
+<center>The latest numbers from our real estate market are in. Today, I’d like to go over what trends we’re seeing and how they might impact your real estate goals this year.</center>
 
 Spring has finally sprung. So, let’s celebrate the end of winter by taking a look at the April edition of our hot-off-the-press market report.&nbsp;
 
