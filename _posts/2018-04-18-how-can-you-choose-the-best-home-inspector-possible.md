@@ -23,6 +23,6 @@ Over the last few years, we’ve seen a lot of new home inspectors enter the bus
 
 {% include pullquote.html %}
 
-When you’re looking for an inspector to hire, my recommendation is to learn on your real estate agent for advice. They will know who is a good inspector and who isn’t. **Agents work with these inspectors day in and day out and they know who the best option is.**
+When you’re looking for an inspector to hire, my recommendation is to lean on your real estate agent for advice. They will know who is a good inspector and who isn’t. **Agents work with these inspectors day in and day out and they know who the best option is.**
 
 If you have any questions for me about home inspections or anything else, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
