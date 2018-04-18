@@ -7,13 +7,14 @@ tags:
 excerpt: >-
   I’m here with your Myrtle Beach real estate market update for the first
   quarter of 2018.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brittany+Foy/Videos/A+Quick+Look+at+the+2018+Market.mp4
 pullquote: 'If you’re thinking about selling your home, now is a good time.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/brittany-foy-april-2-no-play.jpg
+youtube_code: idWIB3HrfZQ
 ---
 
 {% include youtube.html %}
