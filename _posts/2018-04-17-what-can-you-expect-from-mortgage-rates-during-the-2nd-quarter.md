@@ -28,7 +28,7 @@ What will happen with mortgage rates during 2018’s second quarter?
 
 First, let’s recap what happened with mortgage rates during the first quarter of 2018. At the beginning of this year, their trajectory was much higher, and they increased by as much as 0.5% because the bond market was getting very nervous about economic inflation. When there’s economic inflation, the bond values drop and yields have to go higher in order to compensate for this drop.
 
-On top of that, the Federal Reserve has been in increase mode lately. As of last week, they actually increased rates by another 0.25%.
+On top of that, the Federal Reserve has been in increase-mode lately. As of last week, they actually increased rates by another 0.25%.
 
 Strangely though, rates have also started stabilizing and improving in the last couple weeks. I believe this is because fears over inflation have dissipated. Should we get any economic data that doesn’t show large-scale inflation, **we’ll probably see rates continue to stabilize or decrease a bit during the second quarter.**
 
