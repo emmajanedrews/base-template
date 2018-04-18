@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Know About Home Inspections?
-date:
+date: 2018-04-18 19:11:02
 tags:
   - Real Estate
 excerpt: >-
