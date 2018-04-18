@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Zillow and Wall Street Are Teaming Up
-date: 2018-04-18 21:19:15
+date: 2018-04-18 21:19:00
 tags:
   - Real Estate
 excerpt: >-
   Zillow has officially entered the home buying and flipping industry. Here’s
   what to expect.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington++What+is+Zillow+up+to.mp4
 pullquote: People want a guarantee and they want convenience.
 enclosure_type: video/mp4
 enclosure_time:
