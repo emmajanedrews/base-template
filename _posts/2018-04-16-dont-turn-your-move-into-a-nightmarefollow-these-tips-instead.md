@@ -29,7 +29,7 @@ Keep in mind that what you have in a guest bedroom in your old house might not n
 
 Organizing the move on the day of the move is another important task. Consider where the moving truck is going to go—are there parking spaces available or a driveway that will be cleared for it? What needs to happen to get that moving truck as close to the front door as possible?
 
-Once the moving starts, it goes fast, but unloading the truck takes a lot longer than loading it, so make sure you have plenty of drinks and snack on hand so when your moving crew comes over, they can focus on the task at hand.
+Once the moving starts, it goes fast, but unloading the truck takes a lot longer than loading it. Make sure you have plenty of drinks and snacks on hand so when your moving crew comes over, they can focus on the task at hand.
 
 If you have any more questions about how to make your move seamless or you’re thinking of buying or selling a home in our market, don’t hesitate to reach out to us. We’d love to help you.
 
