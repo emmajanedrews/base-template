@@ -28,7 +28,7 @@ Last week, I found out that I was a victim of a tax fraud—someone else filed m
 
 If you’re ever faced with this kind of situation, here are the three steps you need to take.
 
-First, **remember that IRS officers only communicate by mail**-not by phone. In my case, the scam worked like this: Someone filed my taxes, and I received and deposited a refund check. The scammer called me sometime afterward, posing as an IRS agent, and said there had been a mistake. They told me I would need to send the money back to them.
+First, **remember that IRS officers only communicate by mail**, not by phone. In my case, the scam worked like this: Someone filed my taxes, and I received and deposited a refund check. The scammer called me sometime afterward, posing as an IRS agent, and said there had been a mistake. They told me I would need to send the money back to them.
 
 So, if you get a check from the IRS that you didn’t expect or looks suspicious, don’t cash that check. Also, don’t send money to anyone based on a phone call. Everything must be in writing and communicated by mail.
 
