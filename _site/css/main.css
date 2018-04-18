@@ -1665,7 +1665,7 @@ label.tree-toggle {
   margin-right: 10px; }
 
 .apply-button {
-  margin: 3rem 0; }
+  margin: 3rem 0 0 0; }
 
 #apply {
   text-transform: capitalize;
@@ -2319,7 +2319,7 @@ table tr, table td {
 
 .footer-socials .socials {
   text-align: left;
-  margin: 2rem;
+  margin: 2rem 0;
   list-style-type: none; }
   .footer-socials .socials li {
     display: inline-block;
@@ -2452,18 +2452,9 @@ table tr, table td {
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
-      background: transparent;
-      color: #fe1d1d;
-      box-shadow: 4px 4px 0 #fe1d1d;
-      border: 2px solid #fe1d1d;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-    .search-box .search-submit:active {
-      box-shadow: 0 0 0 #fe1d1d;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      background: #fff;
+      color: #B40101;
+      border: 2px solid #B40101; }
 
 @media (max-width: 990px) {
   .search-box {
@@ -3093,6 +3084,17 @@ form select {
   display: block;
   margin: 0 auto; }
 
+.newsletter-text {
+  font-size: 18px;
+  margin-top: 3rem;
+  color: #000; }
+
+@media(max-width: 1200px) {
+  .contact-form-container {
+    width: 75%; } }
+@media(max-width: 600px) {
+  .contact-form-container {
+    width: 90%; } }
 .indent {
   margin: 0 2rem; }
 
@@ -3460,16 +3462,29 @@ form select {
   margin: auto;
   font-size: 20px;
   text-align: center;
-  width: 85%;
   height: 200px;
   text-transform: uppercase;
   color: #B40101;
   padding-top: 4rem;
   padding-left: 2rem;
   padding-right: 2rem;
-  background: rgba(238, 238, 238, 0.9);
   line-height: 22px; }
 
+.compensation-container {
+  padding-top: 3rem;
+  width: 75%;
+  margin: 0 auto;
+  display: block; }
+
+@media(max-width: 1600px) {}
+@media(max-width: 1000px) {
+  .compensation {
+    height: 125px; }
+
+  .compensation-container {
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 5rem; } }
 .comp-svg {
   width: 50px;
   padding-bottom: 2rem; }
@@ -3595,28 +3610,3 @@ form select {
 
 @media(max-width: 750px) {
   display: block; }
-#sticky-navbar {
-  overflow: hidden;
-  background-color: #B40101; }
-  #sticky-navbar a {
-    float: right;
-    display: block;
-    color: #fff;
-    text-align: center;
-    padding: 18px;
-    font-weight: 300;
-    text-transform: uppercase;
-    text-decoration: none; }
-    #sticky-navbar a:hover {
-      font-weight: bold; }
-
-.content {
-  padding: 16px; }
-
-.sticky {
-  position: fixed;
-  top: 50px;
-  width: 100%; }
-
-.sticky + .content {
-  padding-top: 60px; }

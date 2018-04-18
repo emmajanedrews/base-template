@@ -80,7 +80,7 @@ permalink: /strategy-call/
 
 <form method="post" class="home-value cta-forms" action="http://formspree.io/christina@davefriedmanteam.com" onsubmit="return setReturn()">
 					<fieldset>
-						<p id="thanks">&nbsp;</p><label for="name">Name*</label> <input type="text" required="" name="name" />
+						<label for="name">Name*</label> <input type="text" required="" name="name" />
 						<label for="phone">Phone Number </label> <input type="tel" name="phone" />
 						 <label for="email">Email*</label> <input type="text" name="email" required="" />
 						 <label for="company">Company </label> <input type="text" name="company" />

@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: custom
 title: Subscribe
 permalink: /subscribe/
 ---
+<div class="newsletter-text">
 <div class="letterhead"><span id="letterhead">Free Real Estate Agent Training Newsletter</span>
 
 <div id="letterhead-title">Sell More Homes In Less Time</div>
@@ -61,3 +62,4 @@ permalink: /subscribe/
 
 
 {% include subscribe.html %}
+</div>

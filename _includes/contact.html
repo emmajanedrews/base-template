@@ -1,43 +1,25 @@
 <div class="contact-form-container">
 <address class="contact">
-  <strong>{{site.data.settings.client.name}}</strong>
-  {% if site.data.settings.client.brand and site.data.settings.client.brokerage == null %}
+  <strong>Christina R. Wilson</strong>
     <br>
-    {{site.data.settings.client.address}}
+    Realtor®, Talent Acquisition | Dave Friedman Team at Keller Williams
     <br>
-  {% elsif site.data.settings.client.brand == null %}
+    496 Bramson Court Suite 160A, Mount Pleasant SC 29464
     <br>
-    {{site.data.settings.client.brokerage}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% elsif site.data.settings.client.brokerage == null %}
-    <br>
-    {{site.data.settings.client.brand}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% else %}
-    <br>
-    {{site.data.settings.client.brand}}
-    <br>
-    {{site.data.settings.client.brokerage}}
-    <br>
-    {{site.data.settings.client.address}}
-    <br>
-  {% endif %}
-  <a href="tel:1-{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a>
+
+    Phone: <a href="tel:1-843-795-7950">843-795-7950</a><br>
+    Mobile: <a href="tel:1-404-640-6944">404-640-6944</a>
   <br>
-  <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
+  <a href="mailto:Christina@DaveFriedmanTeam.com">Christina@DaveFriedmanTeam.com</a>
 </address>
 
-<form class="contact-form" method="post" action="http://formspree.io/{{site.data.settings.client.email}}">
+<form class="contact-form" method="post" action="http://formspree.io/Christina@DaveFriedmanTeam.com">
   <input type="text" name="name" placeholder="Name" required>
   <input type="email" name="_replyto" placeholder="Email" required>
   <textarea name="Message" placeholder="Message"></textarea>
   <!-- Cloud cannon settings field -->
   <div class="hidden">
-    <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
+    <input type="hidden" name="_to" value="Christina@DaveFriedmanTeam.com">
     <input type="hidden" name="_subject" value="Contact Form Message From Your Vyral Video Blog">
     <input type="text" name="_gotcha">
   </div>
