@@ -22,9 +22,9 @@ youtube_code: wzVMBg10jK8
 
 A lot of you may not have heard about who we are, but **Colemere Realty is the oldest real estate company in the Salt Lake Valley**.
 
-Both Brian and I are third-generation Realtors. Our grandfather started Colemere Realty back in 1953, so **we’re excited to share our story of who we are and what exciting things we have to bring to the real estate industry**.
+Both Bryan and I are third-generation Realtors. Our grandfather started Colemere Realty back in 1953, so **we’re excited to share our story of who we are and what exciting things we have to bring to the real estate industry**.
 
-Even though we’re the oldest brokerage in the state, you may not have heard of us because we were heads-down, highly effective agents, working hard to produce for ourselves. Back in 2015, Brian and I purchased the business from our parents, who retired, and we realized that we had a great system and we wanted to bring that to other agents. We also wanted to shift and have a team focus **so that not only could Realtors produce at a super high level, but they could also have a life**.
+Even though we’re the oldest brokerage in the state, you may not have heard of us because we were heads-down, highly effective agents, working hard to produce for ourselves. Back in 2015, Bryan and I purchased the business from our parents, who retired, and we realized that we had a great system and we wanted to bring that to other agents. We also wanted to shift and have a team focus **so that not only could Realtors produce at a super high level, but they could also have a life**.
 
 {% include pullquote.html %}
 
