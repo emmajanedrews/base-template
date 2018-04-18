@@ -18,7 +18,7 @@ youtube_code: rzGwJQIKmUQ
 
 {% include youtube.html %}
 
-Zillow has officially entered the home buying and flipping industry. Here’s what to expect.
+<center>Zillow has officially entered the home buying and flipping industry. Here’s what to expect.</center>
 
 Zillow is now buying and flipping homes. This is very interesting because it confirms that Wall Street is now dipping their hand into the real estate cookie jar.
 
