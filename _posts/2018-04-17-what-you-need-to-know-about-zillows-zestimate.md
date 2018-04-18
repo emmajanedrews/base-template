@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How does Zillow determine home value? I’ll go over Zillow’s Zestimate feature
   and the best way to determine home value today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tony+Verdi/Tony+Verdi+Sells+Houses-+The+Truth+About+Zillow%2527s+Zestimate.mp4
 pullquote: Past sales play the most important role in determining a home value.
 enclosure_type: video/mp4
 enclosure_time:
