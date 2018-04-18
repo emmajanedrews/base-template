@@ -25,14 +25,14 @@ youtube_code: pfS_idAO7gU
 
 Here are four home improvements that you need to consider making when it comes time to sell your home:
 
-Ordinary updates. Things like replacing rotted wood, repairing leaks, and putting a fresh coat of paint on the house are cheap to do but will have a big impact. You can’t afford to overlook these thing.
+**1. Ordinary updates.** Things like replacing rotted wood, repairing leaks, and putting a fresh coat of paint on the house are cheap to do but will have a big impact. You can’t afford to overlook these thing.
 
-Remodeling your kitchen. Updating your kitchen is highly recommend for improving the value of your home. However, make sure you don’t go overboard and have enough money to finish the project.
+**2. Remodeling your kitchen.** Updating your kitchen is highly recommend for improving the value of your home. However, make sure you don’t go overboard and have enough money to finish the project.
 
 {% include pullquote.html %}
 
-&nbsp;Improve your outdoor environment. A great outdoor space can make or break a sale. Consider updating your landscaping, building a nice sitting area, or even installing a deck. Each of these projects can make your yard more attractive to buyers and increase your home’s resale value.
+**&nbsp;3. Improve your outdoor environment.** A great outdoor space can make or break a sale. Consider updating your landscaping, building a nice sitting area, or even installing a deck. Each of these projects can make your yard more attractive to buyers and increase your home’s resale value.
 
-&nbsp;Prioritize energy efficiency. More and more homebuyers today are looking for energy efficiency in your home. Consider making updates to your home that can lower energy costs. That includes adding insulation, purchasing replacement windows, or buying energy star appliances. These features not only appeal to prospective buyers, but they can also lower your utility bills while you’re in the home.
+&nbsp;4. **Prioritize energy efficiency.** More and more homebuyers today are looking for energy efficiency in your home. Consider making updates to your home that can lower energy costs. That includes adding insulation, purchasing replacement windows, or buying energy star appliances. These features not only appeal to prospective buyers, but they can also lower your utility bills while you’re in the home.
 
 If you have any questions for me about the topic we covered today or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
