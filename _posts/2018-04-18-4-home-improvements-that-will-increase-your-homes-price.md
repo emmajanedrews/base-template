@@ -35,4 +35,4 @@ Here are four home improvements that you need to consider making when it comes t
 
 4. Prioritize energy efficiency. More and more homebuyers today are looking for energy efficiency in your home. Consider making updates to your home that can lower energy costs. That includes adding insulation, purchasing replacement windows, or buying energy star appliances. These features not only appeal to prospective buyers, but they can also lower your utility bills while you’re in the home.
 
-If you have any questions for me about the topic we covered today or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me about the topic we covered today or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon. n
