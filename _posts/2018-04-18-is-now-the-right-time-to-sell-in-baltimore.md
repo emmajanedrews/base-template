@@ -21,7 +21,7 @@ It’s time for an update on our current real estate market.&nbsp;
 
 Things are getting a little intense out there. We’ve been seeing issues arising for a few of our buyers, so if you’re entering our market any time in the near future, be cautious.&nbsp;
 
-Also, it’s important to realize that some properties in our market are selling quickly and some aren’t. So, if you’ve been trying to sell for the past couple of years but haven’t been successful yet, give my team a call. We would be happy to help.&nbsp;
+Also, it’s important to realize that some properties in our market are selling quickly and some aren’t. So, **if you’ve been trying to sell for the past couple of years but haven’t been successful yet, give my team a call. We would be happy to help.**&nbsp;
 
 {% include pullquote.html %}
 
