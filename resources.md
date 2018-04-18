@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /resources
+permalink: /resources/
 ---
 <a href="/img/wealth-building.pdf"><object width="1000" height="700" data="/img/wealth-building.pdf" id="wealth-pdf"></object></a>
 
