@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Hot-Off-The-Press Market Report for April 2018 Is Here
-date:
+date: 2018-04-18 15:58:13
 tags:
   - Market Update
 excerpt: >-
