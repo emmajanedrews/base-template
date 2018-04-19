@@ -12,13 +12,13 @@ excerpt: >-
   improvements you should consider making before listing your home, watch this
   short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dustin+Sherlin/Videos/2018/Sherlin%2520Realty%2520%257C%2520Home%2520Improvements.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dustin+Sherlin/Videos/2018/Sherlin%2520Realty%2520%257C%25204%2520Ways%2520To%2520Increase%2520Home%2520Value.mp4
 pullquote: More and more homebuyers are looking for energy efficiency.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pfS_idAO7gU
+youtube_code: h3nSuCFztKQ
 ---
 
 {% include youtube.html %}
@@ -31,8 +31,8 @@ Here are four home improvements that you need to consider making when it comes t
 
 {% include pullquote.html %}
 
-**&nbsp;3. Improve your outdoor environment.** A great outdoor space can make or break a sale. Consider updating your landscaping, building a nice sitting area, or even installing a deck. Each of these projects can make your yard more attractive to buyers and increase your home’s resale value.
+ **3. Improve your outdoor environment.** A great outdoor space can make or break a sale. Consider updating your landscaping, building a nice sitting area, or even installing a deck. Each of these projects can make your yard more attractive to buyers and increase your home’s resale value.
 
-**&nbsp;4.** **Prioritize energy efficiency.** More and more homebuyers today are looking for energy efficiency in your home. Consider making updates to your home that can lower energy costs. That includes adding insulation, purchasing replacement windows, or buying Energy Star appliances. These features not only appeal to prospective buyers, but they can also lower your utility bills while you’re in the home.
+ **4.** **Prioritize energy efficiency.** More and more homebuyers today are looking for energy efficiency in your home. Consider making updates to your home that can lower energy costs. That includes adding insulation, purchasing replacement windows, or buying Energy Star appliances. These features not only appeal to prospective buyers, but they can also lower your utility bills while you’re in the home.
 
 If you have any questions for me about the topic we covered today or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
