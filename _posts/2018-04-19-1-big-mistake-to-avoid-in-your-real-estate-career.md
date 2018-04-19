@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1 Big Mistake to Avoid in Your Real Estate Career
-date:
+date: 2018-04-19 15:22:00
 tags:
   - Real Estate
 excerpt: >-
