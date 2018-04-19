@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Michael Kaim Team Training and Coaching</title>
-    <description>A Video Blog about Northeast Ohio Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
+    <title>The Michael Kaim Team | Cleveland's Best Real Estate Training and Coaching Team</title>
+    <description>Michael Kaim, a top Real Estate Agent in Cleveland, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Apr 2018 13:16:04 -0500</pubDate>
-    <lastBuildDate>Wed, 11 Apr 2018 13:16:04 -0500</lastBuildDate>
+    <pubDate>Thu, 19 Apr 2018 16:59:59 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Apr 2018 16:59:59 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
