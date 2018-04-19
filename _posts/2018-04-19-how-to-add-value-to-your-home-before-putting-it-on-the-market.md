@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Add Value to Your Home Before Putting It on the Market
-date:
+date: 2018-04-19 14:35:19
 tags:
   - Home Seller Tips
 excerpt: >-
