@@ -32,13 +32,13 @@ The market is incredibly hot right now. Sellers are getting whatever they want, 
 
 The first thing I recommend is to always work closely with professionals when setting a price for your home. Beyond that, though, there are ways you can increase your home’s value before you list. Let’s take a look at some of these projects:
 
-1. Make small updates. Minor projects like adding a fresh coat of paint can go a long way in boosting your home’s appeal. Inexpensive cosmetic fixes can make a big difference.<br>&nbsp;
-2. Make kitchen updates. Families spend a lot of time together in the kitchen. Therefore, your property’s kitchen should look its best when potential buyers visit your home. At a minimum, make sure your kitchen is organized, clean, and decluttered. Switching out cabinets or countertops is a great way to polish and modernize the room.<br>&nbsp;
-3. Take on landscaping projects. Planting fresh flowers, adding new mulch, and pressure washing your driveway are all updates that will make your property’s exterior shine.<br>&nbsp;
-4. Add energy-efficient appliances. Today’s buyers are often attracted to homes that are a little more “green.” Beyond that, energy-efficient appliances make it less expensive to live in the home.
+1. **Make small updates.** Minor projects like adding a fresh coat of paint can go a long way in boosting your home’s appeal. Inexpensive cosmetic fixes can make a big difference.<br>&nbsp;
+2. **Make kitchen updates.** Families spend a lot of time together in the kitchen. Therefore, your property’s kitchen should look its best when potential buyers visit your home. At a minimum, make sure your kitchen is organized, clean, and decluttered. Switching out cabinets or countertops is a great way to polish and modernize the room.<br>&nbsp;
+3. **Take on landscaping projects.** Planting fresh flowers, adding new mulch, and pressure washing your driveway are all updates that will make your property’s exterior shine.<br>&nbsp;
+4. **Add energy-efficient appliances.** Today’s buyers are often attracted to homes that are a little more “green.” Beyond that, energy-efficient appliances make it less expensive to live in the home.
 
-These are just a few of the updates and projects we recommend. To see a list of more than 110 value-boosting improvements, click here.
+**These are just a few of the updates and projects we recommend. To see a list of more than 110 value-boosting improvements****, [click here.](/3_Dee_Teams_101_Ways_to_Prepare_Your_House_For_Sale.pdf)**
 
 Whatever you do, be sure to keep track of all the updates you make. Keep your receipts so that you have a record of the projects you took on. Also, I highly recommend that sellers have their own home inspection performed. This will allow you to address any issues in advance. Buyers want to know that your home has been well cared for before they make it their own.
 
-If you’re interested in taking on any of these projects, my team and I would be happy to help you get in touch with professional vendors who we know and trust.
+**If you’re interested in taking on any of these projects, my team and I would be happy to help you get in touch with professional vendors who we know and trust.**
