@@ -25,7 +25,7 @@ Either way, LET’S CELEBRATE!
 
 ## **[RSVP HERE](https://docs.google.com/forms/d/e/1FAIpQLSd7sGf_IYh2NiY5K8mkCtdWrvQaZUMbn7BBpPYm1Wuxpwn6Tg/viewform)&nbsp; &nbsp;**
 
-$50.00 Cash Drawing for all those who RSVP!
+<span style="color:#F60707;">$50.00 Cash Drawing for all those who RSVP!</span>
 
 **What:** Hot Breakfast provided by our friends at [Nook & Kranny](http://nook-n-kranny.com/) Home Inspections and FREE document shredding by [Preston’s Shredding](https://prestonshredding.com/)!
 
