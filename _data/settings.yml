@@ -1,10 +1,12 @@
 audit_header: false
-title: Guy Glennon Coaching and Training
-description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
+title: Hill Harbor Group | Rhode Island's Best Real Estate Training and Coaching Team
+description: Guy Glennon, a top Real Estate Agent in Rhode Island, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: /
+  - title: Join Our Team
+    url: /join-our-team/
 
 
 emma:
@@ -33,8 +35,8 @@ client:
   url: http://www.hillharbor.com
 
 CTAs:
-  first_CTA_text: Join Our Team
-  first_CTA_URL: /join-our-team/
+  # first_CTA_text: Join Our Team
+  # first_CTA_URL: /join-our-team/
   # second_CTA_text: Home Search
   # second_CTA_URL: http://www.hillharbor.com/search/advanced_search/
 
