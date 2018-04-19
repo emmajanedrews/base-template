@@ -25,7 +25,7 @@ Either way, LET’S CELEBRATE!
 
 ## **[RSVP HERE](https://docs.google.com/forms/d/e/1FAIpQLSd7sGf_IYh2NiY5K8mkCtdWrvQaZUMbn7BBpPYm1Wuxpwn6Tg/viewform)&nbsp; &nbsp;**
 
-#### **$50.00 Cash Drawing for all those who RSVP!**
+#### **[$50.00 Cash Drawing for all those who RSVP!]{: .color-red}**
 
 &nbsp;
 
