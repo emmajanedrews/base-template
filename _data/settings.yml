@@ -1,10 +1,12 @@
 audit_header: false
-title: Houston Real Estate Careers and Training Video Blog with Frank Gray
-description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
+title: Abby Realty | Houston's Best Real Estate Training and Coaching Team
+description: Frank Gray, a top Real Estate Agent in Houston, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: /
+  - title: Request a Consultation
+    url: /contact/
 
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809481';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
@@ -27,9 +29,9 @@ client:
   email: frank@frankgray.net
   url: http://insideabbyrealty.com
 
-CTAs:
-  first_CTA_text: Request a Consultation
-  first_CTA_URL: /contact/
+# CTAs:
+#   first_CTA_text: Request a Consultation
+#   first_CTA_URL: /contact/
   # second_CTA_text: Apply
   # second_CTA_URL: /apply/
 
