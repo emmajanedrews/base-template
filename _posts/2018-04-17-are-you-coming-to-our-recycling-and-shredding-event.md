@@ -8,7 +8,8 @@ excerpt: >-
   If you have any old papers, documents, or electronics taking up too much space
   in your house, we would love to help. Join us at our upcoming shredding and
   recycling event.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tad+%26+Debbie+Wicker/Northern+Virginia+Real+Estate-+Details+About+Our+Recycling+Event.mp4
 pullquote: We’d love for you to join us on April 21.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: 'https://youtu.be/IrS4bp4NTZA'
 
 {% include youtube.html %}
 
-Today I wanted to give you a quick reminder about the community event we are hosting for our clients and friends.&nbsp;
+Today I wanted to give you a quick reminder about the community event we are hosting for our clients and friends. 
 
 **On Saturday, April 21, we hope to see you out in the parking lot of Broadlands Community Center in Ashburn, VA for our recycling and shredding event.**
 
