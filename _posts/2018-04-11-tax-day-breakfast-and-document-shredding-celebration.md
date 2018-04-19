@@ -17,19 +17,21 @@ youtube_code: G2wIVgz0zmA
 
 {% include youtube.html %}
 
-Friends, clients, happy (?) tax payers!  😊
+Friends, clients, happy (?) tax payers! &nbsp;😊
 
 We, like you, are glad tax day has come and gone! And hopefully you either got a refund, or saved a few bucks to pay Uncle Sam.
 
 Either way, LET’S CELEBRATE!
 
-## **[RSVP HERE](https://docs.google.com/forms/d/e/1FAIpQLSd7sGf_IYh2NiY5K8mkCtdWrvQaZUMbn7BBpPYm1Wuxpwn6Tg/viewform)**
+## **[RSVP HERE](https://docs.google.com/forms/d/e/1FAIpQLSd7sGf_IYh2NiY5K8mkCtdWrvQaZUMbn7BBpPYm1Wuxpwn6Tg/viewform)&nbsp; &nbsp;**
+
+$50.00 Cash Drawing for all those who RSVP!
 
 **What:** Hot Breakfast provided by our friends at [Nook & Kranny](http://nook-n-kranny.com/) Home Inspections and FREE document shredding by [Preston’s Shredding](https://prestonshredding.com/)!
 
 **When:** Saturday April 21st from 8 - 11 AM.
 
-**Where:** 45 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ)
+**Where:**&nbsp;45 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ)
 
 **What to bring:** You, your family, and if you like, up to 5 boxes of documents you need shredded!
 
