@@ -13,13 +13,13 @@ excerpt: >-
   getting any higher during the second quarter. To find out why, watch my latest
   video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Manny+Gomes/Videos/2018/Guaranteed+Rate+%257C+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Manny+Gomes/Videos/2018/Manny+Gomes%2527s+Mortgage+Video+Blog+%257C+Market+Update.mp4
 pullquote: 'Historically, the second quarter is the time when rates tend to improve.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /Manny_Gomes_-_April_2018_-_1_-_Youtube.jpg
-youtube_code: FMeVun_wUKo
+youtube_code: pT_MtejBcCs
 ---
 
 {% include youtube.html %}
