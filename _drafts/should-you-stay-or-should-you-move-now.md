@@ -20,7 +20,7 @@ youtube_code: Wr073CKNVcU
 
 {% include youtube.html %}
 
-The spring selling season is here, so it’s time to decide—will you stay in your current home, or will you sell it and move?
+<center>The spring selling season is here, so it’s time to decide—will you stay in your current home, or will you sell it and move?</center>
 
 Should you stay or should you move now?&nbsp;
 
