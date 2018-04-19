@@ -1,11 +1,12 @@
 audit_header: false
-title: Becky Ivins Real Estate Training and Coaching
-description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
+title: Becky Ivins | Oklahoma City's Best Real Estate Training and Coaching Team
+description: Becky Ivins, a top Real Estate Agent in Oklahoma City, shares her own internal agent training for free. Her Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: /
-
+  - title: Join Our Team
+    url: /join-our-team
 client:
   name: Becky Ivins
   title:
@@ -49,9 +50,9 @@ client:
 
 emma_form:
 
-CTAs:
-  first_CTA_text: Join Our Team
-  first_CTA_URL: /join-our-team/
+# CTAs:
+#   first_CTA_text: Join Our Team
+#   first_CTA_URL: /join-our-team/
   # second_CTA_text: Home Search
   # second_CTA_URL: 'http://www.beckyivinsteam.com/search/criteria/gp_1/s_2'
 
