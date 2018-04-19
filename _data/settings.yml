@@ -1,11 +1,12 @@
 audit_header: false
-title: Keller Williams Sacramento Coaching & Training with Dan Ellison
-description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
+title: Dan Ellison Group | Sacramento's Best Real Estate Training and Coaching Team
+description: Dan Ellison, a top Real Estate Agent in Sacramento, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: /
-
+  - title: Join Our Team
+    url: /join-our-team/
 
 emma:
   lightbox:
@@ -29,9 +30,9 @@ client:
   email: dan@teamellison.com
   url: http://www.homesingreatersacramento.com
 
-CTAs:
-  first_CTA_text: Join Our Team
-  first_CTA_URL: /join-our-team/
+# CTAs:
+#   first_CTA_text: Join Our Team
+#   first_CTA_URL: /join-our-team/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
