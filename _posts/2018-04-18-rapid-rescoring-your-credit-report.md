@@ -21,7 +21,7 @@ youtube_code: bj82E8Q9-Mk
 
 What is rapid rescoring and what does it do for your credit report?&nbsp;
 
-In certain circumstances, some people have high-revolving credit balances, but they’re on 0% interest so they don’t feel like it’s a problem to have a high limits-to-balance ratio. They may also have a furniture account that they’re paying monthly installments on, but it’s being reported as a revolving account.&nbsp;
+here are certain circumstances where people have high-revolving credit balances, but are on 0% interest so they don’t feel like it’s a problem to have a high limits-to-balance ratio. They may also have a furniture account that they’re paying monthly installments on, but it’s being reported as a revolving account.&nbsp;
 
 These kinds of situations can have a negative impact on your credit score, but if you have the ability to pay those account balances, **we can help you print off a new statement that shows what your updated balance is and “force-report” those account balances through rapid rescoring.**
 
