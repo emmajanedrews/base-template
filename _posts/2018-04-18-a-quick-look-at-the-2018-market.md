@@ -32,5 +32,3 @@ If you’re thinking about selling your home, now is a good time. If you’re th
 {% include pullquote.html %}
 
 If you have any questions or would like to know more about the market in your specific neighborhood, just give me a call or send me an email. I would be happy to help you!
-
-To hear my market update in full, watch this short video.
