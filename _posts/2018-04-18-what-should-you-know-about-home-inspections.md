@@ -22,7 +22,7 @@ youtube_code: ByjxlmEGccg
 
 <center>&nbsp;</center>
 
-There are a few things you should know about home inspections before going in. One thing to keep in mind is that it’s the inspector’s job to find problems with your home. **Having a home inspection without any issues is very unlikely.**
+There are a few things you should know about home inspections before going in. One thing to keep in mind is that it’s the inspector’s job to find problems with the home. **Having a home inspection without any issues is very unlikely.**
 
 At the end of the day, you need to figure out what the most important items on that list are and classify them. You might be able to do some of them yourself, but you’ll want to ask the seller to complete other, more serious repairs.&nbsp;
 
@@ -30,6 +30,6 @@ Aligning yourself with a real estate agent like me, who has a good referral sour
 
 {% include pullquote.html %}
 
-One thing that you’re definitely going to need to consider is a radon test. In the Naperville area, it’s something that we see on a regular basis. The cost of this inspection is only a few hundred dollars, but the mitigation cost could range anywhere from $1,300 to $1,600. It’s a test I highly recommend.
+One thing that you’re definitely going to need to consider is a radon test. The cost of this inspection is only a few hundred dollars, but the mitigation cost could range anywhere from $1,300 to $1,600. It’s a test I highly recommend.
 
-These are some of the key points you should know about home inspections. If you have any questions in the meantime, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+These are some of the key points you should know about home inspections. If you have any questions in the meantime, don’t hesitate to call or email me. I look forward to hearing from you soon.<br>&nbsp;
