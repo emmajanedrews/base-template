@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Tax Day BREAKFAST and DOCUMENT SHREDDING Celebration!
-date: 2018-04-11 21:06:23
+date: 2018-04-11 21:06:00
 tags:
 excerpt: >-
   We, like you, are glad tax day has come and gone! And hopefully you either got
-  a refund, or saved a few bucks to pay Uncle Same.
+  a refund, or saved a few bucks to pay Uncle Sam.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: G2wIVgz0zmA
 
 {% include youtube.html %}
 
-Friends, clients, happy (?) tax payers! &nbsp;😊
+Friends, clients, happy (?) tax payers!  😊
 
 We, like you, are glad tax day has come and gone! And hopefully you either got a refund, or saved a few bucks to pay Uncle Sam.
 
@@ -29,7 +29,7 @@ Either way, LET’S CELEBRATE!
 
 **When:** Saturday April 21st from 8 - 11 AM.
 
-**Where:**&nbsp;45 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ)
+**Where:** 45 E. 100 S. (Wells Fargo Lawn/Park across from Larkin Group HQ)
 
 **What to bring:** You, your family, and if you like, up to 5 boxes of documents you need shredded!
 
