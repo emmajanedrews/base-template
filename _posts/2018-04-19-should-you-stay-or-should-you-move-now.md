@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Stay or Should You Move Now?
-date:
+date: 2018-04-19 19:29:24
 tags:
   - Real Estate
 excerpt: >-
