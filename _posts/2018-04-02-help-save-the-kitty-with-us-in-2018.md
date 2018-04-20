@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   How does our Help Save the Kitty program benefit the Nevada Humane Society?
   I’ll explain today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Gabrielli/Reno+Area+Real+Estate+Agent-+Help+Save+the+Kitty+with+Us+in+2018.mp4
 pullquote: >-
   If we reach our goal for closings this year, we’ll donate an additional $2,500
   to the Nevada Humane Society.
