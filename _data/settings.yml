@@ -33,7 +33,7 @@ client:
 
 CTAs:
   first_CTA_text: Start Your Buying Journey Here
-  first_CTA_URL: /homesearch/
+  first_CTA_URL: https://search.gafinesthomes.com/
   second_CTA_text: Free Appraisal
   second_CTA_URL: /homevalue/
 
@@ -49,7 +49,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Find the home you're looking for."
     CTA_link_text2: "Start Your Buying Journey Here"
-    CTA_url2: /homesearch/
+    CTA_url2: https://search.gafinesthomes.com/
 
 lender:
   show_section: false
