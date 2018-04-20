@@ -21,7 +21,7 @@ youtube_code: iruYh6u1rRo
 
 What do you need to do to get your home ready for the spring market? Here are six tips you can follow:
 
-**1. Pressure-wash your home’s exterior.** If you don’t have a pressure-washer, buy or rent one and spray off the winter grime around the outside of your home.
+**1. Pressure-wash your home’s exterior.** If you don’t have a pressure-washer, you can buy or rent one and spray off the winter grime around the outside of your home.
 
 **2. Brighten up the inside.** Make sure your light bulbs are working, your windows and screens are as clean as possible, and there aren’t any shrubs or bushes outside that are keeping light from shining inside your house.
 
@@ -33,6 +33,6 @@ What do you need to do to get your home ready for the spring market? Here are si
 
 **5. Update your kitchen.** A little investment can go a long way, and your kitchen is the most important place to do it. You can try painting the walls a neutral color, adding a shiny new faucet, or installing some new cabinetry.
 
-**6. Amp up your home’s curb appeal.** Now that the season has changed, there are a few things you can do to make the front of your home more inviting, like spreading some weed-eater around your yard, laying down some fresh bark, and planting some flowers. If it’s not warm enough yet to plant flowers in the ground, you can also set out potted flowers. These will add some nice color to your home’s exterior.
+**6. Amp up your home’s curb appeal.** Now that the season has changed, there are a few things you can do to make the front of your home more inviting, like spreading some weed killer around your yard, laying down some fresh bark, and planting some flowers. If it’s not warm enough yet to plant flowers in the ground, you can also set out potted flowers. These will add some nice color to your home’s exterior.
 
 If you have any questions about how to prepare your home for the spring market or you’re thinking of buying a home in our market, don’t hesitate to reach out to me. I’d love to help you.
