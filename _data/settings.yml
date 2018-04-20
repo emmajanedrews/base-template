@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Luxur Realty | Miami's Best Real Estate Training and Coaching Team
+description: Juan Navia, a top Real Estate Agent in Miami, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,41 +11,41 @@ emma:
   form:
 
 client:
-  name:
+  name: Juan Navia
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Luxur is a mid-sized brokerage with three locations. Our broker, Juan Navia, has an open-door policy, ready to guide you through any transaction. We have established teams and mentorship programs that will train you on how to get leads, establish strong relationships with clients, organizing your contracts, and closing deals. Luxur’s three offices, located in Doral, Kendall and Orlando, are fully staffed with office managers, desks, conference rooms and other tools needed to succeed. You will have all the tools you need.
+  market: Miami
+  brand: Luxur Realty
   brokerage:
-  address:
-  phone:
+  address: 2786 NW 79th Avenue<br>Miami, FL, 33122
+  phone: 786-477-4715
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@luxurrealty.com
+  url: http://luxurcareers.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Schedule a Consultation
+  first_CTA_URL: http://luxurcareers.com/contact/
+  second_CTA_text: Apply Now
+  second_CTA_URL: http://luxurcareers.com/sign-up/
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: Free Strategy Call
+    CTA_text: Personalized Advice for you
+    CTA_link_text: Book a Call
+    CTA_url: http://luxurcareers.com/contact/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title2: Join Our Team
+    CTA_text2: Want A High Performance Real Estate Career?
+    CTA_link_text2: Apply Now
+    CTA_url2: http://luxurcareers.com/sign-up/
 
 lender:
   show_section: false
@@ -61,12 +61,12 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/luxurrealtyLLC/
   linkedin_url:
   gplus_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
+  youtube_url: https://www.youtube.com/channel/UC_C7f11bID1yvkv1DCyJkWQ
+  twitter_url: https://twitter.com/luxurrealtyllc
+  instagram_url: https://www.instagram.com/Luxurrealty/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -86,13 +86,13 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: -- MARKET -- Real Estate Coaching and Training Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#c5c300'
+  theme_color: '#87888a'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0,0,0,.75)
 
 buttons:
   button_radius_number: 0
