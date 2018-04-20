@@ -21,7 +21,7 @@ youtube_code: GmHoLd6kIdE
 
 {% include youtube.html %}
 
-We are oftentimes asked by people who are considering making a move, “What is the best time to sell your home?”
+We are oftentimes asked by people who are considering making a move, “When is the best time to sell your home?”
 
 Most real estate agents would say that the best time to sell is springtime. However, do the facts actually support this view?
 
