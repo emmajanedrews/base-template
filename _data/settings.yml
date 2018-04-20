@@ -72,9 +72,9 @@ socials:
   twitter_url: https://twitter.com/GAFinestHomes
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/GAFinestHomesGroup/
+  # zillow_url: https://www.zillow.com/profile/GAFinestHomesGroup/
   trulia_url:
-  yelp_url: https://www.yelp.com/user_details?userid=ij4ICGISt8zx1rOyo2rPhA
+  # yelp_url: https://www.yelp.com/user_details?userid=ij4ICGISt8zx1rOyo2rPhA
   podcast_url:
 
 podcast:
