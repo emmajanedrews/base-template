@@ -1,10 +1,12 @@
 audit_header: false
-title: CORE Real Estate Training
-description: A Video Blog about -- MARKET -- Real Estate; its industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
+title: Cap CORE Real Estate | Phoenix's Best Real Estate Training and Coaching Team
+description: Patrick O'Sullivan, a top Real Estate Agent in Phoenix, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: /
+  - title: Join Our Team
+    url: /join-our-team
 
 
 emma:
@@ -29,9 +31,9 @@ client:
   email: Patrick@CapCoreRealEstate.com
   url: http://CapCoreRealEstate.com
 
-CTAs:
-  first_CTA_text: Join Our Team
-  first_CTA_URL: /join-our-team/
+# CTAs:
+#   first_CTA_text: Join Our Team
+#   first_CTA_URL: /join-our-team/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
@@ -84,7 +86,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#8A2529'
+  brand_color: '#ed1f24'
   theme_color: '#6A747C'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
