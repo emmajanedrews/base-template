@@ -70,6 +70,27 @@
 		+shadow
 		// background: $theme
 .brand-color
-	+shadow
-	background: $theme
-	animation: .3s fadein ease-in-out
+	background: $brand
+
+.navbar-left
+	margin-top: 1rem
+
+
+.nav-logo
+	float: left !important
+	max-width: 250px
+	margin: 5px
+	padding: 10px
+
+@media (max-width: 760px)
+	.nav-logo
+		display: none
+	.hero-img
+		height: 300px
+
+	.navbar-left>li>a
+		color: $brand
+
+	.nav-logo-small
+		max-width: 175px
+		margin-top: -15px

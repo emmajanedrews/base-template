@@ -1523,11 +1523,30 @@ html[xmlns] .flexslider .slides {
             transform: translateY(0);
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
 .brand-color {
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #003868;
-  -webkit-animation: 0.3s fadein ease-in-out;
-          animation: 0.3s fadein ease-in-out; }
+  background: #003868; }
 
+.navbar-left {
+  margin-top: 1rem; }
+
+.nav-logo {
+  float: left !important;
+  max-width: 250px;
+  margin: 5px;
+  padding: 10px; }
+
+@media (max-width: 760px) {
+  .nav-logo {
+    display: none; }
+
+  .hero-img {
+    height: 300px; }
+
+  .navbar-left > li > a {
+    color: #003868; }
+
+  .nav-logo-small {
+    max-width: 175px;
+    margin-top: -15px; } }
 .navbar-andross-bottom {
   background: #003868;
   color: #fff;
@@ -1588,7 +1607,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 10rem;
+  height: 300px; }
 
 #hero {
   background-position: center;
