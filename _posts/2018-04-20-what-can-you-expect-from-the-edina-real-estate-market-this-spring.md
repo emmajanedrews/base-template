@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From the Edina Real Estate Market This Spring?
-date: 2018-04-20 01:35:00
+date: 2018-04-20 13:35:00
 tags:
   - Real Estate
   - Market Update
@@ -12,7 +12,8 @@ excerpt: >-
   under price range, things are very competitive. There are multiple offer
   situations happening every day. To learn more about the current state of our
   market, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Market+Update.mp4
 pullquote: The actual number of homes for buyers to look at is a very low number.
 enclosure_type: video/mp4
 enclosure_time:
