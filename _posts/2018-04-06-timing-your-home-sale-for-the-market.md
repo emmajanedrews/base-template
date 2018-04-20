@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Timing Your Home Sale For the Market
-date: 2018-04-06 19:42:28
+date: 2018-04-06 19:42:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/download-9.jpg
-youtube_code: GmHoLd6kIdE
+youtube_code: LejZprz-fV4
 ---
 
 {% include youtube.html %}
