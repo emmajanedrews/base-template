@@ -30,10 +30,10 @@ We have more to offer than just sticking a sign in your yard and coordinating sh
 
 {% include pullquote.html %}
 
-We pride ourselves in providing excellent communication throughout the sale of your home as we build a relationship that will extend well beyond the close of your transaction.&nbsp;
+We pride ourselves on providing excellent communication throughout the sale of your home as we build a relationship that will extend well beyond the close of your transaction.&nbsp;
 
 While your home is on the market, we can act as a buffer and take the spam out of your showings and handle all of the buyer’s agents for you. You don’t want to have to filter through all the calls of different requests for people to get into your home. Our team is prepared to handle that for you.&nbsp;
 
-**Once a buyer has been identified, we have the negotiation skills to get top dollar for your home,** and we handle all the paperwork for you. We can help guide you through the entire process, because it can be overwhelming.&nbsp;
+**Once a buyer has been identified, we have the negotiation skills to get top dollar for your home,** and we handle all the paperwork for you. We can help guide you through the entire process because it can be overwhelming.&nbsp;
 
 If you have any questions about using a real estate professional to sell your home or you have a home you need to sell, don’t hesitate to reach out to us. We’d love to work with you soon!
