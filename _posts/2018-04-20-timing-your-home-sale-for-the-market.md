@@ -35,4 +35,4 @@ However, while the market might be the hottest right now, **it also depends on y
 
 Recent real estate trends also play a role—the specifics of your home as well as the homebuyers that you’ll likely attract. For example, while there are fewer buyers in the fall and winter, they tend to be a little more serious about getting their transactions done before the holidays. It’s not as simple as saying that spring and summer are the best times to sell your home.
 
-If you’d like to receive an immediate estimate of the value of your home, [click here to use our website’s home valuation tool](http://www.homestat.info/). For any other questions, feel free to reach out to use. We’d be happy to help you find your dream home.
+If you’d like to receive an immediate estimate of the value of your home, [click here to use our website’s home valuation tool](http://www.imaginerealty.com). For any other questions, feel free to reach out to use. We’d be happy to help you find your dream home.
