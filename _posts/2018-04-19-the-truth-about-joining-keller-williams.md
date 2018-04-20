@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Joining Keller Williams
-date: 2018-04-19 14:38:42
+date: 2018-04-19 14:38:00
 tags:
   - Keller Williams Success Stories
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Marcus+Green/VIdeos/2018/April/Northern+Utah+Real+Estate+Coaching-+The+Truth+About+Joining+Keller+Williams.mp4
 pullquote: >-
   Since joining Keller Williams, Justin stretches himself to meet goals he once
-  wouldn’t have believed were possible.
+  believed impossible.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -35,7 +35,7 @@ Justin isn’t new to real estate. In fact, he’s been in the business full-tim
 
 Justin may be highly skilled at what he does, but he also recognizes that there are some common fears held by real estate agents. Inconsistency, in particular, is something he says many agents worry about. On top of that, many professionals in the real estate industry have fears about lacking support.
 
-**But, thanks to the guidance provided by Keller Williams’ training programs, KW agents don’t have to worry about either of these fears.**
+**But thanks to the guidance provided by Keller Williams’ training programs, KW agents don’t have to worry about either of these fears.**
 
 Justin feels that at his brokerage, specifically, he can call the owners directly at any time. He knows his team’s leaders are there to help him. “One of the best things about KW is having people willing to help you,” said Justin
 
