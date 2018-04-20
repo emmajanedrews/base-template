@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/ooVZSBMv14E'
 
 {% include youtube.html %}
 
-Spring is finally here! I know that many of you will be listing your home soon, so today I want to&nbsp;<br>clue you in to four things you can do to give your home even more value before you put your home on the market.
+Spring is finally here! I know that many of you will be listing your home soon, so today I want to clue you in to four things you can do to give your home even more value before you put your home on the market.
 
 **1. Make your home picture perfect.** Get rid of all that clutter—get rid of all that mail and clean the countertops off. Give the rest of your home a good cleaning as well to make it ready to go for the market.
 
@@ -31,6 +31,6 @@ When you’ve got the place looking photo-ready, hire someone to do some profess
 
 {% include pullquote.html %}
 
-**2. Start packing.** First, this will open up the home and make it look bigger. Get your larger items out of the house; put them in the garage if you have to. Getting a headstart on packing will also save you some time—in this seller’s market, homes are selling really quickly.<br><br>**3. Focus on the curb appeal.** Many clients will pass over a home if it doesn’t have the curb appeal they’re looking for. Talk to a landscaper to have them help you make your yard as enticing as possible.<br><br>**4. Give your backyard a lifestyle.** Arrange your backyard so that buyers can come in and get a good feel for what it would be like to live in that home. Additions like a fire pit, some chairs, or lounging couches would really entice buyers to want to use that space.
+**2. Start packing.**&nbsp;This will open up the home and make it look bigger. Get your larger items out of the house; put them in the garage if you have to. Getting a headstart on packing will also save you some time—in this seller’s market, homes are selling really quickly.<br><br>**3. Focus on the curb appeal.** Many clients will pass over a home if it doesn’t have the curb appeal they’re looking for. Talk to a landscaper to have them help you make your yard as enticing as possible.<br><br>**4. Give your backyard a lifestyle.** Arrange your backyard so that buyers can come in and get a good feel for what it would be like to live in that home. Additions like a fire pit, some chairs, or lounging couches would really entice buyers to want to use the space.
 
 If you have any other questions about what you can do to add value to your home before you list it, please don’t hesitate to reach out to me. I can refer you to resources we work with on a regular basis to help you maximize the value of your home.<br>&nbsp;
