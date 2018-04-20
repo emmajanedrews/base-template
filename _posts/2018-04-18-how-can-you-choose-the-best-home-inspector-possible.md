@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How Can You Choose the Best Home Inspector Possible?
-date: 2018-04-18 14:29:29
+date: 2018-04-18 14:29:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Where can you find the best possible home inspector? Here are a few tips.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Tips+for+Choosing+a+Good+Inspector.mp4
 pullquote: I recommend leaning on your real estate agent for advice.
 enclosure_type: video/mp4
 enclosure_time:
