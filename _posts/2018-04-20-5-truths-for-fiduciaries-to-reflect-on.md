@@ -10,7 +10,8 @@ excerpt: >-
   developments, as well as list five truths I think we should all reflect on.
   The first of these truths is that there must be a fiduciary standard. To learn
   more, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Danny+Sarch/Videos/2018/Leitner+Sarch+Consultants+%257C+Fiduciary.mp4
 pullquote: >-
   It’s imperative that the industry educates the public, because regulation
   alone will never be sufficient.
@@ -35,9 +36,9 @@ Looking to the news, certain media outlets seem to believe that somehow a title 
 
 {% include pullquote.html %}
 
-**3. Not all brokers are crooks.** The old stereotype of a broker who is pounding candidates and pushing products no longer holds true. In today’s world, there are many practitioners who care passionately about their candidates. Crooks and saints exist on both sides.<br>&nbsp;
+**3. Not all brokers are crooks.** The old stereotype of a broker who is pounding candidates and pushing products no longer holds true. In today’s world, there are many practitioners who care passionately about their candidates. Crooks and saints exist on both sides.<br> 
 
-**4. Commissions, by themselves, are not evil.** There are many candidates who actually prefer to pay commissions. There are many candidates who are best-served by paying commissions. Let’s not treat the Investment Advisor Act of 1940 as if it were the 10 Commandments. Today’s world is different. We must be pragmatic about what is truly best for clients.<br>&nbsp;
+**4. Commissions, by themselves, are not evil.** There are many candidates who actually prefer to pay commissions. There are many candidates who are best-served by paying commissions. Let’s not treat the Investment Advisor Act of 1940 as if it were the 10 Commandments. Today’s world is different. We must be pragmatic about what is truly best for clients.<br> 
 
 **5. The fiduciary standard is coming.** In today’s non-regulatory environment, the SEC is going to come up with some kind of fiduciary standard. It may not come tomorrow. It may not even come this year. But, it will come. We are moving forward to a fiduciary standard. What does this mean for individual practitioners? Well, the first thing is to recognize that coming regulations are not the only answer. For example, I still set my alarms and lock my door when I leave home, even though robbery is illegal. It’s imperative that the industry educates the public, because regulation alone will never be sufficient. The standard is coming. You can either get on the train or get run over by it.
 
