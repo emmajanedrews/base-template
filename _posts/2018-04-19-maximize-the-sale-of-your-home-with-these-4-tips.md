@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/ooVZSBMv14E'
 
 {% include youtube.html %}
 
-Spring is finally here! I know that many of you will be listing your home soon, so today, I want to&nbsp;<br>clue you in to four things you can do to give your home even more value before you put your home on the market.
+Spring is finally here! I know that many of you will be listing your home soon, so today I want to&nbsp;<br>clue you in to four things you can do to give your home even more value before you put your home on the market.
 
 **1. Make your home picture perfect.** Get rid of all that clutter—get rid of all that mail and clean the countertops off. Give the rest of your home a good cleaning as well to make it ready to go for the market.
 
