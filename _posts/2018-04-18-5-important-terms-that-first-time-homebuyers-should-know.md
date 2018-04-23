@@ -3,6 +3,7 @@ layout: post
 title: 5 Important Terms That First-Time Homebuyers Should Know
 date: 2018-04-18 00:00:00
 tags:
+  - Home Buyer Tips
 excerpt: >-
   If you are buying a home for the first time, there are five important terms
   that you need to understand. I’ll go over them today.
