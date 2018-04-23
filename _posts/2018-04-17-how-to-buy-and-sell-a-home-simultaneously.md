@@ -22,6 +22,8 @@ youtube_code: _LdQ-wNVHS4
 <center>{% include youtube.html %}</center>
 
 <center><em>Buying and selling at the same time is possible in today&rsquo;s market. Here&rsquo;s how to do it.</em></center>
+<center>Buying a Home? Search All Homes</center>
+<ceneter>Selling a Home? Get a Home Value Report</center>
 
 <center>&nbsp;</center>
 
