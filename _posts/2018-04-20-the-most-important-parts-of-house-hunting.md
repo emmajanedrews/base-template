@@ -3,19 +3,23 @@ layout: post
 title: The Most Important Parts of House Hunting
 date: 2018-04-20 00:00:00
 tags:
+  - Home Buyer Tips
 excerpt: >-
   Why are things like location and proximity to schools so important to
   homebuyers? Here are a few explanations.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Videos/Texas+Real+Estate+Pro-+The+Most+Important+Parts+of+House+Hunting.mp4
 pullquote: Everyone has a different opinion on which schools are best for their children.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/sheila-fejeran-homebuyers-1.jpg
 youtube_code: 'https://youtu.be/JmgAvkpP5RQ'
 ---
 
-{% include youtube.html %}<br>When you’re searching for a home to buy, there are a few things that we notice people are more worried about than others. **These include the location of the neighborhood and the home’s proximity to certain schools.**
+{% include youtube.html %}
+
+When you’re searching for a home to buy, there are a few things that we notice people are more worried about than others. **These include the location of the neighborhood and the home’s proximity to certain schools.**
 
 As for location, the things you want to think about are the things that may be a concern for the resale value later on. **When we’re helping homebuyers, we’re always thinking about the resale value.** Are there railroad tracks nearby? A water tower? Vacant fields? All of these things could impact the value of the home negatively in the future.&nbsp;
 
