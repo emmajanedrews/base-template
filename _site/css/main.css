@@ -1601,6 +1601,12 @@ label.tree-toggle {
   background-repeat: no-repeat;
   text-align: center; }
 
+.home-img {
+  background-position: center;
+  background-size: cover;
+  padding-top: 15rem;
+  height: 400px; }
+
 .site-logo {
   width: 90%;
   max-width: 50rem;
