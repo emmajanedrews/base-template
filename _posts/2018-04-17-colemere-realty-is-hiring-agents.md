@@ -20,8 +20,11 @@ youtube_code: tA-yjjwIRzY
 
 {% include youtube.html %}
 
-<center>Looking to Buy a Home? [Search All Homes](http://www.colemererealty.com/fine/real/estate/newsearch)</center>
-<center>Looking to Sell a Home? [Get a Home Value Report](http://www.colemererealty.com/fine/real/estate/marketeval)</center>
+<center>Looking to Buy a Home? <a href="http://www.colemererealty.com/fine/real/estate/newsearch">Search All Homes</a></center>
+
+<center>Looking to Sell a Home? <a href="http://www.colemererealty.com/fine/real/estate/marketeval">Get a Home Value Report</a></center>
+
+<center>&nbsp;</center>
 
 A lot of you may not have heard about who we are, but **Colemere Realty is the oldest real estate company in the Salt Lake Valley**.
 
