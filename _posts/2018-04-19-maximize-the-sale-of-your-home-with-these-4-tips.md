@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Before you list your home, there are four things you can do that will help
   maximize the amount you get from the sale.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hardesty/Greater+Nashville+Real+Estate-+4+Things+to+Tackle+Before+You+List.mp4
 pullquote: >-
   More than 95% of buyers start their process online, so you’ll really want to
   make a good impression.
@@ -31,6 +32,6 @@ When you’ve got the place looking photo-ready, hire someone to do some profess
 
 {% include pullquote.html %}
 
-**2. Start packing.**&nbsp;This will open up the home and make it look bigger. Get your larger items out of the house; put them in the garage if you have to. Getting a headstart on packing will also save you some time—in this seller’s market, homes are selling really quickly.<br><br>**3. Focus on the curb appeal.** Many clients will pass over a home if it doesn’t have the curb appeal they’re looking for. Talk to a landscaper to have them help you make your yard as enticing as possible.<br><br>**4. Give your backyard a lifestyle.** Arrange your backyard so that buyers can come in and get a good feel for what it would be like to live in that home. Additions like a fire pit, some chairs, or lounging couches would really entice buyers to want to use the space.
+**2. Start packing.** This will open up the home and make it look bigger. Get your larger items out of the house; put them in the garage if you have to. Getting a headstart on packing will also save you some time—in this seller’s market, homes are selling really quickly.<br><br>**3. Focus on the curb appeal.** Many clients will pass over a home if it doesn’t have the curb appeal they’re looking for. Talk to a landscaper to have them help you make your yard as enticing as possible.<br><br>**4. Give your backyard a lifestyle.** Arrange your backyard so that buyers can come in and get a good feel for what it would be like to live in that home. Additions like a fire pit, some chairs, or lounging couches would really entice buyers to want to use the space.
 
-If you have any other questions about what you can do to add value to your home before you list it, please don’t hesitate to reach out to me. I can refer you to resources we work with on a regular basis to help you maximize the value of your home.<br>&nbsp;
+If you have any other questions about what you can do to add value to your home before you list it, please don’t hesitate to reach out to me. I can refer you to resources we work with on a regular basis to help you maximize the value of your home.<br>
