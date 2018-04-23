@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Can You Expect From the Edina Real Estate Market This Spring?
+title: What Can You Expect From the Real Estate Market This Spring?
 date: 2018-04-20 13:35:00
 tags:
   - Real Estate
@@ -40,4 +40,4 @@ In the $250,000 to $400,000 price bracket, there are just 38 active properties r
 
 As a buyer in a multiple offer situation, it can be tough. To make your purchase agreement stand out, you'll need to add a human touch. Having a great lender doesn’t hurt, as well as an experienced agent.
 
-There’s a quick rundown for you on the Edina market and how to deal with multiple offer situations. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+There’s a quick rundown for you on the market and how to deal with multiple offer situations. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
