@@ -1603,6 +1603,12 @@ label.tree-toggle {
   background-size: cover;
   padding-top: 10rem; }
 
+.home-img {
+  background-position: center;
+  background-size: cover;
+  padding-top: 15rem;
+  height: 500px; }
+
 #hero {
   background-position: center;
   background-size: cover;
@@ -2932,4 +2938,4 @@ form select {
   margin-left: 4rem; }
 
 .whitespace {
-  margin-top: 10rem; }
+  margin-top: 3rem; }
