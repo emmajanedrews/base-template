@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you are buying a home for the first time, there are five important terms
   that you need to understand. I’ll go over them today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sofia+Ellis/D.C.+Area+Real+Estate-+5+Important+Terms+That+First-Time+Homebuyers+Should+Know.mp4
 pullquote: >-
   If you get a fixed-rate mortgage, your interest rate will not change for the
   life of the loan.
