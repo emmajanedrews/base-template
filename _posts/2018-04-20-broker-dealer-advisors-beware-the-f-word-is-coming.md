@@ -24,7 +24,7 @@ youtube_code: XEOJGWFNSdY
 
 {% include youtube.html %}
 
-**\*Please Note: As I predicted, shortly after this was filmed the SEC took the next step and did choose to release proposals for new standards. [Click here for an update.](http://www.investmentnews.com/article/20180420/FREE/180429987/sec-advice-rule-may-give-rias-leg-up-over-broker-dealers)&nbsp;**
+**\*Please Note: As I predicted, shortly after this was filmed the SEC took the next step and did choose to release proposals for new standards. [Click here for an update.](http://www.investmentnews.com/article/20180420/FREE/180429987/sec-advice-rule-may-give-rias-leg-up-over-broker-dealers)\*&nbsp;**
 
 Today I'd like to talk about the F-word. By that, I mean “fiduciary.” This word has been in the news a lot lately.
 
