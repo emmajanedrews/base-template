@@ -21,11 +21,11 @@ youtube_code: wVY0cMtYtYk
 
 {% include youtube.html %}
 
-Even though temperatures aren’t quite cooperating, our swing market is in full swing.
+Even though temperatures aren’t quite cooperating, our spring market is in full swing.
 
 We’ve all been hearing on the news lately how great the market has been so far this year. You’ve probably also heard about the extreme shortage in inventory we’re seeing. Well, this is still definitely the case. There are too few houses right now to match the number of available buyers, and prices are being driven up as a result.
 
-At the same time the level of activity in our market is being driven down. Of course, **different locations will see different trends reflected within their own markets.** So if you want to learn more about what’s going on in your area, specifically, I’d be happy to meet with you for a no-cost consultation.
+At the same time, the level of activity in our market is being driven down. Of course, **different locations will see different trends reflected within their own markets.** So if you want to learn more about what’s going on in your area, specifically, I’d be happy to meet with you for a no-cost consultation.
 
 {% include pullquote.html %}
 
