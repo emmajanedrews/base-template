@@ -22,7 +22,7 @@ youtube_code: glMn2U4rxSA
 
 <center>&nbsp;</center>
 
-Today I’ve got a market report for you for the first quarter of 2018. The numbers are pretty similar to last year, but there’s a few exciting developments to note.
+Today I’ve got a market report for you for the first quarter of 2018. The numbers are pretty similar to last year, but there are a few exciting developments to note.
 
 In the Flathead Valley, we saw an increase in sales from 631 in the first quarter of 2017 to 653 in the first quarter of 2018. That’s an increase of 3% and a healthy sign for our market. There’s definitely a shortage of homes for sale, especially under $400,000 and lakefront properties. **After a decade of recession, this shift is welcome.**
 
