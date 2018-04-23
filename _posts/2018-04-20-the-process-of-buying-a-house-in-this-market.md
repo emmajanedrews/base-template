@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/eJRahh9UfRM'
 
 {% include youtube.html %}
 
-If you’re reading this and you’re a buyer in this market, you’re probably realized that there is a lot of competition out there for homes these days. You may have even put in offers and lost out to other bidders.
+If you’re reading this and you’re a buyer in this market, you’ve probably realized that there is a lot of competition out there for homes these days. You may have even put in offers and lost out to other bidders.
 
 I know it can be frustrating, but I also want you to know that we can help. **We use advanced marketing and advertising to identify homeowners who are getting ready to sell their properties but haven’t listed them for sale on the market yet.**
 
