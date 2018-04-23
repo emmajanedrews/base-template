@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Truths for Fiduciaries to Reflect On
+title: 'Broker-Dealer "Advisors" Beware: The F-Word is Coming'
 date: 2018-04-20 14:40:00
 tags:
   - Investment News
