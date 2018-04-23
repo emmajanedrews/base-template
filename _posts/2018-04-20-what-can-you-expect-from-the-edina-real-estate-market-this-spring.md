@@ -38,6 +38,6 @@ In the $250,000 to $400,000 price bracket, there are just 38 active properties r
 
 **Multiple offers is a completely different discussion for buyers and sellers.** From a seller’s perspective, it’s very exciting to have the prospect of multiple offers. The highest price isn’t always the best offer, however. A seller may choose an offer that’s slightly lower, but the strength of the buyer and their terms is what they’re looking for. Another thing sellers need to think about is the fact that buyer’s remorse exists, and the buyer can always back out of the deal before they have their inspection.
 
-As a buyer in a multiple offer situation, it can be tough. To stand out with your purchase, agreement, you need to add that human touch. Having a great lender doesn’t hurt, as well as an experienced agent.
+As a buyer in a multiple offer situation, it can be tough. To make your purchase agreement stand out, you'll need to add a human touch. Having a great lender doesn’t hurt, as well as an experienced agent.
 
 There’s a quick rundown for you on the Edina market and how to deal with multiple offer situations. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
