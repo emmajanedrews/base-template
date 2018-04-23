@@ -36,10 +36,10 @@ Looking to the news, certain media outlets seem to believe that somehow a title 
 
 {% include pullquote.html %}
 
-**3. Not all brokers are crooks.** The old stereotype of a broker who is pounding candidates and pushing products no longer holds true. In today’s world, there are many practitioners who care passionately about their candidates. Crooks and saints exist on both sides.<br> 
+**3. Not all brokers are crooks.** The old stereotype of a broker who is pounding candidates and pushing products no longer holds true. In today’s world, there are many practitioners who care passionately about their candidates. Crooks and saints exist on both sides.
 
-**4. Commissions, by themselves, are not evil.** There are many candidates who actually prefer to pay commissions. There are many candidates who are best-served by paying commissions. Let’s not treat the Investment Advisor Act of 1940 as if it were the 10 Commandments. Today’s world is different. We must be pragmatic about what is truly best for clients.<br> 
+**4. Commissions, by themselves, are not evil.** There are many candidates who actually prefer to pay commissions. There are many candidates who are best-served by paying commissions. Let’s not treat the Investment Advisor Act of 1940 as if it were the 10 Commandments. Today’s world is different. We must be pragmatic about what is truly best for clients.
 
 **5. The fiduciary standard is coming.** In today’s non-regulatory environment, the SEC is going to come up with some kind of fiduciary standard. It may not come tomorrow. It may not even come this year. But, it will come. We are moving forward to a fiduciary standard. What does this mean for individual practitioners? Well, the first thing is to recognize that coming regulations are not the only answer. For example, I still set my alarms and lock my door when I leave home, even though robbery is illegal. It’s imperative that the industry educates the public, because regulation alone will never be sufficient. The standard is coming. You can either get on the train or get run over by it.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+It's important to remember not all financial advisors are equally affected by the Fifth Circuit's decision. If you have any other questions or would like more information, feel free to give me a call or send me an email. As your trusted source for wealth management, be sure to frequently visit my blog for the latest information.
