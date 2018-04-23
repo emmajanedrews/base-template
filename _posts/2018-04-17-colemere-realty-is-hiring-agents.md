@@ -20,6 +20,10 @@ youtube_code: tA-yjjwIRzY
 
 {% include youtube.html %}
 
+Looking to Buy a Home? [Search All Homes](http://www.colemererealty.com/fine/real/estate/newsearch)
+
+Looking to Sell a Home? [Get a Home Value Report](http://www.colemererealty.com/fine/real/estate/marketeval)
+
 A lot of you may not have heard about who we are, but **Colemere Realty is the oldest real estate company in the Salt Lake Valley**.
 
 Both Bryan and I are third-generation Realtors. Our grandfather started Colemere Realty back in 1953, so **we’re excited to share our story of who we are and what exciting things we have to bring to the real estate industry**.
