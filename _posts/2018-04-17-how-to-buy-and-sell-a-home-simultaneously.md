@@ -25,7 +25,7 @@ youtube_code: _LdQ-wNVHS4
 
 <center>&nbsp;</center>
 
-<center><strong>Buying a Home?</strong> <a href="https://kevin.btgarizonaproperties.com/">Search All Homes</a></center>
+<center><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><strong>Buying a Home?</strong> <a href="https://kevin.btgarizonaproperties.com/">Search All Homes</a></center>
 
 <center><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><strong>Selling a Home?</strong> <a href="https://kevin.btgarizonaproperties.com/home-valuation/">Get a Home Value Report</a></span></center>
 
