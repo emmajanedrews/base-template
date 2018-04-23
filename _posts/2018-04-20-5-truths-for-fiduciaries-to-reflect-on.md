@@ -24,7 +24,9 @@ youtube_code: XEOJGWFNSdY
 
 {% include youtube.html %}
 
-Today I’d like to talk about the F word. By that, I mean “fiduciary.” This word has been in the news a lot lately.
+**\*Please Note: As I predicted, shortly after this was filmed the SEC took the next step and did choose to release proposals for new standards. Click here for an update.&nbsp;**
+
+Today I'd like to talk about the F-word. By that, I mean “fiduciary.” This word has been in the news a lot lately.
 
 We all know by now that the DOL rule was shot down by the Fifth Circuit Court of Appeals. To tell the truth, I agree with this ruling. I think the DOL rule truly deserved to die. Why? Well, I think it’s absurd that we’d have a standard for retirement assets that’s different from the standard for non-retirement assets. From a pragmatic sense, any rule that is 1,000 pages long will be very difficult to enforce.
 
