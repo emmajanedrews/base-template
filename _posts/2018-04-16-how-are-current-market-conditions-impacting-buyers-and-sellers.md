@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/greg-taylor-update.jpg
-youtube_code: 'https://youtu.be/8boOHUuQKDs'
+youtube_code: 'https://youtu.be/EqvwrH8CcP8'
 ---
 
 {% include youtube.html %}
