@@ -5,7 +5,7 @@ date: 2018-04-20 14:40:00
 tags:
   - Investment News
 excerpt: >-
-  There’s been a lot of news circulating recently about the F word. Of course,
+  There’s been a lot of news circulating recently about the F-word. Of course,
   I’m talking about “fiduciary.” Today, I’d like to share my thoughts on recent
   developments, as well as list five truths I think we should all reflect on.
   The first of these truths is that there must be a fiduciary standard. To learn
@@ -26,7 +26,7 @@ youtube_code: XEOJGWFNSdY
 
 Today I’d like to talk about the F word. By that, I mean “fiduciary.” This word has been in the news a lot lately.
 
-We all know by now that the DOL rule was shot down by the Fifth Circuit Court of Appeals. To tell the truth, I agree with this ruling. I think the DOL rule truly deserved to die. Why? Well, I think it’s absurd that we’d have a standard for retirement assets that’s different from the standard for non-retirement assets. In a pragmatic sense, any rule that is 1,000 pages long will be very difficult to enforce.
+We all know by now that the DOL rule was shot down by the Fifth Circuit Court of Appeals. To tell the truth, I agree with this ruling. I think the DOL rule truly deserved to die. Why? Well, I think it’s absurd that we’d have a standard for retirement assets that’s different from the standard for non-retirement assets. From a pragmatic sense, any rule that is 1,000 pages long will be very difficult to enforce.
 
 Looking to the news, certain media outlets seem to believe that somehow a title will be sufficient in protecting the investing public—as if it is better to have an advisor title. Personally, I think this is ridiculous. So let’s talk some truth. There are five points I’d like to share.
 
