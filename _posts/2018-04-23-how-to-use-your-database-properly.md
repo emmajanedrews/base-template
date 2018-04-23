@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use Your Database Properly
-date: 2018-04-23 17:11:52
+date: 2018-04-23 17:11:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: isZEY7GsAIc
+youtube_code: AuXEwksXHPI
 ---
 
 {% include youtube.html %}
 
-Today I want to talk about one simple thing that you can do to triple your business. We’re constantly inundated with new tools, marketing products, and other shiny objects that guarantee to take your business to the next level. **I’m not going to talk about those things today.&nbsp;**
+Today I want to talk about one simple thing that you can do to triple your business. We’re constantly inundated with new tools, marketing products, and other shiny objects that guarantee to take your business to the next level. **I’m not going to talk about those things today. **
 
 As a matter of fact, **I want to talk about a free tool that you already have in your possession.** I’m talking about your database. You probably have a database full of people, from friends and family members to past clients, that simply gets ignored unless they reach out to you.
 
@@ -33,7 +33,7 @@ Having a strategy for consistently staying in touch with these people is very im
 
 You don’t need a 100-touch program to succeed in getting more business from your database. Any consistent follow-up process that keeps you in constant communication will do the job. Here are a few additional ways to get business out of your database:
 
-**1. Simply ask for a referral.** The people in your database already know, like, and trust you, and most of them would be happy to refer you if simply prompted to do so. The average person lives in 11 different homes from the time they turn 18 until they die. That means the average person moves every 4.2 years. Looking at those numbers, it’s clear that the people in your database know somebody who is thinking about buying or selling a home right now.&nbsp;
+**1. Simply ask for a referral.** The people in your database already know, like, and trust you, and most of them would be happy to refer you if simply prompted to do so. The average person lives in 11 different homes from the time they turn 18 until they die. That means the average person moves every 4.2 years. Looking at those numbers, it’s clear that the people in your database know somebody who is thinking about buying or selling a home right now. 
 
 How do you get these referrals ? It’s simple. Constant communication. Stay in touch with this group of people through email, social media, postcards, etc. and ask them this simple question: **“Who can you introduce me to who is thinking about buying or selling real estate that I can help?”** By constantly asking this question, you will be shocked at how often your database will produce leads for you.
 
