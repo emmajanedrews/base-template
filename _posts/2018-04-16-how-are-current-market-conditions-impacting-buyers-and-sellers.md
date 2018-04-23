@@ -3,11 +3,12 @@ layout: post
 title: How Are Current Market Conditions Impacting Buyers and Sellers?
 date: 2018-04-16 00:00:00
 tags:
-  - Real Estate
+  - Market Update
 excerpt: >-
   Inventory is tight and prices are rising in our market, but there are a lot of
   great opportunities for buyers and sellers out there.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+Taylor/2018/New+Jersey+Real+Estate-+How+Are+Current+Market+Conditions+Impacting+Buyers+and+Sellers%253F.mp4
 pullquote: Inventory is low and prices are rising.
 enclosure_type: video/mp4
 enclosure_time:
