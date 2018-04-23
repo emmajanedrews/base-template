@@ -19,7 +19,7 @@ youtube_code: R1e8Wb5MwS4
 
 {% include youtube.html %}
 
-<center>Can Zillow really tell you how much a home is worth? I’ll go over the trouble with Zillow’s Zestimates today.</cetner>
+<center>Can Zillow really tell you how much a home is worth? I’ll go over the trouble with Zillow’s Zestimates today.</center>
 
 Can you trust Zillow’s Zestimate?
 
