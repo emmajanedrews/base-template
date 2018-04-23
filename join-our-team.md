@@ -16,7 +16,7 @@ permalink: /join-our-team/
 
 <p>Dear Frustrated Real Estate Agent,</p>
 
-<p>We understand that you may be frustrated right now with your current brokerage. Perhaps you feel as if you can’t figure out how to get a consistent flow of lead and listings in your business.  <strong>You may even feel as if you have no room to grow in your current situation, or as if you simply aren’t being paid up to your worth or getting the support you need.</strong></p>
+<p>We understand that you may be frustrated right now with your current brokerage. Perhaps you feel as if you can’t figure out how to get a consistent flow of leads and listings in your business.  <strong>You may even feel as if you have no room to grow in your current situation, or as if you simply aren’t being paid up to your worth or getting the support you need.</strong></p>
 
 <p>There’s a good chance you are already taking steps to solve your problems. Maybe you’re watching YouTube videos, looking for coaching and training, and trying to get a plan for the future put into place.</p>
 
