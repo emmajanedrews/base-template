@@ -18,7 +18,9 @@ youtube_code: glMn2U4rxSA
 
 {% include youtube.html %}
 
-<center>The latest numbers are in for the Flathead Valley and surrounding areas. Here’s what we saw in the first quarter of 2018.</center>
+<center><em>The latest numbers are in for the Flathead Valley and surrounding areas. Here&rsquo;s what we saw in the first quarter of 2018.</em></center>
+
+<center>&nbsp;</center>
 
 Today I’ve got a market report for you for the first quarter of 2018. The numbers are pretty similar to last year, but there’s a few exciting developments to note.
 
