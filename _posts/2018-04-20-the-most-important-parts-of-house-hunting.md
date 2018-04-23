@@ -23,10 +23,10 @@ When you’re searching for a home to buy, there are a few things that we notice
 
 As for location, the things you want to think about are the things that may be a concern for the resale value later on. **When we’re helping homebuyers, we’re always thinking about the resale value.** Are there railroad tracks nearby? A water tower? Vacant fields? All of these things could impact the value of the home negatively in the future.&nbsp;
 
-The other thing that people think about during their house hunting search is schools. Everyone has a different opinion on what matters most in a school, so I encourage people to go to the [Texas education site](https://tea.texas.gov/). Here there are statistics, rankings, and much more information about all of the schools in the area.
+The other thing that people think about during their house hunting search is schools. Everyone has a different opinion on what matters most in a school, so I encourage people to go to the [Texas education site](https://tea.texas.gov/){: target="_blank"}. Here there are statistics, rankings, and much more information about all of the schools in the area.
 
 {% include pullquote.html %}
 
-There is also a site called [neighborhoodscout.com](https://www.neighborhoodscout.com/) that can give you information about the district.
+There is also a site called [neighborhoodscout.com](https://www.neighborhoodscout.com/){: target="_blank"} that can give you information about the district.
 
 **These are two really important factors when it comes to buying a home and reselling it in the future.** If you have any questions for me in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
