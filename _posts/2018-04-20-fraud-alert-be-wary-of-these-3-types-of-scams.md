@@ -21,9 +21,9 @@ youtube_code: 'https://youtu.be/9zwOBoQgOPY'
 
 {% include youtube.html %}
 
-Fraud scams are common in real estate. Today, I want to discuss three of the most popular scams that you might encounter in the business.
+Fraud scams are common in real estate. Today I want to discuss three of the most popular scams that you might encounter in the business.
 
-**1. Wiring instructions.** In a real estate transaction, purchases usually involved the wiring of money from one account to another. At some point, you’re going to receive wiring instructions, most likely from the closing attorney, asking you to wire your down payment or closing funds to their accounts. Most of the time, this is fine. However, there are people out there that are trying to fake this information so that you wire your funds to their account and the attorney will never see it. You’re money is gone; there’s no way to get it back.
+**1. Wiring instructions.** In a real estate transaction, purchases usually involve the wiring of money from one account to another. At some point, you’re going to receive wiring instructions, most likely from the closing attorney, asking you to wire your down payment or closing funds to their accounts. Most of the time, this is fine. However, there are people out there that are trying to fake this information so that you wire your funds to their account and the attorney will never see it. You’re money is gone; there’s no way to get it back.
 
 They’ll send you an email disguised as though it’s coming from your attorney and agent, asking you to wire your funds to an account. They provide instructions that don’t link back to a safe account, and when you execute that wire, they take off with the money.
 
