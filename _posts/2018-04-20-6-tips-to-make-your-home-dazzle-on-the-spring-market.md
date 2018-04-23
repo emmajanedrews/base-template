@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Tips to Make Your Home Dazzle on the Spring Market
-date: 2018-04-20 14:27:03
+date: 2018-04-20 14:27:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/spring-market-youtube.jpg
-youtube_code: iruYh6u1rRo
+youtube_code: mOpDn_U1rYY
 ---
 
 {% include youtube.html %}
