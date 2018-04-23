@@ -1485,6 +1485,12 @@ html[xmlns] .flexslider .slides {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
 
+.hiring-navbar {
+  text-align: center;
+  padding: 2rem 0; }
+  .hiring-navbar a {
+    font-size: 20px; }
+
 .navbar-left {
   margin-left: 15px; }
 
@@ -1512,6 +1518,9 @@ html[xmlns] .flexslider .slides {
   .navbar-left > li > a:focus {
     text-decoration: none;
     color: #fff; }
+
+.a-name {
+  margin-top: 8rem; }
 
 .cta {
   background: transparent;
@@ -3235,7 +3244,7 @@ form select {
 .hero-cta {
   padding-top: 10rem;
   text-align: center;
-  width: 50%;
+  width: 75%;
   display: block;
   margin: 0 auto; }
 
