@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Market Update
 excerpt: >-
-  As the spring market starts to head up in Edina, we wanted to give you a
+  As the spring market starts to heat up in Edina, we wanted to give you a
   little update. Low inventory still continues to dominate the conversation in
   our market. For first-time homebuyers and other buyers in the $250,000 and
   under price range, things are very competitive. There are multiple offer
