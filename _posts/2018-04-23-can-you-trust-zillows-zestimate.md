@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Can Zillow really tell you how much a home is worth? I’ll go over the trouble
   with Zillow’s Zestimates today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gerald+Durham/Videos/Can+You+Trust+Zillow%2527s+Zestimate%253F.mp4
 pullquote: Zillow can be off by as much as 10% to 20% when it comes to home value.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,9 @@ youtube_code: R1e8Wb5MwS4
 
 {% include youtube.html %}
 
-<center>Can Zillow really tell you how much a home is worth? I’ll go over the trouble with Zillow’s Zestimates today.</center>
+<center><em>Can Zillow really tell you how much a home is worth? I&rsquo;ll go over the trouble with Zillow&rsquo;s Zestimates today.</em></center>
+
+&nbsp;
 
 Can you trust Zillow’s Zestimate?
 
