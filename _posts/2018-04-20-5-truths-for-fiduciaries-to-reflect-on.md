@@ -42,4 +42,6 @@ Looking to the news, certain media outlets seem to believe that somehow a title 
 
 **5. The fiduciary standard is coming.** In today’s non-regulatory environment, the SEC is going to come up with some kind of fiduciary standard. It may not come tomorrow. It may not even come this year. But, it will come. We are moving forward to a fiduciary standard. What does this mean for individual practitioners? Well, the first thing is to recognize that coming regulations are not the only answer. For example, I still set my alarms and lock my door when I leave home, even though robbery is illegal. It’s imperative that the industry educates the public, because regulation alone will never be sufficient. The standard is coming. You can either get on the train or get run over by it.
 
-It's important to remember not all financial advisors are equally affected by the Fifth Circuit's decision. If you have any other questions or would like more information, feel free to give me a call or send me an email. As your trusted source for wealth management, be sure to frequently visit my blog for the latest information.
+It's important to remember not all financial advisors are equally affected by the Fifth Circuit's decision. If you have any other questions or would like more information, feel free to give me a call or send me an email.
+
+As your **trusted source for wealth management,** be sure to frequently visit my blog for the latest information.
