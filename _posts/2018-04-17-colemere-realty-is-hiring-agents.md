@@ -20,9 +20,9 @@ youtube_code: tA-yjjwIRzY
 
 {% include youtube.html %}
 
-<center>Looking to Buy a Home? <a href="http://www.colemererealty.com/fine/real/estate/newsearch">Search All Homes</a></center>
+<center><strong>Looking to Buy a Home?</strong> <a href="http://www.colemererealty.com/fine/real/estate/newsearch">Search All Homes</a></center>
 
-<center>Looking to Sell a Home? <a href="http://www.colemererealty.com/fine/real/estate/marketeval">Get a Home Value Report</a></center>
+<center><strong>Looking to Sell a Home?</strong> <a href="http://www.colemererealty.com/fine/real/estate/marketeval">Get a Home Value Report</a></center>
 
 <center>&nbsp;</center>
 
