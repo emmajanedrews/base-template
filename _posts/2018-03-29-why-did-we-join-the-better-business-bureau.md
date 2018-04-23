@@ -8,7 +8,7 @@ excerpt: >-
   We’ve joined the Better Business Bureau. If you’re curious as to what this
   change represents, let me explain.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.+Cloud+Real+Estate+We%E2%80%99re+now+part+of+the+BBB.mp4
+  https://s3.amazonaws.com/vyralmarketing/Chris+Hauck/St.%2520Cloud%2520Real%2520Estate-%2520Were%2520now%2520part%2520of%2520the%2520BBB.mp4
 pullquote: >-
   It takes 40 years to build a good reputation and only about five minutes to
   undo it.
