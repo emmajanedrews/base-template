@@ -3,7 +3,7 @@ layout: post
 title: 'Fraud Alert: Be Wary of These 3 Types of Scams'
 tags:
   - Real Estate
-date: 2018-04-20 16:47:14
+date: 2018-04-20 16:47:00
 excerpt: >-
   There are three common real estate scams you could fall prey to if you don’t
   know what to look for. I’ll give you the details here and tips on how to avoid
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chris-gorman-3-real-estate-scams-youtube.jpg
-youtube_code: 'https://youtu.be/9zwOBoQgOPY'
+youtube_code: 'https://youtu.be/pmM3bWaey2A'
 ---
 
 {% include youtube.html %}
