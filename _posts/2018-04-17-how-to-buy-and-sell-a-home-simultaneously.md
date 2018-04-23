@@ -22,19 +22,11 @@ youtube_code: _LdQ-wNVHS4
 <center>{% include youtube.html %}</center>
 
 <center><em>Buying and selling at the same time is possible in today&rsquo;s market. Here&rsquo;s how to do it.</em></center>
-<center>Buying a Home? Search All Homes</center>
-<ceneter>Selling a Home? Get a Home Value Report</center>
 
-<center>&nbsp;</center>
+<center><strong>Buying a Home?</strong> <a href="https://kevin.btgarizonaproperties.com/">Search All Homes</a></center>
 
-Today we’re going to be talking about the steps to buying and selling a home at the same time. Most homeowners I talk to are anxious about balancing this because they don’t want to end up homeless or with two mortgage payments. **Here are three simple steps we can take to help make sure things go smoothly for you:**
+<center><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><strong>Selling a Home?</strong> <a href="https://kevin.btgarizonaproperties.com/home-valuation/">Get a Home Value Report</a></span></center>
 
-**1. Make sure you’re comfortable with the current inventory and you have your financial ducks in a row**. These include a pre-approval with a lender, as well as your down payment. If you can afford the down payment before you’ve sold your home, it would be better for you to buy before you sell. We can execute your purchase, then fully attack the sale once the purchase is finalized. If this isn’t an option for you, we want to make sure that your purchase is in order, then we can start talking about the sale.
+<ceneter><center>&nbsp;</center> Today we&rsquo;re going to be talking about the steps to buying and selling a home at the same time. Most homeowners I talk to are anxious about balancing this because they don&rsquo;t want to end up homeless or with two mortgage payments. **Here are three simple steps we can take to help make sure things go smoothly for you:** **1. Make sure you&rsquo;re comfortable with the current inventory and you have your financial ducks in a row**. These include a pre-approval with a lender, as well as your down payment. If you can afford the down payment before you&rsquo;ve sold your home, it would be better for you to buy before you sell. We can execute your purchase, then fully attack the sale once the purchase is finalized. If this isn&rsquo;t an option for you, we want to make sure that your purchase is in order, then we can start talking about the sale. **2. Determine the best marketing plan for you**. We&rsquo;ll do a market analysis on your home, aggressively promote and market your home, and negotiate with the buyer for terms that are favorable for you. Then we can aggressively find your new property. **3. ****Make sure you hire an experienced team**. If one thing happens to derail the purchase or sale, it can derail the entire process. They need to ensure that you have a great transition into your new home. {% include pullquote.html %} There are a lot of steps involved, but tackling it this way allows us to take action promptly and swiftly and can prevent those double payments. &nbsp;If you have any questions for me in the meantime, don&rsquo;t hesitate to give me a call or send me an email. I look forward to hearing from you soon. </ceneter>
 
-**2. Determine the best marketing plan for you**. We’ll do a market analysis on your home, aggressively promote and market your home, and negotiate with the buyer for terms that are favorable for you. Then we can aggressively find your new property.
-
-**3.&nbsp;****Make sure you hire an experienced team**. If one thing happens to derail the purchase or sale, it can derail the entire process. They need to ensure that you have a great transition into your new home.
-
-{% include pullquote.html %}
-
-There are a lot of steps involved, but tackling it this way allows us to take action promptly and swiftly and can prevent those double payments. &nbsp;If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+&nbsp;
