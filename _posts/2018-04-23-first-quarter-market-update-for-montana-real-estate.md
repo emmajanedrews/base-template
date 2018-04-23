@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Quarter Market Update for Montana Real Estate
-date:
+date: 2018-04-23 19:13:26
 tags:
   - Market Update
 excerpt: >-
