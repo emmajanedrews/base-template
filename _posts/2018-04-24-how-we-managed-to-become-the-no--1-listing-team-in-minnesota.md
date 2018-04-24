@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Managed to Become the No. 1 Listing Team in Minnesota
-date:
+date: 2018-04-24 14:59:33
 tags:
   - Real Estate
 excerpt: >-
