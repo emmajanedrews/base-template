@@ -15,14 +15,14 @@ permalink: /culture/
 </div>
 
 
-<div><a name="A5"></a></div>
+<div><a name="value"></a></div>
 {% include values.html %}
 
-<div><a name="A6"></a></div>
+<div><a name="mission"></a></div>
 {% include mission.html %}
 
-<div><a name="A7"></a></div>
+<div><a name="value-prop"></a></div>
 {% include value-prop.html %}
 
-<div><a name="A8"></a></div>
+<div><a name="testimonials"></a></div>
 {% include testimonials.html %}

@@ -1,11 +1,11 @@
 .navbar-andross
 	// border-bottom: 5px solid $brand
 	border-radius: 0
-	height: 30px
+	height: 90px
 	background: $brand
 	color: #fff
 	width: 100%
-	overflow: hidden
+	// overflow: hidden
 
 .navbar-andross .navbar-brand
 	color: #fff
@@ -42,7 +42,7 @@
 .navbar-left>li>a
 	background: transparent
 	color: white
-	// padding: 10px
+	padding-top: 3.5rem
 	text-transform: uppercase
 	font-size: 18px
 	font-weight: 300
@@ -105,28 +105,27 @@
 			overflow: hidden
 			display: none
 			opacity: 0
-// .scroll-nav-color
-// 	background: transparentize($theme, 0)
-// 	animation: .5s fadeNavigation ease-in-out
-// 	+shadow
-// @keyframes fadeNavigation
-// 	0%
-// 		transform: translateY(0)
-// 		background: transparentize($theme, 1)
-// 	// 50%
-// 	// 	transform: translateY(-100px)
-// 	// 	background: transparent
-// 	// 51%
-// 	// 	background: $brand
-// 	100%
-// 		background: transparentize($theme, 0)
-// 		transform: translateY(0)
-// 		+shadow
-// 		// background: $theme
+
+.nav-logo
+	float: left !important
+	max-width: 200px
+	margin: 5px
+	padding: 10px
+
+@media (max-width: 760px)
+	.nav-logo
+		display: none
+	.hero-img
+		height: 300px
+
+	.nav-logo-small
+		max-width: 200px
+		margin-top: -10px
+
+
+
 .brand-color
-	+shadow
-	background: $theme
-	animation: .3s fadein ease-in-out
+	background: $brand
 
 #value-navbar
 	background: #fff
