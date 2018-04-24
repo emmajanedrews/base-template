@@ -21,9 +21,9 @@ blogger_orig_url: http://rosadorealtor.blogspot.com/2016/03/hoboken-real-estate-
 
 {% include youtube.html %}
 
-**Want to Sell Your Home?** Get a Home Value Report
+<center>**Want to Sell Your Home?** Get a Home Value Report
 
-**Want to Buy a Home?** Search All homes
+**Want to Buy a Home?** Search All homes</center>
 
 Hi everyone, I wanted to take a moment today to **invite you all over to my new video blog!** Here, I’ll provide you with valuable buyer and seller tips and strategies, as well as market information and updates. These videos will be straight-to-the-point and range from two to three minutes. This information will easily give you an advantage over other consumers in the real estate market.
 
