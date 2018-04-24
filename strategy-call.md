@@ -3,7 +3,6 @@ layout: custom
 title: Free Strategy Call
 permalink: /strategy-call/
 ---
-
 <div id="recruit">
 <h1 class="join-us">Free Real Estate Business Planning Call</h1>
 <h5 class="join-us-subtitle">Are you a hungry real estate agent looking for more?</h5>
@@ -43,16 +42,17 @@ permalink: /strategy-call/
 
 	<img src="/img/olivia.jpg" alt="Olivia Froncillo" class="photo-left"/>
 	<p><span class="quote">"After working in many professional settings, I have never felt more appreciated or valued than working with Dave. In a fast-paced environment like real estate, Dave has found a way to make his employees feel supported and challenged while maintaining an incredibly fun workspace."</span><br>
-	<span class="author">- Olivia Froncillo</span></p>
+	<span class="author indent">- Olivia Froncillo</span></p>
 
 	<img src="/img/ellie.jpg" class="photo-left">
 	<p><span class="quote">"Working with Dave has  encouraged, inspired, and pushed me to become the best version of myself in every sense! From my work habits and determining my Big Why, to creating a work-life balance, and self improvement in every facet of my life, Dave does it all! My daily outlook and goals have changed tenfold as I have grown more than I ever imagined possible.  Be prepared to triple your goals and push yourself, while making your Big Why your priority!"
-	</span><br><span class="author">- Ellie Kuuskvere</span></p>
+	</span><br><span class="author indent">- Ellie Kuuskvere</span></p>
 
 	<img src="/img/traci.jpg" class="photo-left">
 	<p><span class="quote">"I had a great career in the corporate world, but I knew I wasn't passionate about my work.  For over ten years, I dreamed of a career in real estate but taking the leap from a secure, salaried position to pursue my dream was such a scary thought.  I believed in myself, but I knew that I needed additional support and strong leadership to ensure my success.  Dave has given me the tools, education, positivity, and accountability I need."</span><br>
-	<span class="author">- Traci McGinnis</span></p>
+	<span class="author indent">- Traci McGinnis</span></p>
 
+</div>
 <hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
@@ -90,3 +90,4 @@ permalink: /strategy-call/
 						<input class="submit light-light" type="submit" value="Book a Call" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
 					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
+</div>

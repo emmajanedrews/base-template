@@ -2920,8 +2920,6 @@ form select {
   text-align: center; }
 
 #recruit {
-  width: 75%;
-  margin-left: 13%;
   margin-top: 2rem;
   font-size: 18px; }
 
@@ -2939,9 +2937,7 @@ form select {
   margin-bottom: 2rem; }
 
 .values {
-  text-align: center;
-  width: 75%;
-  margin-left: 13%; }
+  text-align: center; }
   .values h1 {
     font-weight: bold;
     color: black;
@@ -3227,7 +3223,7 @@ form select {
   width: 50px; }
 
 .homepage-bio {
-  padding: 3rem 0; }
+  padding: 3rem; }
 
 .hero-home {
   background-position: center;
@@ -3619,3 +3615,11 @@ form select {
 
 @media(max-width: 750px) {
   display: block; }
+.mission {
+  text-align: center;
+  font-size: 20px;
+  padding: 3rem; }
+  .mission h1 {
+    font-weight: bold;
+    color: #B40101;
+    font-size: 60px; }
