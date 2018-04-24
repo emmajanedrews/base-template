@@ -21,9 +21,11 @@ blogger_orig_url: http://rosadorealtor.blogspot.com/2016/03/hoboken-real-estate-
 
 {% include youtube.html %}
 
-<center>**Want to Sell Your Home?** Get a Home Value Report
+<center><strong>Want to Sell Your Home?</strong>&nbsp;<a href="http://www.rosadohomevalue.com/">Get a Home Value Report</a></center>
 
-**Want to Buy a Home?** Search All homes</center>
+<center><strong>Want to Buy a Home?</strong>&nbsp;<a href="https://stevenrosado.kw.com/listings-search/#/2014353947">Search All homes</a></center>
+
+<center>&nbsp;</center>
 
 Hi everyone, I wanted to take a moment today to **invite you all over to my new video blog!** Here, I’ll provide you with valuable buyer and seller tips and strategies, as well as market information and updates. These videos will be straight-to-the-point and range from two to three minutes. This information will easily give you an advantage over other consumers in the real estate market.
 
