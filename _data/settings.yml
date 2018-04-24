@@ -91,7 +91,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#75983F'
+  brand_color: '#96BF11'
   theme_color: '#87888a'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
