@@ -44,7 +44,9 @@ It’s no wonder why so many people who have been on the fence are starting to m
 
 To review the full details of this market update, Click the icon below.
 
-[![](/uploads/download-32.jpg)](/OrlHousMrktSnap042018.png)
+[![](/uploads/download-32-1.jpg)](http://www.orlandorealtors.org/?page=March18TalkingPoints&amp;_cldee=bWVnYW5nQG9ybGFuZG9yZWFsdG9ycy5vcmc%3d&amp;recipientid=contact-00e89d2e417d43e88c4da0febe326130-1671c8498efb4c5ca847ba2333023cb0&amp;esid=e2e5fe10-8a3d-e811-9c1a-00155d101216)
+
+&nbsp;
 
 If you have any other questions, would like more information, or would like to know how my team and I can help you buy or sell in today’s market, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
