@@ -18,7 +18,7 @@ youtube_code: yf1mJcGu-5Y
 
 {% include youtube.html %}
 
-Escrow officers are instrumental in helping buyers close on their homes. Here’s how.
+<center>Escrow officers are instrumental in helping buyers close on their homes. Here’s how.</center>
 
 A lot happens behind the scenes in a real estate transaction, and today I’m joined by Trent Hendry of Mountain View Title to explore how escrow officers help buyers throughout the home sale process.
 
