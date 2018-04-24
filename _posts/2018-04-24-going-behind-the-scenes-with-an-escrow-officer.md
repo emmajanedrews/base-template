@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Going Behind the Scenes With an Escrow Officer
-date:
+date: 2018-04-24 20:56:43
 tags:
   - Real Estate
 excerpt: >-
