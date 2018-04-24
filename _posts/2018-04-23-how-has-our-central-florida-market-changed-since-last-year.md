@@ -42,7 +42,7 @@ But today’s market also has a lot to offer buyers. Interest rates are still lo
 
 It’s no wonder why so many people who have been on the fence are starting to make to enter the market.
 
-To review the full details of this market update, [click here.](/OrlHousMrktSnap042018.png)
+To review the full details of this market update, [click here.![](/uploads/download-32.jpg)](/OrlHousMrktSnap042018.png)
 
 If you have any other questions, would like more information, or would like to know how my team and I can help you buy or sell in today’s market, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
