@@ -32,4 +32,4 @@ Today we’re going to talk a little bit about pricing strategy. Here’s how yo
 
 When it comes down to picking the right agent, our job is to increase demand. We have a marketing program that's designed to get more eyeballs on your house. When we have the best condition and the best pricing strategy to go along with it, your home will be the first one sold in the neighborhood.
 
-If you have any questions for us about our strategy or anything else relating to real estate, don’t hesitate to reach out and give me call or send me an email. I would love to hear from you.<br>&nbsp;
+If you have any questions for us about our strategy, or anything else relating to real estate, don’t hesitate to reach out and give me call or send me an email. I would love to hear from you.<br>&nbsp;
