@@ -14,7 +14,7 @@
 	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+	          <span itemprop="founder">{{site.data.settings.client.name}}, Broker</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 							{% endif %}
@@ -27,7 +27,7 @@
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+	          <span itemprop="founder">{{site.data.settings.client.name}}, Broker</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
@@ -40,7 +40,7 @@
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
-	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+	          <span itemprop="founder">{{site.data.settings.client.name}}, Broker</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
@@ -79,7 +79,7 @@
 			{% if site.data.settings.client.brand != null %}
 				<p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.brand}}</p>
 			{% else %}
-				<p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.name}}</p>
+				<p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.name}}, Broker</p>
 			{% endif %}
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">
