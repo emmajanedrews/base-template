@@ -40,7 +40,7 @@
 	padding-left: 15px
 
 .navbar-left>li>a
-	background: transparent
+	background: $brand
 	color: white
 	padding-top: 3.5rem
 	text-transform: uppercase
@@ -112,11 +112,18 @@
 	margin: 5px
 	padding: 10px
 
-@media (max-width: 760px)
+@media (max-width: 1100px)
+	.nav-logo
+		display: none
+
+@media (max-width: 860px)
 	.nav-logo
 		display: none
 	.hero-img
 		height: 300px
+	.navbar-left>li>a
+		padding-left: 10px
+		padding-right: 10px
 
 	.nav-logo-small
 		max-width: 200px
