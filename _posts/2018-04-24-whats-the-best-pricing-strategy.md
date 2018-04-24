@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Best Pricing Strategy?
-date:
+date: 2018-04-24 14:24:55
 tags:
   - Home Seller Tips
 excerpt: >-
