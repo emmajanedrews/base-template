@@ -18,7 +18,7 @@ youtube_code: KPkweA9a9eg
 
 {% include youtube.html %}
 
-How can you make sure your home is the first one sold in the neighborhood? Here are our top tips.
+<center>How can you make sure your home is the first one sold in the neighborhood? Here are our top tips.</center>
 
 Today we’re going to talk a little bit about pricing strategy. Here’s how you can make sure your home is the first one sold in the neighborhood.
 
