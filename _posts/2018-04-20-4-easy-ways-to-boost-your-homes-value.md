@@ -5,7 +5,8 @@ date: 2018-04-20 20:48:00
 tags:
   - Real Estate
 excerpt: Here are four easy ways you can add value to your home before you sell it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+4+Ways+to+Add+Home+Value.mp4
 pullquote: >-
   Remodeling a kitchen should be a cosmetic, low-dollar rehab, as you won’t
   recoup investment on anything larger.
@@ -18,7 +19,7 @@ youtube_code: 'https://youtu.be/AVcG0HTzAl4'
 
 {% include youtube.html %}
 
-Selling your home can be one of the most stressful times in your life. However, there’s no need to worry—today we’re going to go over four simple and effective tactics to add value for your home sale.&nbsp;
+Selling your home can be one of the most stressful times in your life. However, there’s no need to worry—today we’re going to go over four simple and effective tactics to add value for your home sale. 
 
 1. **Improve your outdoor environment.** A great outdoor space can make or break a sale. Consider updating your landscaping, mowing your lawn, and building a nice outdoor seating area. For a larger project, build a deck. For simpler projects, update your existing features. It’s all about creating emotion as your potential buyers pull up. You want to create a fantastic vision of warmth without breaking the bank.
 2. **Remodel your kitchen.** Sounds scary, right? It shouldn’t be. It should be high on your priority list; updating your kitchen is highly recommended to improve the value of your home. Just don’t go overboard on your budget. Remodeling a kitchen should be a cosmetic, low-dollar rehab, as you won’t recoup investment on anything larger. Repainting the walls and old cabinets, as well as updating the backsplash and installing new energy-efficient appliances are simple updates you can do before selling.<br>{% include pullquote.html %}
