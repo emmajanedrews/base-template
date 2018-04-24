@@ -27,21 +27,21 @@ Buying and selling a home at the same time can sound like an intimidating prospe
 
 **Here are the first three things you should do to prepare:**
 
-1. Hire an experienced agent.
+1) Hire an experienced agent.
 
-2. Get pre-approved with a reputable local lender.
+2) Get pre-approved with a reputable local lender.
 
-3. Make necessary improvements to your property.
+3) Make necessary improvements to your property.
 
 {% include pullquote.html %}
 
 After following these three steps, it’s time to shift your focus to how you will juggle two transactions at once. **You have a few options moving forward:**
 
-1. Find a new home without having your current home under contract. If it is feasible for you, this option is certainly something to consider. It does, however, carry the risk of you potentially taking on two mortgages at once.
+1) Find a new home without having your current home under contract. If it is feasible for you, this option is certainly something to consider. It does, however, carry the risk of you potentially taking on two mortgages at once.
 
-2. Sell your home and find temporary housing while you’re between properties.
+2) Sell your home and find temporary housing while you’re between properties.
 
-3. Begin your home search and make all offers you put forward contingent on the sale of your current home. Ideally, your home should already be under contract when you pursue this option.
+3) Begin your home search and make all offers you put forward contingent on the sale of your current home. Ideally, your home should already be under contract when you pursue this option.
 
 There’s a lot to consider before settling for any of these options. This is just another reason why it’s so important to work with a knowledgeable and experienced Realtor. **I would be more than happy to be guide you through your transactions** to ensure that you have a seamless and enjoyable real estate experience.
 
