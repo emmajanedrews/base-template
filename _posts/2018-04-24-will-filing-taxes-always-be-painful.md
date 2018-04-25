@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: tvGgouhpwDo
+youtube_code: gLkABuSPHz8
 hide_index_page: false
 ---
 
@@ -27,5 +27,3 @@ When you pay your landlord, you’re throwing away that money and investing in t
 {% include pullquote.html %}
 
 **Give me a call now to get your home purchase started today** so that next year when you file, you’re filing with a smile on your face. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
