@@ -20,7 +20,7 @@ youtube_code: eUFzjFIS9kY
 
 {% include youtube.html %}
 
-Low inventory in the San Fernando Valley brought a new average record for sellers. But, will these averages continue?
+<center>Low inventory in the San Fernando Valley brought a new average record for sellers. But, will these averages continue?</center>
 
 Today we are going to give you a much-awaited update on what is happening in the Porter Ranch and San Fernando Valley real estate markets.
 
