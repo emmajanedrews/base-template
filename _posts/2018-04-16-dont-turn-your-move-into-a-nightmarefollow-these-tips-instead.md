@@ -12,7 +12,7 @@ pullquote: >-
   where it will go in the new house.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-cook-nightmare.jpg
 youtube_code: 5fznZoJTcRk
 ---
