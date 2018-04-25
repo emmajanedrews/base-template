@@ -1,11 +1,12 @@
 ---
 layout: post
 title: The Process of Buying a House in This Market
-date: 2018-04-20 20:02:36
+date: 2018-04-20 20:02:00
 tags:
   - Real Estate
 excerpt: There’s a lot of competition for homes these days. Here’s how you can compete.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Dallas+-+Fort+Worth+Real+Estate+Agent-+Tips+for+Homebuyers+in+a+Competitive+Market.mp4
 pullquote: This is a great resource for you as a buyer.
 enclosure_type: video/mp4
 enclosure_time:
