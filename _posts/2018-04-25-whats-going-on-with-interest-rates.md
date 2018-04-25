@@ -30,13 +30,13 @@ Today I want to tell you the truth about interest rates and how they affect home
 
 Interest rates have been on the rise over the last couple of months, and we shouldn’t be surprised by this. In fact, **most experts have been predicting the increase in mortgage rates for the last two years.**
 
-First, let’s garner a little perspective about what’s normal in terms of interest rates. If we go back over the past 42 years, the average interest rate is about 8.4%. For the younger population, that’s simply not realistic. If we go back to 1990, the average rate was 6.8%. Today, that number is somewhere around 4.5%. **We’re still quite a bit lower than the historic average.**
+First, let’s garner a little perspective about what’s normal in terms of interest rates. If we go back over the past 42 years, the average interest rate is about 8.4%. For the younger population, that’s simply not realistic. If we go back to 1990, the average rate was 6.8%. Today that number is somewhere around 4.5%. **We’re still quite a bit lower than the historic average.**
 
-The Federal Reserve prefers to keep the Fed Funds rate between 2% and 5%—that’s the sweet spot for maintaining a healthy economy and where the nation’s GDP grows between 2% and 3% annually. Here, the natural unemployment rate is between 4.5% and 5%.
+he Federal Reserve prefers to keep the Fed Funds rate between 2% and 5%. This is the sweet spot for maintaining a healthy economy and matches the nation’s GDP growth which falls between 2% and 3% annually. Here, the natural unemployment rate is between 4.5% and 5%.
 
 Price increases remain below the Fed’s inflation target of 2% core inflation rate. But there were times in history when the nation’s benchmark interest rate was well above the sweet spot. That was to curb runaway inflation. Since 2008, it’s been well below that point to stimulate economic growth.
 
-Once you see how the Fed changed the Fed Funds rate, then you’ll understand how it manages inflation and recession. The current Fed Funds rate is about 1.5%. The Fed signaled it will raise rates to about 2% in 2018, 2.5% in 2019, and 3% in 2020.
+Once you see how the Fed changes the Fed Funds rate, then you’ll understand how it manages inflation and recession. The current Fed Funds rate is about 1.5%. The Fed signaled it will raise rates to about 2% in 2018, 2.5% in 2019, and 3% in 2020.
 
 {% include pullquote.html %}
 
