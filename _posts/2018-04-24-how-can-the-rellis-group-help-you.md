@@ -21,7 +21,7 @@ youtube_code: gM_PwIMit7A
 
 {% include youtube.html %}
 
-One of the most common question my team receives is: “Who are you and what do you do?”
+One of the most common questions my team receives is: “Who are you and what do you do?”
 
 I’ve personally been in real estate for four years. Though my roots are in working with residential assets, my team and I now specialize in commercial assets around Ohio.
 
@@ -31,7 +31,7 @@ We’ve got a strong presence in apartments, especially around The Ohio State Un
 
 Dominant asset classes are changing all the time within the realm of commercial real estate. But larger assets above $1 million are what my team and I tend to gravitate towards. We also do a lot of conversion projects. Overall, we’ve really got a close eye on commercial real estate. **The client always comes first for us.**
 
-We’re here to educate people about the market and our entire team is involved in this goal. Our approach to real estate is different. There is no one person who serves as the main point-of-contact in transaction, because we all work together through our specialized roles.
+We’re here to educate people about the market and our entire team is involved in this goal. Our approach to real estate is different. There is no one person who serves as the main point of contact in our transactions, because we all work together through our specialized roles.
 
 **We’re watching the market every single day to see where the best cap rates are, where the best deals are, and what’s selling.** If you’re looking to get into commercial real estate, we hope you’ll think of us.
 
