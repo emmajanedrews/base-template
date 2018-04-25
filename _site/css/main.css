@@ -1518,7 +1518,7 @@ html[xmlns] .flexslider .slides {
 
 .nav-logo {
   float: left !important;
-  max-width: 300px;
+  max-width: 350px;
   margin: 5px;
   padding: 10px; }
 
@@ -1530,7 +1530,7 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 150px;
+    max-width: 250px;
     margin-top: -10px; } }
 .navbar-andross-bottom {
   background: #223F99;
