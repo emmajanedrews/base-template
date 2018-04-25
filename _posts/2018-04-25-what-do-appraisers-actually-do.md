@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Do Appraisers Actually Do?
-date: 2018-04-25 16:32:09
+date: 2018-04-25 16:32:00
 tags:
   - Real Estate
 excerpt: >-
   Appraisers and appraisals are a bit of a tricky subject. Here’s a quick
   explanation of exactly what they are.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+DeSane/Palm+Beach+County+Real+Estate-+What+an+Appraiser%2527s+Job+Really+Is.mp4
 pullquote: 'As long as we’re doing our job, you’ll be covered.'
 enclosure_type: video/mp4
 enclosure_time:
