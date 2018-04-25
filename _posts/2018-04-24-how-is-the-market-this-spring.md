@@ -19,7 +19,7 @@ youtube_code: OZpbIMUKCKY
 {% include youtube.html %}
 {: .present-before-paste}
 
-The Spring is heating up in Boise and so is the current housing market.
+The spring is heating up in Boise and so is the current housing market.
 {: .present-before-paste}
 
 With a huge shortage of homes on the market, it is definitely a seller’s market. Less availability drives up the value of homes, making it an excellent time to sell.
@@ -31,7 +31,7 @@ Buyers also have an advantage in this market. **Interests rates are super low** 
 {% include pullquote.html %}
 {: .present-before-paste}
 
-I don’t see prices coming down anytime soon and interest rates are slowly creeping up. It has been forecasted that interest rates may rise a full percent over the next 12 months. **This raise, if you wait, could increase your house payment by two or three hundred dollars.**
+I don’t see prices coming down anytime soon and interest rates are slowly creeping up. It has been forecasted that interest rates may rise a full percent over the next 12 months. **This raise, could increase your house payment by two or three hundred dollars.**
 {: .present-before-paste}
 
 If you have any additional questions as to why you should sell your current home, or buy a new one, please contact me. I would love to talk to you.
