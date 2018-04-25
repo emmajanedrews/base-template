@@ -1604,7 +1604,7 @@ label.tree-toggle {
 .home-img {
   background-position: center;
   background-size: cover;
-  padding-top: 15rem;
+  margin-top: 9rem;
   height: 400px; }
 
 .site-logo {
