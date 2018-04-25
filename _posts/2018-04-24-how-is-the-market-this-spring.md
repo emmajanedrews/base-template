@@ -19,7 +19,7 @@ youtube_code: OZpbIMUKCKY
 {% include youtube.html %}
 {: .present-before-paste}
 
-The spring is heating up in Boise and so is the current housing market.
+Spring is heating up in Boise and so is the current housing market.
 {: .present-before-paste}
 
 With a huge shortage of homes on the market, it is definitely a seller’s market. Less availability drives up the value of homes, making it an excellent time to sell.
