@@ -18,6 +18,11 @@ youtube_code: 'https://youtu.be/MXOq03PfTlY'
 
 {% include youtube.html %}
 
+<div class="post-cta">
+Looking to sell your Palm Beach County home? <a href="http://www.desaneandassociates.com/what-s-your-home-really-worth/" target="_blank">Click here for a free home value report</a><br />
+Looking to buy a Palm Beach County home? <a href="http://www.desaneandassociates.com/" target="_blank">Click here to search the MLS</a>
+</div>
+
 Today we’re going to discuss appraisers and why it’s important to understand exactly what they’re doing when they’re conducting an appraisal. The common misconception is that an appraiser is there to determine the value of your home. In reality, an appraisal is simply the act, or process, of developing an opinion of value. In almost all cases, it’s not their job to assess value and it’s not what they should be doing.&nbsp;
 
 The first step homeowners should take before selling their home is to interview agents so that they make sure they are hiring someone who understands the current market, has a custom marketing plan, and a proven track record. During these interviews, we spend a lot of time reviewing the comparable market analysis because **I believe it’s my job to share my knowledge and provide you with actual market data to show you how I determine what price will cause your home to sell.&nbsp;**
