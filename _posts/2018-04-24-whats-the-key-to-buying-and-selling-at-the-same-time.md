@@ -43,6 +43,6 @@ After following these three steps, it’s time to shift your focus to how you wi
 
 3) Begin your home search and make all offers you put forward contingent on the sale of your current home. Ideally, your home should already be under contract when you pursue this option.
 
-There’s a lot to consider before settling for any of these options. This is just another reason why it’s so important to work with a knowledgeable and experienced Realtor. **I would be more than happy to be guide you through your transactions** to ensure that you have a seamless and enjoyable real estate experience.
+There’s a lot to consider before settling for any of these options. This is just another reason why it’s so important to work with a knowledgeable and experienced Realtor. **I would be more than happy to guide you through your transactions** to ensure that you have a seamless and enjoyable real estate experience.
 
 If you have any other questions, would like more information, or would like to meet for a consultation, feel free to give me a call or send me an email. I look forward to hearing from you soon.
