@@ -13,13 +13,13 @@ excerpt: >-
   getting any higher during the second quarter. To find out why, watch my latest
   video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Manny+Gomes/Videos/2018/Manny+Gomes%2527s+Mortgage+Video+Blog+%257C+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Manny+Gomes/Videos/2018/Manny+Gomes%2527s+Mortgage+Video+Blog+%257C+What+Can+You+Expect+From+Mortgage+Rates+During+the+2nd+Quarter%253F.mp4
 pullquote: 'Historically, the second quarter is the time when rates tend to improve.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zj3eqg9xG7M
+youtube_code: XFVJQbVgDw
 ---
 
 {% include youtube.html %}
