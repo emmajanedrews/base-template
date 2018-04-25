@@ -17,7 +17,7 @@ youtube_code: llXc6vnrqp4
 
 {% include youtube.html %}
 
-Don’t waste your time looking at property ads that have already been sold. Join our VIP program and keep ahead of the competition.
+<center>Don’t waste your time looking at property ads that have already been sold. Join our VIP program and keep ahead of the competition.</center>
 
 You have decided to purchase a property. What do you do now? Where do you start? I am here today to give you four tips to become a successful purchaser in today’s real estate market.
 
