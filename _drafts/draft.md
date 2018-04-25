@@ -20,7 +20,9 @@ youtube_code: WHMbE701miI
 
 {% include youtube.html %}
 
-<center>If you’re interested in real estate investing, our property management company, HBR Rentals, could be helpful for you.</center>
+<center><em>If you&rsquo;re interested in real estate investing, our property management company, HBR Rentals, could be helpful for you.</em></center>
+
+&nbsp;
 
 Today, we’d like to touch on a topic we haven’t discussed much here in the past, which is our property management company HBR Rentals.
 
