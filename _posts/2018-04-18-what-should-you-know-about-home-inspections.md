@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Should You Know About Home Inspections?
-date: 2018-04-18 19:11:02
+date: 2018-04-18 19:11:00
 tags:
   - Real Estate
 excerpt: >-
   Home inspections can be intimidating for buyers and sellers. Here’s how to
   handle them.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/Naperville+Real+Estate++The+Stary+Group+A+quick+look+at+home+inspections.mp4
 pullquote: You should definitely consider a radon test in Naperville.
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +25,7 @@ youtube_code: ByjxlmEGccg
 
 There are a few things you should know about home inspections before going in. One thing to keep in mind is that it’s the inspector’s job to find problems with the home. **Having a home inspection without any issues is very unlikely.**
 
-At the end of the day, you need to figure out what the most important items on that list are and classify them. You might be able to do some of them yourself, but you’ll want to ask the seller to complete other, more serious repairs.&nbsp;
+At the end of the day, you need to figure out what the most important items on that list are and classify them. You might be able to do some of them yourself, but you’ll want to ask the seller to complete other, more serious repairs. 
 
 Aligning yourself with a real estate agent like me, who has a good referral source and can put you in touch with the right home inspector, is going to be very important during this process. **You’re only going to have one opportunity to make sure that you find all the issues that are wrong with the home** and make sure that you are going to get the most money for those items.
 
@@ -32,4 +33,4 @@ Aligning yourself with a real estate agent like me, who has a good referral sour
 
 One thing that you’re definitely going to need to consider is a radon test. The cost of this inspection is only a few hundred dollars, but the mitigation cost could range anywhere from $1,300 to $1,600. It’s a test I highly recommend.
 
-These are some of the key points you should know about home inspections. If you have any questions in the meantime, don’t hesitate to call or email me. I look forward to hearing from you soon.<br>&nbsp;
+These are some of the key points you should know about home inspections. If you have any questions in the meantime, don’t hesitate to call or email me. I look forward to hearing from you soon.<br>
