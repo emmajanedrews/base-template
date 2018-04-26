@@ -115,10 +115,10 @@ podcast:
 images:
   client_headshot_path: '/img/headshot.png'
   hero_logo_path: /img/logo.png
-  hero_logo_path-2: /img/logo-2.png
-  hero_logo_path-3: /img/logo-3.png
-  hero_logo_path-4: /img/logo-4.png
-  hero_logo_path-5: /img/logo-5.png
+  hero_logo_path-2: 
+  hero_logo_path-3: 
+  hero_logo_path-4: 
+  hero_logo_path-5: 
   hero_logo_path_sponsors: /img/sponsors.png
   hero_logo_path_sponsors2: /img/sponsors2.png
   hero_logo_path_sponsors3: /img/sponsors3.png
