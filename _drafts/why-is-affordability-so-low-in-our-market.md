@@ -20,7 +20,7 @@ youtube_code: Bvqfmmc-VNA
 
 {% include youtube.html %}
 
-Home affordability is low and our market is competitive, so whether you’re a buyer or a seller, you need to plan your strategy early and be meticulous.
+<center>Home affordability is low and our market is competitive, so whether you’re a buyer or a seller, you need to plan your strategy early and be meticulous.</center>
 
 Home affordability has weakened on a national scale at the fastest pace we’ve seen in the last 25 years. How is this impacting buyers and sellers in our market?
 
