@@ -44,6 +44,6 @@ Zillow can be off anywhere from 10% to 20% on home value. In the U.S., Zillow is
 
 The same is true for the Zestimate. It just shows you a guess of what’s out there, not exactly what your property will be worth. That’s why you need to talk to a professional real estate agent.
 
-Selling your house is the biggest financial decision you will make in your life. Wouldn’t you want an accurate assessment of that the value will be for your property?
+Selling your house is the biggest financial decision you will make in your life. Wouldn’t you want an accurate assessment of what the value will be for your property?
 
 If you have any other questions or would like to know what your home is worth, just give me a call or send me an email. I would be happy to help you!
