@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Is Professional Photography So Important When Selling a Home?
-date: 2018-04-24 19:47:20
+title: How I Help For Sale by Owner Homes
+date: 2018-04-24 19:47:00
 tags:
   - Home Seller Tips
 excerpt: >-
