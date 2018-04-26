@@ -7,7 +7,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: 'http://scottparealestate.com/featured_properties'
+    url: 'http://www.parealestatesearch.com/our-homes'
   - title: About
     url: 'http://scottparealestate.com/about_'
 client:
