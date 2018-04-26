@@ -8,7 +8,8 @@ excerpt: >-
   There are three common real estate scams you could fall prey to if you don’t
   know what to look for. I’ll give you the details here and tips on how to avoid
   being scammed.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+3+Real+Estate+Scams+to+Avoid.mp4
 pullquote: >-
   Don’t clink on suspicious links or deliver sensitive information
   electronically.
@@ -35,7 +36,7 @@ To avoid falling prey to this type of scam, be wary of any suspicious emails. Ne
 
 All this is happening without you knowing it. To avoid this, you can use the Google Alerts tool. You can set one up for your home address and whatever other property you own, and whenever someone posts something on the internet containing that information, you’ll receive an email. You’ll be able to know immediately what is being posted and where.
 
-**3. Two-step verification scam.** &nbsp;This is where someone sends you an email asking you to click on a link to reset some account information like a password. Then it will tell you to text a number to get a code. By doing this, you’re giving them access to your phone and all your contacts.
+**3. Two-step verification scam.**  This is where someone sends you an email asking you to click on a link to reset some account information like a password. Then it will tell you to text a number to get a code. By doing this, you’re giving them access to your phone and all your contacts.
 
 The bottom line is to look out for things that don’t seem to add up. To be certain about something, pick up the phone and call your real estate agent or attorney to confirm. Don’t click on suspicious links or deliver sensitive information electronically.
 
