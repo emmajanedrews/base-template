@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How We Managed to Become the No. 1 Listing Team in Minnesota
+title: John Meets with WCCO’s Paul Douglas & Jordana Green
 date: 2018-04-24 14:59:00
 tags:
   - Real Estate
@@ -26,7 +26,7 @@ youtube_code: nny5MYU66ys
 
 {% include youtube.html %}
 
-*As WCCO Radio’s Paul Douglas and Jordanna Green can attest, our comprehensive marketing strategy helps all of our clients sell their homes quickly and for top dollar. *
+\*As WCCO Radio’s Paul Douglas and Jordanna Green can attest, our comprehensive marketing strategy helps all of our clients sell their homes quickly and for top dollar. \*
 
 Today I’m joined by Paul Douglas and Jordanna Green, the hosts of “The Paul & Jordanna Show” on WCCO Radio, to share some insight into how our group became the No. 1 listing team for the entire state of Minnesota for Coldwell Banker.
 
