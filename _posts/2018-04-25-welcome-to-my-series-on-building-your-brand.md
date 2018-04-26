@@ -21,7 +21,7 @@ youtube_code: Exe8sgtJVG4
 
 {% include youtube.html %}
 
-If you’re a new real estate agent, building your brand is going to be an incredibly important aspect of your business. Today, I’m excited to bring you the first installment of my three-part series on how to establish your own brand.
+If you’re a new real estate agent, building your brand is going to be an incredibly important aspect of your business. Today I’m excited to bring you the first installment of my three-part series on how to establish your own brand.
 
 **Before anything else, ask yourself the following question: What are your core values?**
 
