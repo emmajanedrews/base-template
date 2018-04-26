@@ -22,7 +22,9 @@ youtube_code: 3BLz7yZb9Jk
 
 {% include youtube.html %}
 
-<center>How can the Orlando Property Group turn your vacation rental goals into a reality? Allow me to explain.</center>
+<center><em>How can the Orlando Property Group turn your vacation rental goals into a reality? Allow me to explain.</em></center>
+
+&nbsp;
 
 One of the great things about the Orlando Property Group is that we can help you with your vacation property purchases.
 
