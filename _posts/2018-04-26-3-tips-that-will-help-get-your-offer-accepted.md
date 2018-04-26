@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips That Will Help Get Your Offer Accepted
-date:
+date: 2018-04-26 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: u470iyVhtfY
 
 {% include youtube.html %}
 
-*I have three tips to share with you as a buyer that will help you get your offer accepted right away in our competitive market. *
+\*I have three tips to share with you as a buyer that will help you get your offer accepted right away in our competitive market. \*
 
 If you’re a buyer in our seller’s market, here are three important tips that will help you be aggressive with your offer and get it accepted:
 
@@ -38,5 +38,3 @@ If you’re a buyer in our seller’s market, here are three important tips that
 Of course, you also want to work with a good agent who will aggressively look for the perfect home for you.
 
 As always, if you have any real estate questions or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
-
-&nbsp;
