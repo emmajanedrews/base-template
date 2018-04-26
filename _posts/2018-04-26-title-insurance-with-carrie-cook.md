@@ -34,5 +34,3 @@ If you purchase a property outright using cash, however, you do have the option 
 You can reach out to Carrie for further insight into today’s topic by sending her an email at [ccook@homesale.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,99,111,111,107,64,104,111,109,101,115,97,108,101,46,99,111,109))).&nbsp;
 
 And as always, if you have any other questions or would like more information from me, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-{% include pullquote.html %}
