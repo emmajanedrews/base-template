@@ -68,6 +68,7 @@ lawyer:
   phone: 717-249-6333
   email: jhughes@salzmannhughes.com
   url: http://salzmannhughes.com
+  logo_path: /img/hughes.png
 
 lawyer2:
   name: Christopher E. Rice
@@ -77,6 +78,7 @@ lawyer2:
   phone: 717-243-3341
   email: crice@martsonlaw.com
   url: http://martsonlaw.com
+  logo_path: /img/martson.png  
 
 welcome_box:
   welcome_headline: How to Sell More Homes
@@ -122,7 +124,7 @@ images:
   hero_logo_path_sponsors: /img/sponsors.png
   hero_logo_path_sponsors2: /img/sponsors2.png
   hero_logo_path_sponsors3: /img/sponsors3.png
-  logo_width_number: 30
+  logo_width_number: 50
   hero_text: The Dave Hooke Team - Real Estate Coaching Blog
   hero_background_hex: '#00573d'
   hero_image_path: /img/background.jpg
