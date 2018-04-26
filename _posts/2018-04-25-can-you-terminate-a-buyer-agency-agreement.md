@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Terminate a Buyer Agency Agreement?
-date: 2018-04-25 20:45:36
+date: 2018-04-25 20:45:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buyer-agency-3of4-youtube.jpg
-youtube_code: rFHbnW7tBdY
+youtube_code: ukHHSCWDnYY
 ---
 
 {% include youtube.html %}
