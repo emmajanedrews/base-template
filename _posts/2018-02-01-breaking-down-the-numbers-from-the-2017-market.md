@@ -19,7 +19,6 @@ youtube_alternate_image: /uploads/2017-review-youtube.jpg
 youtube_code: gj1tURmXey8
 ---
 
-
 {% include youtube.html %}
 
 As promised, today I’m going to give you a quick look at the numbers from the 2017 market. **Follow along in the video above** to see a chart detailing the month-by-month changes in sales, active listings, months of inventory, average prices, and days on market.
@@ -32,9 +31,9 @@ We were definitely in a seller’s market in 2017. Looking at the average prices
 
 {% include pullquote.html %}
 
-The average days on market was low in the in the first half of the year, with nine days being the lowest point of the year in April. As more inventory hit the market, that figure increased, which makes sense. The average days on market was 27 days by December.
+The average days on market was low in the first half of the year, with nine days being the lowest point of the year in April. As more inventory hit the market, that figure increased, which makes sense. The average days on market was 27 days by December.
 
-In 2016, we had 113,040 sales in all of the Toronto Real Estate Board (TREB). **This is a record figure for us.** In 2017, however, we were much more in line with where we’ve been over the past five years, with 92,394 sales—a -18.3% change.
+In 2016, we had 113,040 sales in all of the Toronto Real Estate Board (TREB). **This is a record figure for us.** In 2017, however, we were much more in line with where we’ve been over the past five years, with 92,394 sales—a decrease of 18.3%.
 
 Next, let’s break down the year-over-year average sales price by property type:
 
@@ -50,4 +49,4 @@ Next, let’s break down the year-over-year average sales price by property type
 
 Toronto is largely insulated to the downswing we’ve seen in some of the outlying regions like the York Region.
 
-So what do all these statistics mean to you? That depends largely on your specific situation. **If you’re trying to sell or buy or you want to see what the numbers look like for your specific area, I’d be happy to walk you though it for you.** I can show you the numbers, give you an evaluation of your home based on the stats and the current market, and I'd be happy to walk you through the process. You’re encouraged to send this to your friends and family as well. Feel free to give me a call!
+So what do all these statistics mean to you? That depends largely on your specific situation. **If you’re trying to sell or buy or you want to see what the numbers look like for your specific area, I’d be happy to walk you though it.** I can show you the numbers, give you an evaluation of your home based on the stats and the current market, and I'd be happy to walk you through the process. You’re encouraged to send this to your friends and family as well. Feel free to give me a call!
