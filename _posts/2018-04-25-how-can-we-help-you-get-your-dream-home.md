@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How Can We Help You Get Your Dream Home?
-date: 2018-04-25 16:51:58
+date: 2018-04-25 16:51:00
 tags:
   - Home Buyer Tips
 excerpt: >-
-  Don’t waste your time looking at property ads that have already been sold.
-  Join our VIP program and keep ahead of the competition.
+  Don’t waste your time looking at ads for properties that have already been
+  sold. Join our VIP program and keep ahead of the competition.
 enclosure:
 pullquote: We will be with you 100% of the way.
 enclosure_type: video/mp4
