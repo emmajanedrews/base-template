@@ -30,6 +30,6 @@ This is especially important for someone like Missy, who works with clients in a
 
 For 2018, Missy told me that beige is out while greys are in. This is something Missy definitely incorporates in her own work. She told me that she prefers to keep homes in a mostly monochromatic palette with just a few pops of color throughout.&nbsp;
 
-If you’re interested in seeing more of Missy’s work or in booking a consultation, you can find her on Instagram and Facebook at “MissyStewartDesigns.” **You can also contact Missy through her website:** **[www.missystewartdesigns.com.](http://www.missystewartdesigns.com)**
+If you’re interested in seeing more of Missy’s work or booking a consultation, you can find her on Instagram and Facebook at “MissyStewartDesigns.” **You can also contact Missy through her website:** **[www.missystewartdesigns.com.](http://www.missystewartdesigns.com)**
 
 And, as always, if you have any other questions or would like more information from me, feel free to give me a call or send me an email. I look forward to hearing from you soon.
