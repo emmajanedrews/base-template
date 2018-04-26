@@ -23,7 +23,7 @@ youtube_code: u470iyVhtfY
 
 {% include youtube.html %}
 
-*I have three tips to share with you as a buyer that will help you get your offer accepted right away in our competitive market. *
+I have three tips to share with you as a buyer that will help you get your offer accepted right away in our competitive market.
 
 If you’re a buyer in our seller’s market, here are three important tips that will help you be aggressive with your offer and get it accepted:
 
