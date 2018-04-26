@@ -1,6 +1,9 @@
 audit_header: false
 title: '-- CLIENT BRAND --'
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Our Listings
@@ -13,13 +16,13 @@ client:
   about_markdown: >
     Over the years I have made it my focus to selectively identify the essential
     needs my buyers and sellers desire from me daily. This focus over the years
-    has given me a keen sense to meeting and exceeding the needs and expectations
-    of my clients, day-after-day. This also explains why close to 100% of my
-    clients score me at a level of 9.8 out of 10 or higher, on average. There is
-    nothing more rewarding to our team than to earn the repeated business of you,
-    your family, and your friends! If there is ever anything I can do for you
-    please don''t hesitate to contact me…and ask me about my Raving Fan Club and
-    how it can help you!
+    has given me a keen sense to meeting and exceeding the needs and
+    expectations of my clients, day-after-day. This also explains why close to
+    100% of my clients score me at a level of 9.8 out of 10 or higher, on
+    average. There is nothing more rewarding to our team than to earn the
+    repeated business of you, your family, and your friends! If there is ever
+    anything I can do for you please don''t hesitate to contact me…and ask me
+    about my Raving Fan Club and how it can help you!
   market: Greater Philadelphia
   brand: The Scott Irvin Home Selling Team
   brokerage: REMAX Centre
@@ -32,7 +35,7 @@ client:
   url: 'http://www.ScottIrvin.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: 'http://www.parealestatesearch.com/what-is-my-home-worth'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.parealestatesearch.com/'
   VR_form: 'http://oi.vresp.com?fid=b659b90932'
@@ -56,8 +59,8 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -71,7 +74,8 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/Scott-Irvin/'
-  trulia_url: 'https://www.trulia.com/profile/scott-irvin-associates-agent-doylestown-pa-zgd72n0n/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/scott-irvin-associates-agent-doylestown-pa-zgd72n0n/overview
   yelp_url: 'https://www.yelp.com/biz/scott-irvin-and-associates-doylestown'
   podcast_url:
 podcast:
@@ -79,9 +83,20 @@ podcast:
   categories:
     - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: 'http://i.imgur.com/fCc5ZbX.jpg'
