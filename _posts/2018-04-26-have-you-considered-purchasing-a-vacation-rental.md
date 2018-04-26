@@ -24,8 +24,6 @@ youtube_code: 3BLz7yZb9Jk
 
 <center><em>How can the Orlando Property Group turn your vacation rental goals into a reality? Allow me to explain.</em></center>
 
-&nbsp;
-
 One of the great things about the Orlando Property Group is that we can help you with your vacation property purchases.
 
 If you’re looking for a property that you can use to generate income, but still use yourself from time to time, we would be more than happy to help you make this goal a reality.
