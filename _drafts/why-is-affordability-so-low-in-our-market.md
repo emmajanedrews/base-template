@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Is Affordability So Low in Our Market?
-date: 2018-04-26 12:00:00
+date: 2018-04-26 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -13,7 +13,7 @@ enclosure: >-
 pullquote: 'Whether you’re a buyer or a seller, plan your strategy early.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/nick-kellar-april-1-screen-shot-no-play.jpg
 youtube_code: Bvqfmmc-VNA
 ---
@@ -22,7 +22,7 @@ youtube_code: Bvqfmmc-VNA
 
 <center><em>Home affordability is low and our market is competitive, so whether you&rsquo;re a buyer or a seller, you need to plan your strategy early and be meticulous.</em></center>
 
-&nbsp;
+ 
 
 Home affordability has weakened on a national scale at the fastest pace we’ve seen in the last 25 years. How is this impacting buyers and sellers in our market?
 
