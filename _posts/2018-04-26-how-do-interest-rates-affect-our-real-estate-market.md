@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Interest Rates Affect Our Real Estate Market?
-date: 2018-04-26 18:13:14
+date: 2018-04-26 18:13:00
 tags:
 excerpt: >-
   Interest rates can have a huge effect on the real estate market. Here are a
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dauby-youtube-5.jpg
-youtube_code: nuWHgeG9uoc
+youtube_code: XORmS1xBV80
 ---
 
 {% include youtube.html %}
@@ -23,7 +23,7 @@ When I bought my first house in 2006, rates were right around 6%. **They’ve si
 
 {% include pullquote.html %}
 
-How does this affect the market? Well, **as rates rise, homebuyers won’t be able to afford as much as they used to.** Just a 0.5% increase on a $200,000 house affects a monthly mortgage payment by $60.If rates rose to 5%, that same buyer would no longer be able to afford a $200,000 house. They would only be able to afford a $178,000 house.
+How does this affect the market? Well, **as rates rise, homebuyers won’t be able to afford as much as they used to.** Just a 0.5% increase on a $200,000 house affects a monthly mortgage payment by $60. If rates rose to 5%, that same buyer would no longer be able to afford a $200,000 house. They would only be able to afford a $178,000 house.
 
 Not only does this affect buyers, but it affects seller as well. As rates rise, fewer people can afford higher-end homes. **If people can’t buy what they want, it can turn a hot seller’s market into more of a buyer’s market.**
 
