@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Can Take the Stress out of Being a Landlord for You
+title: We Can Take the Stress out of Being a Landlord
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -24,15 +24,15 @@ youtube_code: WHMbE701miI
 
 &nbsp;
 
-Today, we’d like to touch on a topic we haven’t discussed much here in the past, which is our property management company HBR Rentals.
+Today we’d like to touch on a topic we haven’t discussed much here in the past, which is our property management company HBR Rentals.
 
-We are helping so many familes work on their real estate portfolio by managing their properties hassle-free. HBR Rentals really gives us a chance to help our investors, as well. We can help them find a property, figure out their numbers and cash flow, and place a tenant.
+We are helping so many families work on their real estate portfolio by managing their properties hassle-free. HBR Rentals really gives us a chance to help our investors, as well. We can help them find a property, figure out their numbers and cash flow, and place a tenant.
 
 This is a perfect option for people who are moving but don’t want to sell just yet. Putting a tenant in their home so that it can appreciate rather than sit vacant is a great route for people in this situation to take.
 
 {% include pullquote.html %}
 
-We’ve gotten so many positive reviews. **So if you’re interested in our property management services, please reach out to us our visit [www.hbrrentals.com](www.hbrrentals.com)**. We would be more than happy to talk to you about our fees, structure, and services. We want to take the stress and pressure of being a landlord off of your shoulders.
+We’ve gotten so many positive reviews. **So if you’re interested in our property management services, please reach out to us or visit [www.hbrrentals.com](www.hbrrentals.com)**. We would be more than happy to talk to you about our fees, structure, and services. We want to take the stress and pressure of being a landlord off of your shoulders.
 
 We’d also be delighted to help you if you’d like to have a consultation on how to build your real estate portfolio.
 
