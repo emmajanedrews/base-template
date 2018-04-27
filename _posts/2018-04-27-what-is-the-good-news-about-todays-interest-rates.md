@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Good News About Today's Interest Rates?
-date: 2018-04-27 09:00:00
+date: 2018-04-27 09:15:00
 tags:
   - Real Estate
 excerpt: >-
