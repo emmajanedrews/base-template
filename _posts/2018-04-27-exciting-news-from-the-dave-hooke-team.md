@@ -44,7 +44,7 @@ Finally, the last change I want to highlight is that we’ll be changing our nam
 
 **If you aren’t already familiar with Keller Williams, allow me to share five key facts about the brand:**&nbsp;
 
-1. Keller Williams is the largest real estate company in the United States in terms of both total number of transactions as well as sales volume.&nbsp;
+1. Keller Williams is the largest real estate company in the United States both in terms of total number of transactions as well as sales volume.&nbsp;
 2. Keller Williams is known as the best real estate training company in the world.
 3. Keller Williams has added technology to its vision statement.
 4. Keller Williams is an agent-centered company.&nbsp;
