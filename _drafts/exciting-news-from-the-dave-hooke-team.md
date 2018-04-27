@@ -21,7 +21,7 @@ youtube_code: Z-aRIVAxjyQ
 
 {% include youtube.html %}
 
-Our team has an exciting announcement to share with you all: We’re joining Keller Williams! Let’s take a look at what this change will mean moving forward.
+<center>Our team has an exciting announcement to share with you all: We’re joining Keller Williams! Let’s take a look at what this change will mean moving forward.</center>
 
 The Dave Hooke Team has had an exciting few weeks. Right now we’re in the middle of a long-awaited transition, so I’m excited to share the news about this change with you today.&nbsp;
 
