@@ -32,7 +32,7 @@ This is a perfect option for people who are moving but don’t want to sell just
 
 {% include pullquote.html %}
 
-We’ve gotten so many positive reviews. **So if you’re interested in our property management services, please reach out to us or visit [www.hbrrentals.com](www.hbrrentals.com)**. We would be more than happy to talk to you about our fees, structure, and services. We want to take the stress and pressure of being a landlord off of your shoulders.
+We’ve gotten so many positive reviews. **So if you’re interested in our property management services, please reach out to us or visit http://hbrteamblog.com/**. We would be more than happy to talk to you about our fees, structure, and services. We want to take the stress and pressure of being a landlord off of your shoulders.
 
 We’d also be delighted to help you if you’d like to have a consultation on how to build your real estate portfolio.
 
