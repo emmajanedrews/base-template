@@ -23,11 +23,11 @@ youtube_code: Bna0uYle7Zo
 
 The latest numbers from our real estate market have just come in, so I’d like to share a quick update with you today. Let’s take a look at how our market fared this February and March compared to what we saw during the same time in 2017.
 
-First of all, sales and average home prices have both risen year-over- year. Year-to-date, prices have actually risen 8% so far. This is a decent improvement upon the 5% average increase we typically see over this period.
+First of all, sales and average home prices have both risen year over year. Year-to-date, prices have actually risen 8% so far. This is a decent improvement upon the 5% average increase we typically see over this period.
 
 {% include pullquote.html %}
 
-**While sales volume is up, we are still experiencing a shortage of inventory.** As of the end of March we recorded just 3,883 units on the market. In March of 2017, there were 4,464 units on the market. This lack of inventory is great for sellers but can make it difficult for buyers to find the right property.
+**While sales volume is up, we are still experiencing a shortage of inventory.** As of the end of March, we recorded just 3,883 units on the market. In March of 2017, there were 4,464 units on the market. This lack of inventory is great for sellers but can make it difficult for buyers to find the right property.
 
 If they are able to find a home, buyers currently have the opportunity to take advantage of today’s low interest rates.
 
