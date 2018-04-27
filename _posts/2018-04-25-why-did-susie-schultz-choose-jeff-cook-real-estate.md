@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Did Susie Schultz Choose Jeff Cook Real Estate?
-date: 2018-04-25 16:28:39
+date: 2018-04-25 16:28:00
 tags:
   - Real Estate
 excerpt: 'By being a part of our team, Susie Schultz was able to triple her income.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-cook-susie.jpg
-youtube_code: lBCrgHbH3FA
+youtube_code: 9y5JUWpKn2I
 ---
 
 {% include youtube.html %}
