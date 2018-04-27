@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Don’t waste your time looking at ads for properties that have already been
   sold. Join our VIP program and keep ahead of the competition.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/Surrey+Real+Estate++2+Percent+Realty+Solution+4+tips+for+purchasing+your+property.mp4
 pullquote: We will be with you 100% of the way.
 enclosure_type: video/mp4
 enclosure_time:
