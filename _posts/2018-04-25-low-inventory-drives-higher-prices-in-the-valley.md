@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Low inventory in the San Fernando Valley brought a new average record for
   sellers. But, will these averages continue?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/Porter+Ranch+Real+Estate+What+is+inventory+like+in+the+91326.mp4
 pullquote: >-
   We saw a new record of $700,000 being made in February for the median price
   point for a home in the San Fernando Valley.
