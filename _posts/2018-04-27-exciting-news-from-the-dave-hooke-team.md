@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exciting News From the Dave Hooke Team
-date:
+date: 2018-04-27 00:00:00
 tags:
   - Real Estate
 excerpt: >-
