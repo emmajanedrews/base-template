@@ -20,7 +20,9 @@ youtube_code: o89cqn2TlV0
 
 {% include youtube.html %}
 
-How are rising interest rates impacting today’s market? There are a few key points to keep in mind.
+<center><em>How are rising interest rates impacting today’s market? There are a few key points to keep in mind.</em></center>
+
+<center>&nbsp;</center>
 
 Recently, we’ve been getting a lot of questions about interest rates and the impact they have on the market.&nbsp;
 
