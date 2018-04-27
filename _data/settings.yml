@@ -1,6 +1,12 @@
 audit_header: false
-title: 'Central Pennsylvania Real Estate Video Blog with Andrew Kronenberg'
-description: 'Central Pennsylvania real estate agent, Andrew Kronenberg, has the best resources for all things real estate. Whether you are buying, selling, or investing in real estate, Andrew Kronenberg is here to guide you through the process. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+title: Central Pennsylvania Real Estate Video Blog with Andrew Kronenberg
+description: >-
+  Central Pennsylvania real estate agent, Andrew Kronenberg, has the best
+  resources for all things real estate. Whether you are buying, selling, or
+  investing in real estate, Andrew Kronenberg is here to guide you through the
+  process. If you are looking to buy or sell a home, you can get all the
+  information and the latest updates, tips, and tricks from -- CLIENT BRAND --,
+  your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -41,7 +47,7 @@ CTAs:
   first_CTA_URL: 'http://andrew.hhande.com/whats-my-home-worth.php'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://andrew.hhande.com/idx/'
-  VR_form: http://oi.vresp.com?fid=9f6f3d7b4d
+  VR_form: 'http://oi.vresp.com?fid=9f6f3d7b4d'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: What’s Your Home Worth?
@@ -82,12 +88,20 @@ podcast:
   categories:
   image:
   subtitle: >-
-    Learn all the tips, tricks and more for buyers and sellers in the --
-    MARKET -- Area
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area
   description: >-
-    'Central Pennsylvania real estate agent, Andrew Kronenberg, has the best resources for all things real estate. Whether you are buying, selling, or investing in real estate, Andrew Kronenberg is here to guide you through the process. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from Hooke, Hooke & Eckman Realtors, LLC, your professional Central Pennsylvania Real Estate Agents.'
+    'Central Pennsylvania real estate agent, Andrew Kronenberg, has the best
+    resources for all things real estate. Whether you are buying, selling, or
+    investing in real estate, Andrew Kronenberg is here to guide you through the
+    process. If you are looking to buy or sell a home, you can get all the
+    information and the latest updates, tips, and tricks from Hooke, Hooke &
+    Eckman Realtors, LLC, your professional Central Pennsylvania Real Estate
+    Agents.'
   keywords: >-
-    Central Pennsylvania Real Estate agents, top real estate agents, Central Pennsylvania homes for sale, Andrew Kronenberg, Hooke Hooke and Eckman Realtors LLC, Central Pennsylvania Real Estate Tips
+    Central Pennsylvania Real Estate agents, top real estate agents, Central
+    Pennsylvania homes for sale, Andrew Kronenberg, Hooke Hooke and Eckman
+    Realtors LLC, Central Pennsylvania Real Estate Tips
   author: Andrew Kronenberg
 images:
   client_headshot_path: /img/headshot.jpg
@@ -96,8 +110,8 @@ images:
   hero_background_hex: '#262624'
   hero_image_path: /img/background.jpg
 site_colors:
-  brand_color: '#003b27'
-  theme_color: '#434343'
+  brand_color: '#b40101'
+  theme_color: '#666666'
   theme_text_color: '#353535'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
