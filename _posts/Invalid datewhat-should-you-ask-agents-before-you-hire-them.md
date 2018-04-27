@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Ask Agents Before You Hire Them?
-date: 2018-04-27 15:25:00
+date: 2018-04-27 15:27:00
 tags:
   - Real Estate
 excerpt: >-
