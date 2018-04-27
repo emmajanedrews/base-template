@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Now the Best Time to Sell Your Home in Our Market?
-date:
+date: 2018-04-27 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
