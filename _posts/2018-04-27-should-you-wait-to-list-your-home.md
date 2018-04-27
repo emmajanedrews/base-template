@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Wait to List Your Home?
-date:
+date: 2018-04-27 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -32,4 +32,4 @@ You can use photos of your home from last summer or fall that you can use in you
 
 The bottom line is that the market is really hot right now, so you want to take advantage of the fact that we’re in a sellers market. **Don’t wait to list.**
 
-If you have questions or need help buying or selling real estate, please don’t hesitate to reach out to me. I’d love to help you.<br>&nbsp;
+If you have questions or need help buying or selling real estate, please don’t hesitate to reach out to me. I’d love to help you.<br>
