@@ -23,8 +23,6 @@ youtube_code: u470iyVhtfY
 
 {% include youtube.html %}
 
-I have three tips to share with you as a buyer that will help you get your offer accepted right away in our competitive market.
-
 If you’re a buyer in our seller’s market, here are three important tips that will help you be aggressive with your offer and get it accepted:
 
 **1. Don’t get too picky.** Be flexible with your criteria and what you’re looking for. Prices are rising daily, so you want to get on the elevator before it gets any higher, so to speak.
@@ -33,7 +31,7 @@ If you’re a buyer in our seller’s market, here are three important tips that
 
 {% include pullquote.html %}
 
-**3. Ask yourself if you’re willing to pay above appraised value.** A lot of sellers are looking for buyers who are willing to do this. Basically this means if your offer for a home is $330,000 but that home’s appraisal ends up being $320,000, the seller will expect you to pay the difference in cash for the agreed-upon price.
+**3. Ask yourself if you’re willing to pay above appraised value.** A lot of sellers are looking for buyers who are willing to do this. Basically, this means if your offer for a home is $330,000 but that home’s appraisal ends up being $320,000, the seller will expect you to pay the difference in cash for the agreed-upon price.
 
 Of course, you also want to work with a good agent who will aggressively look for the perfect home for you.
 
