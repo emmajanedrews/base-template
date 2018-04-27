@@ -24,7 +24,7 @@ Buying or selling a home is a major undertaking, so having a professional to gui
 
 One of the best ways to find the right agent is by interviewing a number of candidates and asking each of them these three questions:
 
-1. **How many homes have you sold in the last 12 months?** Many real estate agents will tell you how many years they’ve been in the business, but recent activity can be more relevant than their time spent in the business. Knowing their recent track record of success can show you how well they understand the current market. While you’re discussing the recent transactions they’ve worked on, also make sure to ask whether they work more frequently with buyers or with sellers.<br><br>{% include pullquote.html %}<br>&nbsp;
+1. **How many homes have you sold in the last 12 months?** Many real estate agents will tell you how many years they’ve been in the business, but recent activity can be more relevant than their time spent in the business. Knowing their recent track record of success can show you how well they understand the current market. While you’re discussing the recent transactions they’ve worked on, also make sure to ask whether they work more frequently with buyers or with sellers.<br><br>{% include pullquote.html %}
 2. **Can I contact your past clients for references?** Anyone can boast about their own expertise, but speaking directly with their past clients can give you a more accurate gauge of whether or not their claims are true.&nbsp;<br>&nbsp;
 3. **What is your strategy for my specific needs?** If you’re a buyer, you’ll want to know how the agent plans to find properties for you. And if you’re a seller, you’ll want to determine how the seller will advertise your home.&nbsp;
 
