@@ -17,7 +17,7 @@ youtube_code: XORmS1xBV80
 
 {% include youtube.html %}
 
-Over the past 10 years, interest rates have been fairly low. Back in the 70s and 80s, people were paying crazy high interest rates. I actually looked back at some data and in the early 1980s interest rates were as high as 19%.
+Over the past 10 years, interest rates have been fairly low. Back in the 70s and 80s, people were paying crazy high interest rates. I actually looked back at some data and found that in the early 1980s, interest rates were as high as 19%.
 
 When I bought my first house in 2006, rates were right around 6%. **They’ve since dropped, and have hovered right around the 3% to 4% rate over the last few years.** Many people are looking to the Federal Reserve to raise their rate, which will raise mortgage interest rates. It has been slow to happen, but they are finally starting to creep up a bit. Last year at this time, we were seeing rates around 4% for a 30-year mortgage. Right now, we’re up near 4.5%.
 
