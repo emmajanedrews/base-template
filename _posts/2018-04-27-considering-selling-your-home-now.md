@@ -21,6 +21,8 @@ youtube_code: GjOyGHT7XL8
 
 {% include youtube.html %}
 
+*Should you sell your home? Find out in my latest video why the answer is “yes.”*
+
 “Is this a good time to sell my home?” The answer is “Yes!” The reason why you want to sell your home now is because conditions have created the perfect opportunity for you as a seller or a buyer.
 
 Homeowners are now at their highest point of equity in homeownership over the last ten years. If you were thinking about selling, this is the time. You can use that equity to go purchase another home.
