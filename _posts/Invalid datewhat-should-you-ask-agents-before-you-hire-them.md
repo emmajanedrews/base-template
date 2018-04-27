@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Ask Agents Before You Hire Them?
-date: 2018-04-27 19:50:47
+date: Invalid date
 tags:
   - Real Estate
 excerpt: >-
@@ -28,8 +28,8 @@ One of the best ways to find the right agent is by interviewing a number of cand
 
 {% include pullquote.html %}
 
-**2. Can I contact your past clients for references?** Anyone can boast about their own expertise, but speaking directly with their past clients can give you a more accurate gauge of whether or not their claims are true.&nbsp;<br><br>**3. What is your strategy for my specific needs?** If you’re a buyer, you’ll want to know how the agent plans to find properties for you. And if you’re a seller, you’ll want to determine how the seller will advertise your home.&nbsp;
+**2. Can I contact your past clients for references?** Anyone can boast about their own expertise, but speaking directly with their past clients can give you a more accurate gauge of whether or not their claims are true. <br><br>**3. What is your strategy for my specific needs?** If you’re a buyer, you’ll want to know how the agent plans to find properties for you. And if you’re a seller, you’ll want to determine how the seller will advertise your home. 
 
 As an agent answers each of these questions, you should get the sense that they are someone you can trust. The right agent will be experienced, diligent, and have a concrete plan for meeting your specific goals.
 
-If you have any other questions, would like more information, or would like to see whether my team and I could be helpful in meeting your real estate needs, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions, would like more information, or would like to see whether my team and I could be helpful in meeting your real estate needs, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
