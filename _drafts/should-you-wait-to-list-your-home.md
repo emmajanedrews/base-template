@@ -3,15 +3,31 @@ layout: post
 title: Should You Wait to List Your Home?
 date:
 tags:
-excerpt:
+  - Home Seller Tips
+excerpt: >-
+  The market is hot right now, but is it a good idea to wait until this summer
+  to list your home?
 enclosure:
-pullquote:
+pullquote: Take advantage of the fact that we’re in a sellers market. Don’t wait to list.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: FN6mMuziyus
 ---
+
 {% include youtube.html %}
 
+The market is hot right now, but is it a good idea to wait until this summer to list your home?
+
+I’m coming to you today from New York City’s Time Square to answer a question I’ve been asked a lot: Should sellers wait until June or July to put their homes on the market?
+
+**My answer to that is no—put it on the market now.** There are a lot of buyers out there and we’re in a very competitive seller’s market. Interest rates are going up, so **the longer you wait, the less buying power people will have,** and therefore, the fewer potential buyers you’ll see.
+
+You can use photos of your home from last summer or fall that you can use in your marketing. You don’t need to worry about the grass being green; just rake up fallen leaves and branches and get your yard looking nice.
+
 {% include pullquote.html %}
+
+The bottom line is that the market is really hot right now, so you want to take advantage of the fact that we’re in a sellers market. **Don’t wait to list.**
+
+If you have questions or need help buying or selling real estate, please don’t hesitate to reach out to me. I’d love to help you.<br>&nbsp;
