@@ -23,7 +23,7 @@ youtube_code: VP4bEphg5gE
 
 How can you prepare a buyer for our current market, where inventory is tighter than it’s been in the past?
 
-To answer that question, I’ve brought in KW Associate Broker David Dorius. David is a 30-year veteran of the Wasatch Back market whose been named salesperson of the year by the Park City Board of Realtors and is currently on the Board of Directors for the Wasatch Back MLS.
+To answer that question, I’ve brought in KW Associate Broker David Dorius. David is a 30-year veteran of the Wasatch Back market who's been named salesperson of the year by the Park City Board of Realtors and is currently on the Board of Directors for the Wasatch Back MLS.
 
 The first thing David likes to do is **have an in-depth discussion with the buyer to figure out what their needs and objectives are for buying.** This also prepares them for the possibility that, because we’re in a low-inventory market, they’ll have to compete with other buyers for the home they want.
 
