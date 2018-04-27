@@ -18,7 +18,7 @@ youtube_code: lVMHFhk8RGE
 
 {% include youtube.html %}
 
-The seasonal market is closing, but home sellers still have time to maximize their sale.
+<center>The seasonal market is closing, but home sellers still have time to maximize their sale.</center>
 
 If I asked you when is the best time of year to sell your home and told you your possible answers were spring, summer, fall, or winter, which would you choose?
 
