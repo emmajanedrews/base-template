@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Considering Selling Your Home Now
-date: 2018-04-27 00:00:00
+date: 2018-04-27 13:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
