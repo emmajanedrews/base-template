@@ -22,7 +22,7 @@ youtube_code: 4bFitCzuXRE
 
 {% include youtube.html %}
 
-If you are considering selling your home this spring, here are four things that you should consider doing to improve your home and make it all the more appealing to buyers.
+*If you are considering selling your home this spring, here are four things that you should consider doing to improve your home and make it all the more appealing to buyers.*
 
 I'm here to talk to you today about the four tactics you can use to improve your home to get ready for the spring market.
 
