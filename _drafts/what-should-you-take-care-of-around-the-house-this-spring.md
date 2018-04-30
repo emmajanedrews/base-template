@@ -12,7 +12,8 @@ excerpt: >-
   and I found that it was much easier (and much less expensive) to clean them
   myself rather than hiring a window cleaner. To learn more of my spring
   cleaning tips, watch this short video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bob+Peterson/Videos+/2018/The+Peterson+Team-+Spring+Clean+Up.mp4
 pullquote: 'Weeding, mulching, and window washing are musts.'
 enclosure_type: video/mp4
 enclosure_time:
