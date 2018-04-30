@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Look at the Latest Market Numbers
-date:
+date: 2018-04-30 00:00:00
 tags:
   - Market Update
 excerpt: >-
