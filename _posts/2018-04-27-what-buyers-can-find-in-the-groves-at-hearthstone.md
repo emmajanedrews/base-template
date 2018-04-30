@@ -20,9 +20,9 @@ youtube_code: Q-RWJf0hT74
 
 {% include youtube.html %}
 
-The market is hot in Clarksville, we have a lot of homes for sale, and there is a new builder and a new subdivision in town I want to introduce you to.
+The market is hot in Clarksville, we have a lot of homes for sale, and there is a new builder and a new subdivision in town I want to introduce to you.
 
-The builder is called D.R. Horton, and they’re a nationally recognized builder who have been in the business for over 35 years. They build homes all over the country, and they recently decided to build in our Clarksville market. Their subdivision is called the Groves at Hearthstone, which is conveniently located next to I-94, some great shopping and dining centers, and a school.
+The builder is called D.R. Horton, and they’re a nationally recognized builder who has been in the business for over 35 years. They build homes all over the country, and they recently decided to build in our Clarksville market. Their subdivision is called the Groves at Hearthstone, which is conveniently located next to I-94, some great shopping and dining centers, and a school.
 
 {% include pullquote.html %}
 
@@ -37,6 +37,6 @@ The builder is called D.R. Horton, and they’re a nationally recognized builder
 * Bathrooms with an enlarged shower and a tub combination
 * Plenty of storage
 
-It’s hard to find a nice four-bedroom home in Clarksville, and these floorplans are also unique to our area, so if you’re a buyer, the Groves at Hearthstone might be a great opportunity for you. We have someone out there on duty seven days a week who can help you and give you more information about these homes. You can also visit D.R. Horton’s website at **[www.drhorton.com](http://www.drhorton.com){: target="_blank"}** to find out more about them.
+It’s hard to find a nice four-bedroom home in Clarksville, and these floorplans are also unique to our area. So if you’re a buyer, the Groves at Hearthstone might be a great opportunity for you. We have someone out there on duty seven days a week who can help you and give you more information about these homes. You can also visit D.R. Horton’s website at **[www.drhorton.com](http://www.drhorton.com)** to find out more about them.
 
 If you have any other questions or real estate needs, don’t hesitate to reach out to me. I’d love to help you.
