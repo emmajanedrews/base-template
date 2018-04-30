@@ -36,7 +36,7 @@ When I look back on my career now that it’s 2018, I realize I’ve been direct
 
 As you know, I’ve recently rebranded my team, and we’re now known as “The Moving On Team.” **We’re also increasing our staff and increasing our services.** According to the latest statistics, the average agent did three sales by the end of March this year. By that time, I’d already done 55.
 
-This year has gotten off to a great start, and I can only imagine where it will take me. I couldn’t do any of this without my wonderful family: my wife Amy (who’s also my principal broker) and my two sons, Seth and Grant. I also have a wonderful staff supporting me. Lastly, I give all glory to God.
+This year has gotten off to a great start, and I can only imagine where it will take me. I couldn’t do any of this without my wonderful family: my wife, Amy (who’s also my principal broker) and my two sons, Seth and Grant. I also have a wonderful staff supporting me. Lastly, I give all glory to God.
 
 If you have any real estate questions for me or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
 
