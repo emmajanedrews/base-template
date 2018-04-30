@@ -17,9 +17,9 @@ youtube_code: Gk4c3U1gIlw
 
 {% include youtube.html %}
 
-I was recently a guest on “Smarter San Diego” to talk about a gem of a property that we have on the market in Carlsbad. **This property actually just went pending, but we wanted you to get a closer look at how we prepare and promote great homes like this.**
+I was recently a guest on “Smarter San Diego” to talk about a gem of a property that we had on the market in Carlsbad. **This property actually just went pending, but we wanted you to get a closer look at how we prepare and promote great homes like this.**
 
-The home was built in the late 1970s, but the entire thing has been renovated. The beautifully renovated kitchen boasts brand-new everything. You’ve got space for kids, you’ve got space to entertain, and a gorgeous, large master bathroom. **There’s a lot of room for storage in this 21,000 sq ft. property.**
+The home was built in the late 1970s, but the entire thing has been renovated. The beautifully renovated kitchen boasts brand-new everything. You’ve got space for kids, you’ve got space to entertain, and a gorgeous, large master bathroom. **There’s a lot of room for storage in this 2,100 square foot property.**
 
 {% include pullquote.html %}
 
