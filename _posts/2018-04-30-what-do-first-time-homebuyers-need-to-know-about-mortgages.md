@@ -37,7 +37,7 @@ The minimum credit score you need to qualify for a loan is 585, but each person 
 
 **What is a debt-to-income ratio and what kind of percentage do you need to qualify?**
 
-Your debt-to income ratio is the amount of monthly credit obligations divided by your monthly income. Two or three years ago, standard underwriting guidelines would’ve said you needed a debt-to-income ratio of 31% to 43%. Now those ratios have expired quite dramatically. So if a buyer has compensating factors, such as savings, a pattern of savings, and/or excellent credit history, then their debt-to-income ratio might be expanded. With an FHA loan, for example, you could still qualify with a 55% debt-to-income ratio.
+Your debt-to-income ratio is the number of monthly credit obligations divided by your monthly income. Two or three years ago, standard underwriting guidelines would’ve said you needed a debt-to-income ratio of 31% to 43%. Now those ratios have expired quite dramatically. So if a buyer has compensating factors, such as savings, a pattern of savings, and/or excellent credit history, then their debt-to-income ratio might be expanded. With an FHA loan, for example, you could still qualify with a 55% debt-to-income ratio.
 
 **Can you still obtain a loan with minimal savings?**
 
