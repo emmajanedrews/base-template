@@ -21,7 +21,7 @@ youtube_code: skKX32CrfNw
 
 {% include youtube.html %}
 
-<center>Phoenix real estate is doing extremely well right now. Here’s what the latest numbers are telling us.</center>
+<center><em>Phoenix real estate is doing extremely well right now. Here’s what the latest numbers are telling us.</em></center>
 
 <center>&nbsp;</center>
 
