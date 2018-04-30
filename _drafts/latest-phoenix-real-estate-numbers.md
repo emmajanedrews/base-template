@@ -21,7 +21,10 @@ youtube_code: skKX32CrfNw
 
 {% include youtube.html %}
 
-Phoenix real estate is doing extremely well right now. Here’s what the latest numbers are telling us.
+<center>Phoenix real estate is doing extremely well right now. Here’s what the latest numbers are telling us.</center>
+
+<center>&nbsp;</center>
+
 
 The latest numbers are in and I’m excited to share them with you today. Let’s get right to it.
 
