@@ -23,7 +23,7 @@ youtube_code: YQ_fwpnwhCo
 
 <center>&nbsp;</center>
 
-he March housing report was very exciting for us. Monthly sales hit an all-time high of 9,402. Back In January, we only had 6,000 sales. Sales are up 36% from this time last year.
+The March housing report was very exciting for us. Monthly sales hit an all-time high of 9,402. Back In January, we only had 6,000 sales. Sales are up 36% from this time last year.
 
 Our total inventory is down from last March by almost 12%. There are currently 21,703 homes on the market in the Phoenix area. **We had a 9% increase in the average list price, and the average sales price is up by 9.5% as well.**
 
