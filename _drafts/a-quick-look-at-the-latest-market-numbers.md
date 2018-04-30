@@ -3,6 +3,7 @@ layout: post
 title: A Quick Look at the Latest Market Numbers
 date:
 tags:
+  - Market Update
 excerpt: >-
   What does the future hold for the Phoenix real estate market? Here are some
   numbers that will give you a better idea.
