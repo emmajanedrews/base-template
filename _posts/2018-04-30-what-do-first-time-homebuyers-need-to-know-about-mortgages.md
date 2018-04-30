@@ -24,9 +24,7 @@ As a first-time homebuyer, here are the answers to some questions you may have r
 According to Andy, lenders try to match the mortgage with the individual, so there are three things they’ll look at to determine what you qualify for:
 
 1. Your credit. With this factor, they’ll determine what your credit score is and what your debt looks like.
-
 2. Your income. Here they’ll calculate your debt-to-income ratio and your income stability in terms of your ability to repay the debt.
-
 3. The down payment. With this, they’ll see if you have the adequate down payment you need or if you need a down payment assistance program or a first-time homebuyer program to help you.
 
 **What type of credit would a first-time homebuyer need to qualify for a loan?**
