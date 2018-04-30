@@ -2492,7 +2492,7 @@ table tr, table td {
 
 @media(max-width: 500px) {
   .footer {
-    text-align: center; }
+    text-align: left; }
     .footer .vyral-logo {
       height: 3rem;
       width: 3rem; } }
