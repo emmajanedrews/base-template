@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Considering Selling Your Home Now
+title: Considering Selling Your Home Now?
 date: 2018-04-27 13:00:00
 tags:
   - Home Seller Tips
@@ -21,7 +21,7 @@ youtube_code: GjOyGHT7XL8
 
 {% include youtube.html %}
 
-*Should you sell your home? Find out in my latest video why the answer is “yes.”*
+*&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Should you sell your home? Find out in my latest video why the answer is “yes.”*
 
 “Is this a good time to sell my home?” The answer is “Yes!” The reason why you want to sell your home now is because conditions have created the perfect opportunity for you as a seller or a buyer.
 
