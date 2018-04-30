@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Should You Ask Agents Before You Hire Them?
-date: 2018-04-27 20:31:50
+date: 2018-04-27 20:31:00
 tags:
   - Real Estate
 excerpt: >-
   Before hiring an agent to work alongside you during a real estate transaction,
   there are three questions you should ask them.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Troy+Davis/Butte+County+Real+Estate-+What+Should+You+Ask+Before+Hiring+an+Agent%253F.mp4
 pullquote: >-
   The right agent will be experienced, diligent, and have a concrete plan for
   meeting your specific goals.
@@ -28,9 +29,9 @@ One of the best ways to find the right agent is by interviewing a number of cand
 
 {% include pullquote.html %}
 
-**2. Can I contact your past clients for references?** Anyone can boast about their own expertise, but speaking directly with their past clients can give you a more accurate gauge of whether or not their claims are true.&nbsp;
+**2. Can I contact your past clients for references?** Anyone can boast about their own expertise, but speaking directly with their past clients can give you a more accurate gauge of whether or not their claims are true. 
 
-**3. What is your strategy for my specific needs?** If you’re a buyer, you’ll want to know how the agent plans to find properties for you. And if you’re a seller, you’ll want to determine how the seller will advertise your home.&nbsp;
+**3. What is your strategy for my specific needs?** If you’re a buyer, you’ll want to know how the agent plans to find properties for you. And if you’re a seller, you’ll want to determine how the seller will advertise your home. 
 
 As an agent answers each of these questions, you should get the sense that they are someone you can trust. The right agent will be experienced, diligent, and have a concrete plan for meeting your specific goals.
 
