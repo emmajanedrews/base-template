@@ -33,6 +33,6 @@ Let’s take a quick look at the March numbers so far this millennium. Back in 2
 
 {% include pullquote.html %}
 
-We expect to see future growth like this in Phoenix. **On a commercial level, I’m seeing more Cranes in the sky near Phoenix and Tempe, which is a great sign for our economy.**
+We expect to see future growth like this in Phoenix. **On a commercial level, I’m seeing more cranes in the sky near Phoenix and Tempe, which is a great sign for our economy.**
 
 If you have any questions for me about real estate or if you’re interested in buying or selling a home, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
