@@ -19,7 +19,9 @@ youtube_code: YQ_fwpnwhCo
 
 {% include youtube.html %}
 
-What does the future hold for the Phoenix real estate market? Here are some numbers that will give you a better idea.
+<center><em>What does the future hold for the Phoenix real estate market? Here are some numbers that will give you a better idea.</em></center>
+
+<center>&nbsp;</center>
 
 he March housing report was very exciting for us. Monthly sales hit an all-time high of 9,402. Back In January, we only had 6,000 sales. Sales are up 36% from this time last year.
 
