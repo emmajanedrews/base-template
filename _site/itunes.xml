@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2018-04-20 15:24:40 -0500</lastBuildDate>
+    <lastBuildDate>2018-04-30 16:08:01 -0500</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,8 +25,143 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>Week of 4/16/18</title>
+        <link>localhost:4000/week-of-041618.html</link>
+        
+        <author></author>
+        <pubDate>2018-04-16 00:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>Ramonica Caldwell - Time-saving tips for your next home search
+
+Andy Sachs - Should you work with a team or single agent? 
+
+Chris Heller - Quick San Diego market update
+
+Janice Overbeck - What is shadow inventory?
+
+Jay Heidel - Renovations with a high return
+
+Sheila F - 5 things to look for when searching for a home
+
+Steve Judkins - 3 trends to watch in 2018
+
+Chris Hauck - Your St. Cloud real estate market update
+
+Tom White - 	Why accountability is essential
+
+Maynard Wagner - Seattle market update
+
+Jeremy Larkin - Breakfast and FREE document shredding TOMORROW!
+
+Jeremy Sisemore - Improving your internal hiring
+
+Jessica Sanders - How we hire VA assistants
+
+Mikki Ramey - Selling your home to consolidate debt
+
+Greg McDaniel - 	You’re invited to this rocking event
+
+Greg Tran - How to protest your property taxes
+
+Jeremy Larkin - Tax Day BREAKFAST and DOCUMENT SHREDDING Celebration!
+
+Ryan Anderson - Is your chimney clean?
+
+Chad Huebener - Why you might want to consider a home warranty (Copy, re-sent to database)
+
+Tina Beliveau - Planning a great client party
+
+Dar Walden - WATCH: The latest Anchorage market update
+
+Jennifer Smith - Living in your home while it’s on the market
+
+Joshua Stern - 	We’d love for you to join us
+
+Aaron Wittenstein - Spring 2018 Westchester home price update
+
+Diane Cardano-Casacio - Are we headed for another bubble?
+
+Oggie Penev - Here’s my experience of going through tax fraud
+
+Patrick Fitzgerald - How to Combat Indecision in Today’s Fast-Paced Market
+
+Robert &amp; Shannon Rollings - 	The window of opportunity is here
+
+Brandon Blackwell - How’s our market doing?
+
+Greg Sisson - April Newsletter
+
+Maria Hoffman	How Our Passion - Translates to Your Success
+
+Tom Daves - We’ve Got Your Tickets for “Avengers: Infinity War”
+
+Amanda Howard - Spring 2018 Jupiter home price update
+
+Black Clover Fitness - Scheduling a vacay workout
+
+Gene Agustin - How to find the best homeowners insurance
+
+Tara Limbird - 	3 ways to prepare your home for the market
+
+(ASI) Aesthetic Surgical Images - The lifespan of breast implants
+
+Ben Parojcic - How to price a home correctly
+
+Don Williams - Does Your Home Have Radon?
+
+Frank Del Rio - How to Consolidate Your Loan
+
+Melissa Thompson - 10 Repairs to Make Before a Home Inspection
+
+Mike Wall - You might be sitting on a gold mine
+
+Amanda Howard - Why is it so important to get pre-approved?
+
+Ferzoco Group - Spring happenings at the Jersey Shore
+
+Ferzoco Group - Spring events in Ocean City and Sea Isle City
+
+Ryan Butler - 3 questions to ask before you choose a real estate agent
+
+(ASI) Aesthetic Surgical Images - Omaha Choice Awards
+
+Gavin Shnieder - Unexpected costs homebuyers should know about
+
+Jeremy Qualley - 3 questions to ask before you choose a real estate agent
+
+Shawn O’Neill - 3 Tips to Make Your Home Shine Before You Sell
+
+Valerie Hunter-Kelly - What’s Happening in the Clarksville Market?
+
+Delane Rouse - Headshots for students and teachers
+
+Jeff Green - Watch: How to handle market volatility
+
+JR Rouse - Do you have real estate questions?
+
+Sean Zanganeh - Watch: Hot lending topics in 2018
+
+Zach Wessolleck - How to improve your home affordability
+
+Forth Hoyt - What’s the Latest News From Our Market?
+
+Nick Kellar - Watch: How can HS Tech Group help you?
+
+Tiffany Johannes - Watch: Your Charlotte market update for March
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This week's Top Performing Emails were sent by Ramonica Caldwell, Andy Sachs, Chris Heller, Janice Overbeck, and Jay Heidel</itunes:subtitle>
+        <itunes:author></itunes:author>
+        <itunes:summary>This week's Top Performing Emails were sent by Ramonica Caldwell, Andy Sachs, Chris Heller, Janice Overbeck, and Jay Heidel</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Week of 4/9/18</title>
-        <link>localhost:4000/week-of-4918.html</link>
+        <link>localhost:4000/week-of-040918.html</link>
         
         <author></author>
         <pubDate>2018-04-09 00:00:00 -0500</pubDate>
@@ -207,7 +342,7 @@ Damon Gettier - Downsizing Part 2: What You Should Get Rid of
       
       <item>
         <title>Week of 4/2/18</title>
-        <link>localhost:4000/week-of-4218.html</link>
+        <link>localhost:4000/week-of-040218.html</link>
         
         <author></author>
         <pubDate>2018-04-02 00:00:00 -0500</pubDate>
@@ -344,7 +479,7 @@ Jason McIntosh - Who you’ll need on your real estate team
       
       <item>
         <title>Week of 3/26/18</title>
-        <link>localhost:4000/week-of-32618.html</link>
+        <link>localhost:4000/week-of-032618.html</link>
         
         <author></author>
         <pubDate>2018-03-26 00:00:00 -0500</pubDate>
@@ -541,7 +676,7 @@ Chad Schwendeman - Take advantage of the equity in your home
       
       <item>
         <title>Week of 3/19/18</title>
-        <link>localhost:4000/week-of-31918.html</link>
+        <link>localhost:4000/week-of-031918.html</link>
         
         <author></author>
         <pubDate>2018-03-19 00:00:00 -0500</pubDate>
@@ -714,7 +849,7 @@ Misty Soldwisch - 3 real estate myths you should ignore
       
       <item>
         <title>Week of 3/12/18</title>
-        <link>localhost:4000/week-of-31218.html</link>
+        <link>localhost:4000/week-of-031218.html</link>
         
         <author></author>
         <pubDate>2018-03-12 00:00:00 -0500</pubDate>

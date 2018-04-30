@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/week-of-4918.html</loc>
+<loc>localhost:4000/week-of-041618.html</loc>
+<lastmod>2018-04-16T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-040918.html</loc>
 <lastmod>2018-04-09T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/week-of-4218.html</loc>
+<loc>localhost:4000/week-of-040218.html</loc>
 <lastmod>2018-04-02T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/week-of-32618.html</loc>
+<loc>localhost:4000/week-of-032618.html</loc>
 <lastmod>2018-03-26T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/week-of-31918.html</loc>
+<loc>localhost:4000/week-of-031918.html</loc>
 <lastmod>2018-03-19T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/week-of-31218.html</loc>
+<loc>localhost:4000/week-of-031218.html</loc>
 <lastmod>2018-03-12T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -160,5 +164,8 @@
 </url>
 <url>
 <loc>localhost:4000/page4/</loc>
+</url>
+<url>
+<loc>localhost:4000/page5/</loc>
 </url>
 </urlset>
