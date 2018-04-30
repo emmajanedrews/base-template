@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest Phoenix real estate numbers
+title: How’s the Phoenix Market Doing Right Now?
 date: 2018-04-30 00:00:00
 tags:
   - Market Update
