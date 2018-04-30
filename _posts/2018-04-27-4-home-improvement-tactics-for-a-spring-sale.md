@@ -26,7 +26,7 @@ youtube_code: 4bFitCzuXRE
 
 I'm here to talk to you today about the four tactics you can use to improve your home to get ready for the spring market.
 
-**1) Take a look at your entire home.** Walk around your home and look at your bathrooms. Does the caulking need redone or is there any mold? &nbsp;
+**1) Take a look at your entire home.** Walk around your home and look at your bathrooms. Does the caulking need to be redone or is there any mold? &nbsp;
 
 Do your baseboards need to be repainted or refreshed? If you have pets like I do, there are probably chew marks that need to be fixed on your baseboards.
 
@@ -34,9 +34,9 @@ Do your baseboards need to be repainted or refreshed? If you have pets like I do
 
 Outside the house, is there anything rotting? Rotting wood will need to be cleaned up. You can spray it down to remove the mold. Check around your house for any small items that may need fixing. These shouldn't break the bank, but it will help improve the quality of your home.
 
-**2) Consider updating your kitchen**. Look at your kitchen and consider sprucing up the space with small remodels. Painting the cabinets, refreshing the backsplash, or painting the walls can be cheap updates. If you consider painting, look at VLC paint, which is popular with buyers because it is eco-friendly with less chemicals. &nbsp;
+**2) Consider updating your kitchen**. Look at your kitchen and consider sprucing up the space with small remodels. Painting the cabinets, refreshing the backsplash, or painting the walls can be cheap updates. If you consider painting, look at VLC paint, which is popular with buyers because it is eco-friendly with fewer chemicals. &nbsp;
 
-**3) Look at your outdoor environment.** Do your steps need washed? Does your deck need to be cleaned or stained? Planting flowers can improve your curb appeal, especially if they’re in the front yard. &nbsp;
+**3) Look at your outdoor environment.** Do your steps need to be washed? Does your deck need to be cleaned or stained? Planting flowers can improve your curb appeal, especially if they’re in the front yard. &nbsp;
 
 **4) Prioritize energy efficiency.** Many buyers are looking for energy-efficient appliances in their new homes. Take a look at your furnace, water tanks, and other appliances to see if they are Energy Star rated. Being able to put into your listing documentation that you have taken the steps to be environmentally friendly will encourage buyers to consider your home.
 
