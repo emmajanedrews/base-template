@@ -34,6 +34,6 @@ Today I’m going to answer three of the most frequently asked questions that I 
 
 <br>**3. What do I need to do to get ready to sell?** You should finish decluttering. Make those repairs. Then focus on getting the home camera-ready.
 
-If you’d like to come learn even more decluttering tips and secrets, sign up for my upcoming decluttering seminar.&nbsp;
+If you’d like to come learn even more decluttering tips and secrets, [sign up for my upcoming decluttering seminar.](http://dchomeblog.com/declutter){: target="_blank"}&nbsp;
 
 If you have any question for me or need any advice about getting your home decluttered, don’t hesitate to give me a call or send me an email.&nbsp;
