@@ -5,11 +5,8 @@ date:
 tags:
   - Expert Advice
 excerpt: >-
-  Are you ready for our Alaskan spring? Spring snowmelt can cause many problems
-  to homeowners in the area. However, preparing your house is easy and can save
-  both time and money. Simple tasks such as checking if your sump pump is
-  functioning properly can save you a lot of future headaches. For even more
-  tips, watch my short video.
+  The snowmelt season has officially begun. Prepare yourself by checking these 6
+  things to keep your house safe.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate+%257C+Dar+Walden-+Prepare+your+home+for+snowmelt+now.mp4
 pullquote: Bad shingles can cause leaks to form and can wreak havoc come next winter.
@@ -21,6 +18,8 @@ youtube_code: CQEA_vcH2Bo
 ---
 
 {% include youtube.html %}
+
+The snowmelt season has officially begun. Prepare yourself by checking these 6 things to keep your house safe.
 
 Spring is finally here in Alaska and with it comes the melting of the snow. Today I will be talking about how to better prepare your house for the snowmelt this spring to avoid future issues.
 
