@@ -29,22 +29,22 @@ Emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Request A Consultation
-  first_CTA_URL: http://www.advisorlaunchpadwebsites.com/021b6e6f-c2b3-42be-b28e-3a8911c0a7b4/contact-us
+  first_CTA_URL: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
   second_CTA_text: Request a Select Plan Proposal Today
-  second_CTA_URL: http://www.advisorlaunchpadwebsites.com/021b6e6f-c2b3-42be-b28e-3a8911c0a7b4/contact-us
+  second_CTA_URL: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Let’s Talk"
     CTA_text: "Are you ready to take control of your financial future? If you have any questions about retirement or financial planning, I’m here to help."
     CTA_link_text: "Request a Consultation"
-    CTA_url: http://www.advisorlaunchpadwebsites.com/021b6e6f-c2b3-42be-b28e-3a8911c0a7b4/contact-us
+    CTA_url: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Planning for Retirement"
     CTA_text2: "We can help you retire comfortably and live with confidence."
     CTA_link_text2: "Request a Select Plan Proposal Today "
-    CTA_url2: http://www.advisorlaunchpadwebsites.com/021b6e6f-c2b3-42be-b28e-3a8911c0a7b4/contact-us
+    CTA_url2: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
 
 lender:
   show_section: false
