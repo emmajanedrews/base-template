@@ -1,5 +1,45 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: We received very good results better than we expected. He was just very well informed, knew the market very well. We had met with agents prior and they were off quite a bit on the evaluation and Kevin was spot on. We were very happy with him.
+    name: Jason
+    audio: /uploads/audio/jason.mp3
+
+  - quote: I got very good results. I was under the gun because I was trying to make a move to California. I put the house on the market at the beginning of June. I had about 16 people go through which is a very good showing. It only took maybe a month and a half, at the most two. I did get a sale. They always let me know when they were coming. They always gave me notice. I was very satisfied.
+    name: Alice
+    audio: /uploads/audio/alice.mp3
+
+  - quote: Fantastic. Excellent all the way around, from the beginning to the end. The guy's incredible, a great agent. I recommend everyone I know to him. He's fantastic.
+    name: Matt
+    audio: /uploads/audio/matt.mp3
+
+  - quote: Oh, they were fine. Everything was great. Kevin was very good to work with, easy and so was his assistant Kristen. She was very good. I would say that Kevin was very patient with waiting for my demands so to speak for what I wanted to get for my house. He didn't push me to do anything I didn't want to do.
+    name: Gary
+    audio: /uploads/audio/gary.mp3
+
+  - quote: The results were excellent every time I use him which is about three times a year. He'll do whatever he needs to do to get the deal put together and closed.
+    name: Paul
+    audio: /uploads/audio/paul.mp3
+
+  - quote: We had excellent results! We sold our home very quickly. Kevin came out to the house and discussed the sale with us and gave us some pointers on how to prepare our house for sale. I had someone come in and stage the house for us. Kevin was very efficient and very personable.
+    name: Marcia
+    audio: /uploads/audio/marcia.mp3
+
+  - quote: I thought Kevin was very, very professional. I feel like he sold my house in a very reasonable time-frame. We got the price we wanted for the house, which I think is the most important in the time-frame in which we wanted to sell the home in as well. I feel like he set himself up for success with listing our home at the appropriate price and he advertised as much as he could right from the get go! I feel like he goes full-force to begin with, rather than doing a 'so-so' job at the beginning and then trying to figure out, 'how can I sell this house' - he just right from the get go put all he could into it. From the beginning he did the best he could for us. I'd actually say our agent through Kevin that we purchased a house through was absolutely amazing - he has gone above and beyond, he's still in contact with us. I'd highly recommend him when purchasing a home!
+    name: Jamie and Dan
+    audio: /uploads/audio/jamie-and-dan.mp3
+
+  - quote: Kevin was a great guy to work with! Kevin was the first agent I ever used to sell a home. He broke down the whole process for me and my wife at the time. We had zero idea of what we were getting into. He answered all of our questions, had our house on the market and we had multiple offers within the first month. When Kevin listed our home, it wasn't an ideal situation for us or for him really. My wife and I were getting a divorce at the time. He had to deal with a little bit of backfire from both sides - he took it upon himself to take a mediator role and explain things to both sides (both sides of lawyers). He did an awesome job. Both of us ended up extremely happy with him!
+    name: Tyler
+    audio: /uploads/audio/tyler.mp3
+
+  - quote: We had very professional results! Great turnover as far as reselling our home. Great marketing! I had 8 offers within 3 days! He always keeps in touch with his clients, is very informative, constant contact between what's going on - communication is very open and that stuck out in my mind.
+    name: Bill
+    audio: /uploads/audio/bill.mp3
+
+  - quote: I was very pleased with Kevin and his entire staff. They did a remarkable job processing from the start to finish. From marketing, to property, to getting folks in to see it- it was very pleasurable! Kevin's support staff were in constant contact with me along the way. We were able to discuss things and present them in a fashion that the buyer was amicable to. There were no surprises or no trouble spots along the way. They kept me up-to-date daily! I would recommend them to anybody looking to sell or buy a home. Certainly, when we're ready to sell our main residence again we definitely are going to give Kevin and his group a call.
+    name: Jess
+    audio: /uploads/audio/jess.mp3
+
+  # - quote:
+  #   name:
+  #   audio: /uploads/audio/.mp3
