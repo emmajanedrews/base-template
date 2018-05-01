@@ -23,7 +23,7 @@ youtube_code: wM7EANuAY-s
 
 If you’re thinking about buying a home, there are a few costs you must consider beyond the price of the property itself.
 
-For example, if you’re planning on moving out to the suburbs, don’t forget about the increase this move will make in your transportation costs. Whenever you make a move, you should consider how doing so will impact your daily commute. **Check out this convenient tool you can use to calculate your commute expenses, here.**
+For example, if you’re planning on moving out to the suburbs, don’t forget about the increase this move will make in your transportation costs. Whenever you make a move, you should consider how doing so will impact your daily commute. [**Check out this convenient tool you can use to calculate your commute expenses, here.**](http://monthlyexpensecalculator.com/){: target="_blank"}
 
 Another point to consider is utility costs. If you’re moving into a larger or older home than your current one, you could see a rise in your utility costs. On the other hand, you may see a decrease in your monthly bills if the home you’re moving into has energy-efficient features.
 
