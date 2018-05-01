@@ -19,7 +19,7 @@ youtube_code: CQEA_vcH2Bo
 
 {% include youtube.html %}
 
-<center>The snowmelt season has officially begun. Prepare yourself by checking these 6 things to keep your house safe.</center>
+<center><em>The snowmelt season has officially begun. Prepare yourself by checking these 6 things to keep your house safe.</em></center>
 
 <center>&nbsp;</center>
 
