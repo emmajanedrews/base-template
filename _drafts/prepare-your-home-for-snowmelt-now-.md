@@ -19,7 +19,9 @@ youtube_code: CQEA_vcH2Bo
 
 {% include youtube.html %}
 
-The snowmelt season has officially begun. Prepare yourself by checking these 6 things to keep your house safe.
+<center>The snowmelt season has officially begun. Prepare yourself by checking these 6 things to keep your house safe.</center>
+
+<center>&nbsp;</center>
 
 Spring is finally here in Alaska and with it comes the melting of the snow. Today I will be talking about how to better prepare your house for the snowmelt this spring to avoid future issues.
 
