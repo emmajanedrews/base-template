@@ -26,14 +26,14 @@ Welcome to the latest episode of “What’s Working Now!”
 
 Today I’m going to answer three of the most frequently asked questions that I hear from homeowners who are thinking about moving in the next two to five years:
 
-**1.  What do I need to do to get my house ready?** Step one is always to declutter. Start doing it now. Hire helpers and recruit your friends and family. At the same time, keep your eye on the housing market. Make sure to get signed up for automatic updates on what’s coming up for sale in your neighborhood. Visit retirement communities and get on waiting lists.
+**1. &nbsp;What do I need to do to get my house ready?** Step one is always to declutter. Start doing it now. Hire helpers and recruit your friends and family. At the same time, keep your eye on the housing market. Make sure to get signed up for automatic updates on what’s coming up for sale in your neighborhood. Visit retirement communities and get on waiting lists.
 
 **2. What improvements will get me the most return?** Should I change my kitchen, my bathrooms, or make repairs? Look at all of these things and spruce them up.
 
+{% include pullquote.html %}
+
 <br>**3. What do I need to do to get ready to sell?** You should finish decluttering. Make those repairs. Then focus on getting the home camera-ready.
 
-If you’d like to come learn even more decluttering tips and secrets, sign up for my upcoming decluttering seminar at www.dchomesblog.com/declutter. 
+If you’d like to come learn even more decluttering tips and secrets, sign up for my upcoming decluttering seminar at www.dchomesblog.com/declutter.&nbsp;
 
-If you have any question for me or need any advice about getting your home decluttered, don’t hesitate to give me a call or send me an email. <br> 
-
-{% include pullquote.html %}
+If you have any question for me or need any advice about getting your home decluttered, don’t hesitate to give me a call or send me an email.&nbsp;
