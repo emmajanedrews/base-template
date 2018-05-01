@@ -26,7 +26,7 @@ Today we’re counting down the top three mistakes that home sellers make when t
 
 {% include pullquote.html %}
 
-**1. They refuse to listen to market date and price the home correctly for the market conditions.** You cannot afford to overprice your home. When you are getting your home ready for the market, it’s important to pay attention to market conditions and price your home accordingly.
+**1. They refuse to listen to market data and price the home correctly for the market conditions.** You cannot afford to overprice your home. When you are getting your home ready for the market, it’s important to pay attention to market conditions and price your home accordingly.
 
 Those are the three most important things you should keep in mind when preparing to sell your home.
 
