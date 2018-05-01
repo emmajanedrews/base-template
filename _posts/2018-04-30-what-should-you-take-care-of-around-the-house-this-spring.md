@@ -7,11 +7,11 @@ tags:
 excerpt: >-
   Spring is here and it’s time to do some cleaning. Whether you’re getting ready
   to sell or just get your home looking good for summer, there are a few simple
-  things you should take care of. This includes mulching flower beds, weeding,
-  and washing your windows. I did some research on window washing for our house,
-  and I found that it was much easier (and much less expensive) to clean them
-  myself rather than hiring a window cleaner. To learn more of my spring
-  cleaning tips, watch this short video.
+  things you should take care of. This includes mulching flower beds, weeding
+  your lawn, and washing your windows. I did some research on window washing for
+  our house, and I found that it was much easier (and much less expensive) to
+  clean them myself rather than hiring a window cleaner. To learn more of my
+  spring cleaning tips, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bob+Peterson/Videos+/2018/The+Peterson+Team-+Spring+Clean+Up.mp4
 pullquote: 'Weeding, mulching, and window washing are musts.'
@@ -37,4 +37,4 @@ I get tired just thinking about it. Around our house, the window washing is a mu
 
 My suggestion is to go to Lowe’s or Home Depot and buy Windex Outdoor Spray and Rinse for about $9 per quart. **It usually takes me about two bottles to get all of the outer windows clean.** The inside is another story because Diane won’t let me bring the hose in. I guess that’s another project for another day.
 
-Need help with your spring cleaning, or do you have any questions about real estate that we can answer for you, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
+If you need help with your spring cleaning, or if you have any questions about real estate that we can answer for you, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
