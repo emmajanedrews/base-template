@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 12 Things to Avoid Doing During the Loan Process
-date: 2018-05-01 18:59:32
+date: 2018-05-01 18:59:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: Make sure you avoid doing any of these things during the loan process
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/what-not-to-do-youtube.jpg
+youtube_alternate_image: /uploads/what-not-to-do-email.jpg
 youtube_code: K_viNdUZl6U
 ---
 
