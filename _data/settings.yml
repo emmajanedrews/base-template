@@ -41,7 +41,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: careers@AJTeamRealty.com
+  email: careers@AJTRealty.com
   url: 'http://AJTRealty.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
